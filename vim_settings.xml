@@ -10,6 +10,13 @@
         <mark key="." line="54" column="37" />
         <mark key="^" line="54" column="37" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1525804130289">
+        <mark key="'" line="77" column="31" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="142" column="4" />
+        <mark key="." line="130" column="59" />
+        <mark key="^" line="130" column="59" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java" timestamp="1525802942826">
         <mark key="'" line="4519" column="26" />
       </file>
@@ -19,12 +26,12 @@
         <mark key="]" line="102" column="2" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1525802975076">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="93" column="14" />
-        <mark key="]" line="93" column="25" />
-        <mark key="." line="93" column="25" />
-        <mark key="^" line="93" column="25" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1525804209467">
+        <mark key="'" line="72" column="23" />
+        <mark key="[" line="121" column="16" />
+        <mark key="]" line="121" column="24" />
+        <mark key="." line="121" column="24" />
+        <mark key="^" line="121" column="24" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1525735711178">
         <mark key="'" line="6" column="0" />
@@ -60,63 +67,74 @@
       <jump line="88" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/RelLogicalSqlWalker.java" />
       <jump line="155" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/RelLogicalSqlWalker.java" />
       <jump line="26" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
-      <jump line="72" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="53" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/RelLogicalSqlWalker.java" />
       <jump line="4519" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
       <jump line="4497" column="28" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
       <jump line="70" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="80" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="25" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="95" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="43" column="54" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="48" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="54" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="66" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="129" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="126" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="591" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="77" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="90" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="72" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>testSimpleHiveQuery</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIENhbGNpdGVTY2hlbWEgcm9vdFNjaGVtYSA9IHNjaGVtYS5nZXRSb290U2NoZW1hKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>testSimpleHiveQuery</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGlhc05hbWVcPg==</text>
+        <text encoding="base64">XDxzY2hlbWFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RTaW1wbGVIaXZlUXVlcnkoKSB0aHJvd3MgVXBtRXhjZXB0aW9uIHsKICAgIFVwbVNxbFBsYW5uZXIgcGxhbm5lciA9IGdldFBsYW5uZXIoQ29udGV4dEZhY3RvcnkuZ2V0VGVzdFVwbUNvbm5lY3Rpb24oImJpIikpOwogICAgUmVsTm9kZSBwbGFuID0gZ2V0TG9naWNhbFBsYW4ocGxhbm5lciwgIlNFTEVDVCBcInZhbHVlXCIgRlJPTSBiaS5zcmMgTElNSVQgMTAiKTsKICAgIFJlbExvZ2ljYWxTcWxXYWxrZXIgd2Fsa2VyID0gbmV3IFJlbExvZ2ljYWxTcWxXYWxrZXIoQ29tcHV0ZUVuZ2luZS5oaXZlKTsKICAgIFNxbFN0cmluZyByZXMgPSB3YWxrZXIuZ2V0U3FsU3RyaW5nKHBsYW4pOwogICAgYXNzZXJ0RXF1YWxzKAogICAgICAgICJUaGUgZ2VuZXJhdGVkIHByZXN0byBxdWVyeSBkb2VzIG5vdCBtYXRjaCB0aGUgZXhwZWN0ZWQuIiwKICAgICAgICAiU0VMRUNUIHZhbHVlXG4iICsgIkZST00gQkkuc3JjXG4iICsgIkxJTUlUIDEwIiwKICAgICAgICByZXMuZ2V0U3FsKCkpOwogIH0K</text>
+        <text encoding="base64">ICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgVXBtRGF0YXNldD4gZW50cnkgOiBjb25zdW1lZERhdGFzZXRzLmVudHJ5U2V0KCkpIHsKICAgICAgQ2FsY2l0ZVNjaGVtYSBkYXRhc2V0U2NoZW1hID0gc2NoZW1hLmdldFJvb3RTY2hlbWEoKS5nZXRTdWJTY2hlbWEoInVwbWRhdGFzZXRzIiwgZmFsc2UpOwogICAgICBDYWxjaXRlU2NoZW1hIG5hbWVzcGFjZVNjaGVtYSA9IHNjaGVtYS5nZXRSb290U2NoZW1hKCkuZ2V0U3ViU2NoZW1hKAogICAgICAgICAgdXBtQ29uZmlndXJhdGlvbi5nZXQoIm5hbWVzcGFjZSIpLAogICAgICAgICAgZmFsc2UpOwogICAgICBVcG1EYXRhc2V0IGRhdGFzZXQgPSBlbnRyeS5nZXRWYWx1ZSgpOwogICAgICBTdHJpbmcgdGFibGVBbGlhcyA9IGVudHJ5LmdldEtleSgpOwogICAgICBvcmcuYXBhY2hlLmNhbGNpdGUuc2NoZW1hLlRhYmxlIGV4aXN0aW5nVGFibGUgPSBuYW1lc3BhY2VTY2hlbWEKICAgICAgICAgIC5nZXRUYWJsZShkYXRhc2V0LmdldFRhYmxlTmFtZSgpLCBmYWxzZSkuZ2V0VGFibGUoKTsKICAgICAgaWYgKGV4aXN0aW5nVGFibGUgPT0gbnVsbCkgewogICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oCiAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoIlVua25vd24gdGFibGU6ICVzLiIsIGRhdGFzZXQuZ2V0VGFibGVOYW1lKCkpKTsKICAgICAgfQogICAgICBkYXRhc2V0U2NoZW1hLmFkZCh0YWJsZUFsaWFzLCBleGlzdGluZ1RhYmxlKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIENhbGNpdGVTY2hlbWEgcm9vdFNjaGVtYSA9IHNjaGVtYS5nZXRSb290U2NoZW1hKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIENhbGNpdGVTY2hlbWEgdXBtRGF0YXNldHNTY2hlbWEgPSByb290U2NoZW1hLmdldFN1YlNjaGVtYSgidXBtZGF0YXNldHMiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldFRhYmxlQWxpYXNlcygpIHsKICAgIHJldHVybiBqawogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlhc2UK</text>
+        <text encoding="base64">ICAgIHVwbURhdGFzZXRzU2NoZW1hLmFkZCgiIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN1cGVyLnZpc2l0KHRhYmxlU2Nhbik7Cg==</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENhbGNpdGVDYXRhbG9nUmVhZGVyIHNjaGVtYSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdXBlci52aXNpdCh0YWJsZVNjYW4pOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGlhc05hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxzY2hlbWFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGlhc05hbWVcPg==</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern encoding="base64">XDxzY2hlbWFcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -124,6 +142,8 @@
         <entry encoding="base64">XDx0YWJsZUhhbmRsZXJzXD4=</entry>
         <entry encoding="base64">XDx0YWJsZVw+</entry>
         <entry encoding="base64">XDxhbGlhc05hbWVcPg==</entry>
+        <entry encoding="base64">XDxwbGFubmVyXD4=</entry>
+        <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
