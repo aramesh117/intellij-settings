@@ -16,6 +16,9 @@
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDuplicate" />
   <action id="EditorSplitLine" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
@@ -54,6 +57,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NewScratchFile" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
