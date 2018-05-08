@@ -26,12 +26,12 @@
         <mark key="]" line="102" column="2" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1525804891465">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="120" column="24" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1525804950491">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="120" column="19" />
+        <mark key="]" line="120" column="18" />
+        <mark key="." line="120" column="18" />
+        <mark key="^" line="120" column="18" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1525735711178">
         <mark key="'" line="6" column="0" />
@@ -84,15 +84,15 @@
       <jump line="77" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="90" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="72" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
-      <jump line="33" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="118" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgUmVsTG9naWNhbFNxbFdhbGtlclRlc3QoKSB7CiAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hlbWFcPg==</text>
@@ -101,31 +101,31 @@
         <text encoding="base64">ICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgVXBtRGF0YXNldD4gZW50cnkgOiBjb25zdW1lZERhdGFzZXRzLmVudHJ5U2V0KCkpIHsKICAgICAgQ2FsY2l0ZVNjaGVtYSBkYXRhc2V0U2NoZW1hID0gc2NoZW1hLmdldFJvb3RTY2hlbWEoKS5nZXRTdWJTY2hlbWEoInVwbWRhdGFzZXRzIiwgZmFsc2UpOwogICAgICBDYWxjaXRlU2NoZW1hIG5hbWVzcGFjZVNjaGVtYSA9IHNjaGVtYS5nZXRSb290U2NoZW1hKCkuZ2V0U3ViU2NoZW1hKAogICAgICAgICAgdXBtQ29uZmlndXJhdGlvbi5nZXQoIm5hbWVzcGFjZSIpLAogICAgICAgICAgZmFsc2UpOwogICAgICBVcG1EYXRhc2V0IGRhdGFzZXQgPSBlbnRyeS5nZXRWYWx1ZSgpOwogICAgICBTdHJpbmcgdGFibGVBbGlhcyA9IGVudHJ5LmdldEtleSgpOwogICAgICBvcmcuYXBhY2hlLmNhbGNpdGUuc2NoZW1hLlRhYmxlIGV4aXN0aW5nVGFibGUgPSBuYW1lc3BhY2VTY2hlbWEKICAgICAgICAgIC5nZXRUYWJsZShkYXRhc2V0LmdldFRhYmxlTmFtZSgpLCBmYWxzZSkuZ2V0VGFibGUoKTsKICAgICAgaWYgKGV4aXN0aW5nVGFibGUgPT0gbnVsbCkgewogICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oCiAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoIlVua25vd24gdGFibGU6ICVzLiIsIGRhdGFzZXQuZ2V0VGFibGVOYW1lKCkpKTsKICAgICAgfQogICAgICBkYXRhc2V0U2NoZW1hLmFkZCh0YWJsZUFsaWFzLCBleGlzdGluZ1RhYmxlKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgUmVsTG9naWNhbFNxbFdhbGtlclRlc3QoKSB7CiAgfQoK</text>
+        <text encoding="base64">ICAgIHNldHVwU2NoZW1hKHBsYW5uZXIsICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENhbGNpdGVTY2hlbWEgcm9vdFNjaGVtYSA9IHNjaGVtYS5nZXRSb290U2NoZW1hKCk7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgUmVsTG9naWNhbFNxbFdhbGtlclRlc3QoKSB7CiAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENhbGNpdGVTY2hlbWEgdXBtRGF0YXNldHNTY2hlbWEgPSByb290U2NoZW1hLmdldFN1YlNjaGVtYSgidXBtZGF0YXNldHMiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIENhbGNpdGVTY2hlbWEgcm9vdFNjaGVtYSA9IHNjaGVtYS5nZXRSb290U2NoZW1hKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENhbGNpdGVTY2hlbWEgdXBtRGF0YXNldHNTY2hlbWEgPSByb290U2NoZW1hLmdldFN1YlNjaGVtYSgidXBtZGF0YXNldHMiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwbURhdGFzZXRzU2NoZW1hLmFkZCgiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHVwbURhdGFzZXRzU2NoZW1hLmFkZCgiIikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENhbGNpdGVDYXRhbG9nUmVhZGVyIHNjaGVtYSA9IAo=</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
