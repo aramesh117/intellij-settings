@@ -31,8 +31,12 @@
         <mark key="." line="61" column="23" />
         <mark key="^" line="61" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/server/src/test/java/org/apache/calcite/test/ServerTest.java" timestamp="1525828581710">
-        <mark key="'" line="43" column="39" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/server/src/test/java/org/apache/calcite/test/ServerTest.java" timestamp="1525829424336">
+        <mark key="'" line="19" column="41" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/RelLogicalSqlWalker.java" timestamp="1525826752249">
         <mark key="'" line="167" column="44" />
@@ -58,7 +62,6 @@
         <mark key="." line="155" column="7" />
         <mark key="^" line="155" column="7" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/rel2sql/RelToSqlConverter.java" timestamp="1525819972783" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/api/RangeOperation.java" timestamp="1525823776576">
         <mark key="'" line="5" column="13" />
         <mark key="[" line="22" column="59" />
@@ -137,7 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="141" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="139" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="78" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/RelNode.java" />
@@ -230,20 +232,21 @@
       <jump line="155" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="60" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" />
       <jump line="159" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="19" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/server/src/test/java/org/apache/calcite/test/ServerTest.java" />
       <jump line="46" column="57" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/server/src/test/java/org/apache/calcite/test/ServerTest.java" />
       <jump line="266" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/server/src/test/java/org/apache/calcite/test/ServerTest.java" />
       <jump line="127" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="259" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="227" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="43" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/server/src/test/java/org/apache/calcite/test/ServerTest.java" />
+      <jump line="44" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/server/src/test/java/org/apache/calcite/test/ServerTest.java" />
+      <jump line="19" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/server/src/test/java/org/apache/calcite/test/ServerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgVXBtRGF0YXNldCB1cG1EYXRhc2V0ID0gZGF0YXNldC5nZXRWYWx1ZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.ddl.SqlDdlParserImpl;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.ddl.SqlDdlParserImpl;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaWZmZXJlbmNlXD4=</text>
@@ -289,7 +292,7 @@
       <last-replace>HiveTableScan</last-replace>
       <last-substitute>UpmTableScan</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
