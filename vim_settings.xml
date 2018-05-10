@@ -214,12 +214,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" timestamp="1525911819239">
         <mark key="'" line="83" column="75" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1525922967399">
-        <mark key="'" line="158" column="33" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1525975762309">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
         <mark key="^" line="159" column="109" />
-        <mark key="." line="156" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptPlanner.java" timestamp="1525911054836">
         <mark key="'" line="197" column="20" />
@@ -334,8 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
-      <jump line="367" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="392" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="310" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/metadata/RelMetadataQuery.java" />
       <jump line="510" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/metadata/BuiltInMetadata.java" />
@@ -434,10 +431,12 @@
       <jump line="266" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="122" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="131" column="73" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="154" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="163" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -449,31 +448,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRQbGFuQXNKc29uU3RyaW5nKAogICAgICBVcG1PcGVyYXRvciBwbGFuLAogICAgICBVcG1Db25maWd1cmF0aW9uIGNvbmZpZ3VyYXRpb24sCiAgICAgIFVwbUhpbnRzIHVwbUhpbnRzKQogICAgICB0aHJvd3MgSnNvblByb2Nlc3NpbmdFeGNlcHRpb24gewogICAgVXBtUGxhbiB3cmFwcGVyID0gVXBtUGxhbi5jcmVhdGVGcm9tUGh5c2ljYWxQbGFuKHBsYW4sIGNvbmZpZ3VyYXRpb24sIHVwbUhpbnRzKTsKICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBnZXRPYmplY3RNYXBwZXIoKTsKICAgIHJldHVybiBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHdyYXBwZXIpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBhZGRDb25zdW1lZERhdGFzZXRzKFN0cmluZyBkYXRhc2V0TmFtZSwgVXBtRGF0YXNldCBjb25zdW1lZERhdGFzZXQpIHsKICAgIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RTaW1wbGVGaWx0ZXJNZXJnaW5nKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBVcG1TcWxQbGFubmVyIHBsYW5uZXIgPSBnZXRQbGFubmVyKENvbnRleHRGYWN0b3J5LmdldFRlc3RVcG1Db25uZWN0aW9uKCJiaSIpKTsKICAgIFJlbE5vZGUgcGxhbiA9IGdldExvZ2ljYWxQbGFuKHBsYW5uZXIsCiAgICAgICAgIlNFTEVDVCAqIEZST00gKFNFTEVDVCAqIEZST00gYmkuc3JjIFdIRVJFIFwia2V5XCIgPSAnYScpIFdIRVJFIFwidmFsdWVcIiA9ICdiJyIpOwogICAgTE9HR0VSLmluZm8oVXRpbHMuZ2V0UGxhbkFzU3RyaW5nKHBsYW4pKTsKICAgIFJlbE5vZGUgb3B0aW1pemVkID0gVXRpbHMub3B0aW1pemVMb2dpY2FsUGxhbihwbGFuLCBwbGFubmVyKTsKICAgIExPR0dFUi5pbmZvKFV0aWxzLmdldFBsYW5Bc1N0cmluZyhvcHRpbWl6ZWQpKTsKICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aGludHMuY29udGFpbnNLZXkoImluZmVyX3BhcnRpdGlvbnMiKQogICAgICAgICYmIE9iamVjdHMuZXF1YWxzKGhpbnRzLmdldCgiaW5mZXJfcGFydGl0aW9ucyIpLCBCb29sZWFuLnRvU3RyaW5nKHRydWUpKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFVwbVBsYW4gd3JhcHBlciA9IFVwbVBsYW4uY3JlYXRlRnJvbVBoeXNpY2FsUGxhbihwbGFuLCBjb25maWd1cmF0aW9uLCBVcG1IaW50cy5FTVBUWSk7CiAgICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gZ2V0T2JqZWN0TWFwcGVyKCk7CiAgICByZXR1cm4gb2JqZWN0TWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyh3cmFwcGVyKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBhZGRDb25zdW1lZERhdGFzZXRzKFN0cmluZyBkYXRhc2V0TmFtZSwgVXBtRGF0YXNldCBjb25zdW1lZERhdGFzZXQpIHsKICAgIAogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBASnNvbkNyZWF0b3IKICAvLyBwdWJsaWMgVXBtUGxhbihASnNvblByb3BlcnR5KCJwaHlzaWNhbFBsYW4iKSBQaHlzaWNhbFBsYW4gcGh5c2ljYWxQbGFuKSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">aGludHMuY29udGFpbnNLZXkoImluZmVyX3BhcnRpdGlvbnMiKQogICAgICAgICYmIE9iamVjdHMuZXF1YWxzKGhpbnRzLmdldCgiaW5mZXJfcGFydGl0aW9ucyIpLCBCb29sZWFuLnRvU3RyaW5nKHRydWUpKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKHdhbGtlci5nZXRUYWJsZUFsaWFzZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIFVwbVBsYW4gd3JhcHBlciA9IFVwbVBsYW4uY3JlYXRlRnJvbVBoeXNpY2FsUGxhbihwbGFuLCBjb25maWd1cmF0aW9uLCBVcG1IaW50cy5FTVBUWSk7CiAgICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gZ2V0T2JqZWN0TWFwcGVyKCk7CiAgICByZXR1cm4gb2JqZWN0TWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyh3cmFwcGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXMpOwo=</text>
+        <text encoding="base64">ICAvLyBASnNvbkNyZWF0b3IKICAvLyBwdWJsaWMgVXBtUGxhbihASnNvblByb3BlcnR5KCJwaHlzaWNhbFBsYW4iKSBQaHlzaWNhbFBsYW4gcGh5c2ljYWxQbGFuKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
