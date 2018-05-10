@@ -10,12 +10,12 @@
         <mark key="." line="53" column="58" />
         <mark key="^" line="53" column="58" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1525885870393">
-        <mark key="'" line="470" column="12" />
-        <mark key="[" line="482" column="81" />
-        <mark key="]" line="482" column="83" />
-        <mark key="." line="482" column="83" />
-        <mark key="^" line="482" column="83" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1525913074187">
+        <mark key="'" line="23" column="13" />
+        <mark key="[" line="474" column="33" />
+        <mark key="]" line="474" column="48" />
+        <mark key="." line="474" column="48" />
+        <mark key="^" line="474" column="48" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/VolcanoPlannerTest.java" timestamp="1525907427903">
         <mark key="'" line="76" column="46" />
@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/rules/SemiJoinRule.java" timestamp="1525895525344">
         <mark key="'" line="46" column="43" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/log4j.xml" timestamp="1525910619492">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/log4j.xml" timestamp="1525913093500">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
@@ -41,6 +41,10 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoCost.java" timestamp="1525908519760">
         <mark key="'" line="230" column="25" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" timestamp="1525912984396">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="58" column="41" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/main/java/com/facebook/upm/hive/schema/DatasetAliased.java" timestamp="1525892351426">
         <mark key="'" line="8" column="40" />
@@ -301,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="572" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="122" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="562" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
@@ -401,19 +404,20 @@
       <jump line="83" column="75" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" />
       <jump line="152" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="150" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/ConventionTraitDef.java" />
+      <jump line="23" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFVQTSBDSGFuZ2UK</text>
+      <register name="&quot;" type="4">
+        <text>TRACE</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>TRACE</text>
       </register>
       <register name="/" type="4">
         <text>\ctrait</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKFV0aWxzLmdldFBsYW5Bc1N0cmluZyhwbGFuKSk7Cg==</text>
+        <text encoding="base64">ICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KCJzY2hlZHVsZSIsICJAZGFpbHkiKTsKICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KCJkcyIsICJhYmNkIik7CiAgICB1cG1Db25maWd1cmF0aW9uLnB1dCgibmFtZXNwYWNlIiwgImJpIik7CiAgICB1cG1Db25maWd1cmF0aW9uLnB1dCgibW9kZSIsICJidWlsZCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIFVQTSBDSGFuZ2UK</text>
