@@ -153,12 +153,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptCostImpl.java" timestamp="1525899187199">
         <mark key="'" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" timestamp="1525980044952">
-        <mark key="'" line="17" column="90" />
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="25" />
-        <mark key="^" line="37" column="24" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" timestamp="1525984251422">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="36" column="58" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="16" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/RelOptRulesTest.java" timestamp="1525903110370">
         <mark key="'" line="1231" column="4" />
@@ -340,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/RelSubset.java" />
       <jump line="61" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/RelSubset.java" />
       <jump line="961" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="156" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" />
@@ -440,10 +439,11 @@
       <jump line="31" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/adapter/UpmJsonTable.java" />
       <jump line="489" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="50" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -455,31 +455,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEhpdmVUYWJsZVNjYW4gY3JlYXRlKFJlbE9wdENsdXN0ZXIgY2x1c3RlciwgUmVsVHJhaXRTZXQgcmVsVHJhaXRTZXQsIFJlbE9wdFRhYmxlIHRhYmxlKSB7CiAgICByZXR1cm4gbmV3IEhpdmVUYWJsZVNjYW4oY2x1c3RlciwgcmVsVHJhaXRTZXQsIHRhYmxlLCAiIik7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgZGYuc2F2ZSgiZGF0YXNldDIiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gV2Ugc2hvdWxkIGZldGNoIHRoaXMgaW5mb3JtYXRpb24gZnJvbSB0aGUgSGl2ZSBtZXRhc3RvcmUuIFRoaXMgaXMgYSBoYWNrIGZvciBub3cuCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydExvZ2ljYWxQbGFuKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgZGYuc2F2ZSgiZGF0YXNldDIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgUmVsRGF0YVR5cGUgZGVyaXZlUm93VHlwZSgpIHsKICAgIHJldHVybiByb3dUeXBlOwogIH0K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gV2Ugc2hvdWxkIGZldGNoIHRoaXMgaW5mb3JtYXRpb24gZnJvbSB0aGUgSGl2ZSBtZXRhc3RvcmUuIFRoaXMgaXMgYSBoYWNrIGZvciBub3cuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFJlbERhdGFUeXBlIHJvd1R5cGU7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJvd1R5cGUgPSBidWlsZGVyLmJ1aWxkKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UmVsRGF0YVR5cGVGaWVsZD4gZmllbGRMaXN0ID0gdGFibGUuZ2V0Um93VHlwZSgpLmdldEZpZWxkTGlzdCgpOwogICAgUmVsRGF0YVR5cGVGYWN0b3J5LkJ1aWxkZXIgYnVpbGRlciA9IGdldENsdXN0ZXIoKS5nZXRUeXBlRmFjdG9yeSgpLmJ1aWxkZXIoKTsKICAgIGZvciAoUmVsRGF0YVR5cGVGaWVsZCBmaWVsZCA6IGZpZWxkTGlzdCkgewogICAgICBidWlsZGVyLmFkZChmaWVsZCk7CiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgUmVsRGF0YVR5cGUgZGVyaXZlUm93VHlwZSgpIHsKICAgIHJldHVybiByb3dUeXBlOwogIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFJlbERhdGFUeXBlIHJvd1R5cGU7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJvd1R5cGUgPSBidWlsZGVyLmJ1aWxkKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwcm90ZWN0ZWQgSGl2ZVRhYmxlU2NhbiBjbG9uZSgpIHRocm93cyBDbG9uZU5vdFN1cHBvcnRlZEV4Y2VwdGlvbiB7CiAgICB0aHJvdyBuZXcgQ2xvbmVOb3RTdXBwb3J0ZWRFeGNlcHRpb24oKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8UmVsRGF0YVR5cGVGaWVsZD4gZmllbGRMaXN0ID0gdGFibGUuZ2V0Um93VHlwZSgpLmdldEZpZWxkTGlzdCgpOwogICAgUmVsRGF0YVR5cGVGYWN0b3J5LkJ1aWxkZXIgYnVpbGRlciA9IGdldENsdXN0ZXIoKS5nZXRUeXBlRmFjdG9yeSgpLmJ1aWxkZXIoKTsKICAgIGZvciAoUmVsRGF0YVR5cGVGaWVsZCBmaWVsZCA6IGZpZWxkTGlzdCkgewogICAgICBidWlsZGVyLmFkZChmaWVsZCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
