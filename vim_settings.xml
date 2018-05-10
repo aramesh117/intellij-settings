@@ -110,12 +110,12 @@
         <mark key="^" line="61" column="85" />
         <mark key="." line="61" column="85" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1525906870493">
-        <mark key="'" line="571" column="25" />
-        <mark key="[" line="562" column="20" />
-        <mark key="]" line="562" column="34" />
-        <mark key="." line="562" column="34" />
-        <mark key="^" line="562" column="34" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1525974210737">
+        <mark key="'" line="131" column="73" />
+        <mark key="[" line="132" column="72" />
+        <mark key="]" line="133" column="9" />
+        <mark key="." line="133" column="9" />
+        <mark key="^" line="133" column="9" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetInferenceShuttle.java" timestamp="1525892954779">
         <mark key="'" line="52" column="27" />
@@ -265,8 +265,8 @@
         <mark key="." line="45" column="39" />
         <mark key="^" line="45" column="39" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" timestamp="1525972741903">
-        <mark key="'" line="257" column="2" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" timestamp="1525973978849">
+        <mark key="'" line="266" column="10" />
         <mark key="[" line="265" column="41" />
         <mark key="]" line="265" column="64" />
         <mark key="." line="265" column="64" />
@@ -334,9 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
-      <jump line="324" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
-      <jump line="329" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="363" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="367" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="392" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
@@ -434,13 +431,16 @@
       <jump line="158" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="265" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="257" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
+      <jump line="266" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
+      <jump line="122" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="131" column="73" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aGludHMuY29udGFpbnNLZXkoImluZmVyX3BhcnRpdGlvbnMiKQogICAgICAgICYmIE9iamVjdHMuZXF1YWxzKGhpbnRzLmdldCgiaW5mZXJfcGFydGl0aW9ucyIpLCBCb29sZWFuLnRvU3RyaW5nKHRydWUpKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>should</text>
@@ -448,34 +448,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRQbGFuQXNKc29uU3RyaW5nKAogICAgICBVcG1PcGVyYXRvciBwbGFuLAogICAgICBVcG1Db25maWd1cmF0aW9uIGNvbmZpZ3VyYXRpb24sCiAgICAgIFVwbUhpbnRzIHVwbUhpbnRzKQogICAgICB0aHJvd3MgSnNvblByb2Nlc3NpbmdFeGNlcHRpb24gewogICAgVXBtUGxhbiB3cmFwcGVyID0gVXBtUGxhbi5jcmVhdGVGcm9tUGh5c2ljYWxQbGFuKHBsYW4sIGNvbmZpZ3VyYXRpb24sIHVwbUhpbnRzKTsKICAgIE9iamVjdE1hcHBlciBvYmplY3RNYXBwZXIgPSBnZXRPYmplY3RNYXBwZXIoKTsKICAgIHJldHVybiBvYmplY3RNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHdyYXBwZXIpOwogIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aGludHMuY29udGFpbnNLZXkoImluZmVyX3BhcnRpdGlvbnMiKQogICAgICAgICYmIE9iamVjdHMuZXF1YWxzKGhpbnRzLmdldCgiaW5mZXJfcGFydGl0aW9ucyIpLCBCb29sZWFuLnRvU3RyaW5nKHRydWUpKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVwbVBsYW4gd3JhcHBlciA9IFVwbVBsYW4uY3JlYXRlRnJvbVBoeXNpY2FsUGxhbihwbGFuLCBjb25maWd1cmF0aW9uLCBVcG1IaW50cy5FTVBUWSk7CiAgICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gZ2V0T2JqZWN0TWFwcGVyKCk7CiAgICByZXR1cm4gb2JqZWN0TWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyh3cmFwcGVyKTsK</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBhZGRDb25zdW1lZERhdGFzZXRzKFN0cmluZyBkYXRhc2V0TmFtZSwgVXBtRGF0YXNldCBjb25zdW1lZERhdGFzZXQpIHsKICAgIAogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBASnNvbkNyZWF0b3IKICAvLyBwdWJsaWMgVXBtUGxhbihASnNvblByb3BlcnR5KCJwaHlzaWNhbFBsYW4iKSBQaHlzaWNhbFBsYW4gcGh5c2ljYWxQbGFuKSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aGludHMuY29udGFpbnNLZXkoImluZmVyX3BhcnRpdGlvbnMiKQogICAgICAgICYmIE9iamVjdHMuZXF1YWxzKGhpbnRzLmdldCgiaW5mZXJfcGFydGl0aW9ucyIpLCBCb29sZWFuLnRvU3RyaW5nKHRydWUpKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKHdhbGtlci5nZXRUYWJsZUFsaWFzZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIFVwbVBsYW4gd3JhcHBlciA9IFVwbVBsYW4uY3JlYXRlRnJvbVBoeXNpY2FsUGxhbihwbGFuLCBjb25maWd1cmF0aW9uLCBVcG1IaW50cy5FTVBUWSk7CiAgICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gZ2V0T2JqZWN0TWFwcGVyKCk7CiAgICByZXR1cm4gb2JqZWN0TWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyh3cmFwcGVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXMpOwo=</text>
+        <text encoding="base64">ICAvLyBASnNvbkNyZWF0b3IKICAvLyBwdWJsaWMgVXBtUGxhbihASnNvblByb3BlcnR5KCJwaHlzaWNhbFBsYW4iKSBQaHlzaWNhbFBsYW4gcGh5c2ljYWxQbGFuKSB7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;SELECT *\n&quot;
-        + &quot;FROM bi.dim_all_users_fast\n&quot;
-        + &quot;WHERE (locale = 'a' OR locale = 'b') AND (location_id = 1)&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVwbQo=</text>
+        <text encoding="base64">Ly8gICAgU3lzdGVtLm91dC5wcmludGxuKHdhbGtlci5nZXRUYWJsZUFsaWFzZXMoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFVQTSBDSGFuZ2UK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
