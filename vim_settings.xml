@@ -265,8 +265,8 @@
         <mark key="." line="45" column="39" />
         <mark key="^" line="45" column="39" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" timestamp="1525923339528">
-        <mark key="'" line="265" column="64" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" timestamp="1525972741903">
+        <mark key="'" line="257" column="2" />
         <mark key="[" line="265" column="41" />
         <mark key="]" line="265" column="64" />
         <mark key="." line="265" column="64" />
@@ -334,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="323" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="324" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="329" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
@@ -434,6 +433,7 @@
       <jump line="9" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" />
       <jump line="158" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="265" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
+      <jump line="257" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -488,7 +488,7 @@
       <last-replace>HiveTableScan</last-replace>
       <last-substitute>UpmTableScan</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
