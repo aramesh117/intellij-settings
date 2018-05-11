@@ -10,8 +10,8 @@
         <mark key="." line="53" column="58" />
         <mark key="^" line="53" column="58" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1525994974647">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1526001638255">
+        <mark key="'" line="34" column="0" />
         <mark key="[" line="545" column="0" />
         <mark key="]" line="545" column="0" />
         <mark key="." line="545" column="0" />
@@ -115,8 +115,12 @@
         <mark key="^" line="61" column="85" />
         <mark key="." line="61" column="85" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1526000435348">
-        <mark key="'" line="2" column="7" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1526001726835">
+        <mark key="'" line="129" column="34" />
+        <mark key="[" line="577" column="34" />
+        <mark key="]" line="577" column="33" />
+        <mark key="^" line="577" column="33" />
+        <mark key="." line="577" column="33" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetInferenceShuttle.java" timestamp="1525892954779">
         <mark key="'" line="52" column="27" />
@@ -295,6 +299,9 @@
         <mark key="^" line="549" column="83" />
         <mark key="." line="549" column="83" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/validate/SqlValidator.java" timestamp="1526001546624">
+        <mark key="'" line="737" column="48" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Filter.java" timestamp="1525911382988">
         <mark key="'" line="126" column="41" />
       </file>
@@ -322,11 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalFilter.java" />
-      <jump line="50" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptCluster.java" />
-      <jump line="190" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptCluster.java" />
-      <jump line="128" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Filter.java" />
-      <jump line="287" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" />
       <jump line="324" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptPlanner.java" />
       <jump line="197" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptPlanner.java" />
       <jump line="243" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/AbstractRelOptPlanner.java" />
@@ -422,16 +424,21 @@
       <jump line="4" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="582" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="2" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="737" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/validate/SqlValidator.java" />
+      <jump line="450" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="276" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="129" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+      <register name="&quot;" type="4">
+        <text>upmdatasets</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>upmdatasets</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFjZWZ1bGx5RGVzZXJpYWxpemVcPg==</text>
+        <text>upmdatasets</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEhpdmVUYWJsZVNjYW4gY3JlYXRlKFJlbE9wdENsdXN0ZXIgY2x1c3RlciwgUmVsVHJhaXRTZXQgcmVsVHJhaXRTZXQsIFJlbE9wdFRhYmxlIHRhYmxlKSB7CiAgICByZXR1cm4gbmV3IEhpdmVUYWJsZVNjYW4oY2x1c3RlciwgcmVsVHJhaXRTZXQsIHRhYmxlLCAiIik7CiAgfQo=</text>
@@ -464,22 +471,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/upmdatasets/UPMDATASETS/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFjZWZ1bGx5RGVzZXJpYWxpemVcPg==</last-search>
+      <last-search>upmdatasets</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFjZWZ1bGx5RGVzZXJpYWxpemVcPg==</last-pattern>
-      <last-replace>HiveTableScan</last-replace>
-      <last-substitute>UpmTableScan</last-substitute>
+      <last-pattern>upmdatasets</last-pattern>
+      <last-replace>UPMDATASETS</last-replace>
+      <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rel(</entry>
-        <entry encoding="base64">XDxzcWxcPg==</entry>
         <entry>optimize</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry encoding="base64">XDx0cmFpdFNldFw+</entry>
@@ -498,12 +503,15 @@
         <entry>Convention.NONE</entry>
         <entry encoding="base64">XDxjb25zdW1lZERhdGFzZXRzXD4=</entry>
         <entry encoding="base64">XDxncmFjZWZ1bGx5RGVzZXJpYWxpemVcPg==</entry>
+        <entry>load\c</entry>
+        <entry>upmdatasets</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
         <entry>%s/UpmTableScan/HiveTableScan/g</entry>
         <entry>196</entry>
         <entry>w</entry>
+        <entry>%s/upmdatasets/UPMDATASETS/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
