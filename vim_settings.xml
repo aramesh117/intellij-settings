@@ -10,7 +10,7 @@
         <mark key="." line="53" column="58" />
         <mark key="^" line="53" column="58" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1526063431075">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1526064106310">
         <mark key="'" line="453" column="0" />
         <mark key="[" line="162" column="21" />
         <mark key="]" line="162" column="22" />
@@ -55,11 +55,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoCost.java" timestamp="1525908519760">
         <mark key="'" line="230" column="25" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" timestamp="1525922808616">
-        <mark key="[" line="129" column="32" />
-        <mark key="]" line="129" column="41" />
-        <mark key="^" line="129" column="41" />
-        <mark key="." line="129" column="41" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" timestamp="1526065129729">
+        <mark key="'" line="124" column="4" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/main/java/com/facebook/upm/hive/schema/DatasetAliased.java" timestamp="1525892351426">
         <mark key="'" line="8" column="40" />
@@ -96,6 +96,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" timestamp="1525907777559">
         <mark key="'" line="456" column="26" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDataFrameNoSqlPartitionHint.json" timestamp="1526065683024">
+        <mark key="'" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/RelNode.java" timestamp="1525908604401">
         <mark key="'" line="169" column="29" />
@@ -138,6 +141,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/collect/Maps.java" timestamp="1525826441658">
         <mark key="'" line="409" column="17" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1526065235392">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1525891234120">
         <mark key="'" line="0" column="0" />
@@ -217,8 +223,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" timestamp="1525911819239">
         <mark key="'" line="83" column="75" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1525978283522">
-        <mark key="'" line="162" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1526064586279">
+        <mark key="'" line="43" column="13" />
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="^" line="159" column="109" />
@@ -304,6 +310,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/validate/SqlValidator.java" timestamp="1526001546624">
         <mark key="'" line="737" column="48" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PipelineTests.java" timestamp="1526065751664" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Filter.java" timestamp="1525911382988">
         <mark key="'" line="126" column="41" />
       </file>
@@ -331,11 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" />
-      <jump line="106" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" />
-      <jump line="97" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
-      <jump line="37" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="260" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="98" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/Utils.java" />
       <jump line="55" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/UpmPlan.java" />
@@ -431,10 +433,15 @@
       <jump line="175" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="452" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDataFrameSubDag.json" />
+      <jump line="43" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
+      <jump line="134" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
+      <jump line="150" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" />
+      <jump line="42" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDataFrameNoSqlPartitionHint.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -446,31 +453,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIEhpdmVUYWJsZVNjYW4gY3JlYXRlKFJlbE9wdENsdXN0ZXIgY2x1c3RlciwgUmVsVHJhaXRTZXQgcmVsVHJhaXRTZXQsIFJlbE9wdFRhYmxlIHRhYmxlKSB7CiAgICByZXR1cm4gbmV3IEhpdmVUYWJsZVNjYW4oY2x1c3RlciwgcmVsVHJhaXRTZXQsIHRhYmxlLCAiIik7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiNDUwOlVwbVNxbChzcWwwPVtDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBcIk9VVFBVVFwiIChcIkRFUFROT1wiIElOVEVHRVIpXSwgc3FsMT1bSU5TRVJUIElOVE8gXCJPVVRQVVRcIiBTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIFwiVDU2XCJcbiIKICAgICAgICAgICAgKyAiV0hFUkUgXCJERVBUTk9cIiA+IDldLCB0YWJsZT1bW09VVFBVVF1dLCB0YXJnZXQ9W3ByZXN0b10pXG4iCiAgICAgICAgICAgICsgIiAgNDQ5OlVwbVNxbChzcWwwPVtDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBUNTggKERFUFROTyBJTlRFR0VSKV0sIHNxbDE9W0lOU0VSVCBJTlRPIFQ1OCBTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIChTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIFQ1NFxuIgogICAgICAgICAgICArICJXSEVSRSBERVBUTk8gPiA3KSB0XG4iCiAgICAgICAgICAgICsgIldIRVJFIERFUFROTyA+IDhdLCB0YWJsZT1bW1Q1OF1dLCB0YXJnZXQ9W2hpdmVdKVxuIgogICAgICAgICAgICArICIgICAgNDQ4OlVwbVNxbChzcWwwPVtDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBgVDU5YCAoYERFUFROT2AgSU5URUdFUildLCBzcWwxPVtJTlNFUlQgSU5UTyBgVDU5YCBTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIChTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIGBUNTJgXG4iCiAgICAgICAgICAgICsgIldIRVJFIGBERVBUTk9gID4gNSkgQVMgYHRgXG4iCiAgICAgICAgICAgICsgIldIRVJFIGBERVBUTk9gID4gNl0sIHRhYmxlPVtbVDU5XV0sIHRhcmdldD1bc3BhcmtdKVxuIgogICAgICAgICAgICArICIgICAgICA0NDc6VXBtU3FsKHNxbDA9W0NSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIFwiVDYwXCIgKFwiREVQVE5PXCIgSU5URUdFUildLCBzcWwxPVtJTlNFUlQgSU5UTyBcIlQ2MFwiIFNFTEVDVCAqXG4iCiAgICAgICAgICAgICsgIkZST00gXCJUNTFcIlxuIgogICAgICAgICAgICArICJXSEVSRSBcIkRFUFROT1wiID4gNF0sIHRhYmxlPVtbVDYwXV0sIHRhcmdldD1bcHJlc3RvXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgICA0NDY6VXBtU3FsKHNxbDA9W0NSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIFQ2MSAoREVQVE5PIElOVEVHRVIpXSwgc3FsMT1bSU5TRVJUIElOVE8gVDYxIFNFTEVDVCAqXG4iCiAgICAgICAgICAgICsgIkZST00gVDUwXG4iCiAgICAgICAgICAgICsgIldIRVJFIERFUFROTyA+IDNdLCB0YWJsZT1bW1Q2MV1dLCB0YXJnZXQ9W2hpdmVdKVxuIgogICAgICAgICAgICArICIgICAgICAgICAgNDQ1OlVwbVNxbChzcWwwPVtDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBgVDYyYCAoYERFUFROT2AgSU5URUdFUildLCBzcWwxPVtJTlNFUlQgSU5UTyBgVDYyYCBTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIGBUNDlgXG4iCiAgICAgICAgICAgICsgIldIRVJFIGBERVBUTk9gID4gMl0sIHRhYmxlPVtbVDYyXV0sIHRhcmdldD1bc3BhcmtdKVxuIgogICAgICAgICAgICArICIgICAgICAgICAgICA0NDQ6VXBtU3FsKHNxbDA9W0NSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIFwiVDYzXCIgKFwiREVQVE5PXCIgSU5URUdFUildLCBzcWwxPVtJTlNFUlQgSU5UTyBcIlQ2M1wiIFNFTEVDVCAqXG4iCiAgICAgICAgICAgICsgIkZST00gXCJUNDhcIlxuIgogICAgICAgICAgICArICJXSEVSRSBcIkRFUFROT1wiID4gMV0sIHRhYmxlPVtbVDYzXV0sIHRhcmdldD1bcHJlc3RvXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgICAgICAgICA0NDM6VXBtU3FsKHNxbDA9W0NSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIFQ2NCAoREVQVE5PIElOVEVHRVIpXSwgc3FsMT1bSU5TRVJUIElOVE8gVDY0IFNFTEVDVCBERVBUTk9cbiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFV0aWxzLmdldFBsYW5Bc1N0cmluZyhkZjEwLikK</text>
+        <text encoding="base64">ICAgIFVwbVBsYW4gYWN0dWFsUGxhbiA9CiAgICAgICAgbmV3IFVwbVBsYW4oCiAgICAgICAgICAgIFBoeXNpY2FsUGxhbi5jcmVhdGUoCiAgICAgICAgICAgICAgICBkZjIuZ2V0UGh5c2ljYWxQbGFuKEltbXV0YWJsZUxpc3Qub2YoIk9VVFBVVCIpLCB1cG1IaW50cyksCiAgICAgICAgICAgICAgICB1cG1Db25maWd1cmF0aW9uLAogICAgICAgICAgICAgICAgdXBtSGludHMpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhY3R1YWwpOwo=</text>
+        <text encoding="base64">ICAgIExPR0dFUi5pbmZvKCJBY3R1YWwgcGxhbjoiKTsKICAgIFN0cmluZyBwbGFuU3RyaW5nID0gVXBtUGxhbi5zZXJpYWxpemUoYWN0dWFsUGxhbik7CiAgICBMT0dHRVIuaW5mbyhwbGFuU3RyaW5nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlscy4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlscy4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlICBSZWxOb2RlIHJvb3Q7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFVwbVBsYW4gZXhwZWN0ZWQgPSBVcG1QbGFuLmRlc2VyaWFsaXplKHBsYW5TdHJpbmcpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFJlbERhdGFUeXBlRmFjdG9yeSBmYWN0b3J5ID0gZGYuZ2V0Q29udGV4dCgpLmdldEZhY3RvcnkoKS5jcmVhdGVUeXBlRmFjdG9yeSgpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAiNDUwOlVwbVNxbChzcWwwPVtDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBcIk9VVFBVVFwiIChcIkRFUFROT1wiIElOVEVHRVIpXSwgc3FsMT1bSU5TRVJUIElOVE8gXCJPVVRQVVRcIiBTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIFwiVDU2XCJcbiIKICAgICAgICAgICAgKyAiV0hFUkUgXCJERVBUTk9cIiA+IDldLCB0YWJsZT1bW09VVFBVVF1dLCB0YXJnZXQ9W3ByZXN0b10pXG4iCiAgICAgICAgICAgICsgIiAgNDQ5OlVwbVNxbChzcWwwPVtDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBUNTggKERFUFROTyBJTlRFR0VSKV0sIHNxbDE9W0lOU0VSVCBJTlRPIFQ1OCBTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIChTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIFQ1NFxuIgogICAgICAgICAgICArICJXSEVSRSBERVBUTk8gPiA3KSB0XG4iCiAgICAgICAgICAgICsgIldIRVJFIERFUFROTyA+IDhdLCB0YWJsZT1bW1Q1OF1dLCB0YXJnZXQ9W2hpdmVdKVxuIgogICAgICAgICAgICArICIgICAgNDQ4OlVwbVNxbChzcWwwPVtDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBgVDU5YCAoYERFUFROT2AgSU5URUdFUildLCBzcWwxPVtJTlNFUlQgSU5UTyBgVDU5YCBTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIChTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIGBUNTJgXG4iCiAgICAgICAgICAgICsgIldIRVJFIGBERVBUTk9gID4gNSkgQVMgYHRgXG4iCiAgICAgICAgICAgICsgIldIRVJFIGBERVBUTk9gID4gNl0sIHRhYmxlPVtbVDU5XV0sIHRhcmdldD1bc3BhcmtdKVxuIgogICAgICAgICAgICArICIgICAgICA0NDc6VXBtU3FsKHNxbDA9W0NSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIFwiVDYwXCIgKFwiREVQVE5PXCIgSU5URUdFUildLCBzcWwxPVtJTlNFUlQgSU5UTyBcIlQ2MFwiIFNFTEVDVCAqXG4iCiAgICAgICAgICAgICsgIkZST00gXCJUNTFcIlxuIgogICAgICAgICAgICArICJXSEVSRSBcIkRFUFROT1wiID4gNF0sIHRhYmxlPVtbVDYwXV0sIHRhcmdldD1bcHJlc3RvXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgICA0NDY6VXBtU3FsKHNxbDA9W0NSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIFQ2MSAoREVQVE5PIElOVEVHRVIpXSwgc3FsMT1bSU5TRVJUIElOVE8gVDYxIFNFTEVDVCAqXG4iCiAgICAgICAgICAgICsgIkZST00gVDUwXG4iCiAgICAgICAgICAgICsgIldIRVJFIERFUFROTyA+IDNdLCB0YWJsZT1bW1Q2MV1dLCB0YXJnZXQ9W2hpdmVdKVxuIgogICAgICAgICAgICArICIgICAgICAgICAgNDQ1OlVwbVNxbChzcWwwPVtDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBgVDYyYCAoYERFUFROT2AgSU5URUdFUildLCBzcWwxPVtJTlNFUlQgSU5UTyBgVDYyYCBTRUxFQ1QgKlxuIgogICAgICAgICAgICArICJGUk9NIGBUNDlgXG4iCiAgICAgICAgICAgICsgIldIRVJFIGBERVBUTk9gID4gMl0sIHRhYmxlPVtbVDYyXV0sIHRhcmdldD1bc3BhcmtdKVxuIgogICAgICAgICAgICArICIgICAgICAgICAgICA0NDQ6VXBtU3FsKHNxbDA9W0NSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIFwiVDYzXCIgKFwiREVQVE5PXCIgSU5URUdFUildLCBzcWwxPVtJTlNFUlQgSU5UTyBcIlQ2M1wiIFNFTEVDVCAqXG4iCiAgICAgICAgICAgICsgIkZST00gXCJUNDhcIlxuIgogICAgICAgICAgICArICJXSEVSRSBcIkRFUFROT1wiID4gMV0sIHRhYmxlPVtbVDYzXV0sIHRhcmdldD1bcHJlc3RvXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgICAgICAgICA0NDM6VXBtU3FsKHNxbDA9W0NSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIFQ2NCAoREVQVE5PIElOVEVHRVIpXSwgc3FsMT1bSU5TRVJUIElOVE8gVDY0IFNFTEVDVCBERVBUTk9cbiIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIFV0aWxzLmdldFBsYW5Bc1N0cmluZyhkZjEwLikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
