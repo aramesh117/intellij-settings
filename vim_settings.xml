@@ -10,6 +10,9 @@
         <mark key="." line="53" column="58" />
         <mark key="^" line="53" column="58" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/JdbcAdapterTest.java" timestamp="1526317980877">
+        <mark key="'" line="91" column="20" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1526085857008">
         <mark key="'" line="23" column="13" />
         <mark key="[" line="158" column="23" />
@@ -20,9 +23,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/VolcanoPlannerTest.java" timestamp="1525907427903">
         <mark key="'" line="76" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1525976399309">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" timestamp="1526060957866">
         <mark key="'" line="107" column="11" />
         <mark key="[" line="116" column="15" />
@@ -30,7 +30,7 @@
         <mark key="." line="117" column="25" />
         <mark key="^" line="117" column="25" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/Convention.java" timestamp="1525911739644">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/Convention.java" timestamp="1526318375110">
         <mark key="'" line="67" column="24" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" timestamp="1525922933231">
@@ -140,14 +140,14 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/AbstractRelOptPlanner.java" timestamp="1525911061906">
         <mark key="'" line="243" column="20" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/pig/src/main/java/org/apache/calcite/adapter/pig/PigRules.java" timestamp="1526318203924">
+        <mark key="'" line="56" column="6" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_all_users_fast.json" timestamp="1525885862978">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/collect/Maps.java" timestamp="1525826441658">
         <mark key="'" line="409" column="17" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1526065235392">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1525891234120">
         <mark key="'" line="0" column="0" />
@@ -236,8 +236,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" timestamp="1525911819239">
         <mark key="'" line="83" column="75" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1526087147315">
-        <mark key="'" line="141" column="51" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1526087685479">
+        <mark key="'" line="140" column="0" />
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="^" line="159" column="109" />
@@ -261,6 +261,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql2rel/SqlToRelConverter.java" timestamp="1525887069002">
         <mark key="'" line="656" column="8" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/MaterializationTest.java" timestamp="1526318822619">
+        <mark key="'" line="83" column="13" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/api/RangeOperation.java" timestamp="1525823776576">
         <mark key="'" line="5" column="13" />
@@ -321,8 +324,12 @@
         <mark key="^" line="549" column="83" />
         <mark key="." line="549" column="83" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" timestamp="1526317978573" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/validate/SqlValidator.java" timestamp="1526001546624">
         <mark key="'" line="737" column="48" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UnionElements.java" timestamp="1526318370222">
+        <mark key="'" line="55" column="75" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PipelineTests.java" timestamp="1526086914833">
         <mark key="'" line="32" column="17" />
@@ -361,16 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="57" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="86" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="130" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="93" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="304" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="179" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="215" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="120" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="59" column="46" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="4" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="582" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
@@ -461,6 +458,16 @@
       <jump line="175" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="160" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="141" column="51" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="140" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/JdbcAdapterTest.java" />
+      <jump line="91" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/JdbcAdapterTest.java" />
+      <jump line="56" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/pig/src/main/java/org/apache/calcite/adapter/pig/PigRules.java" />
+      <jump line="51" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/convert/ConverterRule.java" />
+      <jump line="52" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UnionElements.java" />
+      <jump line="55" column="75" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UnionElements.java" />
+      <jump line="33" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/Convention.java" />
+      <jump line="67" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/Convention.java" />
+      <jump line="83" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/MaterializationTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -470,7 +477,7 @@
         <text>getPlanAsJsonString</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cG1IaW50c1w+</text>
+        <text>testFilterUnion</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aXMgPFVwbVBsYW57cGh5c2ljYWxQbGFuPVBoeXNpY2FsUGxhbntpZD0yLCBvcGVyYXRvcnM9W05vblNxbFN1YkRhZ09wZXJhdG9ye2lkPTM3LCB0eXBlPU5vblNxbERBRywgZW5naW5lPXNwYXJrLCBkZXBlbmRzT249WzMyXSwgaW5wdXRzPVs1XSwgb3V0cHV0PVs2XSwgb3BlcmF0b3JzPVtNYXBPcGVyYXRvcntpZD0zNSwgdHlwZT1NQVAsIGVuZ2luZT1zcGFyaywgZGVwZW5kc09uPVszMl0sIGlucHV0cz1bMV0sIG91dHB1dD1bMl0sIGZ1bmN0aW9uPVNFUklBTElaRURfRlVOQ19CNjR9LCBMaW1pdE9wZXJhdG9ye2lkPTM2LCB0eXBlPUxJTUlULCBlbmdpbmU9c3BhcmssIGRlcGVuZHNPbj1bMzVdLCBpbnB1dHM9WzNdLCBvdXRwdXQ9WzRdLCBsaW1pdD01fV19LCBTcWxPcGVyYXRvcntpZD0zMiwgdHlwZT1TUUwsIGVuZ2luZT1wcmVzdG8sIGRlcGVuZHNPbj1bXSwgaW5wdXRzPVs3XSwgb3V0cHV0PVs4XSwgc3FsPVtDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyAiVDUiICgiREVQVE5PIiBJTlRFR0VSKSwgSU5TRVJUIElOVE8gIlQ1IiBTRUxFQ1QgIkRFUFROTyIKRlJPTSAiU0FMRVMiLiJFTVBTIl19XSwgZGF0YXNldHM9W0RhdGFzZXR7aWQ9MSwgdGFibGVJZD0xLCBwYXJ0aXRpb25zPVtdfSwgRGF0YXNldHtpZD0yLCB0YWJsZUlkPTIsIHBhcnRpdGlvbnM9W119LCBEYXRhc2V0e2lkPTMsIHRhYmxlSWQ9MiwgcGFydGl0aW9ucz1bXX0sIERhdGFzZXR7aWQ9NCwgdGFibGVJZD0zLCBwYXJ0aXRpb25zPVtdfSwgRGF0YXNldHtpZD01LCB0YWJsZUlkPTEsIHBhcnRpdGlvbnM9W119LCBEYXRhc2V0e2lkPTYsIHRhYmxlSWQ9MywgcGFydGl0aW9ucz1bXX0sIERhdGFzZXR7aWQ9NywgdGFibGVJZD00LCBwYXJ0aXRpb25zPVtdfSwgRGF0YXNldHtpZD04LCB0YWJsZUlkPTEsIHBhcnRpdGlvbnM9W119XSwgdGFibGVzPVtUYWJsZXtpZD0xLCBuYW1lPVt0NV0sIHR5cGU9aGl2ZSwgdGVtcG9yYXJ5PXRydWUsIHNjaGVtYT17REVQVE5PPUlOVEVHRVJ9LCBwYXJ0aXRpb25Db2x1bW5zPVtdfSwgVGFibGV7aWQ9MiwgbmFtZT1bdDJdLCB0eXBlPWhpdmUsIHRlbXBvcmFyeT10cnVlLCBzY2hlbWE9e2FyZz1JTlRFR0VSfSwgcGFydGl0aW9uQ29sdW1ucz1bXX0sIFRhYmxle2lkPTMsIG5hbWU9W291dHB1dF0sIHR5cGU9aGl2ZSwgdGVtcG9yYXJ5PWZhbHNlLCBzY2hlbWE9e2FyZz1JTlRFR0VSfSwgcGFydGl0aW9uQ29sdW1ucz1bXX0sIFRhYmxle2lkPTQsIG5hbWU9W3NhbGVzLCBlbXBzXSwgdHlwZT1oaXZlLCB0ZW1wb3Jhcnk9ZmFsc2UsIHNjaGVtYT17RU1QTk89SU5URUdFUiwgTkFNRT1TVFJJTkcsIERFUFROTz1JTlRFR0VSLCBHRU5ERVI9U1RSSU5HLCBDSVRZPVNUUklORywgRU1QSUQ9SU5URUdFUiwgQUdFPUlOVEVHRVIsIFNMQUNLRVI9Qk9PTEVBTiwgTUFOQUdFUj1CT09MRUFOLCBKT0lORURBVD1EQVRFfSwgcGFydGl0aW9uQ29sdW1ucz1bXX1dfX0+CiAgICAgCg==</text>
@@ -503,13 +510,13 @@
         <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDIsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMzcsCiAgICAgICJ0eXBlIiA6ICJOb25TcWxEQUciLAogICAgICAiZW5naW5lIiA6ICJzcGFyayIsCiAgICAgICJkZXBlbmRzT24iIDogWyAzMiBdLAogICAgICAiaW5wdXRzIiA6IFsgNSBdLAogICAgICAib3V0cHV0IiA6IFsgNiBdLAogICAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAgICJpZCIgOiAzNSwKICAgICAgICAidHlwZSIgOiAiTUFQIiwKICAgICAgICAiZW5naW5lIiA6ICJzcGFyayIsCiAgICAgICAgImRlcGVuZHNPbiIgOiBbIDMyIF0sCiAgICAgICAgImlucHV0cyIgOiBbIDEgXSwKICAgICAgICAib3V0cHV0IiA6IFsgMiBdLAogICAgICAgICJmdW5jdGlvbiIgOiAiU0VSSUFMSVpFRF9GVU5DX0I2NCIKICAgICAgfSwgewogICAgICAgICJpZCIgOiAzNiwKICAgICAgICAidHlwZSIgOiAiTElNSVQiLAogICAgICAgICJlbmdpbmUiIDogInNwYXJrIiwKICAgICAgICAiZGVwZW5kc09uIiA6IFsgMzUgXSwKICAgICAgICAiaW5wdXRzIiA6IFsgMyBdLAogICAgICAgICJvdXRwdXQiIDogWyA0IF0sCiAgICAgICAgImxpbWl0IiA6IDUKICAgICAgfSBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAzMiwKICAgICAgInR5cGUiIDogIlNRTCIsCiAgICAgICJlbmdpbmUiIDogInByZXN0byIsCiAgICAgICJkZXBlbmRzT24iIDogWyBdLAogICAgICAiaW5wdXRzIiA6IFsgNyBdLAogICAgICAib3V0cHV0IiA6IFsgOCBdLAogICAgICAic3FsIiA6IFsgIkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIFwiVDVcIiAoXCJERVBUTk9cIiBJTlRFR0VSKSIsICJJTlNFUlQgSU5UTyBcIlQ1XCIgU0VMRUNUIFwiREVQVE5PXCJcbkZST00gXCJTQUxFU1wiLlwiRU1QU1wiIiBdCiAgICB9IF0sCiAgICAiZGF0YXNldHMiIDogWyB7CiAgICAgICJpZCIgOiAxLAogICAgICAidGFibGVJZCIgOiAxLAogICAgICAicGFydGl0aW9ucyIgOiBbIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJ0YWJsZUlkIiA6IDIsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgXQogICAgfSwgewogICAgICAiaWQiIDogMywKICAgICAgInRhYmxlSWQiIDogMiwKICAgICAgInBhcnRpdGlvbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiA0LAogICAgICAidGFibGVJZCIgOiAzLAogICAgICAicGFydGl0aW9ucyIgOiBbIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDUsCiAgICAgICJ0YWJsZUlkIiA6IDEsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgXQogICAgfSwgewogICAgICAiaWQiIDogNiwKICAgICAgInRhYmxlSWQiIDogMywKICAgICAgInBhcnRpdGlvbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiA3LAogICAgICAidGFibGVJZCIgOiA0LAogICAgICAicGFydGl0aW9ucyIgOiBbIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDgsCiAgICAgICJ0YWJsZUlkIiA6IDEsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgXQogICAgfSBdLAogICAgInRhYmxlcyIgOiBbIHsKICAgICAgImlkIiA6IDEsCiAgICAgICJuYW1lIiA6IFsgInQ1IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgIkRFUFROTyIgOiAiSU5URUdFUiIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAyLAogICAgICAibmFtZSIgOiBbICJ0MiIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJhcmciIDogIklOVEVHRVIiCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgXQogICAgfSwgewogICAgICAiaWQiIDogMywKICAgICAgIm5hbWUiIDogWyAib3V0cHV0IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogZmFsc2UsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJhcmciIDogIklOVEVHRVIiCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgXQogICAgfSwgewogICAgICAiaWQiIDogNCwKICAgICAgIm5hbWUiIDogWyAic2FsZXMiLCAiZW1wcyIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAic2NoZW1hIiA6IHsKICAgICAgICAiRU1QTk8iIDogIklOVEVHRVIiLAogICAgICAgICJOQU1FIiA6ICJTVFJJTkciLAogICAgICAgICJERVBUTk8iIDogIklOVEVHRVIiLAogICAgICAgICJHRU5ERVIiIDogIlNUUklORyIsCiAgICAgICAgIkNJVFkiIDogIlNUUklORyIsCiAgICAgICAgIkVNUElEIiA6ICJJTlRFR0VSIiwKICAgICAgICAiQUdFIiA6ICJJTlRFR0VSIiwKICAgICAgICAiU0xBQ0tFUiIgOiAiQk9PTEVBTiIsCiAgICAgICAgIk1BTkFHRVIiIDogIkJPT0xFQU4iLAogICAgICAgICJKT0lORURBVCIgOiAiREFURSIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyBdCiAgICB9IF0KICB9Cn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cG1IaW50c1w+</last-search>
+      <last-search>testFilterUnion</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cG1IaW50c1w+</last-pattern>
+      <last-pattern>testFilterUnion</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -517,7 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJ0aXRpb25GaWVsZHNcPg==</entry>
         <entry>Convention.NONE</entry>
         <entry encoding="base64">XDxjb25zdW1lZERhdGFzZXRzXD4=</entry>
         <entry encoding="base64">XDxncmFjZWZ1bGx5RGVzZXJpYWxpemVcPg==</entry>
@@ -537,6 +543,7 @@
         <entry encoding="base64">XDx2aXNpdE5vblNxbE5leHRcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVQbGFuXD4=</entry>
         <entry encoding="base64">XDx1cG1IaW50c1w+</entry>
+        <entry>testFilterUnion</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -545,6 +552,7 @@
         <entry>%s/upmdatasets/UPMDATASETS/g</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
