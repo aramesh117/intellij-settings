@@ -88,7 +88,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/interpreter/Bindables.java" timestamp="1526323351150">
         <mark key="'" line="192" column="12" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/enumerable/EnumerableIntersect.java" timestamp="1526323661609" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/enumerable/EnumerableIntersectRule.java" timestamp="1526323775810">
         <mark key="'" line="29" column="38" />
       </file>
@@ -130,20 +129,18 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/rel2sql/SqlImplementor.java" timestamp="1525806683290">
         <mark key="'" line="539" column="29" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptRule.java" timestamp="1526337248183" />
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmSqlPlanner.java" timestamp="1526338004790">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmSqlPlanner.java" timestamp="1526494815351">
         <mark key="'" line="98" column="12" />
-        <mark key="[" line="101" column="66" />
-        <mark key="]" line="101" column="66" />
-        <mark key="." line="101" column="66" />
-        <mark key="^" line="101" column="66" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" timestamp="1526085861783">
-        <mark key="'" line="17" column="13" />
-        <mark key="[" line="44" column="92" />
-        <mark key="]" line="45" column="14" />
-        <mark key="." line="45" column="14" />
-        <mark key="^" line="45" column="14" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" timestamp="1526494471680">
+        <mark key="'" line="37" column="15" />
+        <mark key="[" line="47" column="72" />
+        <mark key="]" line="47" column="72" />
+        <mark key="." line="47" column="72" />
+        <mark key="^" line="38" column="15" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/convert/NoneConverter.java" timestamp="1526320086185">
         <mark key="'" line="32" column="35" />
@@ -186,11 +183,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/VolcanoPlannerTraitTest.java" timestamp="1526330098311">
         <mark key="'" line="511" column="50" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/JdbcToSparkConverterRule.java" timestamp="1526336528038">
-        <mark key="'" line="41" column="15" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="71" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" timestamp="1526332835099">
         <mark key="'" line="58" column="22" />
       </file>
@@ -204,11 +196,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/MaterializationTest.java" timestamp="1526318822619">
         <mark key="'" line="83" column="13" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" timestamp="1526086593906">
-        <mark key="'" line="175" column="14" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" timestamp="1526494164895">
+        <mark key="'" line="179" column="14" />
+        <mark key="[" line="75" column="41" />
+        <mark key="]" line="75" column="50" />
+        <mark key="." line="75" column="50" />
+        <mark key="^" line="75" column="50" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/PlanDispatcher.java" timestamp="1525922714875">
         <mark key="'" line="28" column="30" />
@@ -219,12 +212,11 @@
         <mark key="]" line="446" column="0" />
         <mark key="." line="446" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" timestamp="1526333194402">
-        <mark key="'" line="96" column="17" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="96" column="3" />
-        <mark key="." line="96" column="3" />
-        <mark key="^" line="96" column="3" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" timestamp="1526494640511">
+        <mark key="'" line="80" column="32" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/pom.xml" timestamp="1525824174031">
         <mark key="'" line="0" column="0" />
@@ -325,7 +317,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlSelect.java" timestamp="1526431218441">
         <mark key="'" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlNode.java" timestamp="1526434164163" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraToEnumerableConverter.java" timestamp="1526329998241">
         <mark key="'" line="53" column="15" />
       </file>
@@ -385,12 +376,10 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/SparkToEnumerableConverter.java" timestamp="1526332553113">
         <mark key="'" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/LogicalPlannerRules.java" timestamp="1526337856969">
-        <mark key="'" line="48" column="60" />
-        <mark key="[" line="52" column="13" />
-        <mark key="]" line="52" column="12" />
-        <mark key="." line="52" column="12" />
-        <mark key="^" line="52" column="12" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/LogicalPlannerRules.java" timestamp="1526494772167">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/CalcitePrepareImpl.java" timestamp="1525903893236">
         <mark key="'" line="525" column="12" />
@@ -451,7 +440,6 @@
         <mark key="^" line="21" column="57" />
         <mark key="." line="21" column="57" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/RelCollation.java" timestamp="1526324171529" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptCluster.java" timestamp="1526337466071">
         <mark key="'" line="86" column="33" />
       </file>
@@ -465,7 +453,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UnionElements.java" timestamp="1526332790155">
         <mark key="'" line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/RelSubset.java" timestamp="1526336319573" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PipelineTests.java" timestamp="1526086914833">
         <mark key="'" line="32" column="17" />
         <mark key="[" line="42" column="0" />
@@ -499,10 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="61" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraTableScan.java" />
-      <jump line="72" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
-      <jump line="33" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" />
-      <jump line="121" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" />
       <jump line="438" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" />
       <jump line="151" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" />
       <jump line="67" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/TableScan.java" />
@@ -523,7 +506,6 @@
       <jump line="58" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" />
       <jump line="17" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/FuncElements.java" />
       <jump line="12" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/SingleNonSql.java" />
-      <jump line="64" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="96" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="142" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" />
       <jump line="64" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" />
@@ -599,55 +581,60 @@
       <jump line="366" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="33" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlSelect.java" />
       <jump line="14" column="3" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlSelect.java" />
+      <jump line="39" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" />
+      <jump line="37" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" />
+      <jump line="30" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
+      <jump line="64" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
+      <jump line="80" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhbm5lci5hZGRSdWxlKFVwbVRvRW51bWVyYWJsZUNvbnZlcnRlclJ1bGUuSU5TVEFOQ0UpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>NONE</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>\climit</text>
+        <text>copy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJlbFRyYWl0U2V0IG5ld1RyYWl0U2V0ID0gcmVsLmdldFRyYWl0U2V0KCkucmVwbGFjZShnZXRPdXRUcmFpdCgpKTsK</text>
+        <text encoding="base64">ICBzdGF0aWMgdm9pZCBhc3NlcnRMb2dpY2FsUGxhbihEYXRhRnJhbWUgZGYsIFN0cmluZyBleHBlY3RlZCkgewogICAgU3RyaW5nIGFjdHVhbCA9IFV0aWxzLmdldFBsYW5Bc1N0cmluZyhkZi5nZXRMb2dpY2FsUGxhbigpKTsKCiAgICBMaXN0PFN0cmluZz4gZXhwZWN0ZWRMaW5lcyA9IGNvbGxlY3RMaW5lcyhleHBlY3RlZCk7CiAgICBMaXN0PFN0cmluZz4gYWN0dWFsTGluZXMgPSBjb2xsZWN0TGluZXMoYWN0dWFsKTsKCiAgICBTdHJpbmcgbWlzbWF0Y2hNZXNzYWdlID0KICAgICAgICAiVGhlIGxvZ2ljYWwgcGxhbiB3YXMgbm90IGFzIGV4cGVjdGVkLlxuZXhwZWN0ZWQ6XG4iICsgZXhwZWN0ZWQgKyAiXG5hY3R1YWw6XG4iICsgYWN0dWFsOwogICAgYXNzZXJ0RXF1YWxzKG1pc21hdGNoTWVzc2FnZSwgZXhwZWN0ZWRMaW5lcy5zaXplKCksIGFjdHVhbExpbmVzLnNpemUoKSk7CgogICAgZm9yIChpbnQgaSA9IDA7IGkgPCBleHBlY3RlZExpbmVzLnNpemUoKTsgaSsrKSB7CiAgICAgIGFzc2VydEVxdWFscyhtaXNtYXRjaE1lc3NhZ2UsIGV4cGVjdGVkTGluZXMuZ2V0KGkpLCBhY3R1YWxMaW5lcy5nZXQoaSkpOwogICAgfQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhbm5lci5hZGRSdWxlKFVwbVRvRW51bWVyYWJsZUNvbnZlcnRlclJ1bGUuSU5TVEFOQ0UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KChTcWxUb1JlbENvbnZlcnRlcil0aGlzLnRoaXMkMCkuY2x1dXBtX2NvbnZlcnRldXBtX2NvbnZlcnRlcnN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhbm5lci5hZGRSdWxlKFVwbVRvRW51bWVyYWJsZUNvbnZlcnRlclJ1bGUuSU5TVEFOQ0UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">ICAgICAgLmFkZEFsbChQcm9ncmFtcy5saXN0T2YoY29udmVydGVycykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3YWxrZXIuZ2V0VGFibGVBbGlhc2VzKCksCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBSdWxlU2V0IGNvbnZlcnRlcnMgPSBSdWxlU2V0cy5vZkxpc3QoVXBtVG9FbnVtZXJhYmxlQ29udmVydGVyUnVsZS5JTlNUQU5DRSk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXMudG9TdHJpbmcoKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKioKICAgKiAKICAgKi8K</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgUmVsTm9kZSBjb3B5KFJlbFRyYWl0U2V0IHRyYWl0U2V0LCBMaXN0PFJlbE5vZGU+IGlucHV0cykgewogICAgcmV0dXJuIHN1cGVyLmNvcHkodHJhaXRTZXQsIGlucHV0cyk7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBjbGFzcyBVcG1Ub0VudW1lcmFibGVDb252ZXJ0ZXIgZXh0ZW5kcyBDb252ZXJ0ZXJJbXBsIHsKCiAgICAvKioKICAgICAqIENyZWF0ZXMgYSBDb252ZXJ0ZXJJbXBsLgogICAgICoKICAgICAqIEBwYXJhbSBjbHVzdGVyIHBsYW5uZXIncyBjbHVzdGVyCiAgICAgKiBAcGFyYW0gdHJhaXREZWYgdGhlIFJlbFRyYWl0RGVmIHRoaXMgY29udmVydGVyIGNvbnZlcnRzCiAgICAgKiBAcGFyYW0gdHJhaXRzIHRoZSBvdXRwdXQgdHJhaXRzIG9mIHRoaXMgY29udmVydGVyCiAgICAgKiBAcGFyYW0gY2hpbGQgY2hpbGQgcmVsIChwcm92aWRlcyBpbnB1dCB0cmFpdHMpCiAgICAgKi8KICAgIHByb3RlY3RlZCBVcG1Ub0VudW1lcmFibGVDb252ZXJ0ZXIoUmVsT3B0Q2x1c3RlciBjbHVzdGVyLAogICAgICAgIFJlbFRyYWl0RGVmIHRyYWl0RGVmLCBSZWxUcmFpdFNldCB0cmFpdHMsCiAgICAgICAgUmVsTm9kZSBjaGlsZCkgewogICAgICBzdXBlcihjbHVzdGVyLCB0cmFpdERlZiwgdHJhaXRzLCBjaGlsZCk7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiV1RGOlxuIiArIFV0aWxzLmdldFBsYW5Bc1N0cmluZyhuZXdQbGFuKSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Q2xhc3M8PyBleHRlbmRzIFJlbE5vZGU+IGNsYXp6LAogICAgICAgIFJlbFRyYWl0IGluLAogICAgICAgIFJlbFRyYWl0IG91dCwgU3RyaW5nIGRlc2NyaXB0aW9u</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBVdGlscy5nZXRQbGFuQXNTdHJpbmcobmV3UGxhbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBhY3R1YWwgPSBVdGlscy5nZXRQbGFuQXNTdHJpbmcoZGYuZ2V0TG9naWNhbFBsYW4oKSk7CgogICAgTGlzdDxTdHJpbmc+IGV4cGVjdGVkTGluZXMgPSBjb2xsZWN0TGluZXMoZXhwZWN0ZWQpOwogICAgTGlzdDxTdHJpbmc+IGFjdHVhbExpbmVzID0gY29sbGVjdExpbmVzKGFjdHVhbCk7CgogICAgU3RyaW5nIG1pc21hdGNoTWVzc2FnZSA9CiAgICAgICAgIlRoZSBsb2dpY2FsIHBsYW4gd2FzIG5vdCBhcyBleHBlY3RlZC5cbmV4cGVjdGVkOlxuIiArIGV4cGVjdGVkICsgIlxuYWN0dWFsOlxuIiArIGFjdHVhbDsKICAgIGFzc2VydEVxdWFscyhtaXNtYXRjaE1lc3NhZ2UsIGV4cGVjdGVkTGluZXMuc2l6ZSgpLCBhY3R1YWxMaW5lcy5zaXplKCkpOwoKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZXhwZWN0ZWRMaW5lcy5zaXplKCk7IGkrKykgewogICAgICBhc3NlcnRFcXVhbHMobWlzbWF0Y2hNZXNzYWdlLCBleHBlY3RlZExpbmVzLmdldChpKSwgYWN0dWFsTGluZXMuZ2V0KGkpKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\climit</last-search>
+      <last-search>copy</last-search>
       <last-offset />
-      <last-pattern>\climit</last-pattern>
+      <last-pattern>copy</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -657,7 +644,6 @@
       <history-search>
         <entry>create</entry>
         <entry encoding="base64">XDxGb29SZWxcPg==</entry>
-        <entry>copy</entry>
         <entry encoding="base64">XDxQSFlTX0NBTExJTkdfQ09OVkVOVElPTlw+</entry>
         <entry>ensure</entry>
         <entry encoding="base64">XDxwbGFubmVyXD4=</entry>
@@ -675,6 +661,7 @@
         <entry>materialize</entry>
         <entry>TODO</entry>
         <entry>\climit</entry>
+        <entry>copy</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
