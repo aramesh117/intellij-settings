@@ -322,6 +322,10 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/RelNode.java" timestamp="1526333812158">
         <mark key="'" line="401" column="50" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlSelect.java" timestamp="1526431218441">
+        <mark key="'" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlNode.java" timestamp="1526434164163" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraToEnumerableConverter.java" timestamp="1526329998241">
         <mark key="'" line="53" column="15" />
       </file>
@@ -397,8 +401,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1526338565330">
-        <mark key="'" line="152" column="16" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1526431149888">
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="162" column="32" />
         <mark key="]" line="162" column="32" />
         <mark key="^" line="162" column="7" />
@@ -407,8 +411,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptPlanner.java" timestamp="1525911054836">
         <mark key="'" line="197" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" timestamp="1526428045419">
-        <mark key="'" line="104" column="11" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" timestamp="1526431156227">
+        <mark key="'" line="366" column="0" />
         <mark key="[" line="105" column="8" />
         <mark key="]" line="105" column="8" />
         <mark key="." line="105" column="8" />
@@ -495,12 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
-      <jump line="1687" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
-      <jump line="432" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
-      <jump line="1716" column="3" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
-      <jump line="69" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalTableScan.java" />
-      <jump line="47" column="57" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcTableScan.java" />
       <jump line="32" column="61" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraTableScan.java" />
       <jump line="72" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
       <jump line="33" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" />
@@ -595,6 +593,12 @@
       <jump line="1036" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="1684" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
       <jump line="428" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoPlanner.java" />
+      <jump line="149" column="56" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
+      <jump line="123" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
+      <jump line="366" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlSelect.java" />
+      <jump line="14" column="3" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlSelect.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -604,7 +608,7 @@
         <text>NONE</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>\climit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFJlbFRyYWl0U2V0IG5ld1RyYWl0U2V0ID0gcmVsLmdldFRyYWl0U2V0KCkucmVwbGFjZShnZXRPdXRUcmFpdCgpKTsK</text>
@@ -641,9 +645,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>\climit</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>\climit</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -651,7 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getTrait</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxGb29SZWxcPg==</entry>
         <entry>copy</entry>
@@ -671,6 +674,7 @@
         <entry encoding="base64">XDxkYXRhc2V0U2NoZW1hXD4=</entry>
         <entry>materialize</entry>
         <entry>TODO</entry>
+        <entry>\climit</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
