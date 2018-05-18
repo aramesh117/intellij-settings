@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/JdbcAdapterTest.java" timestamp="1526317980877">
         <mark key="'" line="91" column="20" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1526682325939">
+        <mark key="'" line="159" column="4" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmTableLogicalPlanRef.java" timestamp="1526323366119">
         <mark key="'" line="10" column="44" />
       </file>
@@ -190,8 +193,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/MaterializationTest.java" timestamp="1526318822619">
         <mark key="'" line="83" column="13" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" timestamp="1526494164895">
-        <mark key="'" line="180" column="14" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" timestamp="1526682265877">
+        <mark key="'" line="60" column="14" />
         <mark key="[" line="76" column="41" />
         <mark key="]" line="76" column="50" />
         <mark key="." line="76" column="50" />
@@ -486,9 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" />
-      <jump line="64" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" />
-      <jump line="376" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" />
       <jump line="406" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" />
       <jump line="71" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" />
       <jump line="19" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConvention.java" />
@@ -586,6 +586,9 @@
       <jump line="94" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalJoin.java" />
       <jump line="97" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalJoin.java" />
       <jump line="101" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Join.java" />
+      <jump line="60" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" />
+      <jump line="774" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="159" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -595,7 +598,7 @@
         <text>ConcurrentHashMap</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2luVHlwZVw+</text>
+        <text>assertPhysical</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIE1hcDxTdHJpbmcsIFVwbURhdGFzZXQ+IGNvbnN1bWVkRGF0YXNldHMgPSBJbW11dGFibGVNYXAub2YoKTsK</text>
@@ -632,9 +635,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2luVHlwZVw+</last-search>
+      <last-search>assertPhysical</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2luVHlwZVw+</last-pattern>
+      <last-pattern>assertPhysical</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -642,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ensure</entry>
         <entry encoding="base64">XDxwbGFubmVyXD4=</entry>
         <entry>addRule</entry>
         <entry encoding="base64">XDxlbXB0eVRyYWl0U2V0XD4=</entry>
@@ -662,6 +664,7 @@
         <entry>materialize</entry>
         <entry encoding="base64">XDxzcWxMaXN0XD4=</entry>
         <entry encoding="base64">XDxqb2luVHlwZVw+</entry>
+        <entry>assertPhysical</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
