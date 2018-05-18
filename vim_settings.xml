@@ -390,8 +390,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptPlanner.java" timestamp="1525911054836">
         <mark key="'" line="197" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" timestamp="1526677448974">
-        <mark key="'" line="140" column="17" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" timestamp="1526680356996">
+        <mark key="'" line="178" column="20" />
         <mark key="[" line="128" column="48" />
         <mark key="]" line="128" column="48" />
         <mark key="." line="128" column="48" />
@@ -476,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/linq4j/src/main/java/org/apache/calcite/linq4j/tree/Expressions.java" />
-      <jump line="67" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/SparkToEnumerableConverter.java" />
       <jump line="23" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UnionElements.java" />
       <jump line="58" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" />
       <jump line="17" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/FuncElements.java" />
@@ -576,6 +574,8 @@
       <jump line="209" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="358" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="140" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
+      <jump line="262" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
+      <jump line="178" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -585,7 +585,7 @@
         <text>ConcurrentHashMap</text>
       </register>
       <register name="/" type="4">
-        <text>materialize</text>
+        <text encoding="base64">XDxzcWxMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIE1hcDxTdHJpbmcsIFVwbURhdGFzZXQ+IGNvbnN1bWVkRGF0YXNldHMgPSBJbW11dGFibGVNYXAub2YoKTsK</text>
@@ -622,17 +622,16 @@
       </register>
     </registers>
     <search>
-      <last-search>materialize</last-search>
+      <last-search encoding="base64">XDxzcWxMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>materialize</last-pattern>
+      <last-pattern encoding="base64">XDxzcWxMaXN0XD4=</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGb29SZWxcPg==</entry>
         <entry encoding="base64">XDxQSFlTX0NBTExJTkdfQ09OVkVOVElPTlw+</entry>
         <entry>ensure</entry>
         <entry encoding="base64">XDxwbGFubmVyXD4=</entry>
@@ -652,6 +651,7 @@
         <entry>copy</entry>
         <entry encoding="base64">XDxkcm9wUGFydGl0aW9uU3FsXD4=</entry>
         <entry>materialize</entry>
+        <entry encoding="base64">XDxzcWxMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
