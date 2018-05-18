@@ -164,6 +164,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/interpreter/NoneToBindableConverterRule.java" timestamp="1526323064365">
         <mark key="'" line="49" column="15" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDataFrameSubDag.json" timestamp="1526686170141">
+        <mark key="'" line="126" column="0" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/RelLogicalSqlWalker.java" timestamp="1525977719738">
         <mark key="'" line="75" column="35" />
         <mark key="[" line="47" column="29" />
@@ -193,7 +196,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/MaterializationTest.java" timestamp="1526318822619">
         <mark key="'" line="83" column="13" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" timestamp="1526682265877">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" timestamp="1526685791017">
         <mark key="'" line="60" column="14" />
         <mark key="[" line="76" column="41" />
         <mark key="]" line="76" column="50" />
@@ -481,18 +484,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/interpreter/BindableConvention.java" timestamp="1526322667368">
         <mark key="'" line="34" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1526337819468">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="60" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" />
-      <jump line="19" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConvention.java" />
-      <jump line="47" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/PlannerTests.java" />
       <jump line="135" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/PlannerTests.java" />
       <jump line="589" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="127" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
@@ -589,6 +582,10 @@
       <jump line="60" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="774" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="159" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDataFrameSubDag.json" />
+      <jump line="22" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDataFrameSubDag.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDataFrameSubDag.json" />
+      <jump line="126" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDataFrameSubDag.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -598,7 +595,7 @@
         <text>ConcurrentHashMap</text>
       </register>
       <register name="/" type="4">
-        <text>assertPhysical</text>
+        <text>35</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIE1hcDxTdHJpbmcsIFVwbURhdGFzZXQ+IGNvbnN1bWVkRGF0YXNldHMgPSBJbW11dGFibGVNYXAub2YoKTsK</text>
@@ -635,9 +632,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assertPhysical</last-search>
+      <last-search>35</last-search>
       <last-offset />
-      <last-pattern>assertPhysical</last-pattern>
+      <last-pattern>35</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -645,7 +642,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbGFubmVyXD4=</entry>
         <entry>addRule</entry>
         <entry encoding="base64">XDxlbXB0eVRyYWl0U2V0XD4=</entry>
         <entry>\cConvention</entry>
@@ -665,6 +661,7 @@
         <entry encoding="base64">XDxzcWxMaXN0XD4=</entry>
         <entry encoding="base64">XDxqb2luVHlwZVw+</entry>
         <entry>assertPhysical</entry>
+        <entry>35</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
