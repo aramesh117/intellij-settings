@@ -6,8 +6,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/JdbcAdapterTest.java" timestamp="1526317980877">
         <mark key="'" line="91" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1526687345896">
-        <mark key="'" line="506" column="26" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1526688712939">
+        <mark key="'" line="380" column="14" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmTableLogicalPlanRef.java" timestamp="1526323366119">
         <mark key="'" line="10" column="44" />
@@ -486,7 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/SparkHandlerImpl.java" />
       <jump line="44" column="56" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/SparkHandlerImpl.java" />
       <jump line="32" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/LogicalPlannerRules.java" />
       <jump line="32" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/EnumerableToSparkConverterRule.java" />
@@ -586,6 +585,7 @@
       <jump line="152" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="40" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" />
       <jump line="506" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="380" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -595,7 +595,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>\cexplicit</text>
+        <text>\csubdag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIE1hcDxTdHJpbmcsIFVwbURhdGFzZXQ+IGNvbnN1bWVkRGF0YXNldHMgPSBJbW11dGFibGVNYXAub2YoKTsK</text>
@@ -632,9 +632,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cexplicit</last-search>
+      <last-search>\csubdag</last-search>
       <last-offset />
-      <last-pattern>\cexplicit</last-pattern>
+      <last-pattern>\csubdag</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -658,10 +658,10 @@
         <entry encoding="base64">XDxqb2luVHlwZVw+</entry>
         <entry>assertPhysical</entry>
         <entry>35</entry>
-        <entry>\csubdag</entry>
         <entry>assertPhysicalPna</entry>
         <entry>explicit</entry>
         <entry>\cexplicit</entry>
+        <entry>\csubdag</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
