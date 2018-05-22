@@ -19,6 +19,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalProject.java" timestamp="1526324908546">
         <mark key="'" line="111" column="27" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/JavaTypeFactoryImpl.java" timestamp="1527032323085">
+        <mark key="'" line="83" column="16" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/tools/Frameworks.java" timestamp="1526337941242">
         <mark key="'" line="319" column="11" />
       </file>
@@ -414,6 +417,7 @@
         <mark key="." line="45" column="39" />
         <mark key="^" line="45" column="39" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/main/java/com/facebook/upm/hive/schema/HiveTypeConverter.java" timestamp="1527032900033" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/enumerable/EnumerableConvention.java" timestamp="1526330139409">
         <mark key="'" line="29" column="44" />
       </file>
@@ -467,9 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" />
-      <jump line="123" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="366" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="33" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlSelect.java" />
       <jump line="14" column="3" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlSelect.java" />
       <jump line="39" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" />
@@ -567,6 +568,9 @@
       <jump line="285" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="9" column="174" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testHourlyScheduleInference.json" />
       <jump line="63" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testHourlyScheduleInference.json" />
+      <jump line="59" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/JavaTypeFactoryImpl.java" />
+      <jump line="73" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/JavaTypeFactoryImpl.java" />
+      <jump line="83" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/JavaTypeFactoryImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -576,7 +580,7 @@
         <text>df3.getPhysicalPlan(upmHints)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJ0aXRpb25MaXN0XD4=</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihVdGlscy5nZXRQbGFuQXNKc29uU3RyaW5nKGRmMy5nZXRQaHlzaWNhbFBsYW4odXBtSGludHMpKSk7Cg==</text>
@@ -613,17 +617,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJ0aXRpb25MaXN0XD4=</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJ0aXRpb25MaXN0XD4=</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcWxMaXN0XD4=</entry>
         <entry encoding="base64">XDxqb2luVHlwZVw+</entry>
         <entry>35</entry>
         <entry>assertPhysicalPna</entry>
@@ -643,6 +646,7 @@
         <entry>save</entry>
         <entry>materialize</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25MaXN0XD4=</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
