@@ -6,12 +6,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/JdbcAdapterTest.java" timestamp="1526317980877">
         <mark key="'" line="91" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1526954259860">
-        <mark key="'" line="447" column="14" />
-        <mark key="[" line="501" column="11" />
-        <mark key="]" line="523" column="5" />
-        <mark key="." line="487" column="0" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmTableLogicalPlanRef.java" timestamp="1526323366119">
         <mark key="'" line="10" column="44" />
       </file>
@@ -50,11 +44,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/SingleNonSql.java" timestamp="1526332851905">
         <mark key="'" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" timestamp="1526962923509">
-        <mark key="'" line="63" column="49" />
-        <mark key="[" line="65" column="49" />
-        <mark key="]" line="65" column="52" />
-        <mark key="." line="65" column="52" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" timestamp="1527012720929">
+        <mark key="'" line="49" column="14" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="65" column="52" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraTableScan.java" timestamp="1526329902093">
@@ -398,9 +392,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptPlanner.java" timestamp="1525911054836">
         <mark key="'" line="197" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" timestamp="1527010953517">
-        <mark key="'" line="208" column="0" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/SparkHandlerImpl.java" timestamp="1526334117009">
         <mark key="'" line="44" column="56" />
       </file>
@@ -474,8 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmSqlPlanner.java" />
-      <jump line="74" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmSqlPlanner.java" />
       <jump line="97" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmSqlPlanner.java" />
       <jump line="24" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConvention.java" />
       <jump line="29" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConvention.java" />
@@ -574,10 +563,12 @@
       <jump line="228" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="258" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="208" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
+      <jump line="50" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>df3.getPhysicalPlan(upmHints)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLkpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="-" type="4">
         <text>df3.getPhysicalPlan(upmHints)</text>
@@ -589,31 +580,31 @@
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihVdGlscy5nZXRQbGFuQXNKc29uU3RyaW5nKGRmMy5nZXRQaHlzaWNhbFBsYW4odXBtSGludHMpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLkpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihVaXRscy4pOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">bmV3IFVzZXJGdW5jdGlvbigpIHsKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBSZWxEYXRhVHlwZSBnZXRSZXR1cm5UeXBlKFJlbERhdGFUeXBlRmFjdG9yeSB0eXBlRmFjdG9yeSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CgogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIFN0cmluZyBnZXRWYWx1ZSgpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgfQoKICAgICAgQE92ZXJyaWRlCiAgICAgIHB1YmxpYyBMaXN0PEZ1bmN0aW9uUGFyYW1ldGVyPiBnZXRQYXJhbWV0ZXJzKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgICB9CiAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRmLgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRmLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
