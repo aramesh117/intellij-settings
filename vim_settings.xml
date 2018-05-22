@@ -95,6 +95,9 @@
         <mark key="^" line="61" column="85" />
         <mark key="." line="61" column="85" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1527012728680">
+        <mark key="'" line="288" column="53" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/pig/src/main/java/org/apache/calcite/adapter/pig/PigRules.java" timestamp="1526318203924">
         <mark key="'" line="56" column="6" />
       </file>
@@ -465,7 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmSqlPlanner.java" />
       <jump line="24" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConvention.java" />
       <jump line="29" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConvention.java" />
       <jump line="33" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/Convention.java" />
@@ -565,6 +567,7 @@
       <jump line="208" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="61" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="50" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
+      <jump line="288" column="53" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -574,7 +577,7 @@
         <text>df3.getPhysicalPlan(upmHints)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRlcmlhbGl6ZVRvVGFibGVcPg==</text>
+        <text>setConsumed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihVdGlscy5nZXRQbGFuQXNKc29uU3RyaW5nKGRmMy5nZXRQaHlzaWNhbFBsYW4odXBtSGludHMpKSk7Cg==</text>
@@ -611,17 +614,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXRlcmlhbGl6ZVRvVGFibGVcPg==</last-search>
+      <last-search>setConsumed</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRlcmlhbGl6ZVRvVGFibGVcPg==</last-pattern>
+      <last-pattern>setConsumed</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>copy</entry>
         <entry encoding="base64">XDxkcm9wUGFydGl0aW9uU3FsXD4=</entry>
         <entry encoding="base64">XDxzcWxMaXN0XD4=</entry>
         <entry encoding="base64">XDxqb2luVHlwZVw+</entry>
@@ -641,6 +643,7 @@
         <entry>toString</entry>
         <entry>materialize\c</entry>
         <entry encoding="base64">XDxtYXRlcmlhbGl6ZVRvVGFibGVcPg==</entry>
+        <entry>setConsumed</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
