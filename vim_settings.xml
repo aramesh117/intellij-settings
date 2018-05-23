@@ -275,8 +275,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcToEnumerableConverter.java" timestamp="1526320054465">
         <mark key="'" line="60" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/impl/AbstractTable.java" timestamp="1526323367785">
-        <mark key="'" line="37" column="22" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/impl/AbstractTable.java" timestamp="1527097915782">
+        <mark key="'" line="37" column="54" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/adapter/UpmTableScan.java" timestamp="1526323176463">
         <mark key="'" line="17" column="13" />
@@ -481,9 +481,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/GroupByElements.java" timestamp="1527035002389" />
     </filemarks>
     <jumps>
-      <jump line="748" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="485" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="747" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="145" column="85" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="101" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/Utils.java" />
       <jump line="93" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/Utils.java" />
@@ -581,6 +578,9 @@
       <jump line="48" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/util/ImmutableBitSet.java" />
       <jump line="61" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" />
       <jump line="42" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" />
+      <jump line="67" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/impl/AbstractTable.java" />
+      <jump line="37" column="54" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/impl/AbstractTable.java" />
+      <jump line="21" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/Wrapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
