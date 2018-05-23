@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/JdbcAdapterTest.java" timestamp="1526317980877">
         <mark key="'" line="91" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1527035595452">
-        <mark key="'" line="614" column="22" />
-        <mark key="[" line="620" column="33" />
-        <mark key="]" line="620" column="48" />
-        <mark key="." line="620" column="48" />
-        <mark key="^" line="620" column="48" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1527037666157">
+        <mark key="'" line="615" column="22" />
+        <mark key="[" line="623" column="65" />
+        <mark key="]" line="623" column="65" />
+        <mark key="." line="623" column="65" />
+        <mark key="^" line="623" column="65" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmTableLogicalPlanRef.java" timestamp="1526323366119">
         <mark key="'" line="10" column="44" />
@@ -339,6 +339,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1525891234120">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" timestamp="1527037719253">
+        <mark key="'" line="42" column="44" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/metadata/RelMdCollation.java" timestamp="1526324160807">
         <mark key="'" line="120" column="23" />
       </file>
@@ -478,10 +481,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/GroupByElements.java" timestamp="1527035002389" />
     </filemarks>
     <jumps>
-      <jump line="40" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" />
-      <jump line="506" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="380" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="163" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="748" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="485" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="747" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
@@ -578,16 +577,20 @@
       <jump line="30" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/CoreQuidemTest.java" />
       <jump line="14" column="18" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Ignore.class" />
       <jump line="43" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/MultiJdbcSchemaJoinTest.java" />
+      <jump line="53" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" />
+      <jump line="48" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/util/ImmutableBitSet.java" />
+      <jump line="61" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" />
+      <jump line="42" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>testEnumerable</text>
+        <text encoding="base64">XDxncm91cFNldFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVwbUNvbmZpZ3VyYXRpb24gdXBtQ29uZmlndXJhdGlvbiA9IG5ldyBVcG1Db25maWd1cmF0aW9uKCk7CiAgICB1cG1Db25maWd1cmF0aW9uLnB1dCgic2NoZWR1bGUiLCAiQGRhaWx5Iik7CiAgICB1cG1Db25maWd1cmF0aW9uLnB1dCgic2NoZWR1bGVyIiwgIkxvZ2dlciIpOwogICAgdXBtQ29uZmlndXJhdGlvbi5wdXQoImRzIiwgImFiY2QiKTsKICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KCJuYW1lc3BhY2UiLCAiYmkiKTsKICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KCJtb2RlIiwgImJ1aWxkIik7Cg==</text>
@@ -624,9 +627,9 @@
       </register>
     </registers>
     <search>
-      <last-search>testEnumerable</last-search>
+      <last-search encoding="base64">XDxncm91cFNldFw+</last-search>
       <last-offset />
-      <last-pattern>testEnumerable</last-pattern>
+      <last-pattern encoding="base64">XDxncm91cFNldFw+</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -634,7 +637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PARTITIONED</entry>
         <entry>toString</entry>
         <entry>materialize\c</entry>
         <entry encoding="base64">XDxtYXRlcmlhbGl6ZVRvVGFibGVcPg==</entry>
@@ -654,6 +656,7 @@
         <entry>testGroupBy</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0XD4=</entry>
         <entry>testEnumerable</entry>
+        <entry encoding="base64">XDxncm91cFNldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
