@@ -123,6 +123,9 @@
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/collect/Maps.java" timestamp="1525826441658">
         <mark key="'" line="409" column="17" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" timestamp="1527623228536">
+        <mark key="'" line="113" column="23" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/TraitConversionTest.java" timestamp="1526322710977">
         <mark key="'" line="191" column="23" />
       </file>
@@ -215,6 +218,9 @@
         <mark key="^" line="83" column="6" />
         <mark key="." line="83" column="6" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" timestamp="1527623123862">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/Utils.java" timestamp="1526946633801">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -289,6 +295,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoCost.java" timestamp="1525908519760">
         <mark key="'" line="230" column="25" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/streaming/src/main/scala/org/apache/spark/streaming/dstream/FileInputDStream.scala" timestamp="1527623258679">
+        <mark key="'" line="361" column="6" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcToEnumerableConverter.java" timestamp="1526320054465">
         <mark key="'" line="60" column="19" />
@@ -499,9 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="120" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
-      <jump line="163" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" />
-      <jump line="88" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
       <jump line="50" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="178" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="321" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
@@ -599,6 +605,9 @@
       <jump line="566" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
       <jump line="12" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/api/ColumnValueOperation.java" />
       <jump line="9" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" />
+      <jump line="113" column="23" filename="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" />
+      <jump line="361" column="6" filename="$USER_HOME$/fb-spark/streaming/src/main/scala/org/apache/spark/streaming/dstream/FileInputDStream.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
