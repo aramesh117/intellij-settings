@@ -123,8 +123,8 @@
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/collect/Maps.java" timestamp="1525826441658">
         <mark key="'" line="409" column="17" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" timestamp="1527623228536">
-        <mark key="'" line="113" column="23" />
+      <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" timestamp="1527623987450">
+        <mark key="'" line="43" column="16" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/TraitConversionTest.java" timestamp="1526322710977">
         <mark key="'" line="191" column="23" />
@@ -508,8 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="178" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="321" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="27" column="80" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
       <jump line="27" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
@@ -608,6 +606,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" />
       <jump line="113" column="23" filename="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" />
       <jump line="361" column="6" filename="$USER_HOME$/fb-spark/streaming/src/main/scala/org/apache/spark/streaming/dstream/FileInputDStream.scala" />
+      <jump line="155" column="19" filename="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" />
+      <jump line="43" column="16" filename="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -617,7 +617,7 @@
         <text>, defaultImpl = JsonMapSchema.class</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXlcPg==</text>
+        <text encoding="base64">XDxmaWxlRm9ybWF0c1RvVGVzdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVwbUNvbmZpZ3VyYXRpb24gdXBtQ29uZmlndXJhdGlvbiA9IG5ldyBVcG1Db25maWd1cmF0aW9uKCk7CiAgICB1cG1Db25maWd1cmF0aW9uLnB1dCgic2NoZWR1bGUiLCAiQGRhaWx5Iik7CiAgICB1cG1Db25maWd1cmF0aW9uLnB1dCgic2NoZWR1bGVyIiwgIkxvZ2dlciIpOwogICAgdXBtQ29uZmlndXJhdGlvbi5wdXQoImRzIiwgImFiY2QiKTsKICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KCJuYW1lc3BhY2UiLCAiYmkiKTsKICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KCJtb2RlIiwgImJ1aWxkIik7Cg==</text>
@@ -654,17 +654,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrZXlcPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlRm9ybWF0c1RvVGVzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlRm9ybWF0c1RvVGVzdFw+</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
         <entry>materialize</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25MaXN0XD4=</entry>
         <entry>create</entry>
@@ -684,6 +683,7 @@
         <entry>explain</entry>
         <entry>get(</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry encoding="base64">XDxmaWxlRm9ybWF0c1RvVGVzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
