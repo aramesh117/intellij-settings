@@ -269,6 +269,9 @@
         <mark key="." line="53" column="58" />
         <mark key="^" line="53" column="58" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/common/FileUtils.class" timestamp="1527705920394">
+        <mark key="'" line="189" column="34" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/MultiJdbcSchemaJoinTest.java" timestamp="1527036081002">
         <mark key="'" line="44" column="13" />
         <mark key="[" line="131" column="0" />
@@ -517,7 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="144" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="767" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="213" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
@@ -617,6 +619,7 @@
       <jump line="201" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java" />
       <jump line="196" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java" />
       <jump line="36" column="13" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="189" column="34" filename="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/common/FileUtils.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
