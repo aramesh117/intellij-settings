@@ -72,12 +72,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1525979315721">
         <mark key="'" line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/api/ColumnValueOperation.java" timestamp="1527207155237">
-        <mark key="'" line="12" column="17" />
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="6" column="59" />
-        <mark key="." line="6" column="59" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/pig/src/main/java/org/apache/calcite/adapter/pig/PigRules.java" timestamp="1526318203924">
         <mark key="'" line="56" column="6" />
       </file>
@@ -102,7 +96,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1527102409996">
         <mark key="'" line="566" column="45" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" timestamp="1527705170025">
+      <file name="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" timestamp="1528143930103">
         <mark key="'" line="56" column="56" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/convert/NoneConverter.java" timestamp="1526320086185">
@@ -178,14 +172,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/FuncElements.java" timestamp="1526332850881">
         <mark key="'" line="17" column="43" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/common/FileUtils.class" timestamp="1527705920394">
-        <mark key="'" line="189" column="34" />
-      </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" timestamp="1527207178826">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/common/FileUtils.class" timestamp="1528144129647">
+        <mark key="'" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcTableScan.java" timestamp="1526326287270">
         <mark key="'" line="47" column="57" />
@@ -219,8 +207,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" timestamp="1526337176951">
         <mark key="'" line="389" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" timestamp="1527705773257">
-        <mark key="'" line="36" column="13" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" timestamp="1528144133774">
+        <mark key="'" line="77" column="41" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/RelNode.java" timestamp="1526333812158">
         <mark key="'" line="401" column="50" />
@@ -350,9 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/JavaTypeFactoryImpl.java" />
-      <jump line="73" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/JavaTypeFactoryImpl.java" />
-      <jump line="83" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/JavaTypeFactoryImpl.java" />
       <jump line="55" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlNode.java" />
       <jump line="98" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="2191" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
@@ -428,7 +413,6 @@
       <jump line="63" column="30" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-ql/0.11.0-FB-18/hive-ql-0.11.0-FB-18.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="1347" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
       <jump line="1079" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="56" column="56" filename="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="205" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/CombineFileInputFormat.java" />
       <jump line="197" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java" />
       <jump line="170" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java" />
@@ -450,6 +434,10 @@
       <jump line="559" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/pom.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/pom.xml" />
+      <jump line="56" column="56" filename="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
+      <jump line="69" column="63" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="77" column="41" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="49" column="0" filename="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/common/FileUtils.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -459,7 +447,7 @@
         <text>prepare-package</text>
       </register>
       <register name="/" type="4">
-        <text>scala-maven</text>
+        <text>HIDDEn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnNjYWxhLWRvY3M8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wcmVwYXJlLXBhY2thZ2U8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+ZG9jPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
@@ -496,18 +484,16 @@
       </register>
     </registers>
     <search>
-      <last-search>scala-maven</last-search>
+      <last-search>HIDDEn</last-search>
       <last-offset />
-      <last-pattern>scala-maven</last-pattern>
+      <last-pattern>HIDDEn</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SqlAlter</entry>
-        <entry encoding="base64">XDxTcWxBbHRlclw+</entry>
         <entry encoding="base64">XDxhbHRlck5vZGVcPg==</entry>
         <entry>GROUP</entry>
         <entry encoding="base64">XDxsaXN0XD4=</entry>
@@ -524,8 +510,10 @@
         <entry encoding="base64">XDxmaWxlRm9ybWF0c1RvVGVzdFw+</entry>
         <entry>hive</entry>
         <entry>dep.hive.version</entry>
-        <entry>listStatus</entry>
         <entry>scala-maven</entry>
+        <entry>glob</entry>
+        <entry>listStatus</entry>
+        <entry>HIDDEn</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
