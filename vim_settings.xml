@@ -87,6 +87,7 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" timestamp="1527703293909">
         <mark key="'" line="187" column="16" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" timestamp="1528145807201" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/TraitConversionTest.java" timestamp="1526322710977">
         <mark key="'" line="191" column="23" />
       </file>
@@ -175,6 +176,11 @@
       <file name="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/common/FileUtils.class" timestamp="1528144129647">
         <mark key="'" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/sdk/appsdk/src/main/scala/com/facebook/spark/common/Utils.scala" timestamp="1528147995216">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcTableScan.java" timestamp="1526326287270">
         <mark key="'" line="47" column="57" />
       </file>
@@ -198,9 +204,16 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/impl/AbstractTable.java" timestamp="1527097915782">
         <mark key="'" line="37" column="54" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/SimpleTextHadoopFsRelationSuite.scala" timestamp="1528147438484">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="24" />
+        <mark key="." line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/rules/FilterMergeRule.java" timestamp="1525910430954">
         <mark key="'" line="82" column="9" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/ArrayType.scala" timestamp="1528147636041" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rex/RexSubQuery.java" timestamp="1525806958301">
         <mark key="'" line="48" column="30" />
       </file>
@@ -267,6 +280,13 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/ConventionTraitDef.java" timestamp="1526338120908">
         <mark key="'" line="233" column="0" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" timestamp="1528147535371">
+        <mark key="'" line="988" column="22" />
+        <mark key="[" line="989" column="18" />
+        <mark key="]" line="989" column="17" />
+        <mark key="." line="989" column="17" />
+        <mark key="^" line="989" column="17" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/pig/src/main/java/org/apache/calcite/adapter/pig/PigToEnumerableConverter.java" timestamp="1526330039589">
         <mark key="'" line="40" column="15" />
       </file>
@@ -322,6 +342,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UnionElements.java" timestamp="1526332790155">
         <mark key="'" line="23" column="13" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/sql/parser/SqlParserTest.java" timestamp="1528145759145" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PipelineTests.java" timestamp="1528145624985" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFlowHackathonTest.java" timestamp="1526085849175">
         <mark key="'" line="10" column="13" />
       </file>
@@ -348,8 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3628" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="12" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="3631" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="3635" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="3581" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
@@ -448,63 +468,64 @@
       <jump line="87" column="17" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="77" column="41" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
       <jump line="91" column="32" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
+      <jump line="988" column="22" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" />
+      <jump line="55" column="11" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/ArrayType.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prepare-package</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXlUeXBlKG51bGwsIGNvbnRhaW5zTnVsbCA9IHRydWUpCiAgICBhLmVsZW1lbnRUeXBlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>prepare-package</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0U3RhdHVzXD4=</text>
+        <text>aggregate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnNjYWxhLWRvY3M8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wcmVwYXJlLXBhY2thZ2U8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+ZG9jPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9leGVjdXRpb24+Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXlUeXBlKG51bGwsIGNvbnRhaW5zTnVsbCA9IHRydWUpCiAgICBhLmVsZW1lbnRUeXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGV4ZWN1dGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZENhcGFjaXR5Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlkPnNjYWxhLWRvY3M8L2lkPgo=</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZFR5cGUuZWxlbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxleGUK</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZFR5cGUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGVjdXRpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4ZWN1dGlvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9iamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlkPnNjYWxhLWRvY3M8L2lkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxleGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0U3RhdHVzXD4=</last-search>
+      <last-search>aggregate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0U3RhdHVzXD4=</last-pattern>
+      <last-pattern>aggregate</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GROUP</entry>
         <entry encoding="base64">XDxsaXN0XD4=</entry>
         <entry encoding="base64">XDxlXD4=</entry>
         <entry encoding="base64">XDx0ZXN0R3JvdXBCeVw+</entry>
@@ -524,6 +545,7 @@
         <entry>listStatus</entry>
         <entry>HIDDEn</entry>
         <entry encoding="base64">XDxsaXN0U3RhdHVzXD4=</entry>
+        <entry>aggregate</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
