@@ -317,6 +317,19 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testHourlyScheduleInference.json" timestamp="1527022264046">
         <mark key="'" line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVectorUtils.java" timestamp="1528148052091">
+        <mark key="'" line="176" column="42" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/src/main/java/org/apache/spark/deploy/webservice/LocalDiskManager.java" timestamp="1528148285482">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="63" column="37" />
+        <mark key="]" line="64" column="36" />
+        <mark key="^" line="64" column="36" />
+        <mark key="." line="64" column="36" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/pom.xml" timestamp="1527895134432">
         <mark key="'" line="1" column="0" />
       </file>
@@ -370,8 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3631" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="3635" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="3581" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="5659" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="5740" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
@@ -469,11 +480,13 @@
       <jump line="77" column="41" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
       <jump line="91" column="32" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="988" column="22" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" />
-      <jump line="55" column="11" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/ArrayType.scala" />
+      <jump line="176" column="42" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVectorUtils.java" />
+      <jump line="55" column="21" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/ArrayType.scala" />
+      <jump line="16" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/src/main/java/org/apache/spark/deploy/webservice/LocalDiskManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXlUeXBlKG51bGwsIGNvbnRhaW5zTnVsbCA9IHRydWUpCiAgICBhLmVsZW1lbnRUeXBlCg==</text>
+        <text encoding="base64">ICAgICAgYXQuCg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -485,31 +498,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnNjYWxhLWRvY3M8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT5wcmVwYXJlLXBhY2thZ2U8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+ZG9jPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZ29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXlUeXBlKG51bGwsIGNvbnRhaW5zTnVsbCA9IHRydWUpCiAgICBhLmVsZW1lbnRUeXBlCg==</text>
+        <text encoding="base64">ICAgICAgYXQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZENhcGFjaXR5Lgo=</text>
+        <text encoding="base64">ICAgICAgYXQuZWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZFR5cGUuZWxlbQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXlUeXBlKG51bGwsIGNvbnRhaW5zTnVsbCA9IHRydWUpCiAgICBhLmVsZW1lbnRUeXBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZFR5cGUuCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZENhcGFjaXR5Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9leGVjdXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZFR5cGUuZWxlbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGV4ZWN1dGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZFR5cGUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlkPnNjYWxhLWRvY3M8L2lkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9leGVjdXRpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxleGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGV4ZWN1dGlvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlkPnNjYWxhLWRvY3M8L2lkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
