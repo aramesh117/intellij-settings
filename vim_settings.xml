@@ -239,8 +239,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" timestamp="1526333473358">
         <mark key="'" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" timestamp="1528229541448">
-        <mark key="'" line="292" column="25" />
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" timestamp="1528234062064">
+        <mark key="'" line="305" column="19" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1527704796130">
         <mark key="'" line="10" column="0" />
@@ -379,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2178" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="65" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlNodeList.java" />
       <jump line="2184" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="2177" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
@@ -476,9 +475,10 @@
       <jump line="983" column="24" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" />
       <jump line="43" column="57" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/UserDefinedType.scala" />
       <jump line="86" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
-      <jump line="305" column="32" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
       <jump line="288" column="14" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
       <jump line="292" column="25" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
+      <jump line="286" column="70" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
+      <jump line="305" column="19" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -488,7 +488,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>map</text>
+        <text>eval</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLnR5cGVzLio7Cg==</text>
@@ -525,9 +525,9 @@
       </register>
     </registers>
     <search>
-      <last-search>map</last-search>
+      <last-search>eval</last-search>
       <last-offset />
-      <last-pattern>map</last-pattern>
+      <last-pattern>eval</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -535,7 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0R3JvdXBCeVw+</entry>
         <entry>testGroupBy</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0XD4=</entry>
         <entry>testEnumerable</entry>
@@ -555,6 +554,7 @@
         <entry encoding="base64">XDxsaXN0U3RhdHVzXD4=</entry>
         <entry>ArrayType</entry>
         <entry>map</entry>
+        <entry>eval</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
