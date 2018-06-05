@@ -114,8 +114,16 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/RelVisitor.java" timestamp="1525910510978">
         <mark key="'" line="20" column="43" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" timestamp="1528238779015">
+        <mark key="'" line="85" column="19" />
+        <mark key="[" line="156" column="23" />
+        <mark key="]" line="156" column="31" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalFilter.java" timestamp="1525911378380">
         <mark key="'" line="47" column="41" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/BoundAttribute.scala" timestamp="1528238790552">
+        <mark key="'" line="96" column="10" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class" timestamp="1525921435450">
         <mark key="'" line="144" column="19" />
@@ -300,6 +308,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Aggregate.java" timestamp="1527102018748">
         <mark key="'" line="460" column="4" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/hive/execution/HiveBucketingSuite.scala" timestamp="1528238484681">
+        <mark key="'" line="139" column="53" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1526431149888">
         <mark key="'" line="39" column="0" />
       </file>
@@ -379,17 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlNodeList.java" />
-      <jump line="2184" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="2177" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="2183" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="2193" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="2195" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="2194" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="2235" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="22571" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
-      <jump line="443" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="353" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="359" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="616" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="111" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
@@ -479,19 +479,30 @@
       <jump line="292" column="25" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
       <jump line="286" column="70" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
       <jump line="305" column="19" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
+      <jump line="139" column="53" filename="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/hive/execution/HiveBucketingSuite.scala" />
+      <jump line="54" column="4" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
+      <jump line="58" column="10" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
+      <jump line="73" column="48" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
+      <jump line="83" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
+      <jump line="129" column="29" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
+      <jump line="284" column="6" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/MetastoreRelation.scala" />
+      <jump line="177" column="4" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
+      <jump line="159" column="14" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
+      <jump line="85" column="19" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
+      <jump line="96" column="10" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/BoundAttribute.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLnR5cGVzLio7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t14055763</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>eval</text>
+        <text encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLnR5cGVzLio7Cg==</text>
+      <register name="0" type="4">
+        <text>t14055763</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYXQuCg==</text>
@@ -525,9 +536,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eval</last-search>
+      <last-search encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</last-search>
       <last-offset />
-      <last-pattern>eval</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -535,8 +546,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testGroupBy</entry>
-        <entry encoding="base64">XDxnZXRDb250ZXh0XD4=</entry>
         <entry>testEnumerable</entry>
         <entry encoding="base64">XDxncm91cFNldFw+</entry>
         <entry>data\cframesave</entry>
@@ -555,6 +564,8 @@
         <entry>ArrayType</entry>
         <entry>map</entry>
         <entry>eval</entry>
+        <entry>toString</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
