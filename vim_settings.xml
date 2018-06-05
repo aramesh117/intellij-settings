@@ -239,8 +239,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" timestamp="1526333473358">
         <mark key="'" line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" timestamp="1528224744450">
-        <mark key="'" line="305" column="32" />
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" timestamp="1528227024984">
+        <mark key="'" line="292" column="25" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1527704796130">
         <mark key="'" line="10" column="0" />
@@ -379,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlNodeList.java" />
       <jump line="2178" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
       <jump line="65" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlNodeList.java" />
       <jump line="2184" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" />
@@ -479,6 +478,7 @@
       <jump line="86" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/Expression.scala" />
       <jump line="305" column="32" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
       <jump line="288" column="14" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
+      <jump line="292" column="25" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -488,7 +488,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>ArrayType</text>
+        <text>map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLnR5cGVzLio7Cg==</text>
@@ -525,17 +525,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ArrayType</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>ArrayType</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlXD4=</entry>
         <entry encoding="base64">XDx0ZXN0R3JvdXBCeVw+</entry>
         <entry>testGroupBy</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0XD4=</entry>
@@ -555,6 +554,7 @@
         <entry>aggregate</entry>
         <entry encoding="base64">XDxsaXN0U3RhdHVzXD4=</entry>
         <entry>ArrayType</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
