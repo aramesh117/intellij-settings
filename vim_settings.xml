@@ -190,6 +190,9 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/Partitioner.scala" timestamp="1528243113800">
+        <mark key="'" line="58" column="53" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcTableScan.java" timestamp="1526326287270">
         <mark key="'" line="47" column="57" />
       </file>
@@ -312,6 +315,9 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/hive/execution/HiveBucketingSuite.scala" timestamp="1528238484681">
         <mark key="'" line="139" column="53" />
       </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1528243133747">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1526431149888">
         <mark key="'" line="39" column="0" />
       </file>
@@ -391,22 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="616" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="111" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="614" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="531" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="147" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="30" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/CoreQuidemTest.java" />
-      <jump line="14" column="18" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Ignore.class" />
-      <jump line="43" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/MultiJdbcSchemaJoinTest.java" />
-      <jump line="53" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" />
-      <jump line="48" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/util/ImmutableBitSet.java" />
-      <jump line="61" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" />
-      <jump line="67" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/impl/AbstractTable.java" />
-      <jump line="37" column="54" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/impl/AbstractTable.java" />
-      <jump line="21" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/Wrapper.java" />
-      <jump line="352" column="59" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="42" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" />
       <jump line="71" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Aggregate.java" />
       <jump line="285" column="61" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Aggregate.java" />
@@ -491,6 +481,22 @@
       <jump line="159" column="14" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
       <jump line="85" column="19" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
       <jump line="96" column="10" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/BoundAttribute.scala" />
+      <jump line="75" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="455" column="35" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="525" column="9" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="813" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="1258" column="52" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="1272" column="52" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="677" column="19" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="58" column="53" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/Partitioner.scala" />
+      <jump line="138" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="434" column="35" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="630" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="634" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="635" column="64" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="775" column="80" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="654" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="49" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,7 +506,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</text>
+        <text>partitioner</text>
       </register>
       <register name="0" type="4">
         <text>t14055763</text>
@@ -537,9 +543,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</last-search>
+      <last-search>partitioner</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</last-pattern>
+      <last-pattern>partitioner</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -547,11 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>testEnumerable</entry>
-        <entry encoding="base64">XDxncm91cFNldFw+</entry>
-        <entry>data\cframesave</entry>
-        <entry>explain</entry>
-        <entry>get(</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxmaWxlRm9ybWF0c1RvVGVzdFw+</entry>
         <entry>hive</entry>
@@ -567,6 +568,11 @@
         <entry>eval</entry>
         <entry>toString</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</entry>
+        <entry>mapPartitions</entry>
+        <entry>groupBy</entry>
+        <entry>def groupBy</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25lclw+</entry>
+        <entry>partitioner</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
