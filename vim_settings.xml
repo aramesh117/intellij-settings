@@ -105,6 +105,13 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" timestamp="1527102409996">
         <mark key="'" line="566" column="45" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/twitter/parquet-hadoop-bundle/1.6.0/parquet-hadoop-bundle-1.6.0.jar!/parquet/hadoop/util/HiddenFileFilter.class" timestamp="1528843485166">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="70" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hadoopclient/1.983/hadoopclient-1.983.jar!/org/apache/hadoop/fs/FileSystem.class" timestamp="1528843453396">
+        <mark key="'" line="654" column="22" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" timestamp="1528143930103">
         <mark key="'" line="56" column="56" />
       </file>
@@ -167,8 +174,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/validate/SqlValidator.java" timestamp="1526001546624">
         <mark key="'" line="737" column="48" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" timestamp="1527705133433">
-        <mark key="'" line="1347" column="35" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" timestamp="1528843294436">
+        <mark key="'" line="1079" column="23" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Filter.java" timestamp="1525911382988">
         <mark key="'" line="126" column="41" />
@@ -191,11 +198,6 @@
       <file name="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/common/FileUtils.class" timestamp="1528144129647">
         <mark key="'" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/sdk/appsdk/src/main/scala/com/facebook/spark/common/Utils.scala" timestamp="1528147995216">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/Partitioner.scala" timestamp="1528243113800">
         <mark key="'" line="58" column="53" />
       </file>
@@ -217,12 +219,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/impl/AbstractTable.java" timestamp="1527097915782">
         <mark key="'" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/SimpleTextHadoopFsRelationSuite.scala" timestamp="1528147438484">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="39" column="24" />
-        <mark key="^" line="39" column="24" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/rules/FilterMergeRule.java" timestamp="1525910430954">
         <mark key="'" line="82" column="9" />
       </file>
@@ -232,8 +228,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" timestamp="1526337176951">
         <mark key="'" line="389" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" timestamp="1528842472446">
-        <mark key="'" line="77" column="41" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" timestamp="1528843132620">
+        <mark key="'" line="77" column="46" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/RelNode.java" timestamp="1526333812158">
         <mark key="'" line="401" column="50" />
@@ -295,13 +291,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/ConventionTraitDef.java" timestamp="1526338120908">
         <mark key="'" line="233" column="0" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" timestamp="1528149680063">
-        <mark key="'" line="983" column="24" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="36" />
-        <mark key="." line="989" column="17" />
-        <mark key="^" line="989" column="17" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/pig/src/main/java/org/apache/calcite/adapter/pig/PigToEnumerableConverter.java" timestamp="1526330039589">
         <mark key="'" line="40" column="15" />
       </file>
@@ -341,12 +330,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testHourlyScheduleInference.json" timestamp="1527022264046">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVectorUtils.java" timestamp="1528149122653">
-        <mark key="'" line="176" column="42" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/src/main/java/org/apache/spark/deploy/webservice/LocalDiskManager.java" timestamp="1528316899129">
         <mark key="]" line="5" column="36" />
         <mark key="^" line="5" column="36" />
@@ -364,11 +347,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DatasetBuilder.java" timestamp="1527109353488">
         <mark key="'" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" timestamp="1528744620201">
-        <mark key="'" line="77" column="41" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" timestamp="1528843761206">
+        <mark key="'" line="136" column="38" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="122" column="83" />
+        <mark key="." line="122" column="83" />
+        <mark key="^" line="122" column="83" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptCluster.java" timestamp="1526337466071">
         <mark key="'" line="86" column="33" />
@@ -382,8 +366,10 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraToEnumerableConverterRule.java" timestamp="1526329935528">
         <mark key="'" line="49" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" timestamp="1528149197116">
+      <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" timestamp="1528843451204">
         <mark key="'" line="63" column="30" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="84" column="2" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/RelCollationImpl.java" timestamp="1526324275985">
         <mark key="'" line="55" column="38" />
@@ -397,31 +383,17 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/interpreter/BindableConvention.java" timestamp="1526322667368">
         <mark key="'" line="34" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/hive/hive-ql/0.11.0-FB-18/hive-ql-0.11.0-FB-18.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" timestamp="1527705130481">
+      <file name="$MAVEN_REPOSITORY$/org/apache/hive/hive-ql/0.11.0-FB-18/hive-ql-0.11.0-FB-18.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" timestamp="1528843290116">
         <mark key="'" line="63" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="566" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
-      <jump line="12" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/api/ColumnValueOperation.java" />
-      <jump line="9" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" />
-      <jump line="113" column="23" filename="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" />
-      <jump line="361" column="6" filename="$USER_HOME$/fb-spark/streaming/src/main/scala/org/apache/spark/streaming/dstream/FileInputDStream.scala" />
-      <jump line="155" column="19" filename="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" />
-      <jump line="43" column="16" filename="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" />
-      <jump line="187" column="16" filename="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
-      <jump line="10" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/pom.xml" />
       <jump line="1401" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/pom.xml" />
       <jump line="87" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/pom.xml" />
       <jump line="299" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/pom.xml" />
       <jump line="30" column="13" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.class" />
       <jump line="52" column="32" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.class" />
-      <jump line="63" column="30" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-ql/0.11.0-FB-18/hive-ql-0.11.0-FB-18.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
-      <jump line="1347" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="1079" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
       <jump line="205" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/CombineFileInputFormat.java" />
       <jump line="197" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java" />
       <jump line="170" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java" />
@@ -449,7 +421,6 @@
       <jump line="176" column="42" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVectorUtils.java" />
       <jump line="55" column="21" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/ArrayType.scala" />
       <jump line="16" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/src/main/java/org/apache/spark/deploy/webservice/LocalDiskManager.java" />
-      <jump line="59" column="32" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="87" column="30" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="35" column="0" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" />
       <jump line="988" column="22" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" />
@@ -488,12 +459,9 @@
       <jump line="775" column="80" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="654" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="49" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="77" column="41" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
-      <jump line="63" column="45" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="1392" column="59" filename="$USER_HOME$/fb-spark/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/fb-spark/pom.xml" />
       <jump line="102" column="16" filename="$USER_HOME$/fb-spark/pom.xml" />
-      <jump line="77" column="41" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
       <jump line="201" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="21" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="115" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
@@ -502,68 +470,84 @@
       <jump line="415" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="291" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="266" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="77" column="46" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="1362" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
+      <jump line="63" column="30" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-ql/0.11.0-FB-18/hive-ql-0.11.0-FB-18.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
+      <jump line="1346" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
+      <jump line="1347" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
+      <jump line="1079" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
+      <jump line="77" column="41" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="59" column="32" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
+      <jump line="68" column="8" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="41" column="16" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="63" column="30" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
+      <jump line="654" column="22" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hadoopclient/1.983/hadoopclient-1.983.jar!/org/apache/hadoop/fs/FileSystem.class" />
+      <jump line="657" column="22" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hadoopclient/1.983/hadoopclient-1.983.jar!/org/apache/hadoop/fs/FileSystem.class" />
+      <jump line="71" column="4" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="383" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
+      <jump line="100" column="20" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="407" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
+      <jump line="128" column="38" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGlzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text encoding="base64">XDxsaXN0U3RhdHVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>t14055763</text>
+        <text encoding="base64">IXAuZ2V0TmFtZSgpLnN0YXJ0c1dpdGgoIl8iKSAmJiAhcC5nZXROYW1lKCkuc3RhcnRzV2l0aCgiLiIp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGlzdAo=</text>
+        <text encoding="base64">ICAvKioK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXQuCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">bmV3IFBhdGhGaWx0ZXIoKSB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgYm9vbGVhbiBhY2NlcHQoUGF0aCBwYXRoKSB7CiAgICAgICAgcmV0dXJuICFwYXRoLmdldE5hbWUoKS5zdGFydHNXaXRoKCJfIikgJiYgIXBhdGguZ2V0TmFtZSgpLnN0YXJ0c1dpdGgoIi4iKTsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXQuZWwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXlUeXBlKG51bGwsIGNvbnRhaW5zTnVsbCA9IHRydWUpCiAgICBhLmVsZW1lbnRUeXBlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGF0aDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZENhcGFjaXR5Lgo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZFR5cGUuZWxlbQo=</text>
+        <text encoding="base64">ICAgIHRoaXMubGlzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZFR5cGUuCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubGlzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9leGVjdXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgYXQuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>82</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search encoding="base64">XDxsaXN0U3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0U3RhdHVzXD4=</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scala-maven</entry>
         <entry>glob</entry>
         <entry>listStatus</entry>
         <entry>HIDDEn</entry>
         <entry>aggregate</entry>
-        <entry encoding="base64">XDxsaXN0U3RhdHVzXD4=</entry>
         <entry>ArrayType</entry>
         <entry>map</entry>
         <entry>eval</entry>
@@ -578,6 +562,8 @@
         <entry>shuttle\c</entry>
         <entry>\cshuttle</entry>
         <entry>,</entry>
+        <entry encoding="base64">XDxnbG9iU3RhdHVzXD4=</entry>
+        <entry encoding="base64">XDxsaXN0U3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -586,9 +572,9 @@
         <entry>%s/upmdatasets/UPMDATASETS/g</entry>
         <entry>q</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>306</entry>
         <entry>82</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
