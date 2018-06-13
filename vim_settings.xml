@@ -159,6 +159,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" timestamp="1526332835099">
         <mark key="'" line="58" column="22" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/BucketedReadSuite.scala" timestamp="1528924031717">
+        <mark key="'" line="44" column="23" />
+      </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" timestamp="1527623123862">
         <mark key="'" line="0" column="0" />
       </file>
@@ -352,8 +355,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DatasetBuilder.java" timestamp="1527109353488">
         <mark key="'" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" timestamp="1528852253908">
-        <mark key="'" line="128" column="2" />
+      <file name="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" timestamp="1528923230537">
+        <mark key="'" line="168" column="0" />
         <mark key="[" line="119" column="32" />
         <mark key="]" line="119" column="5" />
         <mark key="." line="119" column="5" />
@@ -398,8 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="643" column="32" filename="$MAVEN_REPOSITORY$/org/basepom/basepom-foundation/11/basepom-foundation-11.pom" />
-      <jump line="559" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/pom.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/pom.xml" />
       <jump line="56" column="56" filename="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
@@ -466,7 +467,6 @@
       <jump line="1079" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
       <jump line="77" column="41" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
       <jump line="59" column="32" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
-      <jump line="68" column="8" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
       <jump line="41" column="16" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
       <jump line="63" column="30" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="654" column="22" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hadoopclient/1.983/hadoopclient-1.983.jar!/org/apache/hadoop/fs/FileSystem.class" />
@@ -498,6 +498,9 @@
       <jump line="43" column="13" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
       <jump line="8" column="1" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
       <jump line="128" column="2" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="68" column="39" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="168" column="0" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
+      <jump line="44" column="23" filename="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/BucketedReadSuite.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -551,7 +554,7 @@
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
