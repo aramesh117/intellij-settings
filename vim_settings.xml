@@ -66,6 +66,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/AbstractConverter.java" timestamp="1526337293480">
         <mark key="'" line="53" column="13" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" timestamp="1529000432459">
+        <mark key="'" line="506" column="20" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/metadata/RelMdRowCount.java" timestamp="1525908593953">
         <mark key="'" line="66" column="15" />
       </file>
@@ -413,8 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="30" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
-      <jump line="35" column="0" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" />
       <jump line="988" column="22" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" />
       <jump line="987" column="26" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" />
       <jump line="983" column="24" filename="$USER_HOME$/fb-spark/sql/core/src/main/java/org/apache/spark/sql/execution/vectorized/ColumnVector.java" />
@@ -513,6 +514,8 @@
       <jump line="429" column="15" filename="$USER_HOME$/fb-spark/mllib/src/main/scala/org/apache/spark/ml/tree/treeModels.scala" />
       <jump line="30" column="18" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLImplicits.scala" />
       <jump line="177" column="76" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLImplicits.scala" />
+      <jump line="50" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
+      <jump line="506" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -522,7 +525,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>implicits</text>
+        <text>\ccast</text>
       </register>
       <register name="0" type="4">
         <text>This is a temporary fix without upgrading our hive version, which includes
@@ -560,9 +563,9 @@
       </register>
     </registers>
     <search>
-      <last-search>implicits</last-search>
+      <last-search>\ccast</last-search>
       <last-offset />
-      <last-pattern>implicits</last-pattern>
+      <last-pattern>\ccast</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -570,7 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
         <entry>eval</entry>
         <entry>toString</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</entry>
@@ -590,6 +592,7 @@
         <entry>listStatus</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVRvcExldmVsVHVwbGVGaWVsZHNcPg==</entry>
         <entry>implicits</entry>
+        <entry>\ccast</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
