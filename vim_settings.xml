@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/tools/Programs.java" timestamp="1525907839279">
         <mark key="'" line="367" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1528832014325">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529098430147">
         <mark key="'" line="266" column="36" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTrait.java" timestamp="1526325254331">
@@ -146,6 +146,9 @@
       </file>
       <file name="$USER_HOME$/fb-spark/mllib/src/main/scala/org/apache/spark/ml/tree/treeModels.scala" timestamp="1528935892471">
         <mark key="'" line="429" column="15" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529097324771">
+        <mark key="'" line="79" column="42" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class" timestamp="1525921435450">
         <mark key="'" line="144" column="19" />
@@ -417,8 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="6" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/MetastoreRelation.scala" />
-      <jump line="177" column="4" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
       <jump line="159" column="14" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
       <jump line="85" column="19" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/execution/HiveTableScanExec.scala" />
       <jump line="96" column="10" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/BoundAttribute.scala" />
@@ -517,6 +518,8 @@
       <jump line="173" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDataTypeSpec.java" />
       <jump line="187" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDataTypeSpec.java" />
       <jump line="292" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
+      <jump line="45" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="79" column="42" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -526,7 +529,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>supportsChar</text>
+        <text encoding="base64">XDxkYWVtb25Qb3J0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>This is a temporary fix without upgrading our hive version, which includes
@@ -564,9 +567,9 @@
       </register>
     </registers>
     <search>
-      <last-search>supportsChar</last-search>
+      <last-search encoding="base64">XDxkYWVtb25Qb3J0XD4=</last-search>
       <last-offset />
-      <last-pattern>supportsChar</last-pattern>
+      <last-pattern encoding="base64">XDxkYWVtb25Qb3J0XD4=</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -574,7 +577,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJ0aXRpb25QcnVuaW5nUHJlZFw+</entry>
         <entry>mapPartitions</entry>
         <entry>groupBy</entry>
         <entry>def groupBy</entry>
@@ -594,6 +596,7 @@
         <entry>\ccast</entry>
         <entry encoding="base64">XDxjaGFyU2V0TmFtZVw+</entry>
         <entry>supportsChar</entry>
+        <entry encoding="base64">XDxkYWVtb25Qb3J0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
