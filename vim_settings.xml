@@ -51,8 +51,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/tools/Programs.java" timestamp="1525907839279">
         <mark key="'" line="367" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529122602188">
-        <mark key="'" line="97" column="16" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529124008487">
+        <mark key="'" line="242" column="33" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTrait.java" timestamp="1526325254331">
         <mark key="'" line="21" column="17" />
@@ -424,8 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="4" column="57" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
       <jump line="376" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="291" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="266" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
@@ -522,8 +520,10 @@
       <jump line="415" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="61" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="69" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="97" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="241" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="107" column="71" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="97" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="242" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -533,7 +533,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb290T3V0cHV0UGFydGl0aW9uU3BlY1w+</text>
+        <text encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</text>
       </register>
       <register name="0" type="4">
         <text>This is a temporary fix without upgrading our hive version, which includes
@@ -571,9 +571,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb290T3V0cHV0UGFydGl0aW9uU3BlY1w+</last-search>
+      <last-search encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb290T3V0cHV0UGFydGl0aW9uU3BlY1w+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -581,7 +581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hive</entry>
         <entry>shuttle\c</entry>
         <entry>\cshuttle</entry>
         <entry>,</entry>
@@ -601,6 +600,7 @@
         <entry>save</entry>
         <entry encoding="base64">XDx0YWJsZU5hbWVcPg==</entry>
         <entry encoding="base64">XDxyb290T3V0cHV0UGFydGl0aW9uU3BlY1w+</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
