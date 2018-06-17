@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/UserDefinedType.scala" timestamp="1528151750363">
         <mark key="'" line="43" column="57" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1529193268189">
+        <mark key="'" line="568" column="43" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.class" timestamp="1527705126969">
         <mark key="'" line="52" column="32" />
       </file>
@@ -51,7 +54,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/tools/Programs.java" timestamp="1525907839279">
         <mark key="'" line="367" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529192522956">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529193168779">
         <mark key="'" line="242" column="33" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTrait.java" timestamp="1526325254331">
@@ -424,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="291" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="266" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="77" column="46" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
@@ -524,6 +526,7 @@
       <jump line="107" column="71" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="97" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="242" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="568" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -533,7 +536,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</text>
+        <text>\cexplicit</text>
       </register>
       <register name="0" type="4">
         <text>This is a temporary fix without upgrading our hive version, which includes
@@ -571,17 +574,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</last-search>
+      <last-search>\cexplicit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</last-pattern>
+      <last-pattern>\cexplicit</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>shuttle\c</entry>
         <entry>\cshuttle</entry>
         <entry>,</entry>
         <entry encoding="base64">XDxnbG9iU3RhdHVzXD4=</entry>
@@ -601,6 +603,7 @@
         <entry encoding="base64">XDx0YWJsZU5hbWVcPg==</entry>
         <entry encoding="base64">XDxyb290T3V0cHV0UGFydGl0aW9uU3BlY1w+</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</entry>
+        <entry>\cexplicit</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
