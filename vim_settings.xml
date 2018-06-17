@@ -54,8 +54,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/tools/Programs.java" timestamp="1525907839279">
         <mark key="'" line="367" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529193168779">
-        <mark key="'" line="242" column="33" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529206291989">
+        <mark key="'" line="281" column="19" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTrait.java" timestamp="1526325254331">
         <mark key="'" line="21" column="17" />
@@ -435,16 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="266" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="77" column="46" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
-      <jump line="1362" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="63" column="30" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-ql/0.11.0-FB-18/hive-ql-0.11.0-FB-18.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
-      <jump line="1346" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="1347" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="1079" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="77" column="41" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
-      <jump line="59" column="32" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="41" column="16" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
       <jump line="63" column="30" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hiveclient/1.983/hiveclient-1.983.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" />
       <jump line="654" column="22" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/hadoopclient/1.983/hadoopclient-1.983.jar!/org/apache/hadoop/fs/FileSystem.class" />
@@ -535,6 +525,16 @@
       <jump line="242" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="568" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="71" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="411" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="410" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="363" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="400" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="364" column="53" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="355" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="267" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="263" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="373" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="281" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -544,7 +544,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>\cexplicit</text>
+        <text encoding="base64">XDxwYXJ0aXRpb25Db2xOYW1lc1w+</text>
       </register>
       <register name="0" type="4">
         <text>This is a temporary fix without upgrading our hive version, which includes
@@ -582,9 +582,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cexplicit</last-search>
+      <last-search encoding="base64">XDxwYXJ0aXRpb25Db2xOYW1lc1w+</last-search>
       <last-offset />
-      <last-pattern>\cexplicit</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0aXRpb25Db2xOYW1lc1w+</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -592,9 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cshuttle</entry>
-        <entry>,</entry>
-        <entry encoding="base64">XDxnbG9iU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxsaXN0U3RhdHVzUmVjdXJzaXZlbHlcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxsaXN0U3RhdHVzXD4=</entry>
@@ -612,6 +609,9 @@
         <entry encoding="base64">XDxyb290T3V0cHV0UGFydGl0aW9uU3BlY1w+</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</entry>
         <entry>\cexplicit</entry>
+        <entry encoding="base64">XDxnZXRJbnNlcnRJbnRvUGFydGl0aW9uU3FsXD4=</entry>
+        <entry encoding="base64">XDxpbnNlcnRJbnRvU3FsXD4=</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25Db2xOYW1lc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
