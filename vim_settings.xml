@@ -134,6 +134,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/interpreter/InterpretableConverter.java" timestamp="1526320328441">
         <mark key="'" line="34" column="44" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" timestamp="1529194380059">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/target/generated-sources/javacc/org/apache/calcite/sql/parser/impl/SqlParserImpl.java" timestamp="1527035323500">
         <mark key="'" line="2235" column="6" />
       </file>
@@ -228,6 +233,9 @@
       </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/Partitioner.scala" timestamp="1528243113800">
         <mark key="'" line="58" column="53" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" timestamp="1529194011597">
+        <mark key="'" line="71" column="43" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcTableScan.java" timestamp="1526326287270">
         <mark key="'" line="47" column="57" />
@@ -518,7 +526,6 @@
       <jump line="364" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="411" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="412" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="71" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
       <jump line="415" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="61" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="69" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
@@ -527,10 +534,11 @@
       <jump line="97" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="242" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="568" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="71" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7Cgo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiV1RGOlxuIiArIFV0aWxzLmdldFBsYW5Bc1N0cmluZyhuZXdQbGFuKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -543,31 +551,31 @@
    * this additional method because the hive upgrade needs much more time. T29879658</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7Cgo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiV1RGOlxuIiArIFV0aWxzLmdldFBsYW5Bc1N0cmluZyhuZXdQbGFuKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIGxpc3RTdGF0dXNSZWN1cnNpdmVseSgKICAgICAgRmlsZVN5c3RlbSBmcywKICAgICAgRmlsZVN0YXR1cyBmaWxlU3RhdHVzLAogICAgICBMaXN0PEZpbGVTdGF0dXM+IHJlc3VsdHMsCiAgICAgIFBhdGhGaWx0ZXIgcGF0aEZpbHRlcikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIGlmIChmaWxlU3RhdHVzLmlzRGlyKCkpIHsKICAgICAgRmlsZVN0YXR1c1tdIHZhcjMgPSBmcy5saXN0U3RhdHVzKGZpbGVTdGF0dXMuZ2V0UGF0aCgpLCBwYXRoRmlsdGVyKTsKICAgICAgaW50IHZhcjQgPSB2YXIzLmxlbmd0aDsKCiAgICAgIGZvciAoaW50IHZhcjUgPSAwOyB2YXI1IDwgdmFyNDsgKyt2YXI1KSB7CiAgICAgICAgRmlsZVN0YXR1cyBzdGF0ID0gdmFyM1t2YXI1XTsKICAgICAgICBsaXN0U3RhdHVzUmVjdXJzaXZlbHkoZnMsIHN0YXQsIHJlc3VsdHMsIHBhdGhGaWx0ZXIpOwogICAgICB9CiAgICB9IGVsc2UgewogICAgICByZXN1bHRzLmFkZChmaWxlU3RhdHVzKTsKICAgIH0KCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIGxpc3RTdGF0dXNSZWN1cnNpdmVseSgKICAgICAgRmlsZVN5c3RlbSBmcywKICAgICAgRmlsZVN0YXR1cyBmaWxlU3RhdHVzLAogICAgICBMaXN0PEZpbGVTdGF0dXM+IHJlc3VsdHMsCiAgICAgIFBhdGhGaWx0ZXIgcGF0aEZpbHRlcikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIGlmIChmaWxlU3RhdHVzLmlzRGlyKCkpIHsKICAgICAgRmlsZVN0YXR1c1tdIHZhcjMgPSBmcy5saXN0U3RhdHVzKGZpbGVTdGF0dXMuZ2V0UGF0aCgpLCBwYXRoRmlsdGVyKTsKICAgICAgaW50IHZhcjQgPSB2YXIzLmxlbmd0aDsKCiAgICAgIGZvciAoaW50IHZhcjUgPSAwOyB2YXI1IDwgdmFyNDsgKyt2YXI1KSB7CiAgICAgICAgRmlsZVN0YXR1cyBzdGF0ID0gdmFyM1t2YXI1XTsKICAgICAgICBsaXN0U3RhdHVzUmVjdXJzaXZlbHkoZnMsIHN0YXQsIHJlc3VsdHMsIHBhdGhGaWx0ZXIpOwogICAgICB9CiAgICB9IGVsc2UgewogICAgICByZXN1bHRzLmFkZChmaWxlU3RhdHVzKTsKICAgIH0KCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gcGF0aEZpbHRlcgo=</text>
+        <text encoding="base64">ICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gZnMKICAgKiBAcGFyYW0gZmlsZVN0YXR1cwogICAqIEBwYXJhbSByZXN1bHRzCg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gcGF0aEZpbHRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gZnMKICAgKiBAcGFyYW0gZmlsZVN0YXR1cwogICAqIEBwYXJhbSByZXN1bHRzCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gam9iIAogICAqIEBwYXJhbSBwYXRoCg==</text>
+        <text encoding="base64">ICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gam9iIAogICAqIEBwYXJhbSBwYXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
