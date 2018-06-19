@@ -76,8 +76,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/AbstractConverter.java" timestamp="1526337293480">
         <mark key="'" line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" timestamp="1529019232800">
-        <mark key="'" line="292" column="23" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" timestamp="1529451777068">
+        <mark key="'" line="523" column="20" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/metadata/RelMdRowCount.java" timestamp="1525908593953">
         <mark key="'" line="66" column="15" />
@@ -180,6 +180,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/VolcanoPlannerTraitTest.java" timestamp="1526330098311">
         <mark key="'" line="511" column="50" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/type/SqlTypeName.java" timestamp="1529451688812">
+        <mark key="'" line="181" column="26" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/AbstractRelNode.java" timestamp="1526332835099">
         <mark key="'" line="58" column="22" />
@@ -446,19 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="413" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="47" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="62" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="65" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="106" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="113" column="69" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="169" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="335" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="124" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="345" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="340" column="88" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="364" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="411" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="412" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
@@ -546,6 +536,19 @@
       <jump line="27" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/PhysicalPlan.java" />
       <jump line="82" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="57" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/UpmPlan.java" />
+      <jump line="508" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
+      <jump line="511" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
+      <jump line="118" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/type/RelDataType.java" />
+      <jump line="513" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
+      <jump line="189" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/type/RelDataType.java" />
+      <jump line="514" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
+      <jump line="519" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
+      <jump line="529" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
+      <jump line="89" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDataTypeSpec.java" />
+      <jump line="177" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/type/SqlTypeName.java" />
+      <jump line="181" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/type/SqlTypeName.java" />
+      <jump line="159" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/type/SqlTypeName.java" />
+      <jump line="523" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -555,7 +558,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text encoding="base64">XDxjb2xsZWN0aW9uc1R5cGVJZGVudGlmaWVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REYXRhZnJhbWVGbGF0TWFwKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBEYXRhRnJhbWUgZGYgPSBnZXRDb250ZXh0KCJzYWxlcyIpLnNxbCgiU0VMRUNUIDEiKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEyOkxvZ2ljYWxQcm9qZWN0KEVYUFIkMD1bMV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTE6TG9naWNhbFZhbHVlcyh0dXBsZXM9W1t7IDAgfV1dKVxuXG4iKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTE0OkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QzXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTI6TG9naWNhbFByb2plY3QoRVhQUiQwPVsxXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgMTExOkxvZ2ljYWxWYWx1ZXModHVwbGVzPVtbeyAwIH1dXSlcblxuIik7CiAgfQo=</text>
@@ -588,13 +591,13 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>509</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search encoding="base64">XDxjb2xsZWN0aW9uc1R5cGVJZGVudGlmaWVyXD4=</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uc1R5cGVJZGVudGlmaWVyXD4=</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -602,8 +605,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290T3V0cHV0UGFydGl0aW9uU3BlY1w+</entry>
-        <entry encoding="base64">XDxwYXJ0aXRpb25TcGVjXD4=</entry>
         <entry>\cexplicit</entry>
         <entry encoding="base64">XDxnZXRJbnNlcnRJbnRvUGFydGl0aW9uU3FsXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRJbnRvU3FsXD4=</entry>
@@ -622,6 +623,8 @@
         <entry>upmPlan</entry>
         <entry encoding="base64">XDx1cG1QbGFuXD4=</entry>
         <entry>update</entry>
+        <entry encoding="base64">XDxzcWxUeXBlXD4=</entry>
+        <entry encoding="base64">XDxjb2xsZWN0aW9uc1R5cGVJZGVudGlmaWVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -633,6 +636,7 @@
         <entry>306</entry>
         <entry>82</entry>
         <entry>w</entry>
+        <entry>509</entry>
       </history-cmd>
       <history-expr />
       <history-input />
