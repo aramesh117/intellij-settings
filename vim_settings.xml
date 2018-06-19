@@ -9,8 +9,12 @@
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/UserDefinedType.scala" timestamp="1528151750363">
         <mark key="'" line="43" column="57" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1529193268189">
-        <mark key="'" line="568" column="43" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1529431864991">
+        <mark key="'" line="162" column="26" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="82" column="65" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.class" timestamp="1527705126969">
         <mark key="'" line="52" column="32" />
@@ -54,11 +58,14 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/tools/Programs.java" timestamp="1525907839279">
         <mark key="'" line="367" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/fun/SqlCoalesceFunction.java" timestamp="1529371149139">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/fun/SqlCoalesceFunction.java" timestamp="1529430240139">
         <mark key="'" line="35" column="41" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529206291989">
         <mark key="'" line="281" column="19" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/PrestoUDFUtils.java" timestamp="1529432648237">
+        <mark key="'" line="117" column="27" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTrait.java" timestamp="1526325254331">
         <mark key="'" line="21" column="17" />
@@ -90,8 +97,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1525979315721">
         <mark key="'" line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1529122588214">
-        <mark key="'" line="415" column="12" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1529431434713">
+        <mark key="'" line="371" column="16" />
         <mark key="[" line="328" column="67" />
         <mark key="]" line="328" column="66" />
         <mark key="." line="328" column="66" />
@@ -111,6 +118,9 @@
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" timestamp="1527703293909">
         <mark key="'" line="187" column="16" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" timestamp="1529432234221">
+        <mark key="'" line="232" column="34" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/TraitConversionTest.java" timestamp="1526322710977">
         <mark key="'" line="191" column="23" />
@@ -330,8 +340,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/RelOptRulesTest.java" timestamp="1525903110370">
         <mark key="'" line="1231" column="4" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1527035657019">
-        <mark key="'" line="147" column="19" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1529431429161">
+        <mark key="'" line="118" column="19" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/ConventionTraitDef.java" timestamp="1526338120908">
         <mark key="'" line="233" column="0" />
@@ -428,30 +438,14 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/interpreter/BindableConvention.java" timestamp="1526322667368">
         <mark key="'" line="34" column="42" />
       </file>
+      <file name="/fragment.java" timestamp="1529432306543">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/hive/hive-ql/0.11.0-FB-18/hive-ql-0.11.0-FB-18.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" timestamp="1528843290116">
         <mark key="'" line="63" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="13" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
-      <jump line="8" column="1" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
-      <jump line="128" column="2" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
-      <jump line="68" column="39" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
-      <jump line="168" column="0" filename="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" />
-      <jump line="44" column="23" filename="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/BucketedReadSuite.scala" />
-      <jump line="84" column="25" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/rules/RuleExecutor.scala" />
-      <jump line="1927" column="16" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" />
-      <jump line="1946" column="16" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" />
-      <jump line="1928" column="25" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" />
-      <jump line="686" column="21" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" />
-      <jump line="43" column="7" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" />
-      <jump line="429" column="15" filename="$USER_HOME$/fb-spark/mllib/src/main/scala/org/apache/spark/ml/tree/treeModels.scala" />
-      <jump line="30" column="18" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLImplicits.scala" />
-      <jump line="177" column="76" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLImplicits.scala" />
-      <jump line="50" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
-      <jump line="506" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDialect.java" />
-      <jump line="28" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/dialect/PostgresqlSqlDialect.java" />
-      <jump line="214" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDataTypeSpec.java" />
       <jump line="63" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDataTypeSpec.java" />
       <jump line="82" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDataTypeSpec.java" />
       <jump line="85" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlDataTypeSpec.java" />
@@ -533,56 +527,74 @@
       <jump line="41" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonUtils.scala" />
       <jump line="40" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlFunction.java" />
       <jump line="35" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/fun/SqlCoalesceFunction.java" />
+      <jump line="226" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="247" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="233" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="131" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="231" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="127" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/TestBase.java" />
+      <jump line="166" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="164" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="118" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="371" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="432" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="46" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/PrestoUDFUtils.java" />
+      <jump line="24" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/PrestoUDFUtils.java" />
+      <jump line="52" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/PrestoUDFUtils.java" />
+      <jump line="255" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/Utils.java" />
+      <jump line="230" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="231" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="232" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="117" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/PrestoUDFUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXRoRWxlbWVudHNcPg==</text>
+        <text encoding="base64">XDxzY2FsYXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>This is a temporary fix without upgrading our hive version, which includes
-   * this additional method because the hive upgrade needs much more time. T29879658</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REYXRhZnJhbWVGbGF0TWFwKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBEYXRhRnJhbWUgZGYgPSBnZXRDb250ZXh0KCJzYWxlcyIpLnNxbCgiU0VMRUNUIDEiKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEyOkxvZ2ljYWxQcm9qZWN0KEVYUFIkMD1bMV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTE6TG9naWNhbFZhbHVlcyh0dXBsZXM9W1t7IDAgfV1dKVxuXG4iKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTE0OkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QzXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTI6TG9naWNhbFByb2plY3QoRVhQUiQwPVsxXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgMTExOkxvZ2ljYWxWYWx1ZXModHVwbGVzPVtbeyAwIH1dXSlcblxuIik7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiV1RGOlxuIiArIFV0aWxzLmdldFBsYW5Bc1N0cmluZyhuZXdQbGFuKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIGxpc3RTdGF0dXNSZWN1cnNpdmVseSgKICAgICAgRmlsZVN5c3RlbSBmcywKICAgICAgRmlsZVN0YXR1cyBmaWxlU3RhdHVzLAogICAgICBMaXN0PEZpbGVTdGF0dXM+IHJlc3VsdHMsCiAgICAgIFBhdGhGaWx0ZXIgcGF0aEZpbHRlcikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIGlmIChmaWxlU3RhdHVzLmlzRGlyKCkpIHsKICAgICAgRmlsZVN0YXR1c1tdIHZhcjMgPSBmcy5saXN0U3RhdHVzKGZpbGVTdGF0dXMuZ2V0UGF0aCgpLCBwYXRoRmlsdGVyKTsKICAgICAgaW50IHZhcjQgPSB2YXIzLmxlbmd0aDsKCiAgICAgIGZvciAoaW50IHZhcjUgPSAwOyB2YXI1IDwgdmFyNDsgKyt2YXI1KSB7CiAgICAgICAgRmlsZVN0YXR1cyBzdGF0ID0gdmFyM1t2YXI1XTsKICAgICAgICBsaXN0U3RhdHVzUmVjdXJzaXZlbHkoZnMsIHN0YXQsIHJlc3VsdHMsIHBhdGhGaWx0ZXIpOwogICAgICB9CiAgICB9IGVsc2UgewogICAgICByZXN1bHRzLmFkZChmaWxlU3RhdHVzKTsKICAgIH0KCiAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIGRmLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gcGF0aEZpbHRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gZnMKICAgKiBAcGFyYW0gZmlsZVN0YXR1cwogICAqIEBwYXJhbSByZXN1bHRzCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydExvZ2ljYWxQbGFuKAogICAgICAgIGRmLAogICAgICAgICIxMTQ6RmxhdE1hcEVsZW1lbnRzKHRhYmxlPVtbVDNdXSwgdGFyZ2V0PVtzcGFya10sIGFyZz1bMF0sIHR5cGU9W1JlY29yZFR5cGUoSU5URUdFUiBhcmcpXSlcbiIKICAgICAgICAgICAgKyAiICAxMTM6RmxhdE1hcEVsZW1lbnRzKHRhYmxlPVtbVDJdXSwgdGFyZ2V0PVtzcGFya10sIGFyZz1bMF0sIHR5cGU9W1JlY29yZFR5cGUoSU5URUdFUiBhcmcpXSlcbiIKICAgICAgICAgICAgKyAiICAgIDExMjpMb2dpY2FsUHJvamVjdChFWFBSJDA9WzFdKVxuIgogICAgICAgICAgICArICIgICAgICAxMTE6TG9naWNhbFZhbHVlcyh0dXBsZXM9W1t7IDAgfV1dKVxuXG4iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgIFJlbERhdGFUeXBlRmFjdG9yeSBmYWN0b3J5ID0gZGYuZ2V0Q29udGV4dCgpLmdldEZhY3RvcnkoKS5jcmVhdGVUeXBlRmFjdG9yeSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gam9iIAogICAqIEBwYXJhbSBwYXRoCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXRoRWxlbWVudHNcPg==</last-search>
+      <last-search encoding="base64">XDxzY2FsYXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXRoRWxlbWVudHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzY2FsYXJcPg==</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -590,9 +602,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFyU2V0TmFtZVw+</entry>
-        <entry>supportsChar</entry>
-        <entry encoding="base64">XDxkYWVtb25Qb3J0XD4=</entry>
         <entry>\cts</entry>
         <entry>&quot;ts&quot;</entry>
         <entry>save</entry>
@@ -610,6 +619,9 @@
         <entry encoding="base64">XDxweUZpbGVzXD4=</entry>
         <entry encoding="base64">XDxmb3JtYXR0ZWRQeUZpbGVzXD4=</entry>
         <entry encoding="base64">XDxwYXRoRWxlbWVudHNcPg==</entry>
+        <entry>assertPhysical</entry>
+        <entry>fb_is_empty</entry>
+        <entry encoding="base64">XDxzY2FsYXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
