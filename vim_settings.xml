@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/UserDefinedType.scala" timestamp="1528151750363">
         <mark key="'" line="43" column="57" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1529431864991">
-        <mark key="'" line="158" column="26" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1529449509441">
+        <mark key="'" line="82" column="43" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
@@ -51,6 +51,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraTableScan.java" timestamp="1526329902093">
         <mark key="'" line="52" column="43" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" timestamp="1529450021252" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java" timestamp="1527705330040">
         <mark key="'" line="196" column="16" />
       </file>
@@ -279,7 +280,7 @@
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1529353207305">
         <mark key="'" line="322" column="53" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/PhysicalPlan.java" timestamp="1529446498492">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/PhysicalPlan.java" timestamp="1529448932064">
         <mark key="'" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" timestamp="1526337176951">
@@ -445,7 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="32" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="394" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="413" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="42" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
@@ -545,6 +545,7 @@
       <jump line="57" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/UpmPlan.java" />
       <jump line="59" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/PhysicalPlan.java" />
       <jump line="27" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/PhysicalPlan.java" />
+      <jump line="82" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
