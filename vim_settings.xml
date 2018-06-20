@@ -15,6 +15,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.class" timestamp="1527705126969">
         <mark key="'" line="52" column="32" />
       </file>
+      <file name="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" timestamp="1529516248165">
+        <mark key="'" line="83" column="27" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmTableLogicalPlanRef.java" timestamp="1526323366119">
         <mark key="'" line="10" column="44" />
       </file>
@@ -96,9 +99,14 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/onavo-plasma-apps-v1/pom.xml" timestamp="1527886369168">
         <mark key="'" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/fb-spark/python/pyspark/context.py" timestamp="1529515538540">
-        <mark key="'" line="926" column="40" />
+      <file name="$USER_HOME$/fb-spark/python/pyspark/context.py" timestamp="1529516090503">
+        <mark key="'" line="235" column="33" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/fb-spark/python/pyspark/rdd.py" timestamp="1529515868420" />
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/collect/Maps.java" timestamp="1525826441658">
         <mark key="'" line="409" column="17" />
       </file>
@@ -369,6 +377,13 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/dialect/PostgresqlSqlDialect.java" timestamp="1529011042598">
         <mark key="'" line="28" column="42" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/RelLogicalSqlWalkerTest.java" timestamp="1529344158502">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="62" column="57" />
+        <mark key="]" line="62" column="5" />
+        <mark key="." line="62" column="5" />
+        <mark key="^" line="62" column="5" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptPlanner.java" timestamp="1525911054836">
         <mark key="'" line="197" column="20" />
       </file>
@@ -402,6 +417,13 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DatasetBuilder.java" timestamp="1527109353488">
         <mark key="'" line="32" column="31" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/hive/src/main/java/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.java" timestamp="1528923230537">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="119" column="32" />
+        <mark key="]" line="119" column="5" />
+        <mark key="." line="119" column="5" />
+        <mark key="^" line="119" column="5" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptCluster.java" timestamp="1526337466071">
         <mark key="'" line="86" column="33" />
       </file>
@@ -431,14 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="471" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="474" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="477" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="481" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="484" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="174" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="335" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="365" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="368" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="410" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
@@ -518,7 +532,6 @@
       <jump line="29" column="7" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="30" column="25" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="31" column="26" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="32" column="7" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="397" column="19" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="404" column="14" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="406" column="14" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
@@ -530,7 +543,16 @@
       <jump line="850" column="31" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="917" column="22" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="921" column="22" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="926" column="40" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="92" column="15" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
+      <jump line="926" column="37" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="1" column="1" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="32" column="33" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="260" column="57" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="247" column="62" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="245" column="15" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="235" column="33" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
+      <jump line="83" column="27" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -540,7 +562,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>\.par</text>
+        <text>stdin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REYXRhZnJhbWVGbGF0TWFwKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBEYXRhRnJhbWUgZGYgPSBnZXRDb250ZXh0KCJzYWxlcyIpLnNxbCgiU0VMRUNUIDEiKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEyOkxvZ2ljYWxQcm9qZWN0KEVYUFIkMD1bMV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTE6TG9naWNhbFZhbHVlcyh0dXBsZXM9W1t7IDAgfV1dKVxuXG4iKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTE0OkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QzXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTI6TG9naWNhbFByb2plY3QoRVhQUiQwPVsxXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgMTExOkxvZ2ljYWxWYWx1ZXModHVwbGVzPVtbeyAwIH1dXSlcblxuIik7CiAgfQo=</text>
@@ -577,9 +599,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.par</last-search>
+      <last-search>stdin</last-search>
       <last-offset />
-      <last-pattern>\.par</last-pattern>
+      <last-pattern>stdin</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -587,10 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>python</entry>
-        <entry>--py-files</entry>
-        <entry>py-files</entry>
-        <entry>files</entry>
         <entry encoding="base64">XDxweUZpbGVzXD4=</entry>
         <entry encoding="base64">XDxwcmVwYXJlU3VibWl0RW52aXJvbm1lbnRcPg==</entry>
         <entry>pyFiles</entry>
@@ -607,6 +625,10 @@
         <entry>unzipFile\c</entry>
         <entry>.par</entry>
         <entry>\.par</entry>
+        <entry>gateway</entry>
+        <entry encoding="base64">XDxsYXVuY2hfZ2F0ZXdheVw+</entry>
+        <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
+        <entry>stdin</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
