@@ -167,8 +167,8 @@
       <file name="$USER_HOME$/fb-spark/mllib/src/main/scala/org/apache/spark/ml/tree/treeModels.scala" timestamp="1528935892471">
         <mark key="'" line="429" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529606179750">
-        <mark key="'" line="166" column="36" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529613580770">
+        <mark key="'" line="55" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class" timestamp="1525921435450">
         <mark key="'" line="144" column="19" />
@@ -487,12 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
-      <jump line="48" column="26" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
-      <jump line="653" column="50" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="245" column="41" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="48" column="33" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
-      <jump line="90" column="9" filename="$MAVEN_REPOSITORY$/net/sf/py4j/py4j/0.10.3/py4j-0.10.3.jar!/py4j/GatewayServer.class" />
       <jump line="28" column="0" filename="$MAVEN_REPOSITORY$/net/sf/py4j/py4j/0.10.3/py4j-0.10.3.jar!/py4j/GatewayServer.class" />
       <jump line="1491" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="500" column="32" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
@@ -577,7 +571,6 @@
       <jump line="562" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="1483" column="32" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="521" column="20" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmitArguments.scala" />
-      <jump line="166" column="36" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="301" column="18" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="467" column="22" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="0" column="0" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
@@ -587,6 +580,13 @@
       <jump line="230" column="19" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="56" column="0" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="198" column="28" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="53" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="41" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="66" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="100" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="166" column="36" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="55" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="53" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -596,7 +596,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>addFile</text>
+        <text encoding="base64">XDx1c2VEYWVtb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REYXRhZnJhbWVGbGF0TWFwKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBEYXRhRnJhbWUgZGYgPSBnZXRDb250ZXh0KCJzYWxlcyIpLnNxbCgiU0VMRUNUIDEiKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEyOkxvZ2ljYWxQcm9qZWN0KEVYUFIkMD1bMV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTE6TG9naWNhbFZhbHVlcyh0dXBsZXM9W1t7IDAgfV1dKVxuXG4iKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTE0OkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QzXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTI6TG9naWNhbFByb2plY3QoRVhQUiQwPVsxXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgMTExOkxvZ2ljYWxWYWx1ZXModHVwbGVzPVtbeyAwIH1dXSlcblxuIik7CiAgfQo=</text>
@@ -633,9 +633,9 @@
       </register>
     </registers>
     <search>
-      <last-search>addFile</last-search>
+      <last-search encoding="base64">XDx1c2VEYWVtb25cPg==</last-search>
       <last-offset />
-      <last-pattern>addFile</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VEYWVtb25cPg==</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -643,8 +643,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMT0NBTFw+</entry>
-        <entry>unzipFile\c</entry>
         <entry>.par</entry>
         <entry>\.par</entry>
         <entry>gateway</entry>
@@ -663,6 +661,8 @@
         <entry encoding="base64">XDxTcGFya0NvbnRleHRcPg==</entry>
         <entry>class SparkContext</entry>
         <entry>addFile</entry>
+        <entry encoding="base64">XDxweXRob25QYXRoXD4=</entry>
+        <entry encoding="base64">XDx1c2VEYWVtb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
