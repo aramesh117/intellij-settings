@@ -15,8 +15,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.class" timestamp="1527705126969">
         <mark key="'" line="52" column="32" />
       </file>
-      <file name="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" timestamp="1529516248165">
-        <mark key="'" line="83" column="27" />
+      <file name="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" timestamp="1529622149816">
+        <mark key="'" line="54" column="34" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmTableLogicalPlanRef.java" timestamp="1526323366119">
         <mark key="'" line="10" column="44" />
@@ -493,12 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="12" filename="$USER_HOME$/fb-spark/python/pyspark/daemon.py" />
-      <jump line="363" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="32" column="27" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="260" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="577" column="31" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
       <jump line="780" column="28" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
       <jump line="782" column="38" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
       <jump line="789" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
@@ -593,6 +587,12 @@
       <jump line="372" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="490" column="12" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="492" column="12" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
+      <jump line="75" column="71" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
+      <jump line="67" column="8" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
+      <jump line="80" column="25" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
+      <jump line="55" column="19" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
+      <jump line="54" column="34" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -602,7 +602,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>sparkSession</text>
+        <text>conf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REYXRhZnJhbWVGbGF0TWFwKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBEYXRhRnJhbWUgZGYgPSBnZXRDb250ZXh0KCJzYWxlcyIpLnNxbCgiU0VMRUNUIDEiKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEyOkxvZ2ljYWxQcm9qZWN0KEVYUFIkMD1bMV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTE6TG9naWNhbFZhbHVlcyh0dXBsZXM9W1t7IDAgfV1dKVxuXG4iKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTE0OkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QzXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTI6TG9naWNhbFByb2plY3QoRVhQUiQwPVsxXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgMTExOkxvZ2ljYWxWYWx1ZXModHVwbGVzPVtbeyAwIH1dXSlcblxuIik7CiAgfQo=</text>
@@ -639,9 +639,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sparkSession</last-search>
+      <last-search>conf</last-search>
       <last-offset />
-      <last-pattern>sparkSession</last-pattern>
+      <last-pattern>conf</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -649,8 +649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>path</entry>
-        <entry encoding="base64">XDxfcHl0aG9uX2luY2x1ZGVzXD4=</entry>
         <entry>SparkContext</entry>
         <entry encoding="base64">XDxTcGFya0NvbnRleHRcPg==</entry>
         <entry>class SparkContext</entry>
@@ -669,6 +667,8 @@
         <entry>sparkContext</entry>
         <entry>sparkContext(</entry>
         <entry>sparkSession</entry>
+        <entry encoding="base64">XDxlbnZcPg==</entry>
+        <entry>conf</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
