@@ -288,9 +288,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDailyScheduleInference.json" timestamp="1529537801030">
         <mark key="'" line="1" column="6" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/volcano/VolcanoCost.java" timestamp="1525908519760">
         <mark key="'" line="230" column="25" />
@@ -491,7 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="13" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="344" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="359" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="372" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
@@ -591,6 +590,7 @@
       <jump line="344" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="345" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="346" column="52" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="116" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -600,7 +600,7 @@
         <text>command</text>
       </register>
       <register name="/" type="4">
-        <text>.par</text>
+        <text>save(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dJbmZvKHMiUHl0aG9uIGNvbW1hbmQgaXMgJHtwYi5jb21tYW5kKCl9LiIpCg==</text>
@@ -633,13 +633,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>152</text>
+        <text>139</text>
       </register>
     </registers>
     <search>
-      <last-search>.par</last-search>
+      <last-search>save(</last-search>
       <last-offset />
-      <last-pattern>.par</last-pattern>
+      <last-pattern>save(</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -647,7 +647,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sparkContext(</entry>
         <entry>sparkSession</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
         <entry>conf</entry>
@@ -667,6 +666,7 @@
         <entry>compute</entry>
         <entry>log</entry>
         <entry>.par</entry>
+        <entry>save(</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -681,6 +681,7 @@
         <entry>w</entry>
         <entry>193</entry>
         <entry>152</entry>
+        <entry>139</entry>
       </history-cmd>
       <history-expr />
       <history-input />
