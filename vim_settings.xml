@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/UserDefinedType.scala" timestamp="1528151750363">
         <mark key="'" line="43" column="57" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" timestamp="1529619064797">
-        <mark key="'" line="97" column="6" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" timestamp="1529689468031">
+        <mark key="'" line="114" column="65" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.class" timestamp="1527705126969">
         <mark key="'" line="52" column="32" />
@@ -115,8 +115,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/onavo-plasma-apps-v1/pom.xml" timestamp="1527886369168">
         <mark key="'" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/fb-spark/python/pyspark/context.py" timestamp="1529627704556">
-        <mark key="'" line="296" column="26" />
+      <file name="$USER_HOME$/fb-spark/python/pyspark/context.py" timestamp="1529690390751">
+        <mark key="'" line="32" column="33" />
         <mark key="[" line="300" column="11" />
         <mark key="]" line="301" column="7" />
         <mark key="^" line="301" column="7" />
@@ -173,8 +173,8 @@
       <file name="$USER_HOME$/fb-spark/mllib/src/main/scala/org/apache/spark/ml/tree/treeModels.scala" timestamp="1528935892471">
         <mark key="'" line="429" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529626730760">
-        <mark key="'" line="187" column="14" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529689458831">
+        <mark key="'" line="163" column="50" />
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
@@ -213,8 +213,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" timestamp="1527623123862">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" timestamp="1529473208456">
-        <mark key="'" line="48" column="33" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" timestamp="1529690624406">
+        <mark key="'" line="39" column="8" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlFunction.java" timestamp="1529366360835">
         <mark key="'" line="40" column="13" />
@@ -279,8 +279,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcTableScan.java" timestamp="1526326287270">
         <mark key="'" line="47" column="57" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" timestamp="1529627070318">
-        <mark key="'" line="127" column="29" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" timestamp="1529689480743">
+        <mark key="'" line="109" column="24" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/rules/SemiJoinRule.java" timestamp="1525895525344">
         <mark key="'" line="46" column="43" />
@@ -313,8 +313,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rex/RexSubQuery.java" timestamp="1525806958301">
         <mark key="'" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1529622801343">
-        <mark key="'" line="1144" column="56" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1529690518469">
+        <mark key="'" line="559" column="17" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" timestamp="1526337176951">
         <mark key="'" line="389" column="26" />
@@ -491,43 +491,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="359" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="372" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="490" column="12" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="492" column="12" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="75" column="71" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
-      <jump line="67" column="8" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
-      <jump line="66" column="8" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
-      <jump line="80" column="25" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
-      <jump line="55" column="19" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
-      <jump line="38" column="14" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
-      <jump line="56" column="16" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
-      <jump line="54" column="12" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
-      <jump line="52" column="8" filename="$USER_HOME$/fb-spark/python/pyspark/java_gateway.py" />
-      <jump line="161" column="64" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="298" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="570" column="38" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="573" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="631" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="620" column="47" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="637" column="26" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="639" column="19" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="640" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="1036" column="9" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="1040" column="52" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="1051" column="9" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="1054" column="75" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="1064" column="11" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="1096" column="19" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="1140" column="20" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="1144" column="56" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="42" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/internal/Logging.scala" />
       <jump line="150" column="24" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/internal/Logging.scala" />
       <jump line="100" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="172" column="11" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="215" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/worker/DriverRunner.scala" />
-      <jump line="163" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="565" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
       <jump line="1019" column="58" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
       <jump line="1054" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
@@ -577,8 +544,6 @@
       <jump line="284" column="25" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="43" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
       <jump line="150" column="61" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
-      <jump line="127" column="29" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
-      <jump line="114" column="35" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
       <jump line="198" column="28" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="296" column="26" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="326" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
@@ -591,6 +556,41 @@
       <jump line="345" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="346" column="52" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="116" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="163" column="50" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="114" column="65" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
+      <jump line="127" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="109" column="24" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="68" column="7" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="336" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="338" column="35" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="356" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="370" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="66" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="293" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="304" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="316" column="69" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="317" column="40" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="318" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="320" column="39" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="324" column="50" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="340" column="43" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="341" column="78" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="388" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="69" column="32" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
+      <jump line="33" column="46" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonUtils.scala" />
+      <jump line="265" column="49" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="32" column="33" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="364" column="62" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="855" column="60" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="862" column="58" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="85" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="482" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="523" column="11" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="524" column="34" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="559" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="40" column="25" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
+      <jump line="74" column="42" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
+      <jump line="39" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -600,7 +600,7 @@
         <text>command</text>
       </register>
       <register name="/" type="4">
-        <text>save(</text>
+        <text encoding="base64">XDxweXRob25FeGVjXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dJbmZvKHMiUHl0aG9uIGNvbW1hbmQgaXMgJHtwYi5jb21tYW5kKCl9LiIpCg==</text>
@@ -637,26 +637,16 @@
       </register>
     </registers>
     <search>
-      <last-search>save(</last-search>
+      <last-search encoding="base64">XDxweXRob25FeGVjXD4=</last-search>
       <last-offset />
-      <last-pattern>save(</last-pattern>
+      <last-pattern encoding="base64">XDxweXRob25FeGVjXD4=</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sparkSession</entry>
-        <entry encoding="base64">XDxlbnZcPg==</entry>
-        <entry>conf</entry>
-        <entry encoding="base64">XDxQWVNQQVJLX1NVQk1JVF9BUkdTXD4=</entry>
-        <entry encoding="base64">XDxzdWJtaXRfYXJnc1w+</entry>
-        <entry>\cconf</entry>
-        <entry>log4j</entry>
-        <entry encoding="base64">XDxpbml0aWFsaXplZFw+</entry>
-        <entry>toString</entry>
-        <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
         <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxzdGRlcnJcPg==</entry>
         <entry>PythonRDD</entry>
@@ -667,6 +657,16 @@
         <entry>log</entry>
         <entry>.par</entry>
         <entry>save(</entry>
+        <entry>Python</entry>
+        <entry>deploy</entry>
+        <entry>python</entry>
+        <entry>launch_gate</entry>
+        <entry encoding="base64">XDxsYXVuY2hfZ2F0ZXdheVw+</entry>
+        <entry>shell</entry>
+        <entry encoding="base64">XDxQWVNQQVJLX1NIRUxMXD4=</entry>
+        <entry>\cpython</entry>
+        <entry encoding="base64">XDxQWVNQQVJLX0RSSVZFUl9QWVRIT05cPg==</entry>
+        <entry encoding="base64">XDxweXRob25FeGVjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
