@@ -334,8 +334,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraToEnumerableConverter.java" timestamp="1526329998241">
         <mark key="'" line="53" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1529627672025">
-        <mark key="'" line="375" column="10" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1529629353175">
+        <mark key="'" line="346" column="52" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" timestamp="1529626008743">
         <mark key="'" line="225" column="30" />
@@ -491,15 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="56" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="105" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="115" column="45" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="121" column="13" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="140" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="172" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="202" column="13" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="213" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="308" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="327" column="13" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="344" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="359" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
@@ -591,6 +582,15 @@
       <jump line="114" column="35" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
       <jump line="198" column="28" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
       <jump line="296" column="26" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="326" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="327" column="23" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="334" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="336" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="339" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="341" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="344" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="345" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="346" column="52" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -600,7 +600,7 @@
         <text>command</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>.par</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dJbmZvKHMiUHl0aG9uIGNvbW1hbmQgaXMgJHtwYi5jb21tYW5kKCl9LiIpCg==</text>
@@ -637,9 +637,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>.par</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>.par</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -647,7 +647,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sparkContext</entry>
         <entry>sparkContext(</entry>
         <entry>sparkSession</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
@@ -667,6 +666,7 @@
         <entry encoding="base64">XDxzdGRvdXRJdGVyYXRvclw+</entry>
         <entry>compute</entry>
         <entry>log</entry>
+        <entry>.par</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
