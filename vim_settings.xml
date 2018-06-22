@@ -42,6 +42,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/JdbcToSparkConverter.java" timestamp="1526323042470">
         <mark key="'" line="90" column="24" />
       </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/worker/DriverRunner.scala" timestamp="1529625926103">
+        <mark key="'" line="215" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/core/IsEqual.class" timestamp="1525921437763">
         <mark key="'" line="62" column="15" />
       </file>
@@ -112,12 +115,15 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/onavo-plasma-apps-v1/pom.xml" timestamp="1527886369168">
         <mark key="'" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/fb-spark/python/pyspark/context.py" timestamp="1529607928058">
-        <mark key="'" line="198" column="28" />
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
+      <file name="$USER_HOME$/fb-spark/python/pyspark/context.py" timestamp="1529627704556">
+        <mark key="'" line="296" column="26" />
+        <mark key="[" line="300" column="11" />
+        <mark key="]" line="301" column="7" />
+        <mark key="^" line="301" column="7" />
+        <mark key="." line="301" column="7" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/python/pyspark/rdd.py" timestamp="1529626835295">
+        <mark key="'" line="775" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/collect/Maps.java" timestamp="1525826441658">
         <mark key="'" line="409" column="17" />
@@ -167,8 +173,12 @@
       <file name="$USER_HOME$/fb-spark/mllib/src/main/scala/org/apache/spark/ml/tree/treeModels.scala" timestamp="1528935892471">
         <mark key="'" line="429" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529619044068">
-        <mark key="'" line="55" column="15" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529626730760">
+        <mark key="'" line="187" column="14" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="173" column="57" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class" timestamp="1525921435450">
         <mark key="'" line="144" column="19" />
@@ -202,12 +212,6 @@
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" timestamp="1527623123862">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/engine/testUDAF.json" timestamp="1529529497993">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" timestamp="1529473208456">
         <mark key="'" line="48" column="33" />
@@ -269,20 +273,14 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/test/java/com/facebook/upm/engine/UtilsTest.java" timestamp="1529466638449">
         <mark key="'" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testExplicitDatasetsPhysicalPlan.json" timestamp="1529528312634">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="101" column="0" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" timestamp="1529194011597">
         <mark key="'" line="71" column="43" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcTableScan.java" timestamp="1526326287270">
         <mark key="'" line="47" column="57" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" timestamp="1529469723451">
-        <mark key="'" line="960" column="0" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" timestamp="1529627070318">
+        <mark key="'" line="127" column="29" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/rules/SemiJoinRule.java" timestamp="1525895525344">
         <mark key="'" line="46" column="43" />
@@ -336,8 +334,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraToEnumerableConverter.java" timestamp="1526329998241">
         <mark key="'" line="53" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1529620653942">
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1529627672025">
         <mark key="'" line="375" column="10" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" timestamp="1529626008743">
+        <mark key="'" line="225" column="30" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/AbstractRelOptPlanner.java" timestamp="1525911061906">
         <mark key="'" line="243" column="20" />
@@ -396,8 +397,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/CombineFileInputFormat.java" timestamp="1527705283938">
         <mark key="'" line="205" column="29" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1529605799994">
-        <mark key="'" line="562" column="12" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1529626963269">
+        <mark key="'" line="284" column="25" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/CalcitePrepareImpl.java" timestamp="1525903893236">
         <mark key="'" line="525" column="12" />
@@ -432,12 +433,6 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql2rel/SqlToRelConverter.java" timestamp="1525887069002">
         <mark key="'" line="656" column="8" />
-      </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testHourlyScheduleInference.json" timestamp="1529529069450">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmitArguments.scala" timestamp="1529606042710">
         <mark key="'" line="521" column="20" />
@@ -496,63 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="467" column="22" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="69" column="4" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="193" column="13" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="196" column="0" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="230" column="19" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="198" column="28" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="41" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="66" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="100" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="53" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
-      <jump line="64" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="28" column="9" filename="$USER_HOME$/fb-spark/python/pyspark/daemon.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/fb-spark/python/pyspark/daemon.py" />
-      <jump line="166" column="4" filename="$USER_HOME$/fb-spark/python/pyspark/daemon.py" />
-      <jump line="235" column="19" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="252" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="169" column="33" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="171" column="31" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="122" column="31" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="124" column="29" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="166" column="36" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="53" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="118" column="34" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="55" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="48" column="40" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
-      <jump line="38" column="22" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
-      <jump line="77" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
-      <jump line="97" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
-      <jump line="441" column="12" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/fb-spark/python/pyspark/sql/session.py" />
-      <jump line="167" column="29" filename="$USER_HOME$/fb-spark/python/pyspark/sql/session.py" />
-      <jump line="1481" column="13" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="373" column="24" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="365" column="18" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="366" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="369" column="18" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="371" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="375" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="2147" column="28" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="71" column="19" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="476" column="11" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="488" column="23" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="493" column="34" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="496" column="31" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="503" column="14" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="504" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="505" column="19" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="45" column="11" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="46" column="11" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="54" column="37" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="74" column="11" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="75" column="12" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="77" column="26" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="78" column="28" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
-      <jump line="80" column="31" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="104" column="56" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="105" column="20" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
       <jump line="115" column="45" filename="$USER_HOME$/fb-spark/python/pyspark/sql/context.py" />
@@ -596,55 +534,112 @@
       <jump line="1144" column="56" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
       <jump line="42" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/internal/Logging.scala" />
       <jump line="150" column="24" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/internal/Logging.scala" />
+      <jump line="100" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="172" column="11" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="215" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/worker/DriverRunner.scala" />
+      <jump line="163" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="565" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="1019" column="58" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="1054" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="1001" column="57" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="623" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="592" column="34" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="538" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="564" column="54" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="527" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="512" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="1006" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="179" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="188" column="33" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="191" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="192" column="7" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="194" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="197" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="198" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="200" column="23" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="206" column="51" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="207" column="54" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="209" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="210" column="7" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="212" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="214" column="36" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="215" column="39" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="216" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="217" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="223" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="225" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="170" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="195" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="187" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="2311" column="21" filename="$USER_HOME$/fb-spark/python/pyspark/rdd.py" />
+      <jump line="2316" column="61" filename="$USER_HOME$/fb-spark/python/pyspark/rdd.py" />
+      <jump line="2403" column="35" filename="$USER_HOME$/fb-spark/python/pyspark/rdd.py" />
+      <jump line="775" column="33" filename="$USER_HOME$/fb-spark/python/pyspark/rdd.py" />
+      <jump line="50" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="123" column="77" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="131" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="132" column="35" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="135" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="147" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="155" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="160" column="18" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="151" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="284" column="25" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="43" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="150" column="61" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="127" column="29" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="114" column="35" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
+      <jump line="198" column="28" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
+      <jump line="296" column="26" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDEsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMjIsCiAgICAgICJ0eXBlIiA6ICJTUUwiLAogICAgICAiZW5naW5lIiA6ICJwcmVzdG8iLAogICAgICAiZGVwZW5kc09uIiA6IFsgXSwKICAgICAgImlucHV0cyIgOiBbIDEgXSwKICAgICAgIm91dHB1dCIgOiBbIDIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBcIk9VVFBVVFwiIChcIklOVEVOVF9JRFwiIEJJR0lOVCwgXCJJTlRFUkVTVF9SRVNVTFRcIiBBUlJBWSkiLCAiREVMRVRFIEZST00gXCJPVVRQVVRcIiBXSEVSRSAoRFM9J0FCQ0QnKSIsICJJTlNFUlQgSU5UTyBPVVRQVVQgIFNFTEVDVCBcImludGVudF9pZFwiIEFTIFwiSU5URU5UX0lEXCIsIEFSUkFZX0FHRyhNQVBbQVJSQVlbJ2ludGVyZXN0X2ZiaWQnLCAnaW50ZXJlc3RfbmFtZScsICdjb25maWRlbmNlJ10sIEFSUkFZW0NBU1QoXCJpbnRlcmVzdF9mYmlkXCIgQVMgVkFSQ0hBUiBDSEFSQUNURVIgU0VUIFwiSVNPLTg4NTktMVwiKSwgXCJpbnRlcmVzdF9uYW1lXCIsIENBU1QoXCJjb25maWRlbmNlXCIgQVMgVkFSQ0hBUiBDSEFSQUNURVIgU0VUIFwiSVNPLTg4NTktMVwiKV1dKSBBUyBcIklOVEVSRVNUX1JFU1VMVFwiXG4sICdhYmNkJyBhcyBkcyBGUk9NIFwiYmlcIi5cInVzZXJfaW50ZW50X2FkX3RhcmdldF9pbnRlcmVzdHNfcmVzdWx0XCJcbldIRVJFIFwiZHNcIiA9ICdhYmNkJ1xuR1JPVVAgQlkgXCJpbnRlbnRfaWRcIiIgXQogICAgfSBdLAogICAgImRhdGFzZXRzIiA6IFsgewogICAgICAiaWQiIDogMSwKICAgICAgInRhYmxlSWQiIDogMSwKICAgICAgInBhcnRpdGlvbnMiIDogWyB7CiAgICAgICAgImRzIiA6ICJhYmNkIgogICAgICB9IF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJ0YWJsZUlkIiA6IDIsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgewogICAgICAgICJkcyIgOiAiYWJjZCIKICAgICAgfSBdCiAgICB9IF0sCiAgICAidGFibGVzIiA6IFsgewogICAgICAiaWQiIDogMSwKICAgICAgIm5hbWUiIDogWyAiYmkiLCAidXNlcl9pbnRlbnRfYWRfdGFyZ2V0X2ludGVyZXN0c19yZXN1bHQiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJpbnRlbnRfaWQiIDogIkJJR0lOVCIsCiAgICAgICAgImludGVyZXN0X2ZiaWQiIDogIkJJR0lOVCIsCiAgICAgICAgImludGVyZXN0X25hbWUiIDogIlNUUklORyIsCiAgICAgICAgImNvbmZpZGVuY2UiIDogIkRPVUJMRSIsCiAgICAgICAgImRzIiA6ICJTVFJJTkciCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgImRzIiBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAyLAogICAgICAibmFtZSIgOiBbICJiaSIsICJvdXRwdXQiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJJTlRFTlRfSUQiIDogIkJJR0lOVCIsCiAgICAgICAgIklOVEVSRVNUX1JFU1VMVCIgOiAiQU5ZIEFSUkFZIiwKICAgICAgICAiZHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiZHMiIF0KICAgIH0gXQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYi50b1N0cmluZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>command</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWFsaXplZFw+</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REYXRhZnJhbWVGbGF0TWFwKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBEYXRhRnJhbWUgZGYgPSBnZXRDb250ZXh0KCJzYWxlcyIpLnNxbCgiU0VMRUNUIDEiKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEyOkxvZ2ljYWxQcm9qZWN0KEVYUFIkMD1bMV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTE6TG9naWNhbFZhbHVlcyh0dXBsZXM9W1t7IDAgfV1dKVxuXG4iKTsKCiAgICBkZiA9IGRmLmZsYXRNYXAoZ2V0VGVzdFVzZXJGdW5jdGlvbigpLCB0cnVlKTsKCiAgICBhc3NlcnRMb2dpY2FsUGxhbigKICAgICAgICBkZiwKICAgICAgICAiMTE0OkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QzXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgMTEzOkZsYXRNYXBFbGVtZW50cyh0YWJsZT1bW1QyXV0sIHRhcmdldD1bc3BhcmtdLCBhcmc9WzBdLCB0eXBlPVtSZWNvcmRUeXBlKElOVEVHRVIgYXJnKV0pXG4iCiAgICAgICAgICAgICsgIiAgICAxMTI6TG9naWNhbFByb2plY3QoRVhQUiQwPVsxXSlcbiIKICAgICAgICAgICAgKyAiICAgICAgMTExOkxvZ2ljYWxWYWx1ZXModHVwbGVzPVtbeyAwIH1dXSlcblxuIik7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dJbmZvKHMiUHl0aG9uIGNvbW1hbmQgaXMgJHtwYi5jb21tYW5kKCl9LiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDEsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMjIsCiAgICAgICJ0eXBlIiA6ICJTUUwiLAogICAgICAiZW5naW5lIiA6ICJwcmVzdG8iLAogICAgICAiZGVwZW5kc09uIiA6IFsgXSwKICAgICAgImlucHV0cyIgOiBbIDEgXSwKICAgICAgIm91dHB1dCIgOiBbIDIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBcIk9VVFBVVFwiIChcIklOVEVOVF9JRFwiIEJJR0lOVCwgXCJJTlRFUkVTVF9SRVNVTFRcIiBBUlJBWSkiLCAiREVMRVRFIEZST00gXCJPVVRQVVRcIiBXSEVSRSAoRFM9J0FCQ0QnKSIsICJJTlNFUlQgSU5UTyBPVVRQVVQgIFNFTEVDVCBcImludGVudF9pZFwiIEFTIFwiSU5URU5UX0lEXCIsIEFSUkFZX0FHRyhNQVBbQVJSQVlbJ2ludGVyZXN0X2ZiaWQnLCAnaW50ZXJlc3RfbmFtZScsICdjb25maWRlbmNlJ10sIEFSUkFZW0NBU1QoXCJpbnRlcmVzdF9mYmlkXCIgQVMgVkFSQ0hBUiBDSEFSQUNURVIgU0VUIFwiSVNPLTg4NTktMVwiKSwgXCJpbnRlcmVzdF9uYW1lXCIsIENBU1QoXCJjb25maWRlbmNlXCIgQVMgVkFSQ0hBUiBDSEFSQUNURVIgU0VUIFwiSVNPLTg4NTktMVwiKV1dKSBBUyBcIklOVEVSRVNUX1JFU1VMVFwiXG4sICdhYmNkJyBhcyBkcyBGUk9NIFwiYmlcIi5cInVzZXJfaW50ZW50X2FkX3RhcmdldF9pbnRlcmVzdHNfcmVzdWx0XCJcbldIRVJFIFwiZHNcIiA9ICdhYmNkJ1xuR1JPVVAgQlkgXCJpbnRlbnRfaWRcIiIgXQogICAgfSBdLAogICAgImRhdGFzZXRzIiA6IFsgewogICAgICAiaWQiIDogMSwKICAgICAgInRhYmxlSWQiIDogMSwKICAgICAgInBhcnRpdGlvbnMiIDogWyB7CiAgICAgICAgImRzIiA6ICJhYmNkIgogICAgICB9IF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJ0YWJsZUlkIiA6IDIsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgewogICAgICAgICJkcyIgOiAiYWJjZCIKICAgICAgfSBdCiAgICB9IF0sCiAgICAidGFibGVzIiA6IFsgewogICAgICAiaWQiIDogMSwKICAgICAgIm5hbWUiIDogWyAiYmkiLCAidXNlcl9pbnRlbnRfYWRfdGFyZ2V0X2ludGVyZXN0c19yZXN1bHQiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJpbnRlbnRfaWQiIDogIkJJR0lOVCIsCiAgICAgICAgImludGVyZXN0X2ZiaWQiIDogIkJJR0lOVCIsCiAgICAgICAgImludGVyZXN0X25hbWUiIDogIlNUUklORyIsCiAgICAgICAgImNvbmZpZGVuY2UiIDogIkRPVUJMRSIsCiAgICAgICAgImRzIiA6ICJTVFJJTkciCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgImRzIiBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAyLAogICAgICAibmFtZSIgOiBbICJiaSIsICJvdXRwdXQiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJJTlRFTlRfSUQiIDogIkJJR0lOVCIsCiAgICAgICAgIklOVEVSRVNUX1JFU1VMVCIgOiAiQU5ZIEFSUkFZIiwKICAgICAgICAiZHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiZHMiIF0KICAgIH0gXQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYi50b1N0cmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDIsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogNjEsCiAgICAgICJ0eXBlIiA6ICJTUUwiLAogICAgICAiZW5naW5lIiA6ICJwcmVzdG8iLAogICAgICAiZGVwZW5kc09uIiA6IFsgXSwKICAgICAgImlucHV0cyIgOiBbIDEgXSwKICAgICAgIm91dHB1dCIgOiBbIDIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBcIk9VVFBVVFwiIChcIlVTRVJJRFwiIEJJR0lOVCwgXCJBUFBJRFwiIFZBUkNIQVIsIFwiQ0xJRU5UX0NPVU5UUllfQ09ERVwiIFZBUkNIQVIsIFwiR0VPX0lEXCIgVkFSQ0hBUiwgXCJIT1VSTFlfRklSU1RfVElNRVNUQU1QXCIgQklHSU5ULCBcIkhPVVJMWV9MQVNUX1RJTUVTVEFNUFwiIEJJR0lOVCkiLCAiREVMRVRFIEZST00gXCJPVVRQVVRcIiBXSEVSRSAoRFM9J0FCQ0QnIEFORCBUUz0nRUZHSCcpIiwgIklOU0VSVCBJTlRPIE9VVFBVVCAgU0VMRUNUIFwicHJvZHVjdF91c2VyaWRcIiBBUyBcIlVTRVJJRFwiLCBcImFwcF9pZFwiIEFTIFwiQVBQSURcIiwgTUFYKFwiY2xpZW50X2NvdW50cnlfY29kZVwiKSBBUyBcIkNMSUVOVF9DT1VOVFJZX0NPREVcIiwgTUFYKFwiZ2VvX2lkXCIpIEFTIFwiR0VPX0lEXCIsIENBU1QoTUlOKFwiZXZlbnRfdGltZVwiKSBBUyBCSUdJTlQpIEFTIFwiSE9VUkxZX0ZJUlNUX1RJTUVTVEFNUFwiLCBDQVNUKE1BWChcImV2ZW50X3RpbWVcIikgQVMgQklHSU5UKSBBUyBcIkhPVVJMWV9MQVNUX1RJTUVTVEFNUFwiXG4sICdhYmNkJyBhcyBkcywnZWZnaCcgYXMgdHMgRlJPTSAoU0VMRUNUICpcbkZST00gXCJiaVwiLlwidGVzdF9kYWlseV9hY3RpdmVfdXNlcnNfcmF3X2luY19hcmNoaXZlXCJcbldIRVJFIFwidHNcIiA9ICdlZmdoJykgQVMgXCJ0XCJcbldIRVJFIFwiZHNcIiA9ICdhYmNkJ1xuR1JPVVAgQlkgXCJwcm9kdWN0X3VzZXJpZFwiLCBcImFwcF9pZFwiIiBdCiAgICB9IF0sCiAgICAiZGF0YXNldHMiIDogWyB7CiAgICAgICJpZCIgOiAyLAogICAgICAidGFibGVJZCIgOiAyLAogICAgICAicGFydGl0aW9ucyIgOiBbIHsKICAgICAgICAiZHMiIDogImFiY2QiCiAgICAgIH0sIHsKICAgICAgICAidHMiIDogImVmZ2giCiAgICAgIH0gXQogICAgfSwgewogICAgICAiaWQiIDogMSwKICAgICAgInRhYmxlSWQiIDogMSwKICAgICAgInBhcnRpdGlvbnMiIDogWyB7CiAgICAgICAgInRzIiA6ICJlZmdoIgogICAgICB9LCB7CiAgICAgICAgImRzIiA6ICJhYmNkIgogICAgICB9IF0KICAgIH0gXSwKICAgICJ0YWJsZXMiIDogWyB7CiAgICAgICJpZCIgOiAxLAogICAgICAibmFtZSIgOiBbICJiaSIsICJ0ZXN0X2RhaWx5X2FjdGl2ZV91c2Vyc19yYXdfaW5jX2FyY2hpdmUiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJldmVudF90eXBlIiA6ICJTVFJJTkciLAogICAgICAgICJwcm9kdWN0X3VzZXJpZCIgOiAiQklHSU5UIiwKICAgICAgICAiZXZlbnRfdGltZSIgOiAiRE9VQkxFIiwKICAgICAgICAibmF2aWdhdGlvbl9lbmRwb2ludHMiIDogIlNUUklORyIsCiAgICAgICAgImhhc2hfaWQiIDogIlNUUklORyIsCiAgICAgICAgImNsaWVudF9jb3VudHJ5X2NvZGUiIDogIlNUUklORyIsCiAgICAgICAgImdlb19pZCIgOiAiU1RSSU5HIiwKICAgICAgICAiZGlhbHRvbmVfbW9kZSIgOiAiQk9PTEVBTiIsCiAgICAgICAgImlnX2RhdGEiIDogIihWQVJDSEFSLCBWQVJDSEFSKSBNQVAiLAogICAgICAgICJvcmlnaW5hbF9hcHBpZCIgOiAiU1RSSU5HIiwKICAgICAgICAiZHMiIDogIlNUUklORyIsCiAgICAgICAgImFwcF9pZCIgOiAiU1RSSU5HIiwKICAgICAgICAidHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAidHMiLCAiZHMiIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJuYW1lIiA6IFsgImJpIiwgIm91dHB1dCIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgIlVTRVJJRCIgOiAiQklHSU5UIiwKICAgICAgICAiQVBQSUQiIDogIlNUUklORyIsCiAgICAgICAgIkNMSUVOVF9DT1VOVFJZX0NPREUiIDogIlNUUklORyIsCiAgICAgICAgIkdFT19JRCIgOiAiU1RSSU5HIiwKICAgICAgICAiSE9VUkxZX0ZJUlNUX1RJTUVTVEFNUCIgOiAiQklHSU5UIiwKICAgICAgICAiSE9VUkxZX0xBU1RfVElNRVNUQU1QIiA6ICJCSUdJTlQiLAogICAgICAgICJkcyIgOiAiU1RSSU5HIiwKICAgICAgICAidHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiZHMiLCAidHMiIF0KICAgIH0gXQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYi5jb21tYW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDEsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMzAsCiAgICAgICJ0eXBlIiA6ICJTUUwiLAogICAgICAiZW5naW5lIiA6ICJwcmVzdG8iLAogICAgICAiZGVwZW5kc09uIiA6IFsgXSwKICAgICAgImlucHV0cyIgOiBbIDEgXSwKICAgICAgIm91dHB1dCIgOiBbIDIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBcIk9VVFBVVFwiIChcIlVTRVJJRFwiIEJJR0lOVCwgXCJBUFBJRFwiIFZBUkNIQVIsIFwiQ0xJRU5UX0NPVU5UUllfQ09ERVwiIFZBUkNIQVIsIFwiR0VPX0lEXCIgVkFSQ0hBUiwgXCJEQUlMWV9GSVJTVF9USU1FU1RBTVBcIiBCSUdJTlQsIFwiREFJTFlfTEFTVF9USU1FU1RBTVBcIiBCSUdJTlQpIiwgIkRFTEVURSBGUk9NIFwiT1VUUFVUXCIgV0hFUkUgKERTPSdBQkNEJykiLCAiSU5TRVJUIElOVE8gT1VUUFVUICBTRUxFQ1QgXCJ1c2VyaWRcIiBBUyBcIlVTRVJJRFwiLCBcImFwcGlkXCIgQVMgXCJBUFBJRFwiLCBNQVgoXCJjbGllbnRfY291bnRyeV9jb2RlXCIpIEFTIFwiQ0xJRU5UX0NPVU5UUllfQ09ERVwiLCBNQVgoXCJnZW9faWRcIikgQVMgXCJHRU9fSURcIiwgQ0FTVChNSU4oXCJob3VybHlfZmlyc3RfdGltZXN0YW1wXCIpIEFTIEJJR0lOVCkgQVMgXCJEQUlMWV9GSVJTVF9USU1FU1RBTVBcIiwgQ0FTVChNQVgoXCJob3VybHlfbGFzdF90aW1lc3RhbXBcIikgQVMgQklHSU5UKSBBUyBcIkRBSUxZX0xBU1RfVElNRVNUQU1QXCJcbiwgJ2FiY2QnIGFzIGRzIEZST00gKFNFTEVDVCAqXG5GUk9NIFwiYmlcIi5cInRlc3RfYWN0aXZlX3VzZXJzX3BhcnRpYWxfYWdnc1wiXG5XSEVSRSBcImRzXCIgPSAnYWJjZCcpIEFTIFwidFwiXG5XSEVSRSBcInRzXCIgPj0gJzxEQVRBU0VUX1NQRUNfU1RBUlQ6VElNRUlEOkRBVEFTRVRfU1BFQ19FTkQ+JyBBTkQgXCJ0c1wiIDw9ICc8REFUQVNFVF9TUEVDX1NUQVJUOlRJTUVJRCs4MjgwMHM6REFUQVNFVF9TUEVDX0VORD4nXG5HUk9VUCBCWSBcInVzZXJpZFwiLCBcImFwcGlkXCIiIF0KICAgIH0gXSwKICAgICJkYXRhc2V0cyIgOiBbIHsKICAgICAgImlkIiA6IDEsCiAgICAgICJ0YWJsZUlkIiA6IDEsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgewogICAgICAgICJkcyIgOiAiYWJjZCIKICAgICAgfSwgewogICAgICAgICJ0cyIgOiAiUkFOR0UoVElNRUlELFRJTUVJRCs4MjgwMHMsdHJ1ZSx0cnVlKSIKICAgICAgfSBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAyLAogICAgICAidGFibGVJZCIgOiAyLAogICAgICAicGFydGl0aW9ucyIgOiBbIHsKICAgICAgICAiZHMiIDogImFiY2QiCiAgICAgIH0gXQogICAgfSBdLAogICAgInRhYmxlcyIgOiBbIHsKICAgICAgImlkIiA6IDEsCiAgICAgICJuYW1lIiA6IFsgImJpIiwgInRlc3RfYWN0aXZlX3VzZXJzX3BhcnRpYWxfYWdncyIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgInVzZXJpZCIgOiAiQklHSU5UIiwKICAgICAgICAiYXBwaWQiIDogIlNUUklORyIsCiAgICAgICAgImNsaWVudF9jb3VudHJ5X2NvZGUiIDogIlNUUklORyIsCiAgICAgICAgImdlb19pZCIgOiAiU1RSSU5HIiwKICAgICAgICAiaG91cmx5X2ZpcnN0X3RpbWVzdGFtcCIgOiAiQklHSU5UIiwKICAgICAgICAiaG91cmx5X2xhc3RfdGltZXN0YW1wIiA6ICJCSUdJTlQiLAogICAgICAgICJkcyIgOiAiU1RSSU5HIiwKICAgICAgICAidHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiZHMiLCAidHMiIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJuYW1lIiA6IFsgImJpIiwgIm91dHB1dCIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgIlVTRVJJRCIgOiAiQklHSU5UIiwKICAgICAgICAiQVBQSUQiIDogIlNUUklORyIsCiAgICAgICAgIkNMSUVOVF9DT1VOVFJZX0NPREUiIDogIlNUUklORyIsCiAgICAgICAgIkdFT19JRCIgOiAiU1RSSU5HIiwKICAgICAgICAiREFJTFlfRklSU1RfVElNRVNUQU1QIiA6ICJCSUdJTlQiLAogICAgICAgICJEQUlMWV9MQVNUX1RJTUVTVEFNUCIgOiAiQklHSU5UIiwKICAgICAgICAiZHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiZHMiIF0KICAgIH0gXQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDMsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMTI2LAogICAgICAidHlwZSIgOiAiU1FMIiwKICAgICAgImVuZ2luZSIgOiAicHJlc3RvIiwKICAgICAgImRlcGVuZHNPbiIgOiBbIF0sCiAgICAgICJpbnB1dHMiIDogWyAxIF0sCiAgICAgICJvdXRwdXQiIDogWyAyIF0sCiAgICAgICJzcWwiIDogWyAiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgXCJPVVRQVVRcIiAoXCJ1c2VyaWRcIiBCSUdJTlQsIFwiY291bnRyeVwiIFZBUkNIQVIsIFwibG9jYXRpb25faWRcIiBCSUdJTlQsIFwibG9jYWxlXCIgVkFSQ0hBUiwgXCJhZ2VcIiBTTUFMTElOVCwgXCJsaWZlc3RhZ2VfcHJlZGljdGlvblwiIFZBUkNIQVIsIFwiZ2VuZGVyXCIgVkFSQ0hBUiwgXCJmcmllbmRfY291bnRcIiBJTlRFR0VSLCBcImZhY2Vib29rYWdlXCIgU01BTExJTlQsIFwiYWNjb3VudHN0YXR1c1wiIFZBUkNIQVIsIFwiaXNhY3RpdmF0ZWRcIiBWQVJDSEFSLCBcImlzX2VtcGxveWVlXCIgVElOWUlOVCwgXCJsMVwiIFRJTllJTlQsIFwid2ViX2wxXCIgVElOWUlOVCwgXCJtb2JpbGVfbDFcIiBUSU5ZSU5ULCBcImw3XCIgVElOWUlOVCwgXCJ3ZWJfbDdcIiBUSU5ZSU5ULCBcIm1vYmlsZV9sN1wiIFRJTllJTlQsIFwibDI4XCIgVElOWUlOVCwgXCJ3ZWJfbDI4XCIgVElOWUlOVCwgXCJtb2JpbGVfbDI4XCIgVElOWUlOVCwgXCJsMzBcIiBUSU5ZSU5ULCBcIndlYl9sMzBcIiBUSU5ZSU5ULCBcIm1vYmlsZV9sMzBcIiBUSU5ZSU5ULCBcImxhc3RhY3Rpb250aW1lXCIgVkFSQ0hBUiwgXCJkc1wiIFZBUkNIQVIpIiwgIkRFTEVURSBGUk9NIFwiT1VUUFVUXCIgV0hFUkUgKERTPScyMDE4LTA1LTAxJykiLCAiSU5TRVJUIElOVE8gT1VUUFVUICBTRUxFQ1QgKlxuLCAnMjAxOC0wNS0wMScgYXMgZHMgRlJPTSAoU0VMRUNUICpcbkZST00gKFNFTEVDVCAqXG5GUk9NIChTRUxFQ1QgKlxuRlJPTSBcImJpXCIuXCJkaW1fYWxsX3VzZXJzX2Zhc3RcIlxuV0hFUkUgXCJhZ2VcIiA+PSAnMScgQU5EIFwiYWdlXCIgPD0gJzInKSBBUyBcInRcIlxuV0hFUkUgXCJsb2NhbGVcIiA9ICdhJyBPUiBcImxvY2FsZVwiID0gJ2InKSBBUyBcInQwXCJcbldIRVJFIFwiZ2VuZGVyXCIgTElLRSAnJU0lJykgQVMgXCJ0MVwiXG5XSEVSRSBcImxvY2F0aW9uX2lkXCIgPSAxIiBdCiAgICB9IF0sCiAgICAiZGF0YXNldHMiIDogWyB7CiAgICAgICJpZCIgOiAyLAogICAgICAidGFibGVJZCIgOiAyLAogICAgICAicGFydGl0aW9ucyIgOiBbIHsKICAgICAgICAiZHMiIDogIjIwMTgtMDUtMDEiCiAgICAgIH0gXQogICAgfSwgewogICAgICAiaWQiIDogMSwKICAgICAgInRhYmxlSWQiIDogMSwKICAgICAgInBhcnRpdGlvbnMiIDogWyB7CiAgICAgICAgImFnZSIgOiAiUkFOR0UoMSwyLHRydWUsdHJ1ZSkiCiAgICAgIH0sIHsKICAgICAgICAibG9jYWxlIiA6ICJJTihhLGIpIgogICAgICB9LCB7CiAgICAgICAgImdlbmRlciIgOiAiTUFUQ0goJU0lKSIKICAgICAgfSBdCiAgICB9IF0sCiAgICAidGFibGVzIiA6IFsgewogICAgICAiaWQiIDogMSwKICAgICAgIm5hbWUiIDogWyAiYmkiLCAiZGltX2FsbF91c2Vyc19mYXN0IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogZmFsc2UsCiAgICAgICJtYXRlcmFsaXplZCIgOiB0cnVlLAogICAgICAic2NoZW1hIiA6IHsKICAgICAgICAidXNlcmlkIiA6ICJCSUdJTlQiLAogICAgICAgICJjb3VudHJ5IiA6ICJTVFJJTkciLAogICAgICAgICJsb2NhdGlvbl9pZCIgOiAiQklHSU5UIiwKICAgICAgICAibG9jYWxlIiA6ICJTVFJJTkciLAogICAgICAgICJhZ2UiIDogIlNNQUxMSU5UIiwKICAgICAgICAibGlmZXN0YWdlX3ByZWRpY3Rpb24iIDogIlNUUklORyIsCiAgICAgICAgImdlbmRlciIgOiAiU1RSSU5HIiwKICAgICAgICAiZnJpZW5kX2NvdW50IiA6ICJJTlRFR0VSIiwKICAgICAgICAiZmFjZWJvb2thZ2UiIDogIlNNQUxMSU5UIiwKICAgICAgICAiYWNjb3VudHN0YXR1cyIgOiAiU1RSSU5HIiwKICAgICAgICAiaXNhY3RpdmF0ZWQiIDogIlNUUklORyIsCiAgICAgICAgImlzX2VtcGxveWVlIiA6ICJUSU5ZSU5UIiwKICAgICAgICAibDEiIDogIlRJTllJTlQiLAogICAgICAgICJ3ZWJfbDEiIDogIlRJTllJTlQiLAogICAgICAgICJtb2JpbGVfbDEiIDogIlRJTllJTlQiLAogICAgICAgICJsNyIgOiAiVElOWUlOVCIsCiAgICAgICAgIndlYl9sNyIgOiAiVElOWUlOVCIsCiAgICAgICAgIm1vYmlsZV9sNyIgOiAiVElOWUlOVCIsCiAgICAgICAgImwyOCIgOiAiVElOWUlOVCIsCiAgICAgICAgIndlYl9sMjgiIDogIlRJTllJTlQiLAogICAgICAgICJtb2JpbGVfbDI4IiA6ICJUSU5ZSU5UIiwKICAgICAgICAibDMwIiA6ICJUSU5ZSU5UIiwKICAgICAgICAid2ViX2wzMCIgOiAiVElOWUlOVCIsCiAgICAgICAgIm1vYmlsZV9sMzAiIDogIlRJTllJTlQiLAogICAgICAgICJsYXN0YWN0aW9udGltZSIgOiAiU1RSSU5HIiwKICAgICAgICAiZHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiYWdlIiwgImxvY2FsZSIsICJnZW5kZXIiIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJuYW1lIiA6IFsgImJpIiwgIm91dHB1dCIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgInVzZXJpZCIgOiAiQklHSU5UIiwKICAgICAgICAiY291bnRyeSIgOiAiU1RSSU5HIiwKICAgICAgICAibG9jYXRpb25faWQiIDogIkJJR0lOVCIsCiAgICAgICAgImxvY2FsZSIgOiAiU1RSSU5HIiwKICAgICAgICAiYWdlIiA6ICJTTUFMTElOVCIsCiAgICAgICAgImxpZmVzdGFnZV9wcmVkaWN0aW9uIiA6ICJTVFJJTkciLAogICAgICAgICJnZW5kZXIiIDogIlNUUklORyIsCiAgICAgICAgImZyaWVuZF9jb3VudCIgOiAiSU5URUdFUiIsCiAgICAgICAgImZhY2Vib29rYWdlIiA6ICJTTUFMTElOVCIsCiAgICAgICAgImFjY291bnRzdGF0dXMiIDogIlNUUklORyIsCiAgICAgICAgImlzYWN0aXZhdGVkIiA6ICJTVFJJTkciLAogICAgICAgICJpc19lbXBsb3llZSIgOiAiVElOWUlOVCIsCiAgICAgICAgImwxIiA6ICJUSU5ZSU5UIiwKICAgICAgICAid2ViX2wxIiA6ICJUSU5ZSU5UIiwKICAgICAgICAibW9iaWxlX2wxIiA6ICJUSU5ZSU5UIiwKICAgICAgICAibDciIDogIlRJTllJTlQiLAogICAgICAgICJ3ZWJfbDciIDogIlRJTllJTlQiLAogICAgICAgICJtb2JpbGVfbDciIDogIlRJTllJTlQiLAogICAgICAgICJsMjgiIDogIlRJTllJTlQiLAogICAgICAgICJ3ZWJfbDI4IiA6ICJUSU5ZSU5UIiwKICAgICAgICAibW9iaWxlX2wyOCIgOiAiVElOWUlOVCIsCiAgICAgICAgImwzMCIgOiAiVElOWUlOVCIsCiAgICAgICAgIndlYl9sMzAiIDogIlRJTllJTlQiLAogICAgICAgICJtb2JpbGVfbDMwIiA6ICJUSU5ZSU5UIiwKICAgICAgICAibGFzdGFjdGlvbnRpbWUiIDogIlNUUklORyIsCiAgICAgICAgImRzIiA6ICJTVFJJTkciCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgImRzIiBdCiAgICB9IF0KICB9Cn0K</text>
+        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDEsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMjIsCiAgICAgICJ0eXBlIiA6ICJTUUwiLAogICAgICAiZW5naW5lIiA6ICJwcmVzdG8iLAogICAgICAiZGVwZW5kc09uIiA6IFsgXSwKICAgICAgImlucHV0cyIgOiBbIDEgXSwKICAgICAgIm91dHB1dCIgOiBbIDIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBcIk9VVFBVVFwiIChcIklOVEVOVF9JRFwiIEJJR0lOVCwgXCJJTlRFUkVTVF9SRVNVTFRcIiBBUlJBWSkiLCAiREVMRVRFIEZST00gXCJPVVRQVVRcIiBXSEVSRSAoRFM9J0FCQ0QnKSIsICJJTlNFUlQgSU5UTyBPVVRQVVQgIFNFTEVDVCBcImludGVudF9pZFwiIEFTIFwiSU5URU5UX0lEXCIsIEFSUkFZX0FHRyhNQVBbQVJSQVlbJ2ludGVyZXN0X2ZiaWQnLCAnaW50ZXJlc3RfbmFtZScsICdjb25maWRlbmNlJ10sIEFSUkFZW0NBU1QoXCJpbnRlcmVzdF9mYmlkXCIgQVMgVkFSQ0hBUiBDSEFSQUNURVIgU0VUIFwiSVNPLTg4NTktMVwiKSwgXCJpbnRlcmVzdF9uYW1lXCIsIENBU1QoXCJjb25maWRlbmNlXCIgQVMgVkFSQ0hBUiBDSEFSQUNURVIgU0VUIFwiSVNPLTg4NTktMVwiKV1dKSBBUyBcIklOVEVSRVNUX1JFU1VMVFwiXG4sICdhYmNkJyBhcyBkcyBGUk9NIFwiYmlcIi5cInVzZXJfaW50ZW50X2FkX3RhcmdldF9pbnRlcmVzdHNfcmVzdWx0XCJcbldIRVJFIFwiZHNcIiA9ICdhYmNkJ1xuR1JPVVAgQlkgXCJpbnRlbnRfaWRcIiIgXQogICAgfSBdLAogICAgImRhdGFzZXRzIiA6IFsgewogICAgICAiaWQiIDogMSwKICAgICAgInRhYmxlSWQiIDogMSwKICAgICAgInBhcnRpdGlvbnMiIDogWyB7CiAgICAgICAgImRzIiA6ICJhYmNkIgogICAgICB9IF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJ0YWJsZUlkIiA6IDIsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgewogICAgICAgICJkcyIgOiAiYWJjZCIKICAgICAgfSBdCiAgICB9IF0sCiAgICAidGFibGVzIiA6IFsgewogICAgICAiaWQiIDogMSwKICAgICAgIm5hbWUiIDogWyAiYmkiLCAidXNlcl9pbnRlbnRfYWRfdGFyZ2V0X2ludGVyZXN0c19yZXN1bHQiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJpbnRlbnRfaWQiIDogIkJJR0lOVCIsCiAgICAgICAgImludGVyZXN0X2ZiaWQiIDogIkJJR0lOVCIsCiAgICAgICAgImludGVyZXN0X25hbWUiIDogIlNUUklORyIsCiAgICAgICAgImNvbmZpZGVuY2UiIDogIkRPVUJMRSIsCiAgICAgICAgImRzIiA6ICJTVFJJTkciCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgImRzIiBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAyLAogICAgICAibmFtZSIgOiBbICJiaSIsICJvdXRwdXQiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJJTlRFTlRfSUQiIDogIkJJR0lOVCIsCiAgICAgICAgIklOVEVSRVNUX1JFU1VMVCIgOiAiQU5ZIEFSUkFZIiwKICAgICAgICAiZHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiZHMiIF0KICAgIH0gXQogIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDIsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogNjEsCiAgICAgICJ0eXBlIiA6ICJTUUwiLAogICAgICAiZW5naW5lIiA6ICJwcmVzdG8iLAogICAgICAiZGVwZW5kc09uIiA6IFsgXSwKICAgICAgImlucHV0cyIgOiBbIDEgXSwKICAgICAgIm91dHB1dCIgOiBbIDIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBcIk9VVFBVVFwiIChcIlVTRVJJRFwiIEJJR0lOVCwgXCJBUFBJRFwiIFZBUkNIQVIsIFwiQ0xJRU5UX0NPVU5UUllfQ09ERVwiIFZBUkNIQVIsIFwiR0VPX0lEXCIgVkFSQ0hBUiwgXCJIT1VSTFlfRklSU1RfVElNRVNUQU1QXCIgQklHSU5ULCBcIkhPVVJMWV9MQVNUX1RJTUVTVEFNUFwiIEJJR0lOVCkiLCAiREVMRVRFIEZST00gXCJPVVRQVVRcIiBXSEVSRSAoRFM9J0FCQ0QnIEFORCBUUz0nRUZHSCcpIiwgIklOU0VSVCBJTlRPIE9VVFBVVCAgU0VMRUNUIFwicHJvZHVjdF91c2VyaWRcIiBBUyBcIlVTRVJJRFwiLCBcImFwcF9pZFwiIEFTIFwiQVBQSURcIiwgTUFYKFwiY2xpZW50X2NvdW50cnlfY29kZVwiKSBBUyBcIkNMSUVOVF9DT1VOVFJZX0NPREVcIiwgTUFYKFwiZ2VvX2lkXCIpIEFTIFwiR0VPX0lEXCIsIENBU1QoTUlOKFwiZXZlbnRfdGltZVwiKSBBUyBCSUdJTlQpIEFTIFwiSE9VUkxZX0ZJUlNUX1RJTUVTVEFNUFwiLCBDQVNUKE1BWChcImV2ZW50X3RpbWVcIikgQVMgQklHSU5UKSBBUyBcIkhPVVJMWV9MQVNUX1RJTUVTVEFNUFwiXG4sICdhYmNkJyBhcyBkcywnZWZnaCcgYXMgdHMgRlJPTSAoU0VMRUNUICpcbkZST00gXCJiaVwiLlwidGVzdF9kYWlseV9hY3RpdmVfdXNlcnNfcmF3X2luY19hcmNoaXZlXCJcbldIRVJFIFwidHNcIiA9ICdlZmdoJykgQVMgXCJ0XCJcbldIRVJFIFwiZHNcIiA9ICdhYmNkJ1xuR1JPVVAgQlkgXCJwcm9kdWN0X3VzZXJpZFwiLCBcImFwcF9pZFwiIiBdCiAgICB9IF0sCiAgICAiZGF0YXNldHMiIDogWyB7CiAgICAgICJpZCIgOiAyLAogICAgICAidGFibGVJZCIgOiAyLAogICAgICAicGFydGl0aW9ucyIgOiBbIHsKICAgICAgICAiZHMiIDogImFiY2QiCiAgICAgIH0sIHsKICAgICAgICAidHMiIDogImVmZ2giCiAgICAgIH0gXQogICAgfSwgewogICAgICAiaWQiIDogMSwKICAgICAgInRhYmxlSWQiIDogMSwKICAgICAgInBhcnRpdGlvbnMiIDogWyB7CiAgICAgICAgInRzIiA6ICJlZmdoIgogICAgICB9LCB7CiAgICAgICAgImRzIiA6ICJhYmNkIgogICAgICB9IF0KICAgIH0gXSwKICAgICJ0YWJsZXMiIDogWyB7CiAgICAgICJpZCIgOiAxLAogICAgICAibmFtZSIgOiBbICJiaSIsICJ0ZXN0X2RhaWx5X2FjdGl2ZV91c2Vyc19yYXdfaW5jX2FyY2hpdmUiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJldmVudF90eXBlIiA6ICJTVFJJTkciLAogICAgICAgICJwcm9kdWN0X3VzZXJpZCIgOiAiQklHSU5UIiwKICAgICAgICAiZXZlbnRfdGltZSIgOiAiRE9VQkxFIiwKICAgICAgICAibmF2aWdhdGlvbl9lbmRwb2ludHMiIDogIlNUUklORyIsCiAgICAgICAgImhhc2hfaWQiIDogIlNUUklORyIsCiAgICAgICAgImNsaWVudF9jb3VudHJ5X2NvZGUiIDogIlNUUklORyIsCiAgICAgICAgImdlb19pZCIgOiAiU1RSSU5HIiwKICAgICAgICAiZGlhbHRvbmVfbW9kZSIgOiAiQk9PTEVBTiIsCiAgICAgICAgImlnX2RhdGEiIDogIihWQVJDSEFSLCBWQVJDSEFSKSBNQVAiLAogICAgICAgICJvcmlnaW5hbF9hcHBpZCIgOiAiU1RSSU5HIiwKICAgICAgICAiZHMiIDogIlNUUklORyIsCiAgICAgICAgImFwcF9pZCIgOiAiU1RSSU5HIiwKICAgICAgICAidHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAidHMiLCAiZHMiIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJuYW1lIiA6IFsgImJpIiwgIm91dHB1dCIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgIlVTRVJJRCIgOiAiQklHSU5UIiwKICAgICAgICAiQVBQSUQiIDogIlNUUklORyIsCiAgICAgICAgIkNMSUVOVF9DT1VOVFJZX0NPREUiIDogIlNUUklORyIsCiAgICAgICAgIkdFT19JRCIgOiAiU1RSSU5HIiwKICAgICAgICAiSE9VUkxZX0ZJUlNUX1RJTUVTVEFNUCIgOiAiQklHSU5UIiwKICAgICAgICAiSE9VUkxZX0xBU1RfVElNRVNUQU1QIiA6ICJCSUdJTlQiLAogICAgICAgICJkcyIgOiAiU1RSSU5HIiwKICAgICAgICAidHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiZHMiLCAidHMiIF0KICAgIH0gXQogIH0KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDEsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMzAsCiAgICAgICJ0eXBlIiA6ICJTUUwiLAogICAgICAiZW5naW5lIiA6ICJwcmVzdG8iLAogICAgICAiZGVwZW5kc09uIiA6IFsgXSwKICAgICAgImlucHV0cyIgOiBbIDEgXSwKICAgICAgIm91dHB1dCIgOiBbIDIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBcIk9VVFBVVFwiIChcIlVTRVJJRFwiIEJJR0lOVCwgXCJBUFBJRFwiIFZBUkNIQVIsIFwiQ0xJRU5UX0NPVU5UUllfQ09ERVwiIFZBUkNIQVIsIFwiR0VPX0lEXCIgVkFSQ0hBUiwgXCJEQUlMWV9GSVJTVF9USU1FU1RBTVBcIiBCSUdJTlQsIFwiREFJTFlfTEFTVF9USU1FU1RBTVBcIiBCSUdJTlQpIiwgIkRFTEVURSBGUk9NIFwiT1VUUFVUXCIgV0hFUkUgKERTPSdBQkNEJykiLCAiSU5TRVJUIElOVE8gT1VUUFVUICBTRUxFQ1QgXCJ1c2VyaWRcIiBBUyBcIlVTRVJJRFwiLCBcImFwcGlkXCIgQVMgXCJBUFBJRFwiLCBNQVgoXCJjbGllbnRfY291bnRyeV9jb2RlXCIpIEFTIFwiQ0xJRU5UX0NPVU5UUllfQ09ERVwiLCBNQVgoXCJnZW9faWRcIikgQVMgXCJHRU9fSURcIiwgQ0FTVChNSU4oXCJob3VybHlfZmlyc3RfdGltZXN0YW1wXCIpIEFTIEJJR0lOVCkgQVMgXCJEQUlMWV9GSVJTVF9USU1FU1RBTVBcIiwgQ0FTVChNQVgoXCJob3VybHlfbGFzdF90aW1lc3RhbXBcIikgQVMgQklHSU5UKSBBUyBcIkRBSUxZX0xBU1RfVElNRVNUQU1QXCJcbiwgJ2FiY2QnIGFzIGRzIEZST00gKFNFTEVDVCAqXG5GUk9NIFwiYmlcIi5cInRlc3RfYWN0aXZlX3VzZXJzX3BhcnRpYWxfYWdnc1wiXG5XSEVSRSBcImRzXCIgPSAnYWJjZCcpIEFTIFwidFwiXG5XSEVSRSBcInRzXCIgPj0gJzxEQVRBU0VUX1NQRUNfU1RBUlQ6VElNRUlEOkRBVEFTRVRfU1BFQ19FTkQ+JyBBTkQgXCJ0c1wiIDw9ICc8REFUQVNFVF9TUEVDX1NUQVJUOlRJTUVJRCs4MjgwMHM6REFUQVNFVF9TUEVDX0VORD4nXG5HUk9VUCBCWSBcInVzZXJpZFwiLCBcImFwcGlkXCIiIF0KICAgIH0gXSwKICAgICJkYXRhc2V0cyIgOiBbIHsKICAgICAgImlkIiA6IDEsCiAgICAgICJ0YWJsZUlkIiA6IDEsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgewogICAgICAgICJkcyIgOiAiYWJjZCIKICAgICAgfSwgewogICAgICAgICJ0cyIgOiAiUkFOR0UoVElNRUlELFRJTUVJRCs4MjgwMHMsdHJ1ZSx0cnVlKSIKICAgICAgfSBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAyLAogICAgICAidGFibGVJZCIgOiAyLAogICAgICAicGFydGl0aW9ucyIgOiBbIHsKICAgICAgICAiZHMiIDogImFiY2QiCiAgICAgIH0gXQogICAgfSBdLAogICAgInRhYmxlcyIgOiBbIHsKICAgICAgImlkIiA6IDEsCiAgICAgICJuYW1lIiA6IFsgImJpIiwgInRlc3RfYWN0aXZlX3VzZXJzX3BhcnRpYWxfYWdncyIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgInVzZXJpZCIgOiAiQklHSU5UIiwKICAgICAgICAiYXBwaWQiIDogIlNUUklORyIsCiAgICAgICAgImNsaWVudF9jb3VudHJ5X2NvZGUiIDogIlNUUklORyIsCiAgICAgICAgImdlb19pZCIgOiAiU1RSSU5HIiwKICAgICAgICAiaG91cmx5X2ZpcnN0X3RpbWVzdGFtcCIgOiAiQklHSU5UIiwKICAgICAgICAiaG91cmx5X2xhc3RfdGltZXN0YW1wIiA6ICJCSUdJTlQiLAogICAgICAgICJkcyIgOiAiU1RSSU5HIiwKICAgICAgICAidHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiZHMiLCAidHMiIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJuYW1lIiA6IFsgImJpIiwgIm91dHB1dCIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgIlVTRVJJRCIgOiAiQklHSU5UIiwKICAgICAgICAiQVBQSUQiIDogIlNUUklORyIsCiAgICAgICAgIkNMSUVOVF9DT1VOVFJZX0NPREUiIDogIlNUUklORyIsCiAgICAgICAgIkdFT19JRCIgOiAiU1RSSU5HIiwKICAgICAgICAiREFJTFlfRklSU1RfVElNRVNUQU1QIiA6ICJCSUdJTlQiLAogICAgICAgICJEQUlMWV9MQVNUX1RJTUVTVEFNUCIgOiAiQklHSU5UIiwKICAgICAgICAiZHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiZHMiIF0KICAgIH0gXQogIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDMsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMTI2LAogICAgICAidHlwZSIgOiAiU1FMIiwKICAgICAgImVuZ2luZSIgOiAicHJlc3RvIiwKICAgICAgImRlcGVuZHNPbiIgOiBbIF0sCiAgICAgICJpbnB1dHMiIDogWyAxIF0sCiAgICAgICJvdXRwdXQiIDogWyAyIF0sCiAgICAgICJzcWwiIDogWyAiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgXCJPVVRQVVRcIiAoXCJ1c2VyaWRcIiBCSUdJTlQsIFwiY291bnRyeVwiIFZBUkNIQVIsIFwibG9jYXRpb25faWRcIiBCSUdJTlQsIFwibG9jYWxlXCIgVkFSQ0hBUiwgXCJhZ2VcIiBTTUFMTElOVCwgXCJsaWZlc3RhZ2VfcHJlZGljdGlvblwiIFZBUkNIQVIsIFwiZ2VuZGVyXCIgVkFSQ0hBUiwgXCJmcmllbmRfY291bnRcIiBJTlRFR0VSLCBcImZhY2Vib29rYWdlXCIgU01BTExJTlQsIFwiYWNjb3VudHN0YXR1c1wiIFZBUkNIQVIsIFwiaXNhY3RpdmF0ZWRcIiBWQVJDSEFSLCBcImlzX2VtcGxveWVlXCIgVElOWUlOVCwgXCJsMVwiIFRJTllJTlQsIFwid2ViX2wxXCIgVElOWUlOVCwgXCJtb2JpbGVfbDFcIiBUSU5ZSU5ULCBcImw3XCIgVElOWUlOVCwgXCJ3ZWJfbDdcIiBUSU5ZSU5ULCBcIm1vYmlsZV9sN1wiIFRJTllJTlQsIFwibDI4XCIgVElOWUlOVCwgXCJ3ZWJfbDI4XCIgVElOWUlOVCwgXCJtb2JpbGVfbDI4XCIgVElOWUlOVCwgXCJsMzBcIiBUSU5ZSU5ULCBcIndlYl9sMzBcIiBUSU5ZSU5ULCBcIm1vYmlsZV9sMzBcIiBUSU5ZSU5ULCBcImxhc3RhY3Rpb250aW1lXCIgVkFSQ0hBUiwgXCJkc1wiIFZBUkNIQVIpIiwgIkRFTEVURSBGUk9NIFwiT1VUUFVUXCIgV0hFUkUgKERTPScyMDE4LTA1LTAxJykiLCAiSU5TRVJUIElOVE8gT1VUUFVUICBTRUxFQ1QgKlxuLCAnMjAxOC0wNS0wMScgYXMgZHMgRlJPTSAoU0VMRUNUICpcbkZST00gKFNFTEVDVCAqXG5GUk9NIChTRUxFQ1QgKlxuRlJPTSBcImJpXCIuXCJkaW1fYWxsX3VzZXJzX2Zhc3RcIlxuV0hFUkUgXCJhZ2VcIiA+PSAnMScgQU5EIFwiYWdlXCIgPD0gJzInKSBBUyBcInRcIlxuV0hFUkUgXCJsb2NhbGVcIiA9ICdhJyBPUiBcImxvY2FsZVwiID0gJ2InKSBBUyBcInQwXCJcbldIRVJFIFwiZ2VuZGVyXCIgTElLRSAnJU0lJykgQVMgXCJ0MVwiXG5XSEVSRSBcImxvY2F0aW9uX2lkXCIgPSAxIiBdCiAgICB9IF0sCiAgICAiZGF0YXNldHMiIDogWyB7CiAgICAgICJpZCIgOiAyLAogICAgICAidGFibGVJZCIgOiAyLAogICAgICAicGFydGl0aW9ucyIgOiBbIHsKICAgICAgICAiZHMiIDogIjIwMTgtMDUtMDEiCiAgICAgIH0gXQogICAgfSwgewogICAgICAiaWQiIDogMSwKICAgICAgInRhYmxlSWQiIDogMSwKICAgICAgInBhcnRpdGlvbnMiIDogWyB7CiAgICAgICAgImFnZSIgOiAiUkFOR0UoMSwyLHRydWUsdHJ1ZSkiCiAgICAgIH0sIHsKICAgICAgICAibG9jYWxlIiA6ICJJTihhLGIpIgogICAgICB9LCB7CiAgICAgICAgImdlbmRlciIgOiAiTUFUQ0goJU0lKSIKICAgICAgfSBdCiAgICB9IF0sCiAgICAidGFibGVzIiA6IFsgewogICAgICAiaWQiIDogMSwKICAgICAgIm5hbWUiIDogWyAiYmkiLCAiZGltX2FsbF91c2Vyc19mYXN0IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogZmFsc2UsCiAgICAgICJtYXRlcmFsaXplZCIgOiB0cnVlLAogICAgICAic2NoZW1hIiA6IHsKICAgICAgICAidXNlcmlkIiA6ICJCSUdJTlQiLAogICAgICAgICJjb3VudHJ5IiA6ICJTVFJJTkciLAogICAgICAgICJsb2NhdGlvbl9pZCIgOiAiQklHSU5UIiwKICAgICAgICAibG9jYWxlIiA6ICJTVFJJTkciLAogICAgICAgICJhZ2UiIDogIlNNQUxMSU5UIiwKICAgICAgICAibGlmZXN0YWdlX3ByZWRpY3Rpb24iIDogIlNUUklORyIsCiAgICAgICAgImdlbmRlciIgOiAiU1RSSU5HIiwKICAgICAgICAiZnJpZW5kX2NvdW50IiA6ICJJTlRFR0VSIiwKICAgICAgICAiZmFjZWJvb2thZ2UiIDogIlNNQUxMSU5UIiwKICAgICAgICAiYWNjb3VudHN0YXR1cyIgOiAiU1RSSU5HIiwKICAgICAgICAiaXNhY3RpdmF0ZWQiIDogIlNUUklORyIsCiAgICAgICAgImlzX2VtcGxveWVlIiA6ICJUSU5ZSU5UIiwKICAgICAgICAibDEiIDogIlRJTllJTlQiLAogICAgICAgICJ3ZWJfbDEiIDogIlRJTllJTlQiLAogICAgICAgICJtb2JpbGVfbDEiIDogIlRJTllJTlQiLAogICAgICAgICJsNyIgOiAiVElOWUlOVCIsCiAgICAgICAgIndlYl9sNyIgOiAiVElOWUlOVCIsCiAgICAgICAgIm1vYmlsZV9sNyIgOiAiVElOWUlOVCIsCiAgICAgICAgImwyOCIgOiAiVElOWUlOVCIsCiAgICAgICAgIndlYl9sMjgiIDogIlRJTllJTlQiLAogICAgICAgICJtb2JpbGVfbDI4IiA6ICJUSU5ZSU5UIiwKICAgICAgICAibDMwIiA6ICJUSU5ZSU5UIiwKICAgICAgICAid2ViX2wzMCIgOiAiVElOWUlOVCIsCiAgICAgICAgIm1vYmlsZV9sMzAiIDogIlRJTllJTlQiLAogICAgICAgICJsYXN0YWN0aW9udGltZSIgOiAiU1RSSU5HIiwKICAgICAgICAiZHMiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyAiYWdlIiwgImxvY2FsZSIsICJnZW5kZXIiIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDIsCiAgICAgICJuYW1lIiA6IFsgImJpIiwgIm91dHB1dCIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgInVzZXJpZCIgOiAiQklHSU5UIiwKICAgICAgICAiY291bnRyeSIgOiAiU1RSSU5HIiwKICAgICAgICAibG9jYXRpb25faWQiIDogIkJJR0lOVCIsCiAgICAgICAgImxvY2FsZSIgOiAiU1RSSU5HIiwKICAgICAgICAiYWdlIiA6ICJTTUFMTElOVCIsCiAgICAgICAgImxpZmVzdGFnZV9wcmVkaWN0aW9uIiA6ICJTVFJJTkciLAogICAgICAgICJnZW5kZXIiIDogIlNUUklORyIsCiAgICAgICAgImZyaWVuZF9jb3VudCIgOiAiSU5URUdFUiIsCiAgICAgICAgImZhY2Vib29rYWdlIiA6ICJTTUFMTElOVCIsCiAgICAgICAgImFjY291bnRzdGF0dXMiIDogIlNUUklORyIsCiAgICAgICAgImlzYWN0aXZhdGVkIiA6ICJTVFJJTkciLAogICAgICAgICJpc19lbXBsb3llZSIgOiAiVElOWUlOVCIsCiAgICAgICAgImwxIiA6ICJUSU5ZSU5UIiwKICAgICAgICAid2ViX2wxIiA6ICJUSU5ZSU5UIiwKICAgICAgICAibW9iaWxlX2wxIiA6ICJUSU5ZSU5UIiwKICAgICAgICAibDciIDogIlRJTllJTlQiLAogICAgICAgICJ3ZWJfbDciIDogIlRJTllJTlQiLAogICAgICAgICJtb2JpbGVfbDciIDogIlRJTllJTlQiLAogICAgICAgICJsMjgiIDogIlRJTllJTlQiLAogICAgICAgICJ3ZWJfbDI4IiA6ICJUSU5ZSU5UIiwKICAgICAgICAibW9iaWxlX2wyOCIgOiAiVElOWUlOVCIsCiAgICAgICAgImwzMCIgOiAiVElOWUlOVCIsCiAgICAgICAgIndlYl9sMzAiIDogIlRJTllJTlQiLAogICAgICAgICJtb2JpbGVfbDMwIiA6ICJUSU5ZSU5UIiwKICAgICAgICAibGFzdGFjdGlvbnRpbWUiIDogIlNUUklORyIsCiAgICAgICAgImRzIiA6ICJTVFJJTkciCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgImRzIiBdCiAgICB9IF0KICB9Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRmLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>152</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0aWFsaXplZFw+</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWFsaXplZFw+</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -652,16 +647,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LD_LIBR</entry>
-        <entry>upm</entry>
-        <entry>daemon</entry>
-        <entry>LD_LIBRARY</entry>
-        <entry encoding="base64">XDxweXRob25QYXRoXD4=</entry>
-        <entry encoding="base64">XDxkcml2ZXJUbXBEaXJcPg==</entry>
-        <entry>setLogLevel</entry>
-        <entry>context</entry>
-        <entry>context(</entry>
-        <entry>logLevel</entry>
         <entry>sparkContext</entry>
         <entry>sparkContext(</entry>
         <entry>sparkSession</entry>
@@ -672,6 +657,16 @@
         <entry>\cconf</entry>
         <entry>log4j</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplZFw+</entry>
+        <entry>toString</entry>
+        <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
+        <entry encoding="base64">XDxlcnJvck1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxzdGRlcnJcPg==</entry>
+        <entry>PythonRDD</entry>
+        <entry>read</entry>
+        <entry>read(</entry>
+        <entry encoding="base64">XDxzdGRvdXRJdGVyYXRvclw+</entry>
+        <entry>compute</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -684,6 +679,8 @@
         <entry>509</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>193</entry>
+        <entry>152</entry>
       </history-cmd>
       <history-expr />
       <history-input />
