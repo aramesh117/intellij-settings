@@ -99,12 +99,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/enumerable/EnumerableIntersectRule.java" timestamp="1526323775810">
         <mark key="'" line="29" column="38" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" timestamp="1529797344871">
-        <mark key="'" line="84" column="24" />
-        <mark key="[" line="2463" column="6" />
-        <mark key="]" line="2463" column="6" />
-        <mark key="^" line="2464" column="22" />
-        <mark key="." line="2463" column="6" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" timestamp="1529799391719">
+        <mark key="'" line="316" column="14" />
+        <mark key="[" line="2458" column="61" />
+        <mark key="]" line="2459" column="7" />
+        <mark key="^" line="2459" column="7" />
+        <mark key="." line="2459" column="7" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1525979315721">
         <mark key="'" line="50" column="4" />
@@ -176,14 +176,14 @@
       <file name="$USER_HOME$/fb-spark/mllib/src/main/scala/org/apache/spark/ml/tree/treeModels.scala" timestamp="1528935892471">
         <mark key="'" line="429" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529714551258">
-        <mark key="'" line="170" column="14" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529798519069">
+        <mark key="'" line="129" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class" timestamp="1525921435450">
         <mark key="'" line="144" column="19" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" timestamp="1529715511786">
-        <mark key="'" line="38" column="17" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" timestamp="1529799382542">
+        <mark key="'" line="48" column="26" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/interpreter/NoneToBindableConverterRule.java" timestamp="1526323064365">
         <mark key="'" line="49" column="15" />
@@ -339,7 +339,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraToEnumerableConverter.java" timestamp="1526329998241">
         <mark key="'" line="53" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1529715508658">
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1529798967430">
         <mark key="'" line="1484" column="48" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" timestamp="1529626008743">
@@ -499,14 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="65" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
-      <jump line="127" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
-      <jump line="109" column="24" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
-      <jump line="68" column="7" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="336" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="338" column="35" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="356" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="370" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
       <jump line="66" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
       <jump line="293" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
       <jump line="304" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
@@ -567,7 +559,6 @@
       <jump line="155" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="142" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="1484" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="38" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
       <jump line="77" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
       <jump line="97" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
       <jump line="313" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
@@ -599,20 +590,25 @@
       <jump line="250" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="274" column="5" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/scheduler/Task.scala" />
       <jump line="257" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/scheduler/Task.scala" />
+      <jump line="115" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="116" column="22" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="129" column="19" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="2486" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="2455" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="925" column="26" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="38" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
+      <jump line="48" column="26" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
+      <jump line="316" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>catch {
-      case e: Exception
-    }
-    finally {
-    }</text>
+        <text>, e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXNrRmlsZXNcPg==</text>
+        <text>getUpm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgdW5aaXBGaWxlKHppcEZpbGVOYW1lOiBTdHJpbmcsIG91dHB1dERpck5hbWU6IFN0cmluZykgOiBVbml0ID0gewogICAgdmFsIHVuemlwQ21kID0gU2VxKCJ1bnppcCIsICItcXEiLCAiLW8iLCB6aXBGaWxlTmFtZSwgIi1kIiwgb3V0cHV0RGlyTmFtZSkKICAgIHZhbCBidWlsZGVyID0gbmV3IFByb2Nlc3NCdWlsZGVyKHVuemlwQ21kLmFzSmF2YSkKICAgIHZhbCBlbnYgPSBidWlsZGVyLmVudmlyb25tZW50KCkKCiAgICAvLyBidWlsZGVyLnJlZGlyZWN0RXJyb3JTdHJlYW0odHJ1ZSkgLy8gVWdseSBidXQgbmVlZGVkIGZvciBzdGRvdXQgYW5kIHN0ZGVyciB0byBzeW5jaHJvbml6ZQogICAgdHJ5IHsKICAgICAgdmFsIHByb2Nlc3MgPSBidWlsZGVyLnN0YXJ0KCkKICAgICAgLy8gbmV3IFJlZGlyZWN0VGhyZWFkKHByb2Nlc3MuZ2V0SW5wdXRTdHJlYW0sIFN5c3RlbS5vdXQsICJyZWRpcmVjdCBvdXRwdXQiKS5zdGFydCgpCiAgICAgIHZhbCBleGl0Q29kZSA9IHByb2Nlc3Mud2FpdEZvcigpCiAgICAgIGlmIChleGl0Q29kZSAhPSAwKSB7CiAgICAgICAgdGhyb3cgbmV3IFNwYXJrVXNlckFwcEV4Y2VwdGlvbihleGl0Q29kZSkKICAgICAgfQogICAgfQogICAgZmluYWxseSB7CiAgICAgIGxvZ0Vycm9yKCJGYWlsdGVkIHRvIHVuemlwIGZpbGUgIiArIHppcEZpbGVOYW1lICsgIiB0byAiICsgb3V0cHV0RGlyTmFtZSkKICAgIH0KICB9Cg==</text>
@@ -653,19 +649,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXNrRmlsZXNcPg==</last-search>
+      <last-search>getUpm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXNrRmlsZXNcPg==</last-pattern>
+      <last-pattern>getUpm</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXVuY2hfZ2F0ZXdheVw+</entry>
-        <entry>shell</entry>
-        <entry encoding="base64">XDxQWVNQQVJLX1NIRUxMXD4=</entry>
         <entry>\cpython</entry>
         <entry encoding="base64">XDxQWVNQQVJLX0RSSVZFUl9QWVRIT05cPg==</entry>
         <entry encoding="base64">XDxweXRob25FeGVjXD4=</entry>
@@ -683,6 +676,9 @@
         <entry encoding="base64">XDxleGVjdXRvclw+</entry>
         <entry>run(</entry>
         <entry encoding="base64">XDx0YXNrRmlsZXNcPg==</entry>
+        <entry>builder</entry>
+        <entry encoding="base64">XDxwYlw+</entry>
+        <entry>getUpm</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
