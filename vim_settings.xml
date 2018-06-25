@@ -66,8 +66,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/fun/SqlCoalesceFunction.java" timestamp="1529430240139">
         <mark key="'" line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529527938250">
-        <mark key="'" line="355" column="12" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1529884463465">
+        <mark key="'" line="253" column="6" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/PrestoUDFUtils.java" timestamp="1529436101207">
         <mark key="'" line="117" column="27" />
@@ -209,7 +209,7 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/BucketedReadSuite.scala" timestamp="1528924036300">
         <mark key="'" line="44" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1529715415993">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1529884391821">
         <mark key="'" line="142" column="12" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" timestamp="1527623123862">
@@ -436,8 +436,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/SparkHandlerImpl.java" timestamp="1526334117009">
         <mark key="'" line="44" column="56" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" timestamp="1528828566921">
-        <mark key="'" line="4" column="57" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" timestamp="1529884635480">
+        <mark key="'" line="91" column="9" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql2rel/SqlToRelConverter.java" timestamp="1525887069002">
         <mark key="'" line="656" column="8" />
@@ -499,16 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="33" filename="$USER_HOME$/fb-spark/python/pyspark/context.py" />
-      <jump line="364" column="62" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="855" column="60" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="862" column="58" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="85" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="482" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="523" column="11" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="524" column="34" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="559" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="40" column="25" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
       <jump line="74" column="42" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
       <jump line="39" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
       <jump line="36" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
@@ -599,6 +589,16 @@
       <jump line="851" column="22" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
       <jump line="69" column="32" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
       <jump line="275" column="50" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="327" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="352" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="341" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="247" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="328" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="253" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
+      <jump line="41" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
+      <jump line="83" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
+      <jump line="91" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -608,7 +608,7 @@
         <text>, e</text>
       </register>
       <register name="/" type="4">
-        <text>unZip</text>
+        <text encoding="base64">XDxwYXJ0aXRpb25JbmZlcmVuY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgdW5aaXBGaWxlKHppcEZpbGVOYW1lOiBTdHJpbmcsIG91dHB1dERpck5hbWU6IFN0cmluZykgOiBVbml0ID0gewogICAgdmFsIHVuemlwQ21kID0gU2VxKCJ1bnppcCIsICItcXEiLCAiLW8iLCB6aXBGaWxlTmFtZSwgIi1kIiwgb3V0cHV0RGlyTmFtZSkKICAgIHZhbCBidWlsZGVyID0gbmV3IFByb2Nlc3NCdWlsZGVyKHVuemlwQ21kLmFzSmF2YSkKICAgIHZhbCBlbnYgPSBidWlsZGVyLmVudmlyb25tZW50KCkKCiAgICAvLyBidWlsZGVyLnJlZGlyZWN0RXJyb3JTdHJlYW0odHJ1ZSkgLy8gVWdseSBidXQgbmVlZGVkIGZvciBzdGRvdXQgYW5kIHN0ZGVyciB0byBzeW5jaHJvbml6ZQogICAgdHJ5IHsKICAgICAgdmFsIHByb2Nlc3MgPSBidWlsZGVyLnN0YXJ0KCkKICAgICAgLy8gbmV3IFJlZGlyZWN0VGhyZWFkKHByb2Nlc3MuZ2V0SW5wdXRTdHJlYW0sIFN5c3RlbS5vdXQsICJyZWRpcmVjdCBvdXRwdXQiKS5zdGFydCgpCiAgICAgIHZhbCBleGl0Q29kZSA9IHByb2Nlc3Mud2FpdEZvcigpCiAgICAgIGlmIChleGl0Q29kZSAhPSAwKSB7CiAgICAgICAgdGhyb3cgbmV3IFNwYXJrVXNlckFwcEV4Y2VwdGlvbihleGl0Q29kZSkKICAgICAgfQogICAgfQogICAgZmluYWxseSB7CiAgICAgIGxvZ0Vycm9yKCJGYWlsdGVkIHRvIHVuemlwIGZpbGUgIiArIHppcEZpbGVOYW1lICsgIiB0byAiICsgb3V0cHV0RGlyTmFtZSkKICAgIH0KICB9Cg==</text>
@@ -649,9 +649,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unZip</last-search>
+      <last-search encoding="base64">XDxwYXJ0aXRpb25JbmZlcmVuY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>unZip</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0aXRpb25JbmZlcmVuY2VcPg==</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -659,12 +659,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PACKAGE</entry>
-        <entry>Unzip\c</entry>
-        <entry>PYTHONPATH</entry>
-        <entry encoding="base64">XDxnZXRVcG1MaWJyYXJ5RGlyZWN0b3J5XD4=</entry>
-        <entry>\cupm</entry>
-        <entry>updateDependencies</entry>
         <entry>addFile</entry>
         <entry encoding="base64">XDxkcml2ZXJUbXBEaXJcPg==</entry>
         <entry encoding="base64">XDxsb2NhbFJvb3REaXJzXD4=</entry>
@@ -679,6 +673,12 @@
         <entry encoding="base64">XDxweUZpbGVzXD4=</entry>
         <entry encoding="base64">XDxpc1B5dGhvblw+</entry>
         <entry>unZip</entry>
+        <entry>&quot;ds&quot;</entry>
+        <entry>Create\c</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25MaXN0XD4=</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25Db2x1bW5OYW1lc1w+</entry>
+        <entry>infer\c</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25JbmZlcmVuY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
