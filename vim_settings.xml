@@ -179,8 +179,8 @@
       <file name="$USER_HOME$/fb-spark/mllib/src/main/scala/org/apache/spark/ml/tree/treeModels.scala" timestamp="1528935892471">
         <mark key="'" line="429" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1529798519069">
-        <mark key="'" line="129" column="19" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1530040550265">
+        <mark key="'" line="273" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/CoreMatchers.class" timestamp="1525921435450">
         <mark key="'" line="144" column="19" />
@@ -212,14 +212,18 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/BucketedReadSuite.scala" timestamp="1528924036300">
         <mark key="'" line="44" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1529884391821">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1530041020339">
         <mark key="'" line="142" column="12" />
+        <mark key="[" line="247" column="72" />
+        <mark key="]" line="247" column="73" />
+        <mark key="^" line="247" column="73" />
+        <mark key="." line="247" column="73" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" timestamp="1527623123862">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" timestamp="1529953941966">
-        <mark key="'" line="69" column="32" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" timestamp="1530040179972">
+        <mark key="'" line="70" column="41" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlFunction.java" timestamp="1529366360835">
         <mark key="'" line="40" column="13" />
@@ -321,8 +325,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rex/RexSubQuery.java" timestamp="1525806958301">
         <mark key="'" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1529870804662">
-        <mark key="'" line="851" column="22" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1530040154254">
+        <mark key="'" line="503" column="6" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" timestamp="1526337176951">
         <mark key="'" line="389" column="26" />
@@ -497,7 +501,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/PlannerImpl.java" timestamp="1525904045734">
         <mark key="'" line="123" column="11" />
       </file>
-      <file name="/pom.xml" timestamp="1529973625389" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/metadata/BuiltInMetadata.java" timestamp="1525908576281">
         <mark key="'" line="193" column="46" />
       </file>
@@ -509,18 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="345" column="30" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="594" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
-      <jump line="1485" column="47" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="94" column="23" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="2471" column="25" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="79" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="2220" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="20" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="54" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="30" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonUtils.scala" />
-      <jump line="53" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
       <jump line="55" column="18" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="122" column="51" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="123" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
@@ -609,6 +600,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/fb-spark/pom.xml" />
       <jump line="17" column="52" filename="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
       <jump line="202" column="17" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveInspectors.scala" />
+      <jump line="108" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="364" column="13" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="425" column="13" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="429" column="13" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="537" column="49" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="503" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="70" column="41" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
+      <jump line="43" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="73" column="50" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="90" column="13" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="178" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="273" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -618,7 +621,7 @@
         <text>BatchRecordWriter</text>
       </register>
       <register name="/" type="4">
-        <text>plasma</text>
+        <text>main(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgdW5aaXBGaWxlKHppcEZpbGVOYW1lOiBTdHJpbmcsIG91dHB1dERpck5hbWU6IFN0cmluZykgOiBVbml0ID0gewogICAgdmFsIHVuemlwQ21kID0gU2VxKCJ1bnppcCIsICItcXEiLCAiLW8iLCB6aXBGaWxlTmFtZSwgIi1kIiwgb3V0cHV0RGlyTmFtZSkKICAgIHZhbCBidWlsZGVyID0gbmV3IFByb2Nlc3NCdWlsZGVyKHVuemlwQ21kLmFzSmF2YSkKICAgIHZhbCBlbnYgPSBidWlsZGVyLmVudmlyb25tZW50KCkKCiAgICAvLyBidWlsZGVyLnJlZGlyZWN0RXJyb3JTdHJlYW0odHJ1ZSkgLy8gVWdseSBidXQgbmVlZGVkIGZvciBzdGRvdXQgYW5kIHN0ZGVyciB0byBzeW5jaHJvbml6ZQogICAgdHJ5IHsKICAgICAgdmFsIHByb2Nlc3MgPSBidWlsZGVyLnN0YXJ0KCkKICAgICAgLy8gbmV3IFJlZGlyZWN0VGhyZWFkKHByb2Nlc3MuZ2V0SW5wdXRTdHJlYW0sIFN5c3RlbS5vdXQsICJyZWRpcmVjdCBvdXRwdXQiKS5zdGFydCgpCiAgICAgIHZhbCBleGl0Q29kZSA9IHByb2Nlc3Mud2FpdEZvcigpCiAgICAgIGlmIChleGl0Q29kZSAhPSAwKSB7CiAgICAgICAgdGhyb3cgbmV3IFNwYXJrVXNlckFwcEV4Y2VwdGlvbihleGl0Q29kZSkKICAgICAgfQogICAgfQogICAgZmluYWxseSB7CiAgICAgIGxvZ0Vycm9yKCJGYWlsdGVkIHRvIHVuemlwIGZpbGUgIiArIHppcEZpbGVOYW1lICsgIiB0byAiICsgb3V0cHV0RGlyTmFtZSkKICAgIH0KICB9Cg==</text>
@@ -659,9 +662,9 @@
       </register>
     </registers>
     <search>
-      <last-search>plasma</last-search>
+      <last-search>main(</last-search>
       <last-offset />
-      <last-pattern>plasma</last-pattern>
+      <last-pattern>main(</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -669,11 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleGVjdXRvclw+</entry>
-        <entry>run(</entry>
-        <entry encoding="base64">XDx0YXNrRmlsZXNcPg==</entry>
-        <entry>builder</entry>
-        <entry encoding="base64">XDxwYlw+</entry>
         <entry>getUpm</entry>
         <entry>--py-files</entry>
         <entry>pyFiles</entry>
@@ -687,8 +685,13 @@
         <entry>infer\c</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25JbmZlcmVuY2VcPg==</entry>
         <entry>updateDependencies</entry>
-        <entry>main(</entry>
         <entry>plasma</entry>
+        <entry>PythonRunner</entry>
+        <entry encoding="base64">XDxtYWluQ2xhc3NcPg==</entry>
+        <entry encoding="base64">XDxjaGlsZE1haW5DbGFzc1w+</entry>
+        <entry encoding="base64">XDxkYWVtb25cPg==</entry>
+        <entry encoding="base64">XDxkYWVtb25Qb3J0XD4=</entry>
+        <entry>main(</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
