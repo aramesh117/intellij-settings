@@ -222,8 +222,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" timestamp="1527623123862">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" timestamp="1530040179972">
-        <mark key="'" line="70" column="41" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" timestamp="1530051579490">
+        <mark key="'" line="44" column="39" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlFunction.java" timestamp="1529366360835">
         <mark key="'" line="40" column="13" />
@@ -515,10 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="46" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/CoarseGrainedExecutorBackend.scala" />
-      <jump line="26" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutorBackend.scala" />
-      <jump line="155" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="142" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="1484" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="77" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
@@ -615,6 +611,10 @@
       <jump line="554" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="686" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="558" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="39" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
+      <jump line="74" column="54" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
+      <jump line="137" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
+      <jump line="44" column="39" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -624,7 +624,7 @@
         <text>BatchRecordWriter</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNvdXJjZXNcPg==</text>
+        <text encoding="base64">XDxweXRob25FeGVjXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgdW5aaXBGaWxlKHppcEZpbGVOYW1lOiBTdHJpbmcsIG91dHB1dERpck5hbWU6IFN0cmluZykgOiBVbml0ID0gewogICAgdmFsIHVuemlwQ21kID0gU2VxKCJ1bnppcCIsICItcXEiLCAiLW8iLCB6aXBGaWxlTmFtZSwgIi1kIiwgb3V0cHV0RGlyTmFtZSkKICAgIHZhbCBidWlsZGVyID0gbmV3IFByb2Nlc3NCdWlsZGVyKHVuemlwQ21kLmFzSmF2YSkKICAgIHZhbCBlbnYgPSBidWlsZGVyLmVudmlyb25tZW50KCkKCiAgICAvLyBidWlsZGVyLnJlZGlyZWN0RXJyb3JTdHJlYW0odHJ1ZSkgLy8gVWdseSBidXQgbmVlZGVkIGZvciBzdGRvdXQgYW5kIHN0ZGVyciB0byBzeW5jaHJvbml6ZQogICAgdHJ5IHsKICAgICAgdmFsIHByb2Nlc3MgPSBidWlsZGVyLnN0YXJ0KCkKICAgICAgLy8gbmV3IFJlZGlyZWN0VGhyZWFkKHByb2Nlc3MuZ2V0SW5wdXRTdHJlYW0sIFN5c3RlbS5vdXQsICJyZWRpcmVjdCBvdXRwdXQiKS5zdGFydCgpCiAgICAgIHZhbCBleGl0Q29kZSA9IHByb2Nlc3Mud2FpdEZvcigpCiAgICAgIGlmIChleGl0Q29kZSAhPSAwKSB7CiAgICAgICAgdGhyb3cgbmV3IFNwYXJrVXNlckFwcEV4Y2VwdGlvbihleGl0Q29kZSkKICAgICAgfQogICAgfQogICAgZmluYWxseSB7CiAgICAgIGxvZ0Vycm9yKCJGYWlsdGVkIHRvIHVuemlwIGZpbGUgIiArIHppcEZpbGVOYW1lICsgIiB0byAiICsgb3V0cHV0RGlyTmFtZSkKICAgIH0KICB9Cg==</text>
@@ -665,9 +665,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNvdXJjZXNcPg==</last-search>
+      <last-search encoding="base64">XDxweXRob25FeGVjXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNvdXJjZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxweXRob25FeGVjXD4=</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -675,7 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pyFiles</entry>
         <entry encoding="base64">XDxweUZpbGVzXD4=</entry>
         <entry encoding="base64">XDxpc1B5dGhvblw+</entry>
         <entry>unZip</entry>
@@ -695,6 +694,7 @@
         <entry>main(</entry>
         <entry encoding="base64">XDxjb2Fyc2VCdW1ibGViZWVBcHBsaWNhdGlvblNjaGVkdWxlckJhY2tlbmRcPg==</entry>
         <entry encoding="base64">XDxyZXNvdXJjZXNcPg==</entry>
+        <entry encoding="base64">XDxweXRob25FeGVjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
