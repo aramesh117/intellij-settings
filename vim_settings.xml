@@ -282,6 +282,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/test/java/com/facebook/upm/engine/UtilsTest.java" timestamp="1529466638449">
         <mark key="'" line="14" column="61" />
       </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/resources/org/apache/spark/log4j-defaults.properties" timestamp="1530125400434">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" timestamp="1529194011597">
         <mark key="'" line="71" column="43" />
       </file>
@@ -617,11 +623,11 @@
       <jump line="44" column="39" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+      <register name="&quot;" type="4">
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>BatchRecordWriter</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweXRob25FeGVjXD4=</text>
