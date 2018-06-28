@@ -213,12 +213,12 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/BucketedReadSuite.scala" timestamp="1528924036300">
         <mark key="'" line="44" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1530211152909">
-        <mark key="'" line="548" column="4" />
-        <mark key="[" line="247" column="72" />
-        <mark key="]" line="247" column="73" />
-        <mark key="^" line="247" column="73" />
-        <mark key="." line="247" column="73" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1530212674309">
+        <mark key="'" line="187" column="30" />
+        <mark key="[" line="700" column="6" />
+        <mark key="]" line="700" column="18" />
+        <mark key="^" line="700" column="18" />
+        <mark key="." line="700" column="18" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" timestamp="1527623123862">
         <mark key="'" line="0" column="0" />
@@ -530,14 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="253" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
-      <jump line="32" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="41" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="83" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="91" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmPhysicalPlanner.java" />
-      <jump line="276" column="64" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
-      <jump line="69" column="32" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
       <jump line="135" column="19" filename="$USER_HOME$/fb-spark/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/fb-spark/pom.xml" />
       <jump line="17" column="52" filename="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
@@ -630,6 +622,14 @@
       <jump line="197" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="215" column="77" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="548" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="45" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-core_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/spark/util/Utils.scala" />
+      <jump line="562" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="2386" column="36" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-core_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14-sources.jar!/org/apache/spark/util/Utils.scala" />
+      <jump line="180" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="532" column="54" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="183" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="187" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -639,7 +639,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGVjdXRvclJlcXVlc3RlZFw+</text>
+        <text encoding="base64">XDxwZW5kaW5nVGFza1w+</text>
       </register>
       <register name="0" type="4">
         <text>Seq(&quot;unzip&quot;, &quot;-qq&quot;, &quot;-o&quot;, zipFileName, &quot;-d&quot;, outputDirName)</text>
@@ -683,9 +683,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGVjdXRvclJlcXVlc3RlZFw+</last-search>
+      <last-search encoding="base64">XDxwZW5kaW5nVGFza1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGVjdXRvclJlcXVlc3RlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwZW5kaW5nVGFza1w+</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -693,10 +693,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVEZXBlbmRlbmNpZXNcPg==</entry>
-        <entry>doFetchFile</entry>
-        <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
-        <entry>unzipFile</entry>
         <entry>unZip</entry>
         <entry>fetch</entry>
         <entry encoding="base64">XDx1bnppcFw+</entry>
@@ -713,6 +709,10 @@
         <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry>request</entry>
         <entry encoding="base64">XDxleGVjdXRvclJlcXVlc3RlZFw+</entry>
+        <entry encoding="base64">XDxEZWZhdWx0TnVtYmVyRXhlY3V0b3JzXD4=</entry>
+        <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry encoding="base64">XDxkeW5hbWljQWxsb2NhdGlvbldhdGNoZXJUYXNrXD4=</entry>
+        <entry encoding="base64">XDxwZW5kaW5nVGFza1w+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
