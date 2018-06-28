@@ -381,6 +381,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1527704796130">
         <mark key="'" line="10" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/hadoop/datainfra-hdfs-core/6.1.96/datainfra-hdfs-core-6.1.96.jar!/org/apache/hadoop/metrics/LoggingOutputStream.class" timestamp="1530222622861">
+        <mark key="'" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalAggregate.java" timestamp="1527101979779">
         <mark key="'" line="42" column="44" />
       </file>
@@ -530,8 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="19" filename="$USER_HOME$/fb-spark/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/fb-spark/pom.xml" />
       <jump line="17" column="52" filename="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
       <jump line="202" column="17" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveInspectors.scala" />
       <jump line="108" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
@@ -630,6 +631,8 @@
       <jump line="532" column="54" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="183" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="187" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="17" column="13" filename="$MAVEN_REPOSITORY$/com/facebook/hadoop/datainfra-hdfs-core/6.1.96/datainfra-hdfs-core-6.1.96.jar!/org/apache/hadoop/metrics/LoggingOutputStream.class" />
+      <jump line="24" column="0" filename="$MAVEN_REPOSITORY$/com/facebook/hadoop/datainfra-hdfs-core/6.1.96/datainfra-hdfs-core-6.1.96.jar!/org/apache/hadoop/metrics/LoggingOutputStream.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
