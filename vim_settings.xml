@@ -213,8 +213,8 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/BucketedReadSuite.scala" timestamp="1528924036300">
         <mark key="'" line="44" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1530229309654">
-        <mark key="'" line="142" column="12" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1530231631787">
+        <mark key="'" line="642" column="66" />
         <mark key="[" line="700" column="6" />
         <mark key="]" line="700" column="18" />
         <mark key="^" line="700" column="18" />
@@ -536,11 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="628" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
-      <jump line="174" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
-      <jump line="20" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/SparkMasterScheduler.scala" />
-      <jump line="50" column="97" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/SparkMasterScheduler.scala" />
-      <jump line="66" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/SparkMasterScheduler.scala" />
       <jump line="554" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="686" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="558" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
@@ -636,6 +631,11 @@
       <jump line="2568" column="36" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="2572" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="2605" column="29" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="664" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="628" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="639" column="72" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="641" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="642" column="66" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -645,7 +645,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hlZHVsZXJcPg==</text>
+        <text encoding="base64">XDxudW1Db250YWluZXJzVG9MYXVuY2hcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Seq(&quot;unzip&quot;, &quot;-qq&quot;, &quot;-o&quot;, zipFileName, &quot;-d&quot;, outputDirName)</text>
@@ -689,9 +689,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2hlZHVsZXJcPg==</last-search>
+      <last-search encoding="base64">XDxudW1Db250YWluZXJzVG9MYXVuY2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hlZHVsZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxudW1Db250YWluZXJzVG9MYXVuY2hcPg==</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -699,7 +699,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXJnZXREaXJcPg==</entry>
         <entry>unzip</entry>
         <entry encoding="base64">XDxwYXRoRWxlbWVudHNcPg==</entry>
         <entry>upateDependencies</entry>
@@ -719,6 +718,7 @@
         <entry encoding="base64">XDxjb2Fyc2VCdW1ibGViZWVBcHBsaWNhdGlvblNjaGVkdWxlckJhY2tlbmRcPg==</entry>
         <entry encoding="base64">XDxiYWNrZW5kXD4=</entry>
         <entry encoding="base64">XDxzY2hlZHVsZXJcPg==</entry>
+        <entry encoding="base64">XDxudW1Db250YWluZXJzVG9MYXVuY2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
