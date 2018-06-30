@@ -426,12 +426,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/CombineFileInputFormat.java" timestamp="1527705283938">
         <mark key="'" line="205" column="29" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1530315874373">
-        <mark key="'" line="510" column="16" />
-        <mark key="[" line="504" column="0" />
-        <mark key="]" line="504" column="49" />
-        <mark key="." line="504" column="0" />
-        <mark key="^" line="510" column="73" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1530323755053">
+        <mark key="'" line="511" column="16" />
+        <mark key="[" line="508" column="40" />
+        <mark key="]" line="509" column="9" />
+        <mark key="." line="509" column="9" />
+        <mark key="^" line="509" column="9" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/CalcitePrepareImpl.java" timestamp="1525903893236">
         <mark key="'" line="525" column="12" />
@@ -638,11 +638,11 @@
       <jump line="2450" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBbRkItT05MWV0gdW56aXAgcGFyIGZpbGUgOiBUMjc1ODM5NjEK</text>
+      <register name="&quot;" type="4">
+        <text>uri.getPath</text>
       </register>
       <register name="-" type="4">
-        <text>SparkFiles.getRootDirectory()</text>
+        <text>uri.getPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXJnZXREaXJcPg==</text>
