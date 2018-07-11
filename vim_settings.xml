@@ -429,8 +429,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/CombineFileInputFormat.java" timestamp="1527705283938">
         <mark key="'" line="205" column="29" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1530336331065">
-        <mark key="'" line="513" column="16" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1531333906222">
+        <mark key="'" line="256" column="8" />
         <mark key="[" line="514" column="12" />
         <mark key="]" line="514" column="15" />
         <mark key="." line="514" column="15" />
@@ -539,11 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="465" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="470" column="25" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="483" column="34" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="256" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
-      <jump line="1218" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="1202" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="2458" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="1208" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
@@ -639,6 +634,11 @@
       <jump line="714" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="182" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="79" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="538" column="47" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="53" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="59" column="46" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="252" column="30" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="256" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -648,7 +648,7 @@
         <text>, &quot;-d&quot;, outputDirName</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cG1MaWJyYXJ5RGlyZWN0b3J5XD4=</text>
+        <text>updateDependencies</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ0luZm8ocyJVbnppcHBpbmcgJHt9IHRvICIgKyBTcGFya0ZpbGVzLmdldFVwbUxpYnJhcnlEaXJlY3RvcnkoKSkK</text>
@@ -692,18 +692,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cG1MaWJyYXJ5RGlyZWN0b3J5XD4=</last-search>
+      <last-search>updateDependencies</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cG1MaWJyYXJ5RGlyZWN0b3J5XD4=</last-pattern>
+      <last-pattern>updateDependencies</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
-        <entry>request</entry>
         <entry encoding="base64">XDxleGVjdXRvclJlcXVlc3RlZFw+</entry>
         <entry encoding="base64">XDxEZWZhdWx0TnVtYmVyRXhlY3V0b3JzXD4=</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
@@ -722,6 +720,8 @@
         <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
         <entry encoding="base64">XDx0YXJnZXREaXJcPg==</entry>
         <entry encoding="base64">XDx1cG1MaWJyYXJ5RGlyZWN0b3J5XD4=</entry>
+        <entry>par</entry>
+        <entry>updateDependencies</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
