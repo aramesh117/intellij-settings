@@ -220,6 +220,7 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/BucketedReadSuite.scala" timestamp="1528924036300">
         <mark key="'" line="44" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.class" timestamp="1531434316537" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1531423954782">
         <mark key="'" line="507" column="6" />
         <mark key="[" line="688" column="0" />
@@ -524,6 +525,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UnionElements.java" timestamp="1526332790155">
         <mark key="'" line="23" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" timestamp="1531434398195">
+        <mark key="'" line="33" column="88" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PipelineTests.java" timestamp="1531426374668">
         <mark key="'" line="117" column="81" />
         <mark key="[" line="110" column="54" />
@@ -554,12 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2595" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="2553" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="2568" column="36" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="2572" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="2605" column="29" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
-      <jump line="664" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="628" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="639" column="72" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="641" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
@@ -654,6 +652,12 @@
       <jump line="2461" column="31" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="53" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
       <jump line="48" column="33" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" />
+      <jump line="47" column="0" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
+      <jump line="170" column="46" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
+      <jump line="34" column="88" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
+      <jump line="168" column="60" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
+      <jump line="169" column="55" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
+      <jump line="33" column="88" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -663,7 +667,7 @@
         <text>bi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnZcPg==</text>
+        <text>NOT_FOUND</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ0luZm8ocyJVbnppcHBpbmcgJHt9IHRvICIgKyBTcGFya0ZpbGVzLmdldFVwbUxpYnJhcnlEaXJlY3RvcnkoKSkK</text>
@@ -707,9 +711,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnZcPg==</last-search>
+      <last-search>NOT_FOUND</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnZcPg==</last-pattern>
+      <last-pattern>NOT_FOUND</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -717,7 +721,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWluQ2xhc3NcPg==</entry>
         <entry>\cunzip</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRGaWxlXD4=</entry>
@@ -737,6 +740,7 @@
         <entry>PythonRunner</entry>
         <entry encoding="base64">XDx0aHJlYWRcPg==</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
+        <entry>NOT_FOUND</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
