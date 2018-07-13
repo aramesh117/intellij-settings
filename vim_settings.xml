@@ -544,12 +544,11 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" timestamp="1531434398195">
         <mark key="'" line="33" column="88" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PipelineTests.java" timestamp="1531436929383">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/PipelineTests.java" timestamp="1531442073418">
         <mark key="'" line="117" column="81" />
-        <mark key="[" line="110" column="54" />
-        <mark key="]" line="110" column="57" />
-        <mark key="^" line="110" column="57" />
-        <mark key="." line="110" column="57" />
+        <mark key="]" line="105" column="1" />
+        <mark key="^" line="105" column="1" />
+        <mark key="." line="105" column="1" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFlowHackathonTest.java" timestamp="1526085849175">
         <mark key="'" line="10" column="13" />
@@ -676,8 +675,8 @@
       <jump line="143" column="4" filename="$MAVEN_REPOSITORY$/com/facebook/bumblebee/bumblebee-application-framework/0.122/bumblebee-application-framework-0.122-sources.jar!/com/facebook/bumblebee/applicationframework/distributedcache/filedistributor/SharedFsJobFileDistributor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name="-" type="4">
         <text>bi</text>
@@ -689,27 +688,30 @@
         <text encoding="base64">ICAgICAgICAgIGxvZ0luZm8ocyJVbnppcHBpbmcgJHt9IHRvICIgKyBTcGFya0ZpbGVzLmdldFVwbUxpYnJhcnlEaXJlY3RvcnkoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBbRkItT05MWV0gdW56aXAgcGFyIGZpbGUgOiBUMjc1ODM5NjEK</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ0luZm8oIlVuemlwcGluZyAiICsgdXJpLmdldFBhdGggKyAiIHRvICIgKyBTcGFya0ZpbGVzLmdldFVwbUxpYnJhcnlEaXJlY3RvcnkoKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGZXRjaCBmaWxlIHdpdGggdXNlQ2FjaGUgbW9kZSwgY2xvc2UgY2FjaGUgZm9yIGxvY2FsIG1vZGUuCiAgICAgICAgVXRpbHMuZmV0Y2hGaWxlKG5hbWUsIG5ldyBGaWxlKFNwYXJrRmlsZXMuZ2V0Um9vdERpcmVjdG9yeSgpKSwgY29uZiwKICAgICAgICAgIGVudi5zZWN1cml0eU1hbmFnZXIsIGhhZG9vcENvbmYsIHRpbWVzdGFtcCwgdXNlQ2FjaGUgPSAhaXNMb2NhbCkKICAgICAgICBjdXJyZW50RmlsZXMobmFtZSkgPSB0aW1lc3RhbXAKCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyBbRkItT05MWV0gdW56aXAgcGFyIGZpbGUgOiBUMjc1ODM5NjEK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxvZ0luZm8oIlVuemlwcGluZyAiICsgdXJpLmdldFBhdGggKyAiIHRvICIgKyBTcGFya0ZpbGVzLmdldFVwbUxpYnJhcnlEaXJlY3RvcnkoKSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGZXRjaCBmaWxlIHdpdGggdXNlQ2FjaGUgbW9kZSwgY2xvc2UgY2FjaGUgZm9yIGxvY2FsIG1vZGUuCiAgICAgICAgVXRpbHMuZmV0Y2hGaWxlKG5hbWUsIG5ldyBGaWxlKFNwYXJrRmlsZXMuZ2V0Um9vdERpcmVjdG9yeSgpKSwgY29uZiwKICAgICAgICAgIGVudi5zZWN1cml0eU1hbmFnZXIsIGhhZG9vcENvbmYsIHRpbWVzdGFtcCwgdXNlQ2FjaGUgPSAhaXNMb2NhbCkKICAgICAgICBjdXJyZW50RmlsZXMobmFtZSkgPSB0aW1lc3RhbXAKCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBbRkItT05MWV0gdW56aXAgcGFyIGZpbGUgOiBUMjc1ODM5NjEKICAgICAgICBpZiAodXJpLmdldFBhdGguZW5kc1dpdGgoIi5wYXIiKSkgewogICAgICAgICAgbG9nSW5mbygiVW56aXBwaW5nICIgKyB1cmkuZ2V0UGF0aCArICIgdG8gIiArIFNwYXJrRmlsZXMuZ2V0VXBtTGlicmFyeURpcmVjdG9yeSgpKQogICAgICAgICAgVXRpbHMudW5aaXBGaWxlKHVyaS5nZXRQYXRoLCBTcGFya0ZpbGVzLmNyZWF0ZVVwbUxpYnJhcnlEaXJlY3RvcnkoKSkKICAgICAgICB9CiAgICAgICAgLy8gW0ZCLU9OTFldIHVuemlwIHBhciBmaWxlIDogVDI3NTgzOTYxCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBbRkItT05MWV0gdW56aXAgcGFyIGZpbGUgOiBUMjc1ODM5NjEK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBbRkItT05MWV0gdW56aXAgcGFyIGZpbGUgOiBUMjc1ODM5NjEKICAgICAgICBpZiAodXJpLmdldFBhdGguZW5kc1dpdGgoIi5wYXIiKSkgewogICAgICAgICAgbG9nSW5mbygiVW56aXBwaW5nICIgKyB1cmkuZ2V0UGF0aCArICIgdG8gIiArIFNwYXJrRmlsZXMuZ2V0VXBtTGlicmFyeURpcmVjdG9yeSgpKQogICAgICAgICAgVXRpbHMudW5aaXBGaWxlKHVyaS5nZXRQYXRoLCBTcGFya0ZpbGVzLmNyZWF0ZVVwbUxpYnJhcnlEaXJlY3RvcnkoKSkKICAgICAgICB9CiAgICAgICAgLy8gW0ZCLU9OTFldIHVuemlwIHBhciBmaWxlIDogVDI3NTgzOTYxCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdXJpID0gbmV3IFVSSShuYW1lKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>else if (fileName.endsWith(&quot;.par&quot;)) {
       val upmTargetDir = SparkFiles.createUpmLibraryDirectory()
       logInfo(s&quot;Unzipping $fileName to $upmTargetDir.&quot;)
@@ -718,9 +720,6 @@
         new File(upmTargetDir)
       )
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB1bnppcENtZCA9IFNlcSgidW56aXAiLCAiLXFxIiwgIi1vIiwgemlwRmlsZU5hbWUsICItZCIsIG91dHB1dERpck5hbWUpCiAgICB2YWwgYnVpbGRlciA9IG5ldyBQcm9jZXNzQnVpbGRlcih1bnppcENtZC5hc0phdmEpCiAgICB2YWwgZW52ID0gYnVpbGRlci5lbnZpcm9ubWVudCgpCgogICAgYnVpbGRlci5yZWRpcmVjdEVycm9yU3RyZWFtKHRydWUpIC8vIFVnbHkgYnV0IG5lZWRlZCBmb3Igc3Rkb3V0IGFuZCBzdGRlcnIgdG8gc3luY2hyb25pemUKICAgIHZhbCBwcm9jZXNzID0gYnVpbGRlci5zdGFydCgpCiAgICBuZXcgUmVkaXJlY3RUaHJlYWQocHJvY2Vzcy5nZXRJbnB1dFN0cmVhbSwgU3lzdGVtLm91dCwKICAgICAgInJlZGlyZWN0IG91dHB1dCBmb3IgdW56aXBwaW5nIikuc3RhcnQoKQogICAgdmFsIGV4aXRDb2RlID0gcHJvY2Vzcy53YWl0Rm9yKCkKICAgIGlmIChleGl0Q29kZSAhPSAwKSB7CiAgICAgIGxvZ0Vycm9yKHMiRmFpbGVkIHRvIHVuemlwIGZpbGUgJHppcEZpbGVOYW1lIHRvICRvdXRwdXREaXJOYW1lIHdpdGggZXJyb3IgY29kZSAuIikKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
