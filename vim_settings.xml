@@ -83,7 +83,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/fun/SqlCoalesceFunction.java" timestamp="1529430240139">
         <mark key="'" line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1531768841353">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1531775973086">
         <mark key="'" line="382" column="22" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/PrestoUDFUtils.java" timestamp="1529436101207">
@@ -349,8 +349,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rex/RexSubQuery.java" timestamp="1525806958301">
         <mark key="'" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1531435216307">
-        <mark key="'" line="718" column="24" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1531776388627">
+        <mark key="'" line="586" column="24" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/PlasmaHiveContext.scala" timestamp="1530228813690">
         <mark key="'" line="28" column="13" />
@@ -564,9 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1195" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="510" column="76" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
-      <jump line="444" column="19" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="417" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="506" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="445" column="30" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
@@ -664,6 +661,9 @@
       <jump line="409" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="372" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
       <jump line="382" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
+      <jump line="68" column="7" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="309" column="75" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="586" column="24" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -673,7 +673,7 @@
         <text>bi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnNlcnRJbnRvU3FsXD4=</text>
+        <text>-p</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ0luZm8ocyJVbnppcHBpbmcgJHt9IHRvICIgKyBTcGFya0ZpbGVzLmdldFVwbUxpYnJhcnlEaXJlY3RvcnkoKSkK</text>
@@ -717,9 +717,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnNlcnRJbnRvU3FsXD4=</last-search>
+      <last-search>-p</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnNlcnRJbnRvU3FsXD4=</last-pattern>
+      <last-pattern>-p</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -727,7 +727,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGVjc1w+</entry>
         <entry>visit(Sort</entry>
         <entry>convertCondition</entry>
         <entry encoding="base64">XDxjb252ZXJ0Q29uZGl0aW9uVG9TcWxOb2RlXD4=</entry>
@@ -747,6 +746,7 @@
         <entry>INSERT</entry>
         <entry encoding="base64">XDxnZXRJbnNlcnRJbnRvUGFydGl0aW9uU3FsXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRJbnRvU3FsXD4=</entry>
+        <entry>-p</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
