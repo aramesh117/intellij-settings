@@ -318,8 +318,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcTableScan.java" timestamp="1526326287270">
         <mark key="'" line="47" column="57" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" timestamp="1531953643784">
-        <mark key="'" line="43" column="21" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" timestamp="1532109684312">
+        <mark key="'" line="440" column="9" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/rules/SemiJoinRule.java" timestamp="1525895525344">
         <mark key="'" line="46" column="43" />
@@ -386,7 +386,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraToEnumerableConverter.java" timestamp="1526329998241">
         <mark key="'" line="53" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1531939226998">
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1532109687768">
         <mark key="'" line="741" column="6" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" timestamp="1529626008743">
@@ -574,8 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/concurrent/Future.scala" />
-      <jump line="686" column="86" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="475" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/concurrent/Future.scala" />
       <jump line="714" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
       <jump line="182" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
@@ -674,6 +672,8 @@
       <jump line="65" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/test_daily_active_users_raw_inc_archive.json" />
       <jump line="39" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/test_daily_active_users_raw_inc_archive.json" />
       <jump line="1" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/test_daily_active_users_raw_inc_archive.json" />
+      <jump line="438" column="9" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
+      <jump line="440" column="9" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -683,7 +683,7 @@
         <text>bi</text>
       </register>
       <register name="/" type="4">
-        <text>-p</text>
+        <text encoding="base64">XDxVbnJvbGxlZFBhcnRpdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvZ0luZm8ocyJVbnppcHBpbmcgJHt9IHRvICIgKyBTcGFya0ZpbGVzLmdldFVwbUxpYnJhcnlEaXJlY3RvcnkoKSkK</text>
@@ -727,17 +727,16 @@
       </register>
     </registers>
     <search>
-      <last-search>-p</last-search>
+      <last-search encoding="base64">XDxVbnJvbGxlZFBhcnRpdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>-p</last-pattern>
+      <last-pattern encoding="base64">XDxVbnJvbGxlZFBhcnRpdGlvblw+</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>visit(Sort</entry>
         <entry>convertCondition</entry>
         <entry encoding="base64">XDxjb252ZXJ0Q29uZGl0aW9uVG9TcWxOb2RlXD4=</entry>
         <entry>PythonRunner</entry>
@@ -757,6 +756,7 @@
         <entry encoding="base64">XDxnZXRJbnNlcnRJbnRvUGFydGl0aW9uU3FsXD4=</entry>
         <entry encoding="base64">XDxpbnNlcnRJbnRvU3FsXD4=</entry>
         <entry>-p</entry>
+        <entry encoding="base64">XDxVbnJvbGxlZFBhcnRpdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
