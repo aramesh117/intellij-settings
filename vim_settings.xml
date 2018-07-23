@@ -433,8 +433,8 @@
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" timestamp="1528234062064">
         <mark key="'" line="305" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1527704796130">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1532373417917">
+        <mark key="'" line="705" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/hadoop/datainfra-hdfs-core/6.1.96/datainfra-hdfs-core-6.1.96.jar!/org/apache/hadoop/metrics/LoggingOutputStream.class" timestamp="1530222622861">
         <mark key="'" line="24" column="0" />
@@ -607,9 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="46" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
-      <jump line="34" column="88" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
-      <jump line="168" column="60" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
       <jump line="169" column="55" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
       <jump line="33" column="88" filename="$MAVEN_REPOSITORY$/com/facebook/warmstorage/ws-file-system-shaded/1.69/ws-file-system-shaded-1.69-sources.jar!/com/facebook/warm_storage/common/WarmStorageHelperMethods.java" />
       <jump line="595" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
@@ -707,6 +704,9 @@
       <jump line="32" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/NonSql.java" />
       <jump line="34" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/NonSql.java" />
       <jump line="62" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="705" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -716,7 +716,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdXRwdXRUYWJsZVw+</text>
+        <text>modules</text>
       </register>
       <register name="0" type="4">
         <text>RelOptCluster cluster,
@@ -756,9 +756,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdXRwdXRUYWJsZVw+</last-search>
+      <last-search>modules</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdXRwdXRUYWJsZVw+</last-pattern>
+      <last-pattern>modules</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -766,7 +766,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spark.bumblebee.dist.files</entry>
         <entry encoding="base64">XDxEaXN0RmlsZXNDb25mXD4=</entry>
         <entry encoding="base64">XDxqb2JEaXN0RmlsZXNcPg==</entry>
         <entry>start(</entry>
@@ -786,6 +785,7 @@
         <entry encoding="base64">XDxnZXRERkRhdGFUeXBlXD4=</entry>
         <entry>RelOptSchema</entry>
         <entry encoding="base64">XDxvdXRwdXRUYWJsZVw+</entry>
+        <entry>modules</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
