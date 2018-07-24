@@ -168,6 +168,13 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/BucketingUtils.scala" timestamp="1527623123862">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/RepartitionOperator.java" timestamp="1532372552539">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="52" />
+        <mark key="." line="21" column="52" />
+        <mark key="^" line="29" column="81" />
+      </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/PythonRunner.scala" timestamp="1531432718940">
         <mark key="'" line="48" column="33" />
       </file>
@@ -454,6 +461,13 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/bumblebee/bumblebee-application-framework/0.122/bumblebee-application-framework-0.122-sources.jar!/com/facebook/bumblebee/applicationframework/core/AsyncJobFileDistributor.java" timestamp="1531435471995">
         <mark key="'" line="114" column="39" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1532381589327">
+        <mark key="'" line="203" column="16" />
+        <mark key="[" line="253" column="102" />
+        <mark key="]" line="253" column="102" />
+        <mark key="." line="253" column="102" />
+        <mark key="^" line="253" column="102" />
+      </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" timestamp="1527703293909">
         <mark key="'" line="187" column="16" />
       </file>
@@ -502,7 +516,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/interpreter/NoneToBindableConverterRule.java" timestamp="1526323064365">
         <mark key="'" line="49" column="15" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" timestamp="1532388471331">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" timestamp="1532390322914">
+        <mark key="'" line="29" column="31" />
         <mark key="[" line="29" column="66" />
         <mark key="]" line="29" column="76" />
         <mark key="." line="29" column="76" />
@@ -676,7 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/NonSql.java" />
       <jump line="62" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
       <jump line="19" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
@@ -776,6 +790,7 @@
       <jump line="816" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="768" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="745" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="29" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -785,7 +800,7 @@
         <text>ALIAS</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text encoding="base64">XDxSZXBhcnRpdGlvbk9wZXJhdG9yXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzKGlnbm9yZVVua25vd24gPSB0cnVlKQpwdWJsaWMgY2xhc3MgRGlzdGluY3RPcGVyYXRvciBleHRlbmRzIE9wZXJhdG9yIHsKICBwdWJsaWMgc3RhdGljIFN0cmluZyBUWVBFID0gIkRJU1RJTkNUIjsKCiAgcHVibGljIERpc3RpbmN0T3BlcmF0b3IoCiAgICAgIGludCBpZCwgU3RyaW5nIGVuZ2luZSwgTGlzdDxJbnRlZ2VyPiBkZXBlbmRzT24sIExpc3Q8SW50ZWdlcj4gaW5wdXRzLCBMaXN0PEludGVnZXI+IG91dHB1dCkgewogICAgc3VwZXIoaWQsIFRZUEUsIGVuZ2luZSwgZGVwZW5kc09uLCBpbnB1dHMsIG91dHB1dCk7CiAgfQoKICBwcml2YXRlIERpc3RpbmN0T3BlcmF0b3IoKSB7CiAgICB0eXBlID0gVFlQRTsKICB9CgogIHB1YmxpYyBzdGF0aWMgRGlzdGluY3RPcGVyYXRvciBjcmVhdGUoT3BlcmF0b3Igb3BlcmF0b3IpIHsKICAgIHJldHVybiBuZXcgRGlzdGluY3RPcGVyYXRvcigKICAgICAgICBvcGVyYXRvci5pZCwgb3BlcmF0b3IuZW5naW5lLCBvcGVyYXRvci5kZXBlbmRzT24sIG9wZXJhdG9yLmlucHV0cywgb3BlcmF0b3Iub3V0cHV0KTsKICB9Cn0K</text>
@@ -822,9 +837,9 @@
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search encoding="base64">XDxSZXBhcnRpdGlvbk9wZXJhdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern encoding="base64">XDxSZXBhcnRpdGlvbk9wZXJhdG9yXD4=</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -848,10 +863,10 @@
         <entry>updatePlan</entry>
         <entry>save(</entry>
         <entry encoding="base64">XDxnZXRQaHlzaWNhbFBsYW5Bc0pzb25cPg==</entry>
-        <entry encoding="base64">XDxSZXBhcnRpdGlvbk9wZXJhdG9yXD4=</entry>
         <entry>getLogicalPlanAsString</entry>
         <entry>\crepartition</entry>
         <entry>default</entry>
+        <entry encoding="base64">XDxSZXBhcnRpdGlvbk9wZXJhdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
