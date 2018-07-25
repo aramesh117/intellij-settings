@@ -25,6 +25,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmTableLogicalPlanRef.java" timestamp="1526323366119">
         <mark key="'" line="10" column="44" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/main/antlr4/com/facebook/upm/hive/schema/HiveType.g4" timestamp="1532558199094">
+        <mark key="'" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/JavaTypeFactoryImpl.java" timestamp="1527032323085">
         <mark key="'" line="83" column="16" />
       </file>
@@ -355,6 +358,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/bumblebee/bumblebee-application-framework/0.122/bumblebee-application-framework-0.122-sources.jar!/com/facebook/bumblebee/applicationframework/core/ApplicationConfiguration.java" timestamp="1531435285066">
         <mark key="'" line="479" column="39" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/test/java/com/facebook/upm/hive/schema/HiveTypeConverterTest.java" timestamp="1532558051734">
+        <mark key="'" line="119" column="0" />
       </file>
       <file name="$USER_HOME$/fb-spark/python/pyspark/sql/session.py" timestamp="1529619705975">
         <mark key="'" line="167" column="29" />
@@ -690,6 +696,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/pom.xml" timestamp="1527895134432">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/main/java/com/facebook/upm/hive/schema/HiveTypeConverter.java" timestamp="1532557991695">
+        <mark key="'" line="45" column="16" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/org/apache/spark/scheduler/cluster/SparkMasterScheduler.scala" timestamp="1530240685895">
         <mark key="'" line="20" column="47" />
       </file>
@@ -716,11 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/impl/UpmEngineImpls.java" />
-      <jump line="67" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
-      <jump line="66" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
-      <jump line="123" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
-      <jump line="51" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
       <jump line="62" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
       <jump line="80" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
       <jump line="17" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
@@ -816,6 +820,11 @@
       <jump line="23" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalFactory.java" />
       <jump line="50" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalFactory.java" />
       <jump line="2" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmUserFunction.java" />
+      <jump line="45" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/main/java/com/facebook/upm/hive/schema/HiveTypeConverter.java" />
+      <jump line="18" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/test/java/com/facebook/upm/hive/schema/HiveTypeConverterTest.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/test/java/com/facebook/upm/hive/schema/HiveTypeConverterTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/main/antlr4/com/facebook/upm/hive/schema/HiveType.g4" />
+      <jump line="13" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/main/antlr4/com/facebook/upm/hive/schema/HiveType.g4" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
