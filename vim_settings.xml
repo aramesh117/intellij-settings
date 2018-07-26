@@ -261,8 +261,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rex/RexSubQuery.java" timestamp="1525806958301">
         <mark key="'" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1531776388627">
-        <mark key="'" line="586" column="24" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1532647471351">
+        <mark key="'" line="475" column="69" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" timestamp="1526337176951">
         <mark key="'" line="389" column="26" />
@@ -727,10 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
-      <jump line="7" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/RepartitionOperator.java" />
-      <jump line="6" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DistinctOperator.java" />
-      <jump line="28" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" />
       <jump line="130" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="114" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/resources/api/testJoin.json" />
@@ -827,6 +823,10 @@
       <jump line="366" column="13" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="780" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="797" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="483" column="26" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="246" column="30" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="475" column="69" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -836,7 +836,7 @@
         <text>UpmHints.singleKey(&quot;infer_partitions&quot;, &quot;true&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>def map</text>
+        <text>bumblebee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhdGFGcmFtZSBkZjIgPSBkZi5yZXBhcnRpdGlvbigxMCwgImV2ZXJzdG9yZV9oYW5kbGUiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZjIuZ2V0TG9naWNhbFBsYW5Bc1N0cmluZygpKTsK</text>
@@ -873,9 +873,9 @@
       </register>
     </registers>
     <search>
-      <last-search>def map</last-search>
+      <last-search>bumblebee</last-search>
       <last-offset />
-      <last-pattern>def map</last-pattern>
+      <last-pattern>bumblebee</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -883,8 +883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>repartition</entry>
-        <entry>Preconditions</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25Db2x1bW5cPg==</entry>
         <entry>getPythonContext</entry>
         <entry>serializeToJson</entry>
@@ -903,6 +901,8 @@
         <entry>toDF</entry>
         <entry>def map(</entry>
         <entry>def map</entry>
+        <entry>total\c</entry>
+        <entry>bumblebee</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
