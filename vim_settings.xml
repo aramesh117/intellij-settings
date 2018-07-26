@@ -49,8 +49,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/Utils.java" timestamp="1532385324199">
         <mark key="'" line="383" column="9" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" timestamp="1532561375277">
-        <mark key="'" line="80" column="20" />
+      <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" timestamp="1532631838760">
+        <mark key="'" line="238" column="21" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraTableScan.java" timestamp="1526329902093">
         <mark key="'" line="52" column="43" />
@@ -329,8 +329,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/CalcitePrepareImpl.java" timestamp="1525903893236">
         <mark key="'" line="525" column="12" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1528243133747">
-        <mark key="'" line="49" column="0" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1532632413337">
+        <mark key="'" line="797" column="17" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/RelOptTableImpl.java" timestamp="1532471686242">
         <mark key="'" line="131" column="15" />
@@ -727,13 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/UpmOperator.java" />
-      <jump line="31" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/OperatorType.java" />
-      <jump line="31" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/Annotation.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/OperatorType.java" />
-      <jump line="2" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/OperatorType.java" />
-      <jump line="30" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/Annotation.java" />
-      <jump line="29" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/Annotation.java" />
       <jump line="50" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
       <jump line="7" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/RepartitionOperator.java" />
       <jump line="6" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DistinctOperator.java" />
@@ -827,6 +820,13 @@
       <jump line="38" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/test/java/com/facebook/upm/hive/schema/HiveTypeConverterTest.java" />
       <jump line="12" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="80" column="20" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
+      <jump line="2454" column="6" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
+      <jump line="238" column="21" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
+      <jump line="118" column="2" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="27" column="20" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/MapPartitionsRDD.scala" />
+      <jump line="366" column="13" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="780" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="797" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -836,7 +836,7 @@
         <text>UpmHints.singleKey(&quot;infer_partitions&quot;, &quot;true&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRQaHlzaWNhbFBsYW5Bc1Bvam9Gcm9tUmVzb3VyY2VcPg==</text>
+        <text>def map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhdGFGcmFtZSBkZjIgPSBkZi5yZXBhcnRpdGlvbigxMCwgImV2ZXJzdG9yZV9oYW5kbGUiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZjIuZ2V0TG9naWNhbFBsYW5Bc1N0cmluZygpKTsK</text>
@@ -873,9 +873,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRQaHlzaWNhbFBsYW5Bc1Bvam9Gcm9tUmVzb3VyY2VcPg==</last-search>
+      <last-search>def map</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRQaHlzaWNhbFBsYW5Bc1Bvam9Gcm9tUmVzb3VyY2VcPg==</last-pattern>
+      <last-pattern>def map</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -883,9 +883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\crepartition</entry>
-        <entry>default</entry>
-        <entry encoding="base64">XDxSZXBhcnRpdGlvbk9wZXJhdG9yXD4=</entry>
         <entry>repartition</entry>
         <entry>Preconditions</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25Db2x1bW5cPg==</entry>
@@ -903,6 +900,9 @@
         <entry encoding="base64">XDxmaWVsZE5hbWVcPg==</entry>
         <entry>\cjson</entry>
         <entry encoding="base64">XDxhc3NlcnRQaHlzaWNhbFBsYW5Bc1Bvam9Gcm9tUmVzb3VyY2VcPg==</entry>
+        <entry>toDF</entry>
+        <entry>def map(</entry>
+        <entry>def map</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
