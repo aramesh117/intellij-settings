@@ -264,8 +264,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/impl/AbstractTable.java" timestamp="1527097915782">
         <mark key="'" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/OperatorType.java" timestamp="1533151542322">
-        <mark key="'" line="27" column="6" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/OperatorType.java" timestamp="1533153442048">
+        <mark key="'" line="31" column="2" />
         <mark key="[" line="31" column="14" />
         <mark key="]" line="32" column="1" />
         <mark key="^" line="32" column="1" />
@@ -776,8 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="331" column="3" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="824" column="47" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="826" column="36" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="832" column="44" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
@@ -876,6 +874,8 @@
       <jump line="48" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/UpmSqlPlanner.java" />
       <jump line="2" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/OperatorType.java" />
       <jump line="27" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/OperatorType.java" />
+      <jump line="31" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/OperatorType.java" />
+      <jump line="59" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
