@@ -325,8 +325,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashSet.java" timestamp="1527102370271">
         <mark key="'" line="203" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1533080743006">
-        <mark key="'" line="169" column="19" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1533150298377">
+        <mark key="'" line="61" column="19" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
@@ -773,7 +773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/test/java/com/facebook/upm/hive/schema/HiveTypeConverterTest.java" />
       <jump line="131" column="79" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="48" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="49" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
@@ -811,7 +810,6 @@
       <jump line="47" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
       <jump line="506" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="170" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="61" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="49" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="34" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="631" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
@@ -873,6 +871,8 @@
       <jump line="38" column="104" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="638" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="15" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="71" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="61" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -882,7 +882,7 @@
         <text>System.out.println</text>
       </register>
       <register name="/" type="4">
-        <text>\cJson</text>
+        <text encoding="base64">XDxtYXBcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhdGFGcmFtZTxSZWxOb2RlPiBvdXRwdXREZiA9IGFkZERhdGFGcmFtZVRvQ29udGV4dChsb2dpY2FsUGxhbik7Cg==</text>
@@ -919,9 +919,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cJson</last-search>
+      <last-search encoding="base64">XDxtYXBcPg==</last-search>
       <last-offset />
-      <last-pattern>\cJson</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
@@ -929,8 +929,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFydFw+</entry>
-        <entry>sort\c</entry>
         <entry>\ctrace</entry>
         <entry>map(</entry>
         <entry>repartition</entry>
@@ -949,6 +947,8 @@
         <entry encoding="base64">XDxoaW50c1w+</entry>
         <entry encoding="base64">XDxkYXRhRnJhbWVSZXBhcnRpdGlvblw+</entry>
         <entry>\cJson</entry>
+        <entry>map</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
