@@ -235,6 +235,13 @@
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/Partitioner.scala" timestamp="1528243113800">
         <mark key="'" line="58" column="53" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/partitionschedule/Schedule.java" timestamp="1533163369654">
+        <mark key="'" line="2" column="12" />
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/test/java/com/facebook/upm/engine/UtilsTest.java" timestamp="1529466638449">
         <mark key="'" line="14" column="61" />
       </file>
@@ -375,12 +382,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/bumblebee/bumblebee-application-framework/0.122/bumblebee-application-framework-0.122-sources.jar!/com/facebook/bumblebee/applicationframework/core/ApplicationConfiguration.java" timestamp="1531435285066">
         <mark key="'" line="479" column="39" />
-      </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/test/java/com/facebook/upm/hive/schema/HiveTypeConverterTest.java" timestamp="1533000863441">
-        <mark key="'" line="37" column="70" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/fb-spark/python/pyspark/sql/session.py" timestamp="1529619705975">
         <mark key="'" line="167" column="29" />
@@ -583,12 +584,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/SqlFunction.java" timestamp="1529366360835">
         <mark key="'" line="40" column="13" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalFactory.java" timestamp="1532556939421">
-        <mark key="'" line="50" column="9" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/SingleNonSql.java" timestamp="1532471055864">
         <mark key="'" line="19" column="4" />
       </file>
@@ -609,12 +604,6 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/PlannerTests.java" timestamp="1526333666999">
         <mark key="'" line="135" column="40" />
-      </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/HiveTypeConverterBase.java" timestamp="1532997718899">
-        <mark key="'" line="59" column="20" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Join.java" timestamp="1526681511500">
         <mark key="'" line="101" column="9" />
@@ -776,7 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="824" column="47" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="826" column="36" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="832" column="44" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="833" column="37" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
@@ -876,6 +864,7 @@
       <jump line="27" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/OperatorType.java" />
       <jump line="31" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/OperatorType.java" />
       <jump line="59" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
+      <jump line="2" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/partitionschedule/Schedule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
