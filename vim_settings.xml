@@ -330,8 +330,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashSet.java" timestamp="1527102370271">
         <mark key="'" line="203" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1533150298377">
-        <mark key="'" line="61" column="19" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1533784908710">
+        <mark key="'" line="58" column="19" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
@@ -426,8 +426,8 @@
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/types/UserDefinedType.scala" timestamp="1528151750363">
         <mark key="'" line="43" column="57" />
       </file>
-      <file name="$USER_HOME$/fb-spark/pom.xml" timestamp="1529973790747">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/fb-spark/pom.xml" timestamp="1533670886596">
+        <mark key="'" line="136" column="49" />
         <mark key="[" line="189" column="32" />
         <mark key="]" line="189" column="35" />
         <mark key="." line="189" column="35" />
@@ -439,12 +439,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/tools/Frameworks.java" timestamp="1526337941242">
         <mark key="'" line="319" column="11" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" timestamp="1533232557242">
-        <mark key="'" line="400" column="17" />
-        <mark key="[" line="696" column="50" />
-        <mark key="]" line="697" column="3" />
-        <mark key="^" line="697" column="3" />
-        <mark key="." line="697" column="3" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" timestamp="1533784942006">
+        <mark key="[" line="632" column="50" />
+        <mark key="]" line="633" column="3" />
+        <mark key="^" line="633" column="3" />
+        <mark key="." line="633" column="3" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/JdbcToSparkConverter.java" timestamp="1526323042470">
         <mark key="'" line="90" column="24" />
@@ -501,11 +500,8 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/bumblebee/bumblebee-application-framework/0.122/bumblebee-application-framework-0.122-sources.jar!/com/facebook/bumblebee/applicationframework/core/AsyncJobFileDistributor.java" timestamp="1531435471995">
         <mark key="'" line="114" column="39" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1533233026884">
-        <mark key="'" line="301" column="34" />
-        <mark key="[" line="301" column="0" />
-        <mark key="]" line="301" column="0" />
-        <mark key="." line="301" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1533784906531">
+        <mark key="'" line="274" column="31" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/partitionschedule/TimePredicateShuttle.java" timestamp="1533234012498">
         <mark key="'" line="22" column="42" />
@@ -673,15 +669,13 @@
       <file name="$USER_HOME$/fb-spark/python/pyspark/worker.py" timestamp="1529472170738">
         <mark key="'" line="45" column="4" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1532995330854">
-        <mark key="'" line="706" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1533785016168">
+        <mark key="'" line="816" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1533233070058">
-        <mark key="'" line="581" column="0" />
-        <mark key="[" line="636" column="0" />
-        <mark key="]" line="636" column="0" />
-        <mark key="." line="636" column="0" />
-        <mark key="^" line="41" column="65" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1533784951871">
+        <mark key="[" line="608" column="0" />
+        <mark key="]" line="608" column="0" />
+        <mark key="." line="608" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptCostImpl.java" timestamp="1525899187199">
         <mark key="'" line="26" column="0" />
@@ -764,23 +758,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="631" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="48" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="25" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/RepartitionOperator.java" />
-      <jump line="57" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" />
-      <jump line="82" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
-      <jump line="25" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
-      <jump line="83" column="109" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
-      <jump line="28" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
-      <jump line="54" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
-      <jump line="76" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/RepartitionElements.java" />
-      <jump line="190" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
-      <jump line="33" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="770" column="2" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="1505" column="71" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="1508" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="1547" column="78" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="1551" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1556" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="46" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
       <jump line="108" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/TestBase.java" />
@@ -823,7 +800,6 @@
       <jump line="38" column="104" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="638" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="71" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="61" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="394" column="113" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="169" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="140" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/UpmSqlPlanner.java" />
@@ -864,6 +840,24 @@
       <jump line="42" column="42" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/PipedRDD.scala" />
       <jump line="47" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/PipedRDD.scala" />
       <jump line="764" column="2" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="136" column="49" filename="$USER_HOME$/fb-spark/pom.xml" />
+      <jump line="61" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="274" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="58" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="550" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
+      <jump line="564" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
+      <jump line="341" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
+      <jump line="365" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
+      <jump line="51" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="787" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="809" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="5" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="6" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="17" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="107" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="108" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="112" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="816" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -873,7 +867,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludFJEREVsZW1lbnRcPg==</text>
+        <text>upm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhdGFGcmFtZTxSZWxOb2RlPiBvdXRwdXREZiA9IGFkZERhdGFGcmFtZVRvQ29udGV4dChsb2dpY2FsUGxhbik7Cg==</text>
@@ -910,21 +904,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludFJEREVsZW1lbnRcPg==</last-search>
+      <last-search>upm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludFJEREVsZW1lbnRcPg==</last-pattern>
+      <last-pattern>upm</last-pattern>
       <last-replace>UPMDATASETS</last-replace>
       <last-substitute>upmdatasets</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcWxDcmVhdGVUYWJsZVw+</entry>
-        <entry encoding="base64">XDx1cG1IaW50c1w+</entry>
-        <entry encoding="base64">XDxoaW50c1w+</entry>
-        <entry encoding="base64">XDxkYXRhRnJhbWVSZXBhcnRpdGlvblw+</entry>
-        <entry>\cJson</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry>sql(</entry>
@@ -940,6 +929,11 @@
         <entry>comput(</entry>
         <entry encoding="base64">XDxzcGxpdFw+</entry>
         <entry encoding="base64">XDxwcmludFJEREVsZW1lbnRcPg==</entry>
+        <entry>dataframe\cGroup</entry>
+        <entry encoding="base64">XDxncm91cEJ5Q29sc1w+</entry>
+        <entry>dataFrameAlias</entry>
+        <entry encoding="base64">XDxuZXdDb2xzXD4=</entry>
+        <entry>upm</entry>
       </history-search>
       <history-cmd>
         <entry>306</entry>
