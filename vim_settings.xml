@@ -440,10 +440,10 @@
         <mark key="'" line="319" column="11" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" timestamp="1533784942006">
-        <mark key="[" line="632" column="50" />
-        <mark key="]" line="633" column="3" />
-        <mark key="^" line="633" column="3" />
-        <mark key="." line="633" column="3" />
+        <mark key="[" line="723" column="50" />
+        <mark key="]" line="724" column="3" />
+        <mark key="^" line="724" column="3" />
+        <mark key="." line="724" column="3" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/spark/src/main/java/org/apache/calcite/adapter/spark/JdbcToSparkConverter.java" timestamp="1526323042470">
         <mark key="'" line="90" column="24" />
@@ -491,20 +491,14 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/UpmSqlPlanner.java" timestamp="1533151359320">
         <mark key="'" line="140" column="28" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" timestamp="1533234328853">
-        <mark key="'" line="255" column="6" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/enumerable/EnumerableIntersectRule.java" timestamp="1526323775810">
         <mark key="'" line="29" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/bumblebee/bumblebee-application-framework/0.122/bumblebee-application-framework-0.122-sources.jar!/com/facebook/bumblebee/applicationframework/core/AsyncJobFileDistributor.java" timestamp="1531435471995">
         <mark key="'" line="114" column="39" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1533784906531">
-        <mark key="'" line="274" column="31" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/partitionschedule/TimePredicateShuttle.java" timestamp="1533234012498">
-        <mark key="'" line="22" column="42" />
+        <mark key="'" line="16" column="42" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/BucketedWriteSuite.scala" timestamp="1527703293909">
         <mark key="'" line="187" column="16" />
@@ -672,10 +666,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1533785016168">
         <mark key="'" line="816" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1533784951871">
-        <mark key="[" line="608" column="0" />
-        <mark key="]" line="608" column="0" />
-        <mark key="." line="608" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1533786441141">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="123" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptCostImpl.java" timestamp="1525899187199">
         <mark key="'" line="26" column="0" />
@@ -758,9 +754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1556" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
-      <jump line="46" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
-      <jump line="108" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="4" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/resources/api/testHourlyScheduleInference.json" />
       <jump line="10" column="248" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/resources/api/testHourlyScheduleInference.json" />
       <jump line="53" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/TableMaterializationShuttle.java" />
@@ -858,10 +851,13 @@
       <jump line="108" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="112" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="816" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="40" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="190" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBqc29uUGxhbiA9CiAgICAgICAgZGYyLnNhdmUoIk9VVFBVVCIsIFVwbUhpbnRzLnNpbmdsZUtleSgiaW5mZXJfcGFydGl0aW9ucyIsICJ0cnVlIiksIEltbXV0YWJsZU1hcC5vZigpKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -873,16 +869,16 @@
         <text encoding="base64">ICAgIERhdGFGcmFtZTxSZWxOb2RlPiBvdXRwdXREZiA9IGFkZERhdGFGcmFtZVRvQ29udGV4dChsb2dpY2FsUGxhbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBqc29uUGxhbiA9CiAgICAgICAgZGYyLnNhdmUoIk9VVFBVVCIsIFVwbUhpbnRzLnNpbmdsZUtleSgiaW5mZXJfcGFydGl0aW9ucyIsICJ0cnVlIiksIEltbXV0YWJsZU1hcC5vZigpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gZGYKICAgKiBAcGFyYW0gbnVtUGFydGl0aW9ucwogICAqIEBwYXJhbSBjb2x1bW4KICAgKiBAcGFyYW0gaGludHMKICAgKiBAcGFyYW0gdHJhY2VEYXRhCg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gZGYKICAgKiBAcGFyYW0gbnVtUGFydGl0aW9ucwogICAqIEBwYXJhbSBjb2x1bW4KICAgKiBAcGFyYW0gaGludHMKICAgKiBAcGFyYW0gdHJhY2VEYXRhCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -891,13 +887,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uUGxhbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihqc29uUGxhbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDEsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMjIsCiAgICAgICJ0eXBlIiA6ICJOb25TcWxEQUciLAogICAgICAiZW5naW5lIiA6ICJzcGFyayIsCiAgICAgICJkZXBlbmRzT24iIDogWyAxNiBdLAogICAgICAiaW5wdXRzIiA6IFsgMSBdLAogICAgICAib3V0cHV0IiA6IFsgNCBdLAogICAgICAidHJhY2VEYXRhIiA6IHsgfSwKICAgICAgIm9wZXJhdG9ycyIgOiBbIHsKICAgICAgICAiaWQiIDogMTksCiAgICAgICAgInR5cGUiIDogIlJFUEFSVElUSU9OIiwKICAgICAgICAiZW5naW5lIiA6ICJzcGFyayIsCiAgICAgICAgImRlcGVuZHNPbiIgOiBbIDE2IF0sCiAgICAgICAgImlucHV0cyIgOiBbIDEgXSwKICAgICAgICAib3V0cHV0IiA6IFsgMiBdLAogICAgICAgICJ0cmFjZURhdGEiIDogeyB9LAogICAgICAgICJudW1QYXJ0aXRpb25zIiA6IDEwLAogICAgICAgICJwYXJ0aXRpb25Db2x1bW4iIDogIkVWRVJTVE9SRV9IQU5ETEUiCiAgICAgIH0sIHsKICAgICAgICAiaWQiIDogMjAsCiAgICAgICAgInR5cGUiIDogIk1BUCIsCiAgICAgICAgImVuZ2luZSIgOiAic3BhcmsiLAogICAgICAgICJkZXBlbmRzT24iIDogWyAxOSBdLAogICAgICAgICJpbnB1dHMiIDogWyAyIF0sCiAgICAgICAgIm91dHB1dCIgOiBbIDMgXSwKICAgICAgICAidHJhY2VEYXRhIiA6IHsgfSwKICAgICAgICAiZnVuY3Rpb24iIDogIlNFUklBTElaRURfRlVOQ19CNjQiCiAgICAgIH0gXQogICAgfSwgewogICAgICAiaWQiIDogMTYsCiAgICAgICJ0eXBlIiA6ICJTUUwiLAogICAgICAiZW5naW5lIiA6ICJwcmVzdG8iLAogICAgICAiZGVwZW5kc09uIiA6IFsgXSwKICAgICAgImlucHV0cyIgOiBbIF0sCiAgICAgICJvdXRwdXQiIDogWyAxIF0sCiAgICAgICJ0cmFjZURhdGEiIDogbnVsbCwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgXCJUNlwiIEFTIFNFTEVDVCAqXG5GUk9NIFwiQU1MXCIuXCJkb3BwbGVyX2RhdGFfYXVkaW9cIiIgXQogICAgfSBdLAogICAgImRhdGFzZXRzIiA6IFsgewogICAgICAiaWQiIDogMiwKICAgICAgInRhYmxlSWQiIDogMiwKICAgICAgInBhcnRpdGlvbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAxLAogICAgICAidGFibGVJZCIgOiAxLAogICAgICAicGFydGl0aW9ucyIgOiBbIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDQsCiAgICAgICJ0YWJsZUlkIiA6IDQsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgXQogICAgfSwgewogICAgICAiaWQiIDogMywKICAgICAgInRhYmxlSWQiIDogMywKICAgICAgInBhcnRpdGlvbnMiIDogWyBdCiAgICB9IF0sCiAgICAidGFibGVzIiA6IFsgewogICAgICAiaWQiIDogMiwKICAgICAgIm5hbWUiIDogWyAiYW1sIiwgInQ1IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogdHJ1ZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IGZhbHNlLAogICAgICAic2NoZW1hIiA6IHsKICAgICAgICAiSEFTSF9OQU1FIiA6ICJTVFJJTkciLAogICAgICAgICJFVkVSU1RPUkVfSEFORExFIiA6ICJTVFJJTkciLAogICAgICAgICJTVUJfVElUTEUiIDogIlNUUklORyIsCiAgICAgICAgIlRPUElDIiA6ICJTVFJJTkciLAogICAgICAgICJNRU1CRVJfSUQiIDogIlNUUklORyIsCiAgICAgICAgIlBST01QVF9URVhUIiA6ICJTVFJJTkciLAogICAgICAgICJHRU5ERVIiIDogIlNUUklORyIsCiAgICAgICAgIkFHRSIgOiAiU1RSSU5HIiwKICAgICAgICAiQ0lUWSIgOiAiU1RSSU5HIiwKICAgICAgICAiU1RBVEUiIDogIlNUUklORyIsCiAgICAgICAgIkFHRV9FTkdMSVNIIiA6ICJTVFJJTkciLAogICAgICAgICJGSVJTVF9MQU5HVUFHRSIgOiAiU1RSSU5HIiwKICAgICAgICAiSE9NRV9MQU5HVUFHRSIgOiAiU1RSSU5HIiwKICAgICAgICAiWUVBUlNfSU5fVVMiIDogIlNUUklORyIsCiAgICAgICAgIlNUWUxFIiA6ICJTVFJJTkciLAogICAgICAgICJFTlZJUk9OTUVOVCIgOiAiU1RSSU5HIiwKICAgICAgICAiVkVORE9SX0RTIiA6ICJTVFJJTkciLAogICAgICAgICJTQ09QRSIgOiAiU1RSSU5HIiwKICAgICAgICAiRFVSQVRJT05fTVMiIDogIkRPVUJMRSIsCiAgICAgICAgIkRTIiA6ICJTVFJJTkciLAogICAgICAgICJEQVRBSUQiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiA0LAogICAgICAibmFtZSIgOiBbICJhbWwiLCAib3V0cHV0IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogZmFsc2UsCiAgICAgICJtYXRlcmFsaXplZCIgOiB0cnVlLAogICAgICAic2NoZW1hIiA6IHsKICAgICAgICAiYXJnIiA6ICJJTlRFR0VSIgogICAgICB9LAogICAgICAicGFydGl0aW9uQ29sdW1ucyIgOiBbIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDMsCiAgICAgICJuYW1lIiA6IFsgImFtbCIsICJ0MyIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IHRydWUsCiAgICAgICJtYXRlcmFsaXplZCIgOiBmYWxzZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgImFyZyIgOiAiSU5URUdFUiIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAxLAogICAgICAibmFtZSIgOiBbICJhbWwiLCAidDYiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiB0cnVlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogZmFsc2UsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJIQVNIX05BTUUiIDogIlNUUklORyIsCiAgICAgICAgIkVWRVJTVE9SRV9IQU5ETEUiIDogIlNUUklORyIsCiAgICAgICAgIlNVQl9USVRMRSIgOiAiU1RSSU5HIiwKICAgICAgICAiVE9QSUMiIDogIlNUUklORyIsCiAgICAgICAgIk1FTUJFUl9JRCIgOiAiU1RSSU5HIiwKICAgICAgICAiUFJPTVBUX1RFWFQiIDogIlNUUklORyIsCiAgICAgICAgIkdFTkRFUiIgOiAiU1RSSU5HIiwKICAgICAgICAiQUdFIiA6ICJTVFJJTkciLAogICAgICAgICJDSVRZIiA6ICJTVFJJTkciLAogICAgICAgICJTVEFURSIgOiAiU1RSSU5HIiwKICAgICAgICAiQUdFX0VOR0xJU0giIDogIlNUUklORyIsCiAgICAgICAgIkZJUlNUX0xBTkdVQUdFIiA6ICJTVFJJTkciLAogICAgICAgICJIT01FX0xBTkdVQUdFIiA6ICJTVFJJTkciLAogICAgICAgICJZRUFSU19JTl9VUyIgOiAiU1RSSU5HIiwKICAgICAgICAiU1RZTEUiIDogIlNUUklORyIsCiAgICAgICAgIkVOVklST05NRU5UIiA6ICJTVFJJTkciLAogICAgICAgICJWRU5ET1JfRFMiIDogIlNUUklORyIsCiAgICAgICAgIlNDT1BFIiA6ICJTVFJJTkciLAogICAgICAgICJEVVJBVElPTl9NUyIgOiAiRE9VQkxFIiwKICAgICAgICAiRFMiIDogIlNUUklORyIsCiAgICAgICAgIkRBVEFJRCIgOiAiU1RSSU5HIgogICAgICB9LAogICAgICAicGFydGl0aW9uQ29sdW1ucyIgOiBbIF0KICAgIH0gXQogIH0KfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
