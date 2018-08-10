@@ -209,11 +209,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/Utils.java" timestamp="1531425876304">
         <mark key="'" line="154" column="47" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" timestamp="1533864670928">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" timestamp="1533865357102">
         <mark key="'" line="86" column="35" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+        <mark key="[" line="112" column="67" />
+        <mark key="]" line="112" column="68" />
+        <mark key="." line="112" column="68" />
+        <mark key="^" line="112" column="68" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/UDFTest.java" timestamp="1529530786713">
         <mark key="'" line="25" column="0" />
@@ -878,11 +879,11 @@
       <jump line="86" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGhlICIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>toUpperCase</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhRnJhbWVcPg==</text>
@@ -921,7 +922,7 @@
         <text encoding="base64">ICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>41</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -975,8 +976,8 @@
         <entry>62</entry>
         <entry>699</entry>
         <entry>641</entry>
-        <entry>w</entry>
         <entry>41</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
