@@ -139,6 +139,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/TraitConversionTest.java" timestamp="1526322710977">
         <mark key="'" line="191" column="23" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1534459632315">
+        <mark key="'" line="13" column="4" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/NonSql.java" timestamp="1532372572292">
         <mark key="'" line="34" column="4" />
       </file>
@@ -686,6 +689,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/rules/SemiJoinRule.java" timestamp="1525895525344">
         <mark key="'" line="46" column="43" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1534459634403">
+        <mark key="'" line="851" column="11" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcToEnumerableConverter.java" timestamp="1526320054465">
         <mark key="'" line="60" column="19" />
       </file>
@@ -837,8 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/resources/api/testExplicitDatasetsPhysicalPlan.json" />
-      <jump line="86" column="45" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" />
       <jump line="285" column="69" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="86" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="180" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
@@ -937,6 +941,8 @@
       <jump line="941" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="120" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="21" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" />
+      <jump line="13" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="851" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -979,7 +985,7 @@
         <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDEsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMjEsCiAgICAgICJ0eXBlIiA6ICJOb25TcWxEQUciLAogICAgICAiZW5naW5lIiA6ICJzcGFyayIsCiAgICAgICJkZXBlbmRzT24iIDogWyAxNiBdLAogICAgICAiaW5wdXRzIiA6IFsgXSwKICAgICAgIm91dHB1dCIgOiBbIDMgXSwKICAgICAgInRyYWNlRGF0YSIgOiB7IH0sCiAgICAgICJvcGVyYXRvcnMiIDogWyB7CiAgICAgICAgImlkIiA6IDE5LAogICAgICAgICJ0eXBlIiA6ICJSRVBBUlRJVElPTiIsCiAgICAgICAgImVuZ2luZSIgOiAic3BhcmsiLAogICAgICAgICJkZXBlbmRzT24iIDogWyAxNiBdLAogICAgICAgICJpbnB1dHMiIDogWyBdLAogICAgICAgICJvdXRwdXQiIDogWyAxIF0sCiAgICAgICAgInRyYWNlRGF0YSIgOiB7IH0sCiAgICAgICAgIm51bVBhcnRpdGlvbnMiIDogMTAsCiAgICAgICAgInBhcnRpdGlvbkNvbHVtbiIgOiAiZXZlcnN0b3JlX2hhbmRsZSIKICAgICAgfSwgewogICAgICAgICJpZCIgOiAyMCwKICAgICAgICAidHlwZSIgOiAiTUFQIiwKICAgICAgICAiZW5naW5lIiA6ICJzcGFyayIsCiAgICAgICAgImRlcGVuZHNPbiIgOiBbIDE5IF0sCiAgICAgICAgImlucHV0cyIgOiBbIDIgXSwKICAgICAgICAib3V0cHV0IiA6IFsgMyBdLAogICAgICAgICJ0cmFjZURhdGEiIDogeyB9LAogICAgICAgICJmdW5jdGlvbiIgOiAiU0VSSUFMSVpFRF9GVU5DX0I2NCIKICAgICAgfSBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAxNiwKICAgICAgInR5cGUiIDogIlNRTCIsCiAgICAgICJlbmdpbmUiIDogInByZXN0byIsCiAgICAgICJkZXBlbmRzT24iIDogWyBdLAogICAgICAiaW5wdXRzIiA6IFsgXSwKICAgICAgIm91dHB1dCIgOiBbIDQgXSwKICAgICAgInRyYWNlRGF0YSIgOiBudWxsLAogICAgICAic3FsIiA6IFsgIlNFTEVDVCAqXG5GUk9NIFwiQU1MXCIuXCJkb3BwbGVyX2RhdGFfYXVkaW9cIiIgXQogICAgfSBdLAogICAgImRhdGFzZXRzIiA6IFsgewogICAgICAiaWQiIDogMiwKICAgICAgInRhYmxlSWQiIDogMiwKICAgICAgInBhcnRpdGlvbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAxLAogICAgICAidGFibGVJZCIgOiAxLAogICAgICAicGFydGl0aW9ucyIgOiBbIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDQsCiAgICAgICJ0YWJsZUlkIiA6IDQsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgXQogICAgfSwgewogICAgICAiaWQiIDogMywKICAgICAgInRhYmxlSWQiIDogMywKICAgICAgInBhcnRpdGlvbnMiIDogWyBdCiAgICB9IF0sCiAgICAidGFibGVzIiA6IFsgewogICAgICAiaWQiIDogMiwKICAgICAgIm5hbWUiIDogWyAiYW1sIiwgInQ1IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogZmFsc2UsCiAgICAgICJtYXRlcmFsaXplZCIgOiB0cnVlLAogICAgICAic2NoZW1hIiA6IHsKICAgICAgICAiYXJnIiA6ICJJTlRFR0VSIgogICAgICB9LAogICAgICAicGFydGl0aW9uQ29sdW1ucyIgOiBbIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDQsCiAgICAgICJuYW1lIiA6IFsgImFtbCIsICJ0NiIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgImhhc2hfbmFtZSIgOiAiU1RSSU5HIiwKICAgICAgICAiZXZlcnN0b3JlX2hhbmRsZSIgOiAiU1RSSU5HIiwKICAgICAgICAic3ViX3RpdGxlIiA6ICJTVFJJTkciLAogICAgICAgICJ0b3BpYyIgOiAiU1RSSU5HIiwKICAgICAgICAibWVtYmVyX2lkIiA6ICJTVFJJTkciLAogICAgICAgICJwcm9tcHRfdGV4dCIgOiAiU1RSSU5HIiwKICAgICAgICAiZ2VuZGVyIiA6ICJTVFJJTkciLAogICAgICAgICJhZ2UiIDogIlNUUklORyIsCiAgICAgICAgImNpdHkiIDogIlNUUklORyIsCiAgICAgICAgInN0YXRlIiA6ICJTVFJJTkciLAogICAgICAgICJhZ2VfZW5nbGlzaCIgOiAiU1RSSU5HIiwKICAgICAgICAiZmlyc3RfbGFuZ3VhZ2UiIDogIlNUUklORyIsCiAgICAgICAgImhvbWVfbGFuZ3VhZ2UiIDogIlNUUklORyIsCiAgICAgICAgInllYXJzX2luX3VzIiA6ICJTVFJJTkciLAogICAgICAgICJzdHlsZSIgOiAiU1RSSU5HIiwKICAgICAgICAiZW52aXJvbm1lbnQiIDogIlNUUklORyIsCiAgICAgICAgInZlbmRvcl9kcyIgOiAiU1RSSU5HIiwKICAgICAgICAic2NvcGUiIDogIlNUUklORyIsCiAgICAgICAgImR1cmF0aW9uX21zIiA6ICJET1VCTEUiLAogICAgICAgICJkcyIgOiAiU1RSSU5HIiwKICAgICAgICAiZGF0YWlkIiA6ICJTVFJJTkciCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgXQogICAgfSwgewogICAgICAiaWQiIDogMSwKICAgICAgIm5hbWUiIDogWyAiYW1sIiwgInQ1IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogZmFsc2UsCiAgICAgICJtYXRlcmFsaXplZCIgOiB0cnVlLAogICAgICAic2NoZW1hIiA6IHsKICAgICAgICAiaGFzaF9uYW1lIiA6ICJTVFJJTkciLAogICAgICAgICJldmVyc3RvcmVfaGFuZGxlIiA6ICJTVFJJTkciLAogICAgICAgICJzdWJfdGl0bGUiIDogIlNUUklORyIsCiAgICAgICAgInRvcGljIiA6ICJTVFJJTkciLAogICAgICAgICJtZW1iZXJfaWQiIDogIlNUUklORyIsCiAgICAgICAgInByb21wdF90ZXh0IiA6ICJTVFJJTkciLAogICAgICAgICJnZW5kZXIiIDogIlNUUklORyIsCiAgICAgICAgImFnZSIgOiAiU1RSSU5HIiwKICAgICAgICAiY2l0eSIgOiAiU1RSSU5HIiwKICAgICAgICAic3RhdGUiIDogIlNUUklORyIsCiAgICAgICAgImFnZV9lbmdsaXNoIiA6ICJTVFJJTkciLAogICAgICAgICJmaXJzdF9sYW5ndWFnZSIgOiAiU1RSSU5HIiwKICAgICAgICAiaG9tZV9sYW5ndWFnZSIgOiAiU1RSSU5HIiwKICAgICAgICAieWVhcnNfaW5fdXMiIDogIlNUUklORyIsCiAgICAgICAgInN0eWxlIiA6ICJTVFJJTkciLAogICAgICAgICJlbnZpcm9ubWVudCIgOiAiU1RSSU5HIiwKICAgICAgICAidmVuZG9yX2RzIiA6ICJTVFJJTkciLAogICAgICAgICJzY29wZSIgOiAiU1RSSU5HIiwKICAgICAgICAiZHVyYXRpb25fbXMiIDogIkRPVUJMRSIsCiAgICAgICAgImRzIiA6ICJTVFJJTkciLAogICAgICAgICJkYXRhaWQiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAzLAogICAgICAibmFtZSIgOiBbICJhbWwiLCAidDMiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJhcmciIDogIklOVEVHRVIiCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgXQogICAgfSBdCiAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>44</text>
+        <text>1011</text>
       </register>
     </registers>
     <search>
@@ -1015,7 +1021,6 @@
         <entry>getPythonContext</entry>
       </history-search>
       <history-cmd>
-        <entry>699</entry>
         <entry>641</entry>
         <entry>41</entry>
         <entry>%s/INTEGER/integer/g</entry>
@@ -1035,6 +1040,7 @@
         <entry>w</entry>
         <entry>14</entry>
         <entry>44</entry>
+        <entry>1011</entry>
       </history-cmd>
       <history-expr />
       <history-input />
