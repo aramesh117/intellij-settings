@@ -107,8 +107,8 @@
         <mark key="." line="2451" column="82" />
         <mark key="^" line="2451" column="82" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1532461061690">
-        <mark key="'" line="47" column="24" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1534456412512">
+        <mark key="'" line="21" column="13" />
         <mark key="[" line="48" column="39" />
         <mark key="]" line="48" column="38" />
         <mark key="^" line="48" column="38" />
@@ -837,7 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/resources/api/testExplicitDatasetsPhysicalPlan.json" />
       <jump line="102" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/resources/api/testExplicitDatasetsPhysicalPlan.json" />
       <jump line="86" column="45" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" />
       <jump line="285" column="69" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
@@ -937,6 +936,7 @@
       <jump line="935" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="941" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="120" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
+      <jump line="21" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -946,7 +946,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>getPythonContext</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhdGFGcmFtZTxSZWxOb2RlPiBvdXRwdXREZiA9IGFkZERhdGFGcmFtZVRvQ29udGV4dChsb2dpY2FsUGxhbik7Cg==</text>
@@ -979,13 +979,13 @@
         <text encoding="base64">ewogICJwaHlzaWNhbFBsYW4iIDogewogICAgImlkIiA6IDEsCiAgICAib3BlcmF0b3JzIiA6IFsgewogICAgICAiaWQiIDogMjEsCiAgICAgICJ0eXBlIiA6ICJOb25TcWxEQUciLAogICAgICAiZW5naW5lIiA6ICJzcGFyayIsCiAgICAgICJkZXBlbmRzT24iIDogWyAxNiBdLAogICAgICAiaW5wdXRzIiA6IFsgXSwKICAgICAgIm91dHB1dCIgOiBbIDMgXSwKICAgICAgInRyYWNlRGF0YSIgOiB7IH0sCiAgICAgICJvcGVyYXRvcnMiIDogWyB7CiAgICAgICAgImlkIiA6IDE5LAogICAgICAgICJ0eXBlIiA6ICJSRVBBUlRJVElPTiIsCiAgICAgICAgImVuZ2luZSIgOiAic3BhcmsiLAogICAgICAgICJkZXBlbmRzT24iIDogWyAxNiBdLAogICAgICAgICJpbnB1dHMiIDogWyBdLAogICAgICAgICJvdXRwdXQiIDogWyAxIF0sCiAgICAgICAgInRyYWNlRGF0YSIgOiB7IH0sCiAgICAgICAgIm51bVBhcnRpdGlvbnMiIDogMTAsCiAgICAgICAgInBhcnRpdGlvbkNvbHVtbiIgOiAiZXZlcnN0b3JlX2hhbmRsZSIKICAgICAgfSwgewogICAgICAgICJpZCIgOiAyMCwKICAgICAgICAidHlwZSIgOiAiTUFQIiwKICAgICAgICAiZW5naW5lIiA6ICJzcGFyayIsCiAgICAgICAgImRlcGVuZHNPbiIgOiBbIDE5IF0sCiAgICAgICAgImlucHV0cyIgOiBbIDIgXSwKICAgICAgICAib3V0cHV0IiA6IFsgMyBdLAogICAgICAgICJ0cmFjZURhdGEiIDogeyB9LAogICAgICAgICJmdW5jdGlvbiIgOiAiU0VSSUFMSVpFRF9GVU5DX0I2NCIKICAgICAgfSBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAxNiwKICAgICAgInR5cGUiIDogIlNRTCIsCiAgICAgICJlbmdpbmUiIDogInByZXN0byIsCiAgICAgICJkZXBlbmRzT24iIDogWyBdLAogICAgICAiaW5wdXRzIiA6IFsgXSwKICAgICAgIm91dHB1dCIgOiBbIDQgXSwKICAgICAgInRyYWNlRGF0YSIgOiBudWxsLAogICAgICAic3FsIiA6IFsgIlNFTEVDVCAqXG5GUk9NIFwiQU1MXCIuXCJkb3BwbGVyX2RhdGFfYXVkaW9cIiIgXQogICAgfSBdLAogICAgImRhdGFzZXRzIiA6IFsgewogICAgICAiaWQiIDogMiwKICAgICAgInRhYmxlSWQiIDogMiwKICAgICAgInBhcnRpdGlvbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAxLAogICAgICAidGFibGVJZCIgOiAxLAogICAgICAicGFydGl0aW9ucyIgOiBbIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDQsCiAgICAgICJ0YWJsZUlkIiA6IDQsCiAgICAgICJwYXJ0aXRpb25zIiA6IFsgXQogICAgfSwgewogICAgICAiaWQiIDogMywKICAgICAgInRhYmxlSWQiIDogMywKICAgICAgInBhcnRpdGlvbnMiIDogWyBdCiAgICB9IF0sCiAgICAidGFibGVzIiA6IFsgewogICAgICAiaWQiIDogMiwKICAgICAgIm5hbWUiIDogWyAiYW1sIiwgInQ1IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogZmFsc2UsCiAgICAgICJtYXRlcmFsaXplZCIgOiB0cnVlLAogICAgICAic2NoZW1hIiA6IHsKICAgICAgICAiYXJnIiA6ICJJTlRFR0VSIgogICAgICB9LAogICAgICAicGFydGl0aW9uQ29sdW1ucyIgOiBbIF0KICAgIH0sIHsKICAgICAgImlkIiA6IDQsCiAgICAgICJuYW1lIiA6IFsgImFtbCIsICJ0NiIgXSwKICAgICAgInR5cGUiIDogImhpdmUiLAogICAgICAidGVtcG9yYXJ5IiA6IGZhbHNlLAogICAgICAibWF0ZXJhbGl6ZWQiIDogdHJ1ZSwKICAgICAgInNjaGVtYSIgOiB7CiAgICAgICAgImhhc2hfbmFtZSIgOiAiU1RSSU5HIiwKICAgICAgICAiZXZlcnN0b3JlX2hhbmRsZSIgOiAiU1RSSU5HIiwKICAgICAgICAic3ViX3RpdGxlIiA6ICJTVFJJTkciLAogICAgICAgICJ0b3BpYyIgOiAiU1RSSU5HIiwKICAgICAgICAibWVtYmVyX2lkIiA6ICJTVFJJTkciLAogICAgICAgICJwcm9tcHRfdGV4dCIgOiAiU1RSSU5HIiwKICAgICAgICAiZ2VuZGVyIiA6ICJTVFJJTkciLAogICAgICAgICJhZ2UiIDogIlNUUklORyIsCiAgICAgICAgImNpdHkiIDogIlNUUklORyIsCiAgICAgICAgInN0YXRlIiA6ICJTVFJJTkciLAogICAgICAgICJhZ2VfZW5nbGlzaCIgOiAiU1RSSU5HIiwKICAgICAgICAiZmlyc3RfbGFuZ3VhZ2UiIDogIlNUUklORyIsCiAgICAgICAgImhvbWVfbGFuZ3VhZ2UiIDogIlNUUklORyIsCiAgICAgICAgInllYXJzX2luX3VzIiA6ICJTVFJJTkciLAogICAgICAgICJzdHlsZSIgOiAiU1RSSU5HIiwKICAgICAgICAiZW52aXJvbm1lbnQiIDogIlNUUklORyIsCiAgICAgICAgInZlbmRvcl9kcyIgOiAiU1RSSU5HIiwKICAgICAgICAic2NvcGUiIDogIlNUUklORyIsCiAgICAgICAgImR1cmF0aW9uX21zIiA6ICJET1VCTEUiLAogICAgICAgICJkcyIgOiAiU1RSSU5HIiwKICAgICAgICAiZGF0YWlkIiA6ICJTVFJJTkciCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgXQogICAgfSwgewogICAgICAiaWQiIDogMSwKICAgICAgIm5hbWUiIDogWyAiYW1sIiwgInQ1IiBdLAogICAgICAidHlwZSIgOiAiaGl2ZSIsCiAgICAgICJ0ZW1wb3JhcnkiIDogZmFsc2UsCiAgICAgICJtYXRlcmFsaXplZCIgOiB0cnVlLAogICAgICAic2NoZW1hIiA6IHsKICAgICAgICAiaGFzaF9uYW1lIiA6ICJTVFJJTkciLAogICAgICAgICJldmVyc3RvcmVfaGFuZGxlIiA6ICJTVFJJTkciLAogICAgICAgICJzdWJfdGl0bGUiIDogIlNUUklORyIsCiAgICAgICAgInRvcGljIiA6ICJTVFJJTkciLAogICAgICAgICJtZW1iZXJfaWQiIDogIlNUUklORyIsCiAgICAgICAgInByb21wdF90ZXh0IiA6ICJTVFJJTkciLAogICAgICAgICJnZW5kZXIiIDogIlNUUklORyIsCiAgICAgICAgImFnZSIgOiAiU1RSSU5HIiwKICAgICAgICAiY2l0eSIgOiAiU1RSSU5HIiwKICAgICAgICAic3RhdGUiIDogIlNUUklORyIsCiAgICAgICAgImFnZV9lbmdsaXNoIiA6ICJTVFJJTkciLAogICAgICAgICJmaXJzdF9sYW5ndWFnZSIgOiAiU1RSSU5HIiwKICAgICAgICAiaG9tZV9sYW5ndWFnZSIgOiAiU1RSSU5HIiwKICAgICAgICAieWVhcnNfaW5fdXMiIDogIlNUUklORyIsCiAgICAgICAgInN0eWxlIiA6ICJTVFJJTkciLAogICAgICAgICJlbnZpcm9ubWVudCIgOiAiU1RSSU5HIiwKICAgICAgICAidmVuZG9yX2RzIiA6ICJTVFJJTkciLAogICAgICAgICJzY29wZSIgOiAiU1RSSU5HIiwKICAgICAgICAiZHVyYXRpb25fbXMiIDogIkRPVUJMRSIsCiAgICAgICAgImRzIiA6ICJTVFJJTkciLAogICAgICAgICJkYXRhaWQiIDogIlNUUklORyIKICAgICAgfSwKICAgICAgInBhcnRpdGlvbkNvbHVtbnMiIDogWyBdCiAgICB9LCB7CiAgICAgICJpZCIgOiAzLAogICAgICAibmFtZSIgOiBbICJhbWwiLCAidDMiIF0sCiAgICAgICJ0eXBlIiA6ICJoaXZlIiwKICAgICAgInRlbXBvcmFyeSIgOiBmYWxzZSwKICAgICAgIm1hdGVyYWxpemVkIiA6IHRydWUsCiAgICAgICJzY2hlbWEiIDogewogICAgICAgICJhcmciIDogIklOVEVHRVIiCiAgICAgIH0sCiAgICAgICJwYXJ0aXRpb25Db2x1bW5zIiA6IFsgXQogICAgfSBdCiAgfQp9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>44</text>
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>getPythonContext</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>getPythonContext</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>&quot;STRING&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -993,7 +993,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdXRwdXRSb3dUeXBlXD4=</entry>
         <entry>\calias</entry>
         <entry>value1</entry>
         <entry>TINYINT</entry>
@@ -1013,10 +1012,9 @@
         <entry>\cthrow Exc</entry>
         <entry>Exception</entry>
         <entry>throw</entry>
+        <entry>getPythonContext</entry>
       </history-search>
       <history-cmd>
-        <entry>141</entry>
-        <entry>62</entry>
         <entry>699</entry>
         <entry>641</entry>
         <entry>41</entry>
@@ -1035,6 +1033,8 @@
         <entry>%s/\&quot;BIGINT\&quot;/\&quot;bigint\&quot;/g</entry>
         <entry>%s/&quot;STRING&quot;/&quot;string&quot;/g</entry>
         <entry>w</entry>
+        <entry>14</entry>
+        <entry>44</entry>
       </history-cmd>
       <history-expr />
       <history-input />
