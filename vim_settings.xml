@@ -952,7 +952,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>getPythonContext</text>
+        <text>\csave(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhdGFGcmFtZTxSZWxOb2RlPiBvdXRwdXREZiA9IGFkZERhdGFGcmFtZVRvQ29udGV4dChsb2dpY2FsUGxhbik7Cg==</text>
@@ -989,9 +989,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getPythonContext</last-search>
+      <last-search>\csave(</last-search>
       <last-offset />
-      <last-pattern>getPythonContext</last-pattern>
+      <last-pattern>\csave(</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>&quot;STRING&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -999,8 +999,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\calias</entry>
-        <entry>value1</entry>
         <entry>TINYINT</entry>
         <entry>BIGINT</entry>
         <entry>STRING</entry>
@@ -1019,6 +1017,8 @@
         <entry>Exception</entry>
         <entry>throw</entry>
         <entry>getPythonContext</entry>
+        <entry>save(</entry>
+        <entry>\csave(</entry>
       </history-search>
       <history-cmd>
         <entry>641</entry>
