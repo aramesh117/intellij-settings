@@ -31,8 +31,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/JavaTypeFactoryImpl.java" timestamp="1527032323085">
         <mark key="'" line="83" column="16" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/PipedRDD.scala" timestamp="1535048902749">
-        <mark key="'" line="47" column="4" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/PipedRDD.scala" timestamp="1535069734100">
+        <mark key="'" line="161" column="58" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/Convention.java" timestamp="1526322691416">
         <mark key="'" line="23" column="36" />
@@ -854,7 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
       <jump line="121" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" />
       <jump line="122" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" />
       <jump line="139" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/test/java/com/facebook/upm/api/DatasetInferenceTest.java" />
@@ -954,6 +953,7 @@
       <jump line="76" column="44" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="716" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="764" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="161" column="58" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/PipedRDD.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
