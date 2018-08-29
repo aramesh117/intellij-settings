@@ -385,8 +385,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1535152133766">
         <mark key="'" line="208" column="16" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" timestamp="1535511396077">
-        <mark key="'" line="610" column="21" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" timestamp="1535564158235">
+        <mark key="'" line="641" column="55" />
         <mark key="[" line="667" column="0" />
         <mark key="]" line="667" column="0" />
         <mark key="." line="667" column="0" />
@@ -550,8 +550,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/pom.xml" timestamp="1533842961251">
         <mark key="'" line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" timestamp="1535511675436">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" timestamp="1535564124530">
+        <mark key="'" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/convert/ConverterImpl.java" timestamp="1526335131455">
         <mark key="'" line="31" column="15" />
@@ -606,6 +606,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" timestamp="1535507544963">
         <mark key="'" line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/sdk/pom.xml" timestamp="1535564293626" />
       <file name="$MAVEN_REPOSITORY$/org/spark-project/hive/hive-exec/1.2.1.spark2/hive-exec-1.2.1.spark2.jar!/org/apache/hadoop/hive/ql/io/BucketizedHiveInputFormat.class" timestamp="1528143930103">
         <mark key="'" line="56" column="56" />
       </file>
@@ -774,8 +775,8 @@
       <file name="$USER_HOME$/fb-spark/python/pyspark/worker.py" timestamp="1529472170738">
         <mark key="'" line="45" column="4" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1535510812810">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1535564147406">
+        <mark key="'" line="21" column="5" />
         <mark key="[" line="772" column="25" />
         <mark key="]" line="772" column="28" />
         <mark key="^" line="772" column="28" />
@@ -889,9 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="941" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
-      <jump line="120" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/api/CalContext.java" />
-      <jump line="21" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" />
       <jump line="13" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="851" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
       <jump line="51" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/sdk/appsdk/src/main/scala/com/facebook/spark/pipeline/Pipeline.scala" />
@@ -984,11 +982,14 @@
       <jump line="152" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
       <jump line="157" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
       <jump line="620" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
-      <jump line="610" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
       <jump line="18" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="17" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="18" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
+      <jump line="13" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
+      <jump line="110" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="21" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="610" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
+      <jump line="641" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -998,7 +999,7 @@
         <text>main schema</text>
       </register>
       <register name="/" type="4">
-        <text>alchim</text>
+        <text>surefire</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWJzdHJhY3QgY2xhc3MgUGlwZWxpbmVbVCA8OiBQaXBlbGluZUNvbmZpZ3VyYXRpb246IE1hbmlmZXN0XSB7CiAgcHJpdmF0ZSB2YWwgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIodGhpcy5nZXRDbGFzcy5nZXROYW1lKQoKICBwcml2YXRlIHZhciBfcHJlUnVuSG9vayA9IG5ldyBMaXN0QnVmZmVyWyhTcGFya1Nlc3Npb24sIFNRTENvbnRleHQpID0+IFVuaXRdCiAgcHJpdmF0ZSB2YXIgX3Bvc3RSdW5Ib29rID0gbmV3IExpc3RCdWZmZXJbKFNwYXJrU2Vzc2lvbiwgU1FMQ29udGV4dCkgPT4gVW5pdF0KCiAgZGVmIHJlZ2lzdGVyUHJlUnVuSG9vayhwcmVSdW5Ib29rOiAoU3BhcmtTZXNzaW9uLCBTUUxDb250ZXh0KSA9PiBVbml0KSA9CiAgICBfcHJlUnVuSG9vayArPSBwcmVSdW5Ib29rCiAgZGVmIHJlZ2lzdGVyUG9zdFJ1bkhvb2socG9zdFJ1bkhvb2s6IChTcGFya1Nlc3Npb24sIFNRTENvbnRleHQpID0+IFVuaXQpID0KICAgIF9wb3N0UnVuSG9vayArPSBwb3N0UnVuSG9vawoKICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKSB7CiAgICB2YWwgcGlwZWxpbmVQYXJhbXMgPSBQaXBlbGluZU9wdGlvblBhcnNlci5wYXJzZShhcmdzKQogICAgdmFsIGNvbmZpZ1ZhbHVlID0gcGlwZWxpbmVQYXJhbXMKICAgICAgLmdldE9yRWxzZSh0aHJvdyBuZXcgUGlwZWxpbmVFeGNlcHRpb24oIkZhaWxlZCB0byBwYXJzZSBjb25maWd1cmF0aW9uIGlucHV0IikpCiAgICAgIC5jb25maWcKICAgIGltcGxpY2l0IHZhbCBjb25maWcgPSBKc29uVXRpbC5mcm9tSnNvbltUXShjb25maWdWYWx1ZSkKICAgIGNvbmZpZy52YWxpZGF0ZSgpCiAgICBsb2cuaW5mbyhzIiR7Z2V0Q2xhc3MuZ2V0TmFtZX1Db25maWd1cmF0aW9uOlxuIiwgY29uZmlnKQoKICAgIC8vIFdlIHN0YXJ0IGJ5IGNyZWF0aW5nIGEgc3Bhcmsgc2Vzc2lvbiwgYnV0IHVsdGltYXRlbHkgdGhyb3cgaXQgYXdheSBiZWNhdXNlIHRoZSBQbGFzbWFIaXZlQ29udGV4dAogICAgLy8gY3JlYXRlcyBhIG5ldyBQbGFzbWFTcGFya1Nlc3Npb24gd2l0aCBhc3NvY2lhdGVkIHBsYXNtYSBzaGFyZWQgc3RhdGUsIHNlc3Npb24gc3RhdGUsIGV0Yy4KCiAgICB2YXIgc3BhcmtTZXNzaW9uOiBTcGFya1Nlc3Npb24gPSBudWxsCiAgICB2YXIgc3BhcmtDb250ZXh0OiBTcGFya0NvbnRleHQgPSBudWxsCiAgICB2YXIgc3FsQ29udGV4dDogU1FMQ29udGV4dCA9IG51bGwKICAgIHZhciBub3JtYWxFeGl0ID0gZmFsc2UKICAgIHRyeSB7CiAgICAgIHNxbENvbnRleHQgPSBnZXRIaXZlQ29udGV4dChnZXRTcGFya1Nlc3Npb24uc3BhcmtDb250ZXh0LCBjb25maWcubmFtZXNwYWNlKQogICAgICBzcGFya0NvbnRleHQgPSBzcWxDb250ZXh0LnNwYXJrQ29udGV4dAogICAgICBzcGFya1Nlc3Npb24gPSBzcWxDb250ZXh0LnNwYXJrU2Vzc2lvbgogICAgICB0cnkgewogICAgICAgIF9wcmVSdW5Ib29rLmZvcmVhY2goXyhzcGFya1Nlc3Npb24sIHNxbENvbnRleHQpKQogICAgICB9IGNhdGNoIHsKICAgICAgICBjYXNlIGV4OiBUaHJvd2FibGUgPT4KICAgICAgICAgIGxvZy5lcnJvcigicHJlUnVuSG9vayBmYWlsZWQuIiwgZXgpCiAgICAgICAgICB0aHJvdyBleAogICAgICB9CiAgICAgIGxvZy5pbmZvKCJQaXBlbGluZSBzdGFydGluZyIpCiAgICAgIHRpbWUgewogICAgICAgIHJ1bihzcWxDb250ZXh0LCBjb25maWcpCiAgICAgIH0KICAgICAgbG9nLmluZm8oIlBpcGVsaW5lIHN0b3BwaW5nIikKICAgICAgbm9ybWFsRXhpdCA9IHRydWUKICAgIH0gY2F0Y2ggewogICAgICBjYXNlIGV4OiBUaHJvd2FibGUgPT4KICAgICAgICBsb2cuZXJyb3IoIlBpcGVsaW5lIGZhaWxlZCB0byBydW4uIiwgZXgpCiAgICAgICAgdGhyb3cgZXgKICAgIH0gZmluYWxseSB7CiAgICAgIGlmIChub3JtYWxFeGl0KQogICAgICAgIHRyeSB7CiAgICAgICAgICBfcG9zdFJ1bkhvb2suZm9yZWFjaChfKHNwYXJrU2Vzc2lvbiwgc3FsQ29udGV4dCkpCiAgICAgICAgfSBjYXRjaCB7CiAgICAgICAgICBjYXNlIGV4OiBUaHJvd2FibGUgPT4gbG9nLmVycm9yKCJwb3N0cnVuSG9vayBmYWlsZWQuIiwgZXgpCiAgICAgICAgfQogICAgICBpZiAoc3BhcmtDb250ZXh0ICE9IG51bGwpIHsKICAgICAgICBzcGFya0NvbnRleHQuc3RvcCgpCiAgICAgIH0KICAgIH0KICB9CgogIGRlZiBydW4oc3FsQ29udGV4dDogU1FMQ29udGV4dCwgY29uZmlnOiBUKTogVW5pdAoKICBkZWYgZ2V0U3BhcmtDb25mID0gbmV3IFNwYXJrQ29uZigpLnNldEFwcE5hbWUoZ2V0Q2xhc3MuZ2V0TmFtZSkKCiAgcHJpdmF0ZVtwaXBlbGluZV0gZGVmIGdldFNwYXJrU2Vzc2lvbiA9CiAgICBTcGFya1Nlc3Npb24uYnVpbGRlci5jb25maWcoZ2V0U3BhcmtDb25mKS5lbmFibGVIaXZlU3VwcG9ydC5nZXRPckNyZWF0ZQoKICBwcml2YXRlW3BpcGVsaW5lXSBkZWYgZ2V0SGl2ZUNvbnRleHQoc3BhcmtDb250ZXh0OiBTcGFya0NvbnRleHQsIG5hbWVzcGFjZTogU3RyaW5nKTogSGl2ZUNvbnRleHQgPQogICAgbmV3IFBsYXNtYUhpdmVDb250ZXh0KHNwYXJrQ29udGV4dCkuY29udGV4dEZvcihuYW1lc3BhY2UpCgogIGRlZiB0aW1lW1JdKGJsb2NrOiA9PiBSKTogUiA9IHsKICAgIHZhbCB0MCA9IFN5c3RlbS5uYW5vVGltZSgpCiAgICB2YWwgcmVzdWx0ID0gYmxvY2sgLy8gY2FsbC1ieS1uYW1lCiAgICB2YWwgdDEgPSBTeXN0ZW0ubmFub1RpbWUoKQogICAgcHJpbnRsbigiQXBwbGljYXRpb24gd2FsbCB0aW1lOiAiICsgKCh0MSAtIHQwKSAvIDEwMDApICsgIm1zIikKICAgIHJlc3VsdAogIH0KfQo=</text>
@@ -1035,13 +1036,13 @@
       </register>
     </registers>
     <search>
-      <last-search>alchim</last-search>
+      <last-search>surefire</last-search>
       <last-offset />
-      <last-pattern>alchim</last-pattern>
+      <last-pattern>surefire</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>&quot;STRING&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1060,11 +1061,11 @@
         <entry>CREATE</entry>
         <entry>PARTITION</entry>
         <entry>dataFramePipe</entry>
-        <entry>surefire</entry>
         <entry>upm-engine</entry>
         <entry>upm</entry>
         <entry>scala</entry>
         <entry>alchim</entry>
+        <entry>surefire</entry>
       </history-search>
       <history-cmd>
         <entry>641</entry>
