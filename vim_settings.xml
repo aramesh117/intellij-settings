@@ -248,12 +248,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/UDFTest.java" timestamp="1529530786713">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" timestamp="1536642350531">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" timestamp="1536690408816">
         <mark key="'" line="13" column="10" />
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="12" column="19" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/Table.java" timestamp="1526323429345">
         <mark key="'" line="79" column="6" />
@@ -581,8 +581,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/convert/ConverterImpl.java" timestamp="1526335131455">
         <mark key="'" line="31" column="15" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" timestamp="1536646751700">
-        <mark key="'" line="726" column="17" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" timestamp="1536690451854">
+        <mark key="'" line="786" column="6" />
         <mark key="[" line="869" column="0" />
         <mark key="]" line="869" column="1" />
         <mark key="." line="869" column="1" />
@@ -685,7 +685,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/type/SqlTypeName.java" timestamp="1529451688812">
         <mark key="'" line="181" column="26" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmAnalyzer.scala" timestamp="1536648005541" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/NonSqlDataFrameTest.java" timestamp="1536651332662">
         <mark key="'" line="26" column="11" />
         <mark key="[" line="1627" column="17" />
@@ -733,7 +732,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/PlannerTests.java" timestamp="1526333666999">
         <mark key="'" line="135" column="40" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java" timestamp="1536650374678" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Join.java" timestamp="1526681511500">
         <mark key="'" line="101" column="9" />
       </file>
@@ -936,11 +934,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/PlannerImpl.java" timestamp="1525904045734">
         <mark key="'" line="123" column="11" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" timestamp="1536650667061">
-        <mark key="'" line="38" column="36" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" timestamp="1536690397326">
+        <mark key="'" line="44" column="19" />
+        <mark key="[" line="44" column="58" />
+        <mark key="]" line="44" column="58" />
+        <mark key="^" line="44" column="78" />
+        <mark key="." line="44" column="58" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1536642894070">
         <mark key="'" line="628" column="12" />
@@ -953,10 +952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="23" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="73" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="4" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalElements.scala" />
       <jump line="13" column="53" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="37" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/PhysicalPlan.scala" />
       <jump line="51" column="7" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
@@ -1045,21 +1040,25 @@
       <jump line="12" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/impl/UpmEngineImpls.java" />
       <jump line="37" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="10" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="36" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="85" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/SeqLike.scala" />
       <jump line="38" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/SubDagOperator.java" />
       <jump line="20" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/SubDagOperator.java" />
       <jump line="1437" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/NonSqlDataFrameTest.java" />
       <jump line="26" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/NonSqlDataFrameTest.java" />
       <jump line="101" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
+      <jump line="40" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="72" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/SeqLike.scala" />
+      <jump line="36" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="85" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/SeqLike.scala" />
+      <jump line="44" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="786" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBATnVsbGFibGUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1070,29 +1069,30 @@
       <register name="0" type="4">
         <text encoding="base64">c3ViRGFnT3BlcmF0b3JzCiAgICAgICAgLmNvbGxlY3QgeyBjYXNlIG86IFVwbVBoeXNpY2FsRnVuY0VsZW1lbnRzID0+IG8gfQogICAgICAgIC5tYXAoXy5ydW50aW1lKS5kaXN0aW5jdC5zaXplID4gMQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBATnVsbGFibGUK</text>
+      <register name="1" type="4">
+        <text>runtime: String,
+  encoding: String</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaXN0YWNrLmludGVybmFsLk51bGxhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gSWYgbm8gZnVuY3Rpb25hbCBjaGlsZHJlbiB3ZXJlIGZvdW5kLCB0aGVuIGRvbid0IHNwZWNpZnkgYSBydW50aW1lLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBATnVsbGFibGUK</text>
+        <text encoding="base64">ICAgICAgdmFsIGZpcnN0RnVuY3Rpb25hbE9wZXJhdG9yID0gYWxsRnVuY3Rpb25hbE9wZXJhdG9ycy5oZWFkT3B0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBATnVsbGFibGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaXN0YWNrLmludGVybmFsLk51bGxhYmxlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBATnVsbGFibGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGZ1bmMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">c3ViRGFnT3BlcmF0b3JzCiAgICAgICAgLmNvbGxlY3QgeyBjYXNlIG86IFVwbVBoeXNpY2FsRnVuY0VsZW1lbnRzID0+IG8gfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1108,7 +1108,7 @@
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>assuming</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
