@@ -130,10 +130,12 @@
         <mark key="^" line="1631" column="17" />
         <mark key="." line="1631" column="17" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/SubDagOperator.java" timestamp="1536615879483">
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="26" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/SubDagOperator.java" timestamp="1536625246226">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="20" column="44" />
+        <mark key="]" line="20" column="49" />
+        <mark key="^" line="20" column="49" />
+        <mark key="." line="20" column="49" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DistinctOperator.java" timestamp="1536615763235">
         <mark key="'" line="6" column="38" />
@@ -174,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="661" column="67" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="662" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="680" column="3" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
@@ -274,100 +275,20 @@
       <jump line="29" column="83" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" />
       <jump line="874" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" />
       <jump line="189" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/SubDagOperator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;{\n&quot;
-            + &quot;  \&quot;physicalPlan\&quot; : {\n&quot;
-            + &quot;    \&quot;config\&quot; : { },\n&quot;
-            + &quot;    \&quot;id\&quot; : 5,\n&quot;
-            + &quot;    \&quot;operators\&quot; : [ {\n&quot;
-            + &quot;      \&quot;id\&quot; : 30,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SQL\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 23 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 24 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;sql\&quot; : [ \&quot;CREATE TABLE T49 AS SELECT `gen_attr_0` AS `name` FROM (SELECT `gen_attr_0` FROM (SELECT `DEPTNO` AS `gen_attr_1`, `NAME` AS `gen_attr_0` FROM `default`.`depts`) AS gen_subquery_0 WHERE (`gen_attr_1` = 0)) AS depts\&quot; ],\n&quot;
-            + &quot;      \&quot;config\&quot; : { }\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 31,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SubDag\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ 30 ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 24 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 25 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;operators\&quot; : [ {\n&quot;
-            + &quot;        \&quot;id\&quot; : 29,\n&quot;
-            + &quot;        \&quot;type\&quot; : \&quot;MAP\&quot;,\n&quot;
-            + &quot;        \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;        \&quot;dependsOn\&quot; : [ 30 ],\n&quot;
-            + &quot;        \&quot;inputs\&quot; : [ 24 ],\n&quot;
-            + &quot;        \&quot;output\&quot; : [ 25 ],\n&quot;
-            + &quot;        \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;        \&quot;function\&quot; : \&quot;dummyFunctionSerialized\&quot;\n&quot;
-            + &quot;      } ]\n&quot;
-            + &quot;    } ],\n&quot;
-            + &quot;    \&quot;datasets\&quot; : [ {\n&quot;
-            + &quot;      \&quot;id\&quot; : 23,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 23,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 24,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 24,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 25,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 25,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    } ],\n&quot;
-            + &quot;    \&quot;tables\&quot; : [ {\n&quot;
-            + &quot;      \&quot;id\&quot; : 23,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;depts\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : false,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;DEPTNO\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;NAME\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 24,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;t49\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : true,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 25,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;output_alias\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : false,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;first\&quot; : \&quot;string\&quot;,\n&quot;
-            + &quot;        \&quot;last\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    } ],\n&quot;
-            + &quot;    \&quot;packages\&quot; : [ ]\n&quot;
-            + &quot;  }\n&quot;
-            + &quot;}&quot;,</text>
+        <text encoding="base64">aC4gRXhhbXBsZXMgYXJlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">aC4gRXhhbXBsZXMgYXJlIA==</text>
       </register>
       <register name="/" type="4">
         <text>encoding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb24ucHV0KFVwbUNvbmZpZ3VyYXRpb24uUlVOVElNRV9LRVksICJweTMuNiIpOwogICAgY29uZmlndXJhdGlvbi5wdXQoVXBtQ29uZmlndXJhdGlvbi5FTkNPRElOR19LRVksICJjbG91ZHBpY2tsZSIpOwo=</text>
+        <text encoding="base64">ICAvLyBSZXByZXNlbnRzIGluZm9ybWF0aW9uIGFib3V0IHRoZSBleGVjdXRhYmxlL3ZpcnR1YWwgbWFjaGluZSB0aGF0IHRoaXMgb3BlcmF0b3Igc2hvdWxkIGJlIHJ1bgogIC8vIHdpdGguIEV4YW1wbGVzIGFyZSAicHkyLjciIGFuZCAicHkzLjYiIGFuZCAiamF2YSIuCg==</text>
       </register>
       <register name="1" type="4">
         <text>&quot;{\n&quot;
@@ -1367,7 +1288,6 @@
         <entry>encoding</entry>
       </history-search>
       <history-cmd>
-        <entry>41</entry>
         <entry>%s/INTEGER/integer/g</entry>
         <entry>%s/SMALLINT/smallint/g</entry>
         <entry>q</entry>
@@ -1386,6 +1306,7 @@
         <entry>44</entry>
         <entry>1011</entry>
         <entry>we</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
