@@ -63,7 +63,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/sql/fun/SqlCoalesceFunction.java" timestamp="1529430240139">
         <mark key="'" line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" timestamp="1536627348746">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" timestamp="1536628770486">
         <mark key="'" line="87" column="58" />
         <mark key="[" line="75" column="104" />
         <mark key="]" line="75" column="104" />
@@ -221,8 +221,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/engine/UDFTest.java" timestamp="1529530786713">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" timestamp="1536627161058">
-        <mark key="'" line="13" column="10" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" timestamp="1536628696236">
+        <mark key="'" line="13" column="17" />
         <mark key="[" line="11" column="9" />
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
@@ -360,6 +360,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" timestamp="1526333473358">
         <mark key="'" line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalElements.scala" timestamp="1536628699044">
+        <mark key="'" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/collectionOperations.scala" timestamp="1528234062064">
         <mark key="'" line="305" column="19" />
@@ -877,11 +880,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/PlannerImpl.java" timestamp="1525904045734">
         <mark key="'" line="123" column="11" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" timestamp="1536627376602">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" timestamp="1536628853230">
+        <mark key="'" line="11" column="68" />
+        <mark key="[" line="29" column="107" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="31" column="5" />
+        <mark key="^" line="31" column="5" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1536602098642">
         <mark key="'" line="465" column="6" />
@@ -894,11 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" />
-      <jump line="104" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" />
-      <jump line="53" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" />
-      <jump line="101" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
-      <jump line="73" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="124" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="92" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="100" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
@@ -979,127 +978,51 @@
       <jump line="23" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
       <jump line="74" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
       <jump line="73" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="31" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="4" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" />
-      <jump line="18" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="20" column="98" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="19" column="73" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="13" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" />
       <jump line="4" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalElements.scala" />
-      <jump line="21" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="13" column="53" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="37" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/PhysicalPlan.scala" />
       <jump line="51" column="7" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="32" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="86" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
       <jump line="87" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
       <jump line="19" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
+      <jump line="23" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="6" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" />
+      <jump line="32" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="18" column="89" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="31" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="17" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="20" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="21" column="70" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="19" column="73" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
+      <jump line="13" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" />
+      <jump line="9" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalElements.scala" />
+      <jump line="11" column="68" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgc3ViRGFnT3BlcmF0b3JzLmhlYWQK</text>
       </register>
       <register name="-" type="4">
         <text>runtime, encoding</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdGhlckNoaWxkcmVuXD4=</text>
+        <text encoding="base64">XDxjaGlsZE5vblNxbE9wZXJhdG9yc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyBSZXByZXNlbnRzIGluZm9ybWF0aW9uIGFib3V0IHRoZSBleGVjdXRhYmxlL3ZpcnR1YWwgbWFjaGluZSB0aGF0IHRoaXMgb3BlcmF0b3Igc2hvdWxkIGJlIHJ1bgogIC8vIHdpdGguIEV4YW1wbGVzIGFyZSAicHkyLjciIGFuZCAicHkzLjYiIGFuZCAiamF2YSIuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgc3ViRGFnT3BlcmF0b3JzLmhlYWQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;{\n&quot;
-            + &quot;  \&quot;physicalPlan\&quot; : {\n&quot;
-            + &quot;    \&quot;config\&quot; : { },\n&quot;
-            + &quot;    \&quot;id\&quot; : 5,\n&quot;
-            + &quot;    \&quot;operators\&quot; : [ {\n&quot;
-            + &quot;      \&quot;id\&quot; : 30,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SQL\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 23 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 24 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;sql\&quot; : [ \&quot;CREATE TABLE T49 AS SELECT `gen_attr_0` AS `name` FROM (SELECT `gen_attr_0` FROM (SELECT `DEPTNO` AS `gen_attr_1`, `NAME` AS `gen_attr_0` FROM `default`.`depts`) AS gen_subquery_0 WHERE (`gen_attr_1` = 0)) AS depts\&quot; ],\n&quot;
-            + &quot;      \&quot;config\&quot; : { }\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 31,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SubDag\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ 30 ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 24 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 25 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;operators\&quot; : [ {\n&quot;
-            + &quot;        \&quot;id\&quot; : 29,\n&quot;
-            + &quot;        \&quot;type\&quot; : \&quot;MAP\&quot;,\n&quot;
-            + &quot;        \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;        \&quot;dependsOn\&quot; : [ 30 ],\n&quot;
-            + &quot;        \&quot;inputs\&quot; : [ 24 ],\n&quot;
-            + &quot;        \&quot;output\&quot; : [ 25 ],\n&quot;
-            + &quot;        \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;        \&quot;function\&quot; : \&quot;dummyFunctionSerialized\&quot;\n&quot;
-            + &quot;      } ]\n&quot;
-            + &quot;    } ],\n&quot;
-            + &quot;    \&quot;datasets\&quot; : [ {\n&quot;
-            + &quot;      \&quot;id\&quot; : 23,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 23,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 24,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 24,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 25,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 25,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    } ],\n&quot;
-            + &quot;    \&quot;tables\&quot; : [ {\n&quot;
-            + &quot;      \&quot;id\&quot; : 23,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;depts\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : false,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;DEPTNO\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;NAME\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 24,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;t49\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : true,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 25,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;output_alias\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : false,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;first\&quot; : \&quot;string\&quot;,\n&quot;
-            + &quot;        \&quot;last\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    } ],\n&quot;
-            + &quot;    \&quot;packages\&quot; : [ ]\n&quot;
-            + &quot;  }\n&quot;
-            + &quot;}&quot;,</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
         <text>&quot;{\n&quot;
@@ -1183,8 +1106,7 @@
             + &quot;    } ],\n&quot;
             + &quot;    \&quot;packages\&quot; : [ ]\n&quot;
             + &quot;  }\n&quot;
-            + &quot;}&quot;,
-        getPhysicalPlan()</text>
+            + &quot;}&quot;,</text>
       </register>
       <register name="6" type="4">
         <text>&quot;{\n&quot;
@@ -1272,6 +1194,91 @@
         getPhysicalPlan()</text>
       </register>
       <register name="7" type="4">
+        <text>&quot;{\n&quot;
+            + &quot;  \&quot;physicalPlan\&quot; : {\n&quot;
+            + &quot;    \&quot;config\&quot; : { },\n&quot;
+            + &quot;    \&quot;id\&quot; : 5,\n&quot;
+            + &quot;    \&quot;operators\&quot; : [ {\n&quot;
+            + &quot;      \&quot;id\&quot; : 30,\n&quot;
+            + &quot;      \&quot;type\&quot; : \&quot;SQL\&quot;,\n&quot;
+            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
+            + &quot;      \&quot;dependsOn\&quot; : [ ],\n&quot;
+            + &quot;      \&quot;inputs\&quot; : [ 23 ],\n&quot;
+            + &quot;      \&quot;output\&quot; : [ 24 ],\n&quot;
+            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
+            + &quot;      \&quot;sql\&quot; : [ \&quot;CREATE TABLE T49 AS SELECT `gen_attr_0` AS `name` FROM (SELECT `gen_attr_0` FROM (SELECT `DEPTNO` AS `gen_attr_1`, `NAME` AS `gen_attr_0` FROM `default`.`depts`) AS gen_subquery_0 WHERE (`gen_attr_1` = 0)) AS depts\&quot; ],\n&quot;
+            + &quot;      \&quot;config\&quot; : { }\n&quot;
+            + &quot;    }, {\n&quot;
+            + &quot;      \&quot;id\&quot; : 31,\n&quot;
+            + &quot;      \&quot;type\&quot; : \&quot;SubDag\&quot;,\n&quot;
+            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
+            + &quot;      \&quot;dependsOn\&quot; : [ 30 ],\n&quot;
+            + &quot;      \&quot;inputs\&quot; : [ 24 ],\n&quot;
+            + &quot;      \&quot;output\&quot; : [ 25 ],\n&quot;
+            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
+            + &quot;      \&quot;operators\&quot; : [ {\n&quot;
+            + &quot;        \&quot;id\&quot; : 29,\n&quot;
+            + &quot;        \&quot;type\&quot; : \&quot;MAP\&quot;,\n&quot;
+            + &quot;        \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
+            + &quot;        \&quot;dependsOn\&quot; : [ 30 ],\n&quot;
+            + &quot;        \&quot;inputs\&quot; : [ 24 ],\n&quot;
+            + &quot;        \&quot;output\&quot; : [ 25 ],\n&quot;
+            + &quot;        \&quot;traceData\&quot; : { },\n&quot;
+            + &quot;        \&quot;function\&quot; : \&quot;dummyFunctionSerialized\&quot;\n&quot;
+            + &quot;      } ]\n&quot;
+            + &quot;    } ],\n&quot;
+            + &quot;    \&quot;datasets\&quot; : [ {\n&quot;
+            + &quot;      \&quot;id\&quot; : 23,\n&quot;
+            + &quot;      \&quot;tableId\&quot; : 23,\n&quot;
+            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
+            + &quot;    }, {\n&quot;
+            + &quot;      \&quot;id\&quot; : 24,\n&quot;
+            + &quot;      \&quot;tableId\&quot; : 24,\n&quot;
+            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
+            + &quot;    }, {\n&quot;
+            + &quot;      \&quot;id\&quot; : 25,\n&quot;
+            + &quot;      \&quot;tableId\&quot; : 25,\n&quot;
+            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
+            + &quot;    } ],\n&quot;
+            + &quot;    \&quot;tables\&quot; : [ {\n&quot;
+            + &quot;      \&quot;id\&quot; : 23,\n&quot;
+            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;depts\&quot; ],\n&quot;
+            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
+            + &quot;      \&quot;temporary\&quot; : false,\n&quot;
+            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
+            + &quot;      \&quot;schema\&quot; : {\n&quot;
+            + &quot;        \&quot;DEPTNO\&quot; : \&quot;int\&quot;,\n&quot;
+            + &quot;        \&quot;NAME\&quot; : \&quot;string\&quot;\n&quot;
+            + &quot;      },\n&quot;
+            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
+            + &quot;    }, {\n&quot;
+            + &quot;      \&quot;id\&quot; : 24,\n&quot;
+            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;t49\&quot; ],\n&quot;
+            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
+            + &quot;      \&quot;temporary\&quot; : true,\n&quot;
+            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
+            + &quot;      \&quot;schema\&quot; : {\n&quot;
+            + &quot;        \&quot;name\&quot; : \&quot;string\&quot;\n&quot;
+            + &quot;      },\n&quot;
+            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
+            + &quot;    }, {\n&quot;
+            + &quot;      \&quot;id\&quot; : 25,\n&quot;
+            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;output_alias\&quot; ],\n&quot;
+            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
+            + &quot;      \&quot;temporary\&quot; : false,\n&quot;
+            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
+            + &quot;      \&quot;schema\&quot; : {\n&quot;
+            + &quot;        \&quot;first\&quot; : \&quot;string\&quot;,\n&quot;
+            + &quot;        \&quot;last\&quot; : \&quot;string\&quot;\n&quot;
+            + &quot;      },\n&quot;
+            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
+            + &quot;    } ],\n&quot;
+            + &quot;    \&quot;packages\&quot; : [ ]\n&quot;
+            + &quot;  }\n&quot;
+            + &quot;}&quot;,
+        getPhysicalPlan()</text>
+      </register>
+      <register name="8" type="4">
         <text>&quot;{\n&quot;
             + &quot;  \&quot;physicalPlan\&quot; : {\n&quot;
             + &quot;    \&quot;config\&quot; : { },\n&quot;
@@ -1379,7 +1386,7 @@
             + &quot;  }\n&quot;
             + &quot;}&quot;,</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>&quot;{\n&quot;
             + &quot;  \&quot;physicalPlan\&quot; : {\n&quot;
             + &quot;    \&quot;config\&quot; : { },\n&quot;
@@ -1503,248 +1510,14 @@
             + &quot;  }\n&quot;
             + &quot;}&quot;,</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;{\n&quot;
-            + &quot;  \&quot;physicalPlan\&quot; : {\n&quot;
-            + &quot;    \&quot;config\&quot; : { },\n&quot;
-            + &quot;    \&quot;id\&quot; : 2,\n&quot;
-            + &quot;    \&quot;operators\&quot; : [ {\n&quot;
-            + &quot;      \&quot;id\&quot; : 11,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SQL\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ 15 ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 7 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 8 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;sql\&quot; : [ \&quot;CREATE TABLE T28 AS SELECT `gen_attr_0` AS `dept_no`, `gen_attr_1` AS `last_name` FROM (SELECT `gen_attr_0`, `gen_attr_1` FROM (SELECT `Dept_No` AS `gen_attr_4`, `Last_Name` AS `gen_attr_5` FROM `sales`.`T12`) AS gen_subquery_0) AS T13\&quot; ],\n&quot;
-            + &quot;      \&quot;config\&quot; : { }\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 13,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SQL\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ 16 ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 9 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 10 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;sql\&quot; : [ \&quot;CREATE TABLE T30 AS SELECT `gen_attr_0` AS `dept_no`, `gen_attr_1` AS `first_name` FROM (SELECT `gen_attr_0`, `gen_attr_1` FROM (SELECT `Dept_No` AS `gen_attr_4`, `First_Name` AS `gen_attr_5` FROM `sales`.`T14`) AS gen_subquery_0) AS T15\&quot; ],\n&quot;
-            + &quot;      \&quot;config\&quot; : { }\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 14,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SQL\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ 18 ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 11 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 13 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;sql\&quot; : [ \&quot;CREATE TABLE IF NOT EXISTS output_table_foo (dept_no int,last_name string,dept_no int,first_name string) STORED AS ORC TBLPROPERTIES('RETENTION'='30') \&quot;, \&quot;INSERT OVERWRITE TABLE output_table_foo SELECT * FROM (SELECT `gen_attr_0` AS `dept_no`, `gen_attr_1` AS `last_name`, `gen_attr_0` AS `dept_no`, `gen_attr_2` AS `first_name` FROM (SELECT `gen_attr_0`, `gen_attr_1`, `gen_attr_0`, `gen_attr_2` FROM (SELECT `gen_attr_0` AS `gen_attr_0`, `gen_attr_1` AS `gen_attr_1`, `gen_attr_0` AS `gen_attr_0`, `gen_attr_2` AS `gen_attr_2` FROM `sales`.`T20`) AS gen_subquery_0) AS T21)\&quot; ],\n&quot;
-            + &quot;      \&quot;config\&quot; : { }\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 15,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SubDag\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 6 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 7 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;operators\&quot; : [ {\n&quot;
-            + &quot;        \&quot;id\&quot; : 10,\n&quot;
-            + &quot;        \&quot;type\&quot; : \&quot;SELECT\&quot;,\n&quot;
-            + &quot;        \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;        \&quot;dependsOn\&quot; : [ ],\n&quot;
-            + &quot;        \&quot;inputs\&quot; : [ 6 ],\n&quot;
-            + &quot;        \&quot;output\&quot; : [ 7 ],\n&quot;
-            + &quot;        \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;        \&quot;cols\&quot; : [ \&quot;Dept_No\&quot;, \&quot;Last_Name\&quot; ],\n&quot;
-            + &quot;        \&quot;columns\&quot; : [ ]\n&quot;
-            + &quot;      } ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 16,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SubDag\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 6 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 9 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;operators\&quot; : [ {\n&quot;
-            + &quot;        \&quot;id\&quot; : 12,\n&quot;
-            + &quot;        \&quot;type\&quot; : \&quot;SELECT\&quot;,\n&quot;
-            + &quot;        \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;        \&quot;dependsOn\&quot; : [ ],\n&quot;
-            + &quot;        \&quot;inputs\&quot; : [ 6 ],\n&quot;
-            + &quot;        \&quot;output\&quot; : [ 9 ],\n&quot;
-            + &quot;        \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;        \&quot;cols\&quot; : [ \&quot;Dept_No\&quot;, \&quot;First_Name\&quot; ],\n&quot;
-            + &quot;        \&quot;columns\&quot; : [ ]\n&quot;
-            + &quot;      } ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 18,\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;SubDag\&quot;,\n&quot;
-            + &quot;      \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;      \&quot;dependsOn\&quot; : [ 11, 13 ],\n&quot;
-            + &quot;      \&quot;inputs\&quot; : [ 8, 10 ],\n&quot;
-            + &quot;      \&quot;output\&quot; : [ 11 ],\n&quot;
-            + &quot;      \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;      \&quot;operators\&quot; : [ {\n&quot;
-            + &quot;        \&quot;id\&quot; : 8,\n&quot;
-            + &quot;        \&quot;type\&quot; : \&quot;SORT\&quot;,\n&quot;
-            + &quot;        \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;        \&quot;dependsOn\&quot; : [ 9 ],\n&quot;
-            + &quot;        \&quot;inputs\&quot; : [ 12 ],\n&quot;
-            + &quot;        \&quot;output\&quot; : [ 11 ],\n&quot;
-            + &quot;        \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;        \&quot;orderby\&quot; : [ \&quot;dept_no\&quot; ],\n&quot;
-            + &quot;        \&quot;asc\&quot; : [ 0 ]\n&quot;
-            + &quot;      }, {\n&quot;
-            + &quot;        \&quot;id\&quot; : 9,\n&quot;
-            + &quot;        \&quot;type\&quot; : \&quot;JOIN\&quot;,\n&quot;
-            + &quot;        \&quot;engine\&quot; : \&quot;spark\&quot;,\n&quot;
-            + &quot;        \&quot;dependsOn\&quot; : [ 11, 13 ],\n&quot;
-            + &quot;        \&quot;inputs\&quot; : [ 8, 10 ],\n&quot;
-            + &quot;        \&quot;output\&quot; : [ 12 ],\n&quot;
-            + &quot;        \&quot;traceData\&quot; : { },\n&quot;
-            + &quot;        \&quot;onLeft\&quot; : [ \&quot;dept_no\&quot; ],\n&quot;
-            + &quot;        \&quot;onRight\&quot; : [ \&quot;dept_no\&quot; ],\n&quot;
-            + &quot;        \&quot;jointype\&quot; : \&quot;inner\&quot;\n&quot;
-            + &quot;      } ]\n&quot;
-            + &quot;    } ],\n&quot;
-            + &quot;    \&quot;datasets\&quot; : [ {\n&quot;
-            + &quot;      \&quot;id\&quot; : 6,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 6,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 7,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 7,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 8,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 8,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 9,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 9,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 10,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 10,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 11,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 11,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 12,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 12,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 13,\n&quot;
-            + &quot;      \&quot;tableId\&quot; : 13,\n&quot;
-            + &quot;      \&quot;partitions\&quot; : [ ]\n&quot;
-            + &quot;    } ],\n&quot;
-            + &quot;    \&quot;tables\&quot; : [ {\n&quot;
-            + &quot;      \&quot;id\&quot; : 8,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;t28\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : true,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;dept_no\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;last_name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 11,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;t32\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : true,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;dept_no\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;last_name\&quot; : \&quot;string\&quot;,\n&quot;
-            + &quot;        \&quot;first_name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 12,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;t31\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : true,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;dept_no\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;last_name\&quot; : \&quot;string\&quot;,\n&quot;
-            + &quot;        \&quot;first_name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 9,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;t29\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : true,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;Dept_No\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;First_Name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 6,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;foo_bar\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : false,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;Dept_No\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;First_Name\&quot; : \&quot;string\&quot;,\n&quot;
-            + &quot;        \&quot;Last_Name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 13,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;output_table_foo\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : false,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;dept_no\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;last_name\&quot; : \&quot;string\&quot;,\n&quot;
-            + &quot;        \&quot;first_name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 10,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;t30\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : true,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;dept_no\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;first_name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    }, {\n&quot;
-            + &quot;      \&quot;id\&quot; : 7,\n&quot;
-            + &quot;      \&quot;name\&quot; : [ \&quot;sales\&quot;, \&quot;t27\&quot; ],\n&quot;
-            + &quot;      \&quot;type\&quot; : \&quot;HIVE\&quot;,\n&quot;
-            + &quot;      \&quot;temporary\&quot; : true,\n&quot;
-            + &quot;      \&quot;materalized\&quot; : true,\n&quot;
-            + &quot;      \&quot;schema\&quot; : {\n&quot;
-            + &quot;        \&quot;Dept_No\&quot; : \&quot;int\&quot;,\n&quot;
-            + &quot;        \&quot;Last_Name\&quot; : \&quot;string\&quot;\n&quot;
-            + &quot;      },\n&quot;
-            + &quot;      \&quot;partitionColumns\&quot; : [ ]\n&quot;
-            + &quot;    } ],\n&quot;
-            + &quot;    \&quot;packages\&quot; : [ ]\n&quot;
-            + &quot;  }\n&quot;
-            + &quot;}&quot;,</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdGhlckNoaWxkcmVuXD4=</last-search>
+      <last-search encoding="base64">XDxjaGlsZE5vblNxbE9wZXJhdG9yc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdGhlckNoaWxkcmVuXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGlsZE5vblNxbE9wZXJhdG9yc1w+</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>assuming</last-substitute>
       <last-dir>1</last-dir>
@@ -1752,10 +1525,6 @@
     </search>
     <history>
       <history-search>
-        <entry>profiles</entry>
-        <entry>scheduler</entry>
-        <entry encoding="base64">XDxnZXRQbGFuSGFuZGxlclw+</entry>
-        <entry encoding="base64">XDxnZXRDb25maWd1cmVkUGxhbkRpc3BhdGNoZXJcPg==</entry>
         <entry>static</entry>
         <entry>mode</entry>
         <entry>pluginManagement</entry>
@@ -1772,6 +1541,10 @@
         <entry encoding="base64">XDxjYW5kaWRhdGVDaGlsZHJlblw+</entry>
         <entry encoding="base64">XDxjaGlsZFN1YkRhZ09wZXJhdG9yc1w+</entry>
         <entry encoding="base64">XDxvdGhlckNoaWxkcmVuXD4=</entry>
+        <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
+        <entry encoding="base64">XDxzdWJEYWdPcGVyYXRvcnNcPg==</entry>
+        <entry encoding="base64">XDxteU9wQ291bnRcPg==</entry>
+        <entry encoding="base64">XDxjaGlsZE5vblNxbE9wZXJhdG9yc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/INTEGER/integer/g</entry>
