@@ -602,6 +602,9 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/bumblebee/bumblebee-application-framework/0.122/bumblebee-application-framework-0.122-sources.jar!/com/facebook/bumblebee/applicationframework/core/AsyncJobFileDistributor.java" timestamp="1531435471995">
         <mark key="'" line="114" column="39" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1538088901393">
+        <mark key="'" line="211" column="11" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/partitionschedule/TimePredicateShuttle.java" timestamp="1533234012498">
         <mark key="'" line="16" column="42" />
       </file>
@@ -947,8 +950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" />
-      <jump line="24" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" />
       <jump line="49" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" />
@@ -1047,6 +1048,8 @@
       <jump line="46" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/NonSqlDataFrameTest.java" />
       <jump line="35" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/NonSqlDataFrameTest.java" />
       <jump line="245" column="3" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
+      <jump line="249" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="211" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1059,7 +1062,7 @@
         <text>outputDataset</text>
       </register>
       <register name="/" type="4">
-        <text>\cpartition</text>
+        <text>getythonContext</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhbCBkaXN0aW5jdFJ1bnRpbWVzID0gYWxsRnVuY3Rpb25hbE9wZXJhdG9ycy5tYXAoXy5ydW50aW1lKS5kaXN0aW5jdAo=</text>
@@ -1102,19 +1105,16 @@
       </register>
     </registers>
     <search>
-      <last-search>\cpartition</last-search>
+      <last-search>getythonContext</last-search>
       <last-offset />
-      <last-pattern>\cpartition</last-pattern>
+      <last-pattern>getythonContext</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>assuming</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwaHlzaWNhbFN1YkRhZ01hcFw+</entry>
-        <entry>children</entry>
-        <entry encoding="base64">XDxsb2dpY2FsUGxhblw+</entry>
         <entry>Upm</entry>
         <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry encoding="base64">XDxjYW5kaWRhdGVDaGlsZHJlblw+</entry>
@@ -1132,6 +1132,9 @@
         <entry>dataFrameMap(</entry>
         <entry>repartition\c</entry>
         <entry>\cpartition</entry>
+        <entry>sql(</entry>
+        <entry>asdfads</entry>
+        <entry>getythonContext</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SMALLINT/smallint/g</entry>
