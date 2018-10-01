@@ -6,8 +6,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/JdbcAdapterTest.java" timestamp="1526317980877">
         <mark key="'" line="91" column="20" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" timestamp="1531767056283">
-        <mark key="'" line="371" column="52" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" timestamp="1538437164876">
+        <mark key="'" line="372" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.class" timestamp="1527705126969">
         <mark key="'" line="52" column="32" />
@@ -87,6 +87,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Sort.java" timestamp="1531421155608">
         <mark key="'" line="62" column="13" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" timestamp="1538437746509">
+        <mark key="'" line="506" column="79" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1538172475041">
         <mark key="'" line="53" column="32" />
@@ -391,8 +394,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/hadoopclient/src/main/java/org/apache/hadoop/mapreduce/lib/input/CombineFileInputFormat.java" timestamp="1527705283938">
         <mark key="'" line="205" column="29" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1538431033011">
-        <mark key="'" line="507" column="10" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1538437780680">
+        <mark key="'" line="517" column="54" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/CalcitePrepareImpl.java" timestamp="1525903893236">
         <mark key="'" line="525" column="12" />
@@ -887,13 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="98" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="41" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="4" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" />
-      <jump line="19" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="564" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" />
-      <jump line="65" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
-      <jump line="24" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="726" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" />
       <jump line="12" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/impl/UpmEngineImpls.java" />
       <jump line="37" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
@@ -972,7 +968,6 @@
       <jump line="89" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="60" column="41" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/internal/Logging.scala" />
       <jump line="67" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
-      <jump line="507" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="161" column="13" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="32" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="38" column="91" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
@@ -987,6 +982,14 @@
       <jump line="42" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="69" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="80" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="568" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="572" column="77" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="371" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
+      <jump line="372" column="38" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
+      <jump line="507" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="1215" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="506" column="79" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="517" column="54" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -999,7 +1002,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VEYWVtb25cPg==</text>
+        <text encoding="base64">XDxzcGFya0ZpbGVzRGlyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhbCBkaXN0aW5jdFJ1bnRpbWVzID0gYWxsRnVuY3Rpb25hbE9wZXJhdG9ycy5tYXAoXy5ydW50aW1lKS5kaXN0aW5jdAo=</text>
@@ -1041,9 +1044,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VEYWVtb25cPg==</last-search>
+      <last-search encoding="base64">XDxzcGFya0ZpbGVzRGlyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VEYWVtb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzcGFya0ZpbGVzRGlyXD4=</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>assuming</last-substitute>
       <last-dir>1</last-dir>
@@ -1051,9 +1054,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MAP</entry>
-        <entry encoding="base64">XDxhbGxGdW5jdGlvbmFsT3BlcmF0b3JzXD4=</entry>
-        <entry>dopple\c</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
         <entry>presto-main</entry>
         <entry>map(</entry>
@@ -1071,6 +1071,9 @@
         <entry>Resource</entry>
         <entry>daemon</entry>
         <entry encoding="base64">XDx1c2VEYWVtb25cPg==</entry>
+        <entry>extrac\c</entry>
+        <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
+        <entry encoding="base64">XDxzcGFya0ZpbGVzRGlyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SMALLINT/smallint/g</entry>
