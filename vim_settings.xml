@@ -193,12 +193,6 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/test/scala/org/apache/spark/sql/sources/BucketedReadSuite.scala" timestamp="1528924036300">
         <mark key="'" line="44" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalFilter.scala" timestamp="1536706340761">
-        <mark key="'" line="4" column="15" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/ReferenceMapper.scala" timestamp="1536608655630">
         <mark key="'" line="17" column="6" />
       </file>
@@ -619,8 +613,8 @@
       <file name="$USER_HOME$/fb-spark/mllib/src/main/scala/org/apache/spark/ml/tree/treeModels.scala" timestamp="1528935892471">
         <mark key="'" line="429" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1530141571687">
-        <mark key="'" line="166" column="37" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1538434455129">
+        <mark key="'" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/upm-hive/src/main/java/com/facebook/upm/hive/schema/HiveTable.java" timestamp="1532470794432">
         <mark key="'" line="59" column="45" />
@@ -779,7 +773,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalSort.java" timestamp="1531421141958">
         <mark key="'" line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/fb-spark/python/pyspark/worker.py" timestamp="1529472170738">
+      <file name="$USER_HOME$/fb-spark/python/pyspark/worker.py" timestamp="1538432239291">
         <mark key="'" line="45" column="4" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1536607026209">
@@ -893,20 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Option.scala" />
-      <jump line="628" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
-      <jump line="60" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmAnalyzerRules.scala" />
-      <jump line="30" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmAnalyzerRules.scala" />
-      <jump line="51" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmAnalyzerRules.scala" />
-      <jump line="52" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmAnalyzerRules.scala" />
-      <jump line="90" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="4" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalLimit.scala" />
-      <jump line="72" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="20" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="23" column="70" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="25" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="26" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
-      <jump line="21" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="22" column="98" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="41" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalSubDagRule.scala" />
       <jump line="4" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalSubDag.scala" />
@@ -993,6 +973,20 @@
       <jump line="60" column="41" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/internal/Logging.scala" />
       <jump line="67" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="507" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="161" column="13" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="32" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="38" column="91" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="39" column="77" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="44" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="45" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="46" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="47" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="76" column="50" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="82" column="30" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="63" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="42" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="69" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="80" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1005,7 +999,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>Resource</text>
+        <text encoding="base64">XDx1c2VEYWVtb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhbCBkaXN0aW5jdFJ1bnRpbWVzID0gYWxsRnVuY3Rpb25hbE9wZXJhdG9ycy5tYXAoXy5ydW50aW1lKS5kaXN0aW5jdAo=</text>
@@ -1047,9 +1041,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Resource</last-search>
+      <last-search encoding="base64">XDx1c2VEYWVtb25cPg==</last-search>
       <last-offset />
-      <last-pattern>Resource</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VEYWVtb25cPg==</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>assuming</last-substitute>
       <last-dir>1</last-dir>
@@ -1057,8 +1051,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJEYWdPcGVyYXRvcnNcPg==</entry>
-        <entry encoding="base64">XDxjaGlsZFN1YkRhZ09wZXJhdG9yc1w+</entry>
         <entry>MAP</entry>
         <entry encoding="base64">XDxhbGxGdW5jdGlvbmFsT3BlcmF0b3JzXD4=</entry>
         <entry>dopple\c</entry>
@@ -1077,6 +1069,8 @@
         <entry encoding="base64">XDxiYXRjaFJ1bGVzXD4=</entry>
         <entry>Unzipping</entry>
         <entry>Resource</entry>
+        <entry>daemon</entry>
+        <entry encoding="base64">XDx1c2VEYWVtb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SMALLINT/smallint/g</entry>
