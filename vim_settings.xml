@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/test/JdbcAdapterTest.java" timestamp="1526317980877">
         <mark key="'" line="91" column="20" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" timestamp="1538439358923">
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" timestamp="1538442790034">
         <mark key="'" line="371" column="32" />
         <mark key="[" line="371" column="32" />
-        <mark key="]" line="371" column="47" />
-        <mark key="." line="371" column="47" />
-        <mark key="^" line="371" column="47" />
+        <mark key="]" line="371" column="45" />
+        <mark key="." line="371" column="45" />
+        <mark key="^" line="371" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2018-02-05-21-43-14/spark-hive_2.11-2.0.2-SNAPSHOT_2018-02-05-21-43-14.jar!/org/apache/hadoop/hive/ql/io/BucketizedSparkInputFormat.class" timestamp="1527705126969">
         <mark key="'" line="52" column="32" />
@@ -1004,10 +1004,10 @@
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>createTempDir</text>
+        <text>createDirectory</text>
       </register>
       <register name="-" type="4">
-        <text>createTempDir</text>
+        <text>createDirectory</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGFya0ZpbGVzRGlyXD4=</text>
