@@ -102,6 +102,9 @@
         <mark key="." line="308" column="0" />
         <mark key="^" line="308" column="12" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" timestamp="1538591238303">
+        <mark key="'" line="17" column="20" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1538172475041">
         <mark key="'" line="53" column="32" />
         <mark key="[" line="107" column="51" />
@@ -241,7 +244,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/Table.java" timestamp="1526323429345">
         <mark key="'" line="79" column="6" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PhysicalPlanOptimizer.scala" timestamp="1538590602576">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PhysicalPlanOptimizer.scala" timestamp="1538591142575">
         <mark key="'" line="10" column="88" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/rules/RuleExecutor.scala" timestamp="1528935332809">
@@ -905,8 +908,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="12" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalMap.scala" />
       <jump line="12" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalFuncElements.scala" />
       <jump line="9" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalElements.scala" />
       <jump line="9" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalNonSql.scala" />
@@ -995,7 +996,6 @@
       <jump line="818" column="31" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="77" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
       <jump line="371" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
-      <jump line="10" column="88" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PhysicalPlanOptimizer.scala" />
       <jump line="357" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="101" column="2" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="67" column="7" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
@@ -1005,6 +1005,9 @@
       <jump line="1536" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="369" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="107" column="46" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="26" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PhysicalPlanOptimizer.scala" />
+      <jump line="10" column="88" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PhysicalPlanOptimizer.scala" />
+      <jump line="17" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
