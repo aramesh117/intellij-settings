@@ -95,12 +95,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Sort.java" timestamp="1531421155608">
         <mark key="'" line="62" column="13" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" timestamp="1538528141131">
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" timestamp="1538530205761">
         <mark key="'" line="67" column="7" />
-        <mark key="[" line="319" column="60" />
-        <mark key="]" line="319" column="83" />
-        <mark key="." line="319" column="83" />
-        <mark key="^" line="319" column="83" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="308" column="71" />
+        <mark key="." line="308" column="0" />
+        <mark key="^" line="319" column="12" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1538172475041">
         <mark key="'" line="53" column="32" />
@@ -353,8 +353,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/cassandra/src/main/java/org/apache/calcite/adapter/cassandra/CassandraToEnumerableConverter.java" timestamp="1526329998241">
         <mark key="'" line="53" column="15" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1536359641532">
-        <mark key="'" line="1024" column="11" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1538530151456">
+        <mark key="'" line="1536" column="16" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/AbstractRelOptPlanner.java" timestamp="1525911061906">
         <mark key="'" line="243" column="20" />
@@ -905,9 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalFilter.scala" />
-      <jump line="15" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalFlatMap.scala" />
-      <jump line="79" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="5" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalMap.scala" />
       <jump line="85" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="81" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
@@ -998,23 +995,26 @@
       <jump line="454" column="18" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/worker/Worker.scala" />
       <jump line="771" column="26" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="818" column="31" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="38" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
       <jump line="77" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
       <jump line="371" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
       <jump line="10" column="88" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PhysicalPlanOptimizer.scala" />
       <jump line="357" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="101" column="2" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="67" column="7" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="1534" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="38" column="17" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
+      <jump line="37" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
+      <jump line="1536" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ0luZm8ocyJBdHRlbXB0aW5nIHRvIGNyZWF0ZSBkaXJlY3Rvcnk6ICR7ZGlyLmdldEFic29sdXRlUGF0aH0iKQo=</text>
+        <text encoding="base64">ICAgIGxvZ0Vycm9yKHMiQXR0ZW1wdGluZyB0byBjcmVhdGUgZGlyZWN0b3J5OiAke2Rpci5nZXRBYnNvbHV0ZVBhdGh9IikK</text>
       </register>
       <register name="-" type="4">
-        <text>createTempDir</text>
+        <text>logInfo</text>
       </register>
       <register name="/" type="4">
         <text>Creating</text>
@@ -1023,35 +1023,34 @@
         <text encoding="base64">ICAgIGxvZ0luZm8ocyJBdHRlbXB0aW5nIHRvIGNyZWF0ZSBkaXJlY3Rvcnk6ICR7ZGlyLmdldEFic29sdXRlUGF0aH0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ0luZm8ocyJBdHRlbXB0aW5nIHRvIGNyZWF0ZSBkaXJlY3Rvcnk6ICR7fSIpCg==</text>
+        <text encoding="base64">ICAgIGxvZ0Vycm9yKHMiQXR0ZW1wdGluZyB0byBjcmVhdGUgZGlyZWN0b3J5OiAke2Rpci5nZXRBYnNvbHV0ZVBhdGh9IikK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Z2V0UGh5c2ljYWxQbGFuQXNTdHJpbmcoCiAgICAgIERhdGFGcmFtZTxU</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGxvZ0luZm8ocyJBdHRlbXB0aW5nIHRvIGNyZWF0ZSBkaXJlY3Rvcnk6ICR7ZGlyLmdldEFic29sdXRlUGF0aH0iKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGxvZ0luZm8ocyJBdHRlbXB0aW5nIHRvIGNyZWF0ZSBkaXJlY3Rvcnk6ICR7fSIpCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Z2V0UGh5c2ljYWxQbGFuQXNTdHJpbmcoCiAgICAgIERhdGFGcmFtZTxU</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJ1bnRpbWUsCiAgICBlbmNvZGluZwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBydW50aW1lLAogIGVuY29kaW5nCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>override val runtime: String,
-    override val encoding: String</text>
-      </register>
-      <register name="6" type="4">
-        <text>runtime,
-    encoding</text>
       </register>
       <register name="7" type="4">
         <text>override val runtime: String,
-                          override val encoding: String</text>
+    override val encoding: String</text>
       </register>
       <register name="8" type="4">
         <text>runtime,
     encoding</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgdmFsIHJ1bnRpbWU6IFN0cmluZywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgdmFsIGVuY29kaW5nOiBTdHJpbmcpCg==</text>
+      <register name="9" type="4">
+        <text>override val runtime: String,
+                          override val encoding: String</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
