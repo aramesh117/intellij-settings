@@ -95,12 +95,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Sort.java" timestamp="1531421155608">
         <mark key="'" line="62" column="13" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" timestamp="1538589293143">
-        <mark key="'" line="369" column="6" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" timestamp="1538590592353">
+        <mark key="'" line="107" column="46" />
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="71" />
         <mark key="." line="308" column="0" />
-        <mark key="^" line="319" column="12" />
+        <mark key="^" line="308" column="12" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1538172475041">
         <mark key="'" line="53" column="32" />
@@ -568,11 +568,11 @@
         <mark key="'" line="114" column="39" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1538172655809">
-        <mark key="'" line="256" column="17" />
-        <mark key="[" line="277" column="25" />
-        <mark key="]" line="277" column="25" />
-        <mark key="." line="277" column="25" />
-        <mark key="^" line="207" column="0" />
+        <mark key="'" line="260" column="17" />
+        <mark key="[" line="281" column="25" />
+        <mark key="]" line="281" column="25" />
+        <mark key="." line="281" column="25" />
+        <mark key="^" line="211" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/partitionschedule/TimePredicateShuttle.java" timestamp="1533234012498">
         <mark key="'" line="16" column="42" />
@@ -905,7 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="81" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="12" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalMap.scala" />
       <jump line="12" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalFuncElements.scala" />
@@ -1005,6 +1004,7 @@
       <jump line="37" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkFiles.scala" />
       <jump line="1536" column="16" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="369" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="107" column="46" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
