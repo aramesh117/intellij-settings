@@ -253,12 +253,12 @@
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" timestamp="1539275139349">
         <mark key="'" line="506" column="6" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1539204195847">
-        <mark key="'" line="72" column="177" />
-        <mark key="[" line="73" column="8" />
-        <mark key="]" line="73" column="8" />
-        <mark key="^" line="73" column="86" />
-        <mark key="." line="73" column="8" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1539292147469">
+        <mark key="'" line="32" column="111" />
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="95" column="13" />
+        <mark key="." line="95" column="13" />
+        <mark key="^" line="95" column="13" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/resources/api/testDataFrameSubDag.json" timestamp="1527022230604">
         <mark key="'" line="44" column="19" />
@@ -375,8 +375,8 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" timestamp="1539283433053">
-        <mark key="'" line="72" column="22" />
+      <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" timestamp="1539291387734">
+        <mark key="'" line="542" column="0" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/execution/SparkPlanTest.scala" timestamp="1538679218326">
         <mark key="'" line="241" column="19" />
@@ -964,6 +964,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelOptAbstractTable.java" timestamp="1532471466314">
         <mark key="'" line="72" column="11" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/catalog/interface.scala" timestamp="1539291316500">
+        <mark key="'" line="61" column="6" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/jdbc/JdbcConvention.java" timestamp="1526319076540">
         <mark key="'" line="50" column="15" />
       </file>
@@ -1236,19 +1239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="196" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
-      <jump line="19" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PartitionFilterBuilder.scala" />
-      <jump line="15" column="46" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PartitionFilterBuilder.scala" />
-      <jump line="4" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/SpecMacroHelper.java" />
-      <jump line="7" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/SpecMacroHelper.java" />
-      <jump line="9" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/expression/ExpressionFactory.scala" />
-      <jump line="29" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PartitionFilterBuilder.scala" />
-      <jump line="20" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PartitionFilterBuilder.scala" />
-      <jump line="41" column="3" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="24" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PartitionFilterBuilder.scala" />
-      <jump line="25" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PartitionFilterBuilder.scala" />
-      <jump line="103" column="45" filename="$MAVEN_REPOSITORY$/com/facebook/dataflow/common-antlr4/1.0-SNAPSHOT/common-antlr4-1.0-20180822.171038-2.jar!/com/facebook/dataflow/common/antlr4/DatasetSpecParser.class" />
       <jump line="55" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="21" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PartitionFilterBuilder.scala" />
       <jump line="62" column="19" filename="$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.7/antlr4-runtime-4.7-sources.jar!/org/antlr/v4/runtime/CharStreams.java" />
@@ -1336,16 +1326,29 @@
       <jump line="513" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="65" column="24" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
       <jump line="72" column="22" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="90" column="29" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="56" column="30" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="61" column="6" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/catalog/interface.scala" />
+      <jump line="495" column="10" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="515" column="22" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="14" column="25" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="542" column="0" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="47" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="22" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="81" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="40" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="77" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="32" column="111" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERhdGFGcmFtZQo=</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>delta</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbWV0ZXJzXD4=</text>
@@ -1354,31 +1357,31 @@
         <text encoding="base64">IjxEQVRBU0VUX1NQRUNfU1RBUlQ6REFURUlEKyVzZDpEQVRBU0VUX1NQRUNfRU5EPiI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERhdGFGcmFtZQo=</text>
+        <text encoding="base64">cHJpdmEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN1bWVkRGF0YXNldCA9IG5ldyBVcG1EYXRhc2V0KAogICAgICAgICJmY3RfcG9zdF9wcm9kdWN0aW9uIiwKICAgICAgICBJbW11dGFibGVNYXAub2YoCiAgICAgICAgICAgICJkcyIsCiAgICAgICAgICAgIG5ldyBJbk9wZXJhdGlvbihJbW11dGFibGVMaXN0Lm9mKCI8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRC0xZDpEQVRBU0VUX1NQRUNfRU5EPiIpKQogICAgICAgICksCiAgICAgICAgImRhdGFzZXQiLAogICAgICAgIEltbXV0YWJsZU1hcC5vZigpCiAgICApOwogICAgcHJvZHVjZWREYXRhc2V0ID0gbmV3IFVwbURhdGFzZXQoCiAgICAgICAgInRlc3RfdGFibGUiLAogICAgICAgIEltbXV0YWJsZU1hcC5vZigKICAgICAgICAgICAgImRzIiwKICAgICAgICAgICAgbmV3IEluT3BlcmF0aW9uKEltbXV0YWJsZUxpc3Qub2YoIjxEQVRBU0VUX1NQRUNfU1RBUlQ6REFURUlELTFkOkRBVEFTRVRfU1BFQ19FTkQ+IikpCiAgICAgICAgKSwKICAgICAgICAicHJvZHVjZV9kYXRhc2V0IiwgSW1tdXRhYmxlTWFwLm9mKCkpOwogICAgY3R4LmFkZENvbnN1bWVkRGF0YXNldHMoCiAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCJ1cG1kYXRhc2V0cy4iICsgY29uc3VtZWREYXRhc2V0LnRhYmxlQWxpYXMsIGNvbnN1bWVkRGF0YXNldCkpOwogICAgY3R4LmFkZFByb2R1Y2VEYXRhc2V0cygKICAgICAgICBJbW11dGFibGVNYXAub2YoInVwbWRhdGFzZXRzLiIgKyBwcm9kdWNlZERhdGFzZXQudGFibGVBbGlhcywgcHJvZHVjZWREYXRhc2V0KSk7Cg==</text>
+        <text encoding="base64">c2VhbGVkIGFic3RyYWN0IGNsYXNzIElEX1RZUEUKCm9iamVjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN0eC4K</text>
+        <text encoding="base64">ZW51bSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN0eC5hZGRDb25zdW1lZERhdGFzZXRzKAogICAgICAgIEltbXV0YWJsZU1hcC5vZigidXBtZGF0YXNldHMuIiArIGNvbnN1bWVkRGF0YXNldC50YWJsZUFsaWFzLCBjb25zdW1lZERhdGFzZXQpKTsKICAgIGN0eC5hZGRQcm9kdWNlRGF0YXNldHMoCiAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCJ1cG1kYXRhc2V0cy4iICsgcHJvZHVjZWREYXRhc2V0LnRhYmxlQWxpYXMsIHByb2R1Y2VkRGF0YXNldCkpOwo=</text>
+        <text encoding="base64">ZW51bSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y2VkRGF0YXNldCA9Cg==</text>
+        <text encoding="base64">ICAgIERhdGFGcmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN1bWVkRGF0YXNldCA9IG5ldyBVcG1EYXRhc2V0KAogICAgICAgICJmY3RfcG9zdF9wcm9kdWN0aW9uIiwKICAgICAgICBJbW11dGFibGVNYXAub2YoCiAgICAgICAgICAgICJkcyIsCiAgICAgICAgICAgIG5ldyBJbk9wZXJhdGlvbihJbW11dGFibGVMaXN0Lm9mKCI8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRC0xZDpEQVRBU0VUX1NQRUNfRU5EPiIpKQogICAgICAgICksCiAgICAgICAgImRhdGFzZXQiLAogICAgICAgIEltbXV0YWJsZU1hcC5vZigpCiAgICApOwogICAgcHJvZHVjZWREYXRhc2V0ID0gbmV3IFVwbURhdGFzZXQoCiAgICAgICAgInRlc3RfdGFibGUiLAogICAgICAgIEltbXV0YWJsZU1hcC5vZigKICAgICAgICAgICAgImRzIiwKICAgICAgICAgICAgbmV3IEluT3BlcmF0aW9uKEltbXV0YWJsZUxpc3Qub2YoIjxEQVRBU0VUX1NQRUNfU1RBUlQ6REFURUlELTFkOkRBVEFTRVRfU1BFQ19FTkQ+IikpCiAgICAgICAgKSwKICAgICAgICAicHJvZHVjZV9kYXRhc2V0IiwgSW1tdXRhYmxlTWFwLm9mKCkpOwogICAgY3R4LmFkZENvbnN1bWVkRGF0YXNldHMoCiAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCJ1cG1kYXRhc2V0cy4iICsgY29uc3VtZWREYXRhc2V0LnRhYmxlQWxpYXMsIGNvbnN1bWVkRGF0YXNldCkpOwogICAgY3R4LmFkZFByb2R1Y2VEYXRhc2V0cygKICAgICAgICBJbW11dGFibGVNYXAub2YoInVwbWRhdGFzZXRzLiIgKyBwcm9kdWNlZERhdGFzZXQudGFibGVBbGlhcywgcHJvZHVjZWREYXRhc2V0KSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bmV3IFVwbURhdGFzZXQoCiAgICAgICAgInRlc3RfdGFibGUiLAogICAgICAgIEltbXV0YWJsZU1hcC5vZigKICAgICAgICAgICAgImRzIiwKICAgICAgICAgICAgbmV3IEluT3BlcmF0aW9uKEltbXV0YWJsZUxpc3Qub2YoIjxEQVRBU0VUX1NQRUNfU1RBUlQ6REFURUlELTEwMGQ6REFUQVNFVF9TUEVDX0VORD4iKSkKICAgICAgICApLAogICAgICAgICJwcm9kdWNlX2RhdGFzZXQiLCBJbW11dGFibGVNYXAub2YoKSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGN0eC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN0eC5hZGRDb25zdW1lZERhdGFzZXRzKAogICAgICAgIEltbXV0YWJsZU1hcC5vZigidXBtZGF0YXNldHMuIiArIGNvbnN1bWVkRGF0YXNldC50YWJsZUFsaWFzLCBjb25zdW1lZERhdGFzZXQpKTsKICAgIGN0eC5hZGRQcm9kdWNlRGF0YXNldHMoCiAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCJ1cG1kYXRhc2V0cy4iICsgcHJvZHVjZWREYXRhc2V0LnRhYmxlQWxpYXMsIHByb2R1Y2VkRGF0YXNldCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN1bWVkRGF0YXNldCA9IG5ldyBVcG1EYXRhc2V0KAogICAgICAgICJmY3RfcG9zdF9wcm9kdWN0aW9uIiwKICAgICAgICBJbW11dGFibGVNYXAub2YoCiAgICAgICAgICAgICJkcyIsCiAgICAgICAgICAgIG5ldyBJbk9wZXJhdGlvbihJbW11dGFibGVMaXN0Lm9mKCI8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRC0xMDBkOkRBVEFTRVRfU1BFQ19FTkQ+IikpCiAgICAgICAgKSwKICAgICAgICAiZGF0YXNldCIsCiAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCkKICAgICk7Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y2VkRGF0YXNldCA9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
