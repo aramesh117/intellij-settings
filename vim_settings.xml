@@ -250,6 +250,9 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveExternalCatalog.scala" timestamp="1539120280900">
         <mark key="'" line="270" column="52" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" timestamp="1539275139349">
+        <mark key="'" line="506" column="6" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1539204195847">
         <mark key="'" line="72" column="177" />
         <mark key="[" line="73" column="8" />
@@ -488,7 +491,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" timestamp="1539020322794">
         <mark key="'" line="27" column="51" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/facebook/dataflow/common-antlr4/1.0-SNAPSHOT/common-antlr4-1.0-20180822.171038-2.jar!/com/facebook/dataflow/common/antlr4/DatasetSpecParser.class" timestamp="1539195166937" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/jdbc/CalcitePrepare.java" timestamp="1526333473358">
         <mark key="'" line="71" column="0" />
       </file>
@@ -1234,23 +1236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="65" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="158" column="65" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="169" column="46" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="164" column="91" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="202" column="69" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="5" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatePartitionSpec.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatePartitionSpec.java" />
-      <jump line="1381" column="47" filename="$MAVEN_REPOSITORY$/com/facebook/dataflow/common-antlr4/1.0-SNAPSHOT/common-antlr4-1.0-20180822.171038-2.jar!/com/facebook/dataflow/common/antlr4/DatasetSpecParser.class" />
-      <jump line="12" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Factory.java" />
-      <jump line="76" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="356" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="108" column="91" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="167" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="199" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatasetPartitionSpecVisitor.java" />
-      <jump line="18" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestDatasetSpecParser.java" />
-      <jump line="31" column="60" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestDatasetSpecParser.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatePartitionSpec.java" />
       <jump line="43" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestDatasetSpecParser.java" />
       <jump line="45" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="42" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -1334,6 +1319,23 @@
       <jump line="62" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" />
       <jump line="23" column="98" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" />
       <jump line="45" column="0" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/HiveMetastore2.java" />
+      <jump line="65" column="13" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="335" column="56" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="336" column="65" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="561" column="15" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="562" column="45" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="564" column="18" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="565" column="10" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="545" column="18" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="585" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="270" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="533" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="721" column="33" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="734" column="8" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="366" column="35" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="510" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="506" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="513" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1346,7 +1348,7 @@
         <text>delta</text>
       </register>
       <register name="/" type="4">
-        <text>UII</text>
+        <text encoding="base64">XDxXSEVSRVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IjxEQVRBU0VUX1NQRUNfU1RBUlQ6REFURUlEKyVzZDpEQVRBU0VUX1NQRUNfRU5EPiI=</text>
@@ -1383,9 +1385,9 @@
       </register>
     </registers>
     <search>
-      <last-search>UII</last-search>
+      <last-search encoding="base64">XDxXSEVSRVw+</last-search>
       <last-offset />
-      <last-pattern>UII</last-pattern>
+      <last-pattern encoding="base64">XDxXSEVSRVw+</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>assuming</last-substitute>
       <last-dir>1</last-dir>
@@ -1393,10 +1395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>visitDate</entry>
-        <entry encoding="base64">XDx2aXNpdERhdGVFeHByZXNzaW9uV2l0aFRpbWV6b25lXD4=</entry>
-        <entry>Timezone</entry>
-        <entry encoding="base64">XDxQQVJUSVRJT05fTUFDUk9fQkVHSU5cPg==</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25NYWNyb1w+</entry>
         <entry encoding="base64">XDx2aXNpdG9yXD4=</entry>
         <entry encoding="base64">XDxJTlNUQU5DRVw+</entry>
@@ -1413,6 +1411,10 @@
         <entry>uid\c</entry>
         <entry>\cid</entry>
         <entry>UII</entry>
+        <entry>\cexpression</entry>
+        <entry>predicate</entry>
+        <entry>WHERE</entry>
+        <entry encoding="base64">XDxXSEVSRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SMALLINT/smallint/g</entry>
