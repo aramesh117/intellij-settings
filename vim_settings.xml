@@ -15,6 +15,9 @@
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/ExpressionSet.scala" timestamp="1539042245005">
         <mark key="'" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" timestamp="1539372961860">
+        <mark key="'" line="36" column="62" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatePartitionSpec.java" timestamp="1539196049605">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="9" column="0" />
@@ -862,6 +865,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" timestamp="1539114250635">
         <mark key="'" line="36" column="17" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/generators.scala" timestamp="1539372976604" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/UpmLogicalQuery.scala" timestamp="1538677488693">
         <mark key="'" line="10" column="10" />
       </file>
@@ -1085,8 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="684" column="21" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
-      <jump line="500" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="478" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="501" column="33" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="32" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" />
@@ -1185,6 +1187,8 @@
       <jump line="673" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="701" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="800" column="10" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="561" column="11" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" />
+      <jump line="36" column="62" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1197,7 +1201,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>EXPLAIN</text>
+        <text>Generate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB2YWwgdGVzdFJlbGF0aW9uID0gTG9jYWxSZWxhdGlvbignYS5pbnQsICdiLmludCwgJ2MuaW50KQogIHZhbCB0ZXN0UmVsYXRpb24xID0gTG9jYWxSZWxhdGlvbignZC5pbnQpCg==</text>
@@ -1234,9 +1238,9 @@
       </register>
     </registers>
     <search>
-      <last-search>EXPLAIN</last-search>
+      <last-search>Generate</last-search>
       <last-offset />
-      <last-pattern>EXPLAIN</last-pattern>
+      <last-pattern>Generate</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>assuming</last-substitute>
       <last-dir>1</last-dir>
@@ -1244,7 +1248,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZUlkZW50aWZpZXJcPg==</entry>
         <entry>tableIdentifier</entry>
         <entry>\ctableIden</entry>
         <entry encoding="base64">XDxjcmVhdGVUYWJsZVw+</entry>
@@ -1264,6 +1267,7 @@
         <entry encoding="base64">XDxJbXBsaWNpdEF0dHJpYnV0ZVw+</entry>
         <entry>Relation\c</entry>
         <entry>EXPLAIN</entry>
+        <entry>Generate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SMALLINT/smallint/g</entry>
