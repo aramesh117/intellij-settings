@@ -118,8 +118,15 @@
       <file name="$USER_HOME$/git/presto/presto-parser/src/main/antlr4/com/facebook/presto/sql/parser/SqlBase.g4" timestamp="1535679621945">
         <mark key="'" line="655" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1539576057582">
-        <mark key="'" line="42" column="19" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" timestamp="1539581453730">
+        <mark key="'" line="195" column="26" />
+        <mark key="[" line="134" column="46" />
+        <mark key="]" line="134" column="46" />
+        <mark key="." line="134" column="46" />
+        <mark key="^" line="134" column="122" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1539581507496">
+        <mark key="'" line="114" column="26" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/Table.java" timestamp="1526323429345">
         <mark key="'" line="79" column="6" />
@@ -259,6 +266,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/physical/UpmPhysicalAddMissingDatasetDeps.scala" timestamp="1538761008169">
         <mark key="'" line="15" column="73" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1539581251162">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/ResolveInlineTables.scala" timestamp="1539021156130">
         <mark key="'" line="35" column="6" />
@@ -1006,6 +1016,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/target/generated-sources/antlr4/com/facebook/upm/hive/schema/HiveTypeParser.java" timestamp="1532996480037">
         <mark key="'" line="234" column="41" />
       </file>
+      <file name="/fragment.java" timestamp="1539581251153">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/GroupByElements.java" timestamp="1532372511667">
         <mark key="'" line="77" column="15" />
       </file>
@@ -1304,23 +1317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="673" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
-      <jump line="701" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
-      <jump line="800" column="10" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
-      <jump line="561" column="11" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" />
-      <jump line="36" column="62" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" />
-      <jump line="63" column="21" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" />
-      <jump line="445" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="36" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="37" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="45" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="46" column="79" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="48" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="49" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="51" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="52" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="62" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="64" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="65" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="104" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="101" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
@@ -1400,28 +1396,48 @@
       <jump line="50" column="95" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
       <jump line="7" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" />
       <jump line="29" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" />
-      <jump line="114" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
       <jump line="64" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
       <jump line="1" column="3053" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/table_properties/bi/fct_post_production.json" />
       <jump line="42" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
+      <jump line="35" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
+      <jump line="85" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="129" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="39" column="19" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/14.0.1/guava-14.0.1.jar!/com/google/common/io/Files.class" />
+      <jump line="182" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="110" column="45" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="133" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="183" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="186" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="184" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="189" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="191" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="1319" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/io/File.java" />
+      <jump line="134" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="196" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="192" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="195" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
+      <jump line="114" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">XDxjcmVhdGVUYWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgdGVzdFJlbGF0aW9uID0gTG9jYWxSZWxhdGlvbignYS5pbnQsICdiLmludCwgJ2MuaW50KQogIHZhbCB0ZXN0UmVsYXRpb24xID0gTG9jYWxSZWxhdGlvbignZC5pbnQpCg==</text>
+        <text encoding="base64">ICAgICAgZXh0cmFjdFJlc291cmNlRm9sZGVyKGphckZpbGUsIHRlc3RNb2RlbCwgdGVtcERpciwgcmVmZXJlbmNlQ2xhc3MpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>v
 &quot;confirmedtime\&quot;: \&quot;NONE\&quot;, \&quot;contact\&quot;: \&quot;EMAIL\&quot;, \&quot;contactemailconfirmed\&quot;: \&quot;EMAIL\&quot;, \&quot;country\&quot;: \&quot;NONE\&quot;, \&quot;country_from_ip\&quot;: \&quot;NONE\&quot;, \&quot;country_prediction\&quot;: \&quot;NONE\&quot;, \&quot;current_address_profile\&quot;: \&quot;ADDR\&quot;, \&quot;current_city_profile\&quot;: \&quot;NONE\&quot;, \&quot;current_geo
 _id_profile\&quot;: \&quot;NONE\&quot;, \&quot;current_zip_profile\&quot;: \&quot;NONE\&quot;, \&quot;daily_first_timestamp\&quot;: \&quot;NONE\&quot;, \&quot;days_since_confirmed\&quot;: \&quot;NONE\&quot;, \&quot;days_since_confirmed_bracket\&quot;: \&quot;NONE\&quot;, \&quot;days_since_last_action_bracket\&quot;: \&quot;NONE\&quot;, \&quot;dob_day\&quot;: \&quot;NONE\&quot;, \&quot;dob_month\&quot;: \&quot;NON
@@ -1437,38 +1453,35 @@ n_prediction\&quot;: \&quot;NONE\&quot;, \&quot;relationshipstatus\&quot;: \&quo
 eb_active28day\&quot;: \&quot;NONE\&quot;, \&quot;web_active30day\&quot;: \&quot;NONE\&quot;, \&quot;web_active7day\&quot;: \&quot;NONE\&quot;, \&quot;web_daily_first_timestamp\&quot;: \&quot;NONE\&quot;, \&quot;web_l28\&quot;: \&quot;NONE\&quot;, \&quot;web_l30\&quot;: \&quot;NONE\&quot;, \&quot;web_l7\&quot;: \&quot;NONE\&quot;, \&quot;weblastactiontime\&quot;: \&quot;NONE\&quot;, \&quot;workphone\&quot;: \&quot;PHONE\&quot;, \&quot;zip_pre
 diction\&quot;: \&quot;NONE\&quot; }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC8vICAgIHJlbGF0aW9uLmRhdGFzZXQuCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHVpZFJlbGF0aW9ucwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNhc2UgZmlsdGVyQEZpbHRlcihleHByZXNzaW9uLCBfKSA9PgogICAgLy8gICAgICB2YWwgZHNWYWx1ZU9wdGlvbjogT3B0aW9uW1VURjhTdHJpbmddID0gZXhwcmVzc2lvbi5jb2xsZWN0Rmlyc3QgewogICAgLy8gICAgICAgIGNhc2UgSW4oQXR0cmlidXRlUmVmZXJlbmNlKCJkcyIsIFN0cmluZ1R5cGUsIF8sIF8pLCBMaXRlcmFsKGRhdGVWYWx1ZTogVVRGOFN0cmluZywgU3RyaW5nVHlwZSkgKzogU2VxKCkpID0+IGRhdGVWYWx1ZQogICAgLy8gICAgICAgIGNhc2UgRXF1YWxUbyhBdHRyaWJ1dGVSZWZlcmVuY2UoImRzIiwgU3RyaW5nVHlwZSwgXywgXyksIExpdGVyYWwoZGF0ZVZhbHVlOiBVVEY4U3RyaW5nLCBTdHJpbmdUeXBlKSkgPT4gZGF0ZVZhbHVlCiAgICAvLyAgICAgIH0KICAgIC8vICAgICAgaWYgKGRzVmFsdWVPcHRpb24uaXNEZWZpbmVkKSB7CiAgICAvLyAgICAgICAgaGFuZGxlTm9VSUQoc2NoZWR1bGVySW5mby5kcy5nZXQsIGRzVmFsdWVPcHRpb24uZ2V0LCBmaWx0ZXIpCiAgICAvLyAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgZmlsdGVyCiAgICAvLyAgICAgIH0KICAgIC8vICAgIGNhc2UgcHJvamVjdEBQcm9qZWN0KHByb2plY3RMaXN0LCBjaGlsZCkgPT4KICAgIC8vICAgICAgcHJvamVjdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIGNhc2UgZmlsdGVyQEZpbHRlcihleHByZXNzaW9uLCBfKSA9PgogICAgLy8gICAgICB2YWwgZHNWYWx1ZU9wdGlvbjogT3B0aW9uW1VURjhTdHJpbmddID0gZXhwcmVzc2lvbi5jb2xsZWN0Rmlyc3QgewogICAgLy8gICAgICAgIGNhc2UgSW4oQXR0cmlidXRlUmVmZXJlbmNlKCJkcyIsIFN0cmluZ1R5cGUsIF8sIF8pLCBMaXRlcmFsKGRhdGVWYWx1ZTogVVRGOFN0cmluZywgU3RyaW5nVHlwZSkgKzogU2VxKCkpID0+IGRhdGVWYWx1ZQogICAgLy8gICAgICAgIGNhc2UgRXF1YWxUbyhBdHRyaWJ1dGVSZWZlcmVuY2UoImRzIiwgU3RyaW5nVHlwZSwgXywgXyksIExpdGVyYWwoZGF0ZVZhbHVlOiBVVEY4U3RyaW5nLCBTdHJpbmdUeXBlKSkgPT4gZGF0ZVZhbHVlCiAgICAvLyAgICAgIH0KICAgIC8vICAgICAgaWYgKGRzVmFsdWVPcHRpb24uaXNEZWZpbmVkKSB7CiAgICAvLyAgICAgICAgaGFuZGxlTm9VSUQoc2NoZWR1bGVySW5mby5kcy5nZXQsIGRzVmFsdWVPcHRpb24uZ2V0LCBmaWx0ZXIpCiAgICAvLyAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgZmlsdGVyCiAgICAvLyAgICAgIH0KICAgIC8vICAgIGNhc2UgcHJvamVjdEBQcm9qZWN0KHByb2plY3RMaXN0LCBjaGlsZCkgPT4KICAgIC8vICAgICAgcHJvamVjdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVUYWJsZVw+</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVUYWJsZVw+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -1476,8 +1489,6 @@ diction\&quot;: \&quot;NONE\&quot; }</text>
     </search>
     <history>
       <history-search>
-        <entry>Join</entry>
-        <entry>Test join</entry>
         <entry encoding="base64">XDx0ZXN0UmVsYXRpb25cPg==</entry>
         <entry>Test Join</entry>
         <entry encoding="base64">XDxPcHRpbWl6ZXJcPg==</entry>
@@ -1493,9 +1504,11 @@ diction\&quot;: \&quot;NONE\&quot; }</text>
         <entry encoding="base64">XDxjb25kaXRpb25zXD4=</entry>
         <entry>expressions</entry>
         <entry>deserialize</entry>
-        <entry encoding="base64">XDxjcmVhdGVUYWJsZVw+</entry>
         <entry encoding="base64">XDxjb2xcPg==</entry>
         <entry>&quot;</entry>
+        <entry encoding="base64">XDx0YXJnZXRQYXJlbnRcPg==</entry>
+        <entry encoding="base64">XDxyZXNvdXJjZUZvbGRlclw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVUYWJsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
