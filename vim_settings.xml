@@ -125,8 +125,12 @@
         <mark key="." line="134" column="46" />
         <mark key="^" line="134" column="122" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1539581507496">
-        <mark key="'" line="114" column="26" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1539582065633">
+        <mark key="'" line="71" column="52" />
+        <mark key="[" line="72" column="67" />
+        <mark key="]" line="72" column="65" />
+        <mark key="." line="72" column="65" />
+        <mark key="^" line="72" column="65" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/Table.java" timestamp="1526323429345">
         <mark key="'" line="79" column="6" />
@@ -1317,8 +1321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="104" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="101" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="10" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="47" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -1417,16 +1419,18 @@
       <jump line="192" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
       <jump line="195" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" />
       <jump line="114" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
+      <jump line="71" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
+      <jump line="134" column="9" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/nio/file/Path.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>, &quot;table_properties&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, &quot;table_properties&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVUYWJsZVw+</text>
@@ -1434,10 +1438,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXh0cmFjdFJlc291cmNlRm9sZGVyKGphckZpbGUsIHRlc3RNb2RlbCwgdGVtcERpciwgcmVmZXJlbmNlQ2xhc3MpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtra2tra2tra2tra2trawo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>v
 &quot;confirmedtime\&quot;: \&quot;NONE\&quot;, \&quot;contact\&quot;: \&quot;EMAIL\&quot;, \&quot;contactemailconfirmed\&quot;: \&quot;EMAIL\&quot;, \&quot;country\&quot;: \&quot;NONE\&quot;, \&quot;country_from_ip\&quot;: \&quot;NONE\&quot;, \&quot;country_prediction\&quot;: \&quot;NONE\&quot;, \&quot;current_address_profile\&quot;: \&quot;ADDR\&quot;, \&quot;current_city_profile\&quot;: \&quot;NONE\&quot;, \&quot;current_geo
 _id_profile\&quot;: \&quot;NONE\&quot;, \&quot;current_zip_profile\&quot;: \&quot;NONE\&quot;, \&quot;daily_first_timestamp\&quot;: \&quot;NONE\&quot;, \&quot;days_since_confirmed\&quot;: \&quot;NONE\&quot;, \&quot;days_since_confirmed_bracket\&quot;: \&quot;NONE\&quot;, \&quot;days_since_last_action_bracket\&quot;: \&quot;NONE\&quot;, \&quot;dob_day\&quot;: \&quot;NONE\&quot;, \&quot;dob_month\&quot;: \&quot;NON
@@ -1453,26 +1463,20 @@ n_prediction\&quot;: \&quot;NONE\&quot;, \&quot;relationshipstatus\&quot;: \&quo
 eb_active28day\&quot;: \&quot;NONE\&quot;, \&quot;web_active30day\&quot;: \&quot;NONE\&quot;, \&quot;web_active7day\&quot;: \&quot;NONE\&quot;, \&quot;web_daily_first_timestamp\&quot;: \&quot;NONE\&quot;, \&quot;web_l28\&quot;: \&quot;NONE\&quot;, \&quot;web_l30\&quot;: \&quot;NONE\&quot;, \&quot;web_l7\&quot;: \&quot;NONE\&quot;, \&quot;weblastactiontime\&quot;: \&quot;NONE\&quot;, \&quot;workphone\&quot;: \&quot;PHONE\&quot;, \&quot;zip_pre
 diction\&quot;: \&quot;NONE\&quot; }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vICAgIHJlbGF0aW9uLmRhdGFzZXQuCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHVpZFJlbGF0aW9ucwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNhc2UgZmlsdGVyQEZpbHRlcihleHByZXNzaW9uLCBfKSA9PgogICAgLy8gICAgICB2YWwgZHNWYWx1ZU9wdGlvbjogT3B0aW9uW1VURjhTdHJpbmddID0gZXhwcmVzc2lvbi5jb2xsZWN0Rmlyc3QgewogICAgLy8gICAgICAgIGNhc2UgSW4oQXR0cmlidXRlUmVmZXJlbmNlKCJkcyIsIFN0cmluZ1R5cGUsIF8sIF8pLCBMaXRlcmFsKGRhdGVWYWx1ZTogVVRGOFN0cmluZywgU3RyaW5nVHlwZSkgKzogU2VxKCkpID0+IGRhdGVWYWx1ZQogICAgLy8gICAgICAgIGNhc2UgRXF1YWxUbyhBdHRyaWJ1dGVSZWZlcmVuY2UoImRzIiwgU3RyaW5nVHlwZSwgXywgXyksIExpdGVyYWwoZGF0ZVZhbHVlOiBVVEY4U3RyaW5nLCBTdHJpbmdUeXBlKSkgPT4gZGF0ZVZhbHVlCiAgICAvLyAgICAgIH0KICAgIC8vICAgICAgaWYgKGRzVmFsdWVPcHRpb24uaXNEZWZpbmVkKSB7CiAgICAvLyAgICAgICAgaGFuZGxlTm9VSUQoc2NoZWR1bGVySW5mby5kcy5nZXQsIGRzVmFsdWVPcHRpb24uZ2V0LCBmaWx0ZXIpCiAgICAvLyAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgZmlsdGVyCiAgICAvLyAgICAgIH0KICAgIC8vICAgIGNhc2UgcHJvamVjdEBQcm9qZWN0KHByb2plY3RMaXN0LCBjaGlsZCkgPT4KICAgIC8vICAgICAgcHJvamVjdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiAK</text>
+        <text encoding="base64">ICAgIC8vICAgIGNhc2UgZmlsdGVyQEZpbHRlcihleHByZXNzaW9uLCBfKSA9PgogICAgLy8gICAgICB2YWwgZHNWYWx1ZU9wdGlvbjogT3B0aW9uW1VURjhTdHJpbmddID0gZXhwcmVzc2lvbi5jb2xsZWN0Rmlyc3QgewogICAgLy8gICAgICAgIGNhc2UgSW4oQXR0cmlidXRlUmVmZXJlbmNlKCJkcyIsIFN0cmluZ1R5cGUsIF8sIF8pLCBMaXRlcmFsKGRhdGVWYWx1ZTogVVRGOFN0cmluZywgU3RyaW5nVHlwZSkgKzogU2VxKCkpID0+IGRhdGVWYWx1ZQogICAgLy8gICAgICAgIGNhc2UgRXF1YWxUbyhBdHRyaWJ1dGVSZWZlcmVuY2UoImRzIiwgU3RyaW5nVHlwZSwgXywgXyksIExpdGVyYWwoZGF0ZVZhbHVlOiBVVEY4U3RyaW5nLCBTdHJpbmdUeXBlKSkgPT4gZGF0ZVZhbHVlCiAgICAvLyAgICAgIH0KICAgIC8vICAgICAgaWYgKGRzVmFsdWVPcHRpb24uaXNEZWZpbmVkKSB7CiAgICAvLyAgICAgICAgaGFuZGxlTm9VSUQoc2NoZWR1bGVySW5mby5kcy5nZXQsIGRzVmFsdWVPcHRpb24uZ2V0LCBmaWx0ZXIpCiAgICAvLyAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgZmlsdGVyCiAgICAvLyAgICAgIH0KICAgIC8vICAgIGNhc2UgcHJvamVjdEBQcm9qZWN0KHByb2plY3RMaXN0LCBjaGlsZCkgPT4KICAgIC8vICAgICAgcHJvamVjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
