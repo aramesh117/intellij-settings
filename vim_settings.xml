@@ -191,11 +191,12 @@
       <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/scala/collection/SetLike.class" timestamp="1539042262755">
         <mark key="'" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/table_properties/bi/fct_post_production.json" timestamp="1539575031229">
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/table_properties/bi/fct_post_production.json" timestamp="1539575999108">
+        <mark key="'" line="1" column="3053" />
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" timestamp="1526337176951">
         <mark key="'" line="389" column="26" />
@@ -1303,7 +1304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="435" column="69" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="673" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="701" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
@@ -1403,19 +1403,20 @@
       <jump line="29" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" />
       <jump line="114" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
       <jump line="64" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
+      <jump line="1" column="3053" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/table_properties/bi/fct_post_production.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHJlbGF0aW9uLmRhdGFzZXQuCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;{&quot;confirmedtime&quot;: &quot;NONE&quot;, &quot;mobile_active1day&quot;: &quot;NONE&quot;, &quot;platform_l7&quot;: &quot;NONE&quot;, &quot;userid&quot;: &quot;UID&quot;, &quot;lastactiontime&quot;: &quot;NONE&quot;, &quot;mobile_active7day_interface&quot;: &quot;NONE&quot;, &quot;verified_bitmask&quot;: &quot;NONE&quot;, &quot;mobile_l28&quot;: &quot;NONE&quot;, &quot;region_prediction&quot;: &quot;NONE&quot;, &quot;workphone&quot;: &quot;PHONE&quot;, &quot;friend_count&quot;: &quot;NONE&quot;, &quot;isactivated&quot;: &quot;NONE&quot;, &quot;mobile_l30_interface&quot;: &quot;NONE&quot;, &quot;profilepicturepresent&quot;: &quot;NONE&quot;, &quot;subscription_count&quot;: &quot;NONE&quot;, &quot;primary_mobile_carrier_id&quot;: &quot;NONE&quot;, &quot;mobile_active30day&quot;: &quot;NONE&quot;, &quot;contactemailconfirmed&quot;: &quot;EMAIL&quot;, &quot;acquisitiontime&quot;: &quot;NONE&quot;, &quot;hometown_geo_id_profile&quot;: &quot;NONE&quot;, &quot;facebook_age_bracket&quot;: &quot;NONE&quot;, &quot;lastname&quot;: &quot;UNAME&quot;, &quot;country_prediction&quot;: &quot;NONE&quot;, &quot;web_active30day&quot;: &quot;NONE&quot;, &quot;dob_year&quot;: &quot;NONE&quot;, &quot;num_initiated&quot;: &quot;NONE&quot;, &quot;primary_tablet_os&quot;: &quot;NONE&quot;, &quot;mobile_l30&quot;: &quot;NONE&quot;, &quot;web_daily_first_timestamp&quot;: &quot;NONE&quot;, &quot;current_address_profile&quot;: &quot;ADDR&quot;, &quot;mobile_l7&quot;: &quot;NONE&quot;, &quot;country_from_ip&quot;: &quot;NONE&quot;, &quot;lifestage_prediction&quot;: &quot;NONE&quot;, &quot;mobile_active7day&quot;: &quot;NONE&quot;, &quot;gender&quot;: &quot;NONE&quot;, &quot;mobilelastactiontime&quot;: &quot;NONE&quot;, &quot;city_from_ip&quot;: &quot;NONE&quot;, &quot;l7&quot;: &quot;NONE&quot;, &quot;zip_prediction&quot;: &quot;NONE&quot;, &quot;email&quot;: &quot;EMAIL&quot;, &quot;mobile_l7_interface&quot;: &quot;NONE&quot;, &quot;facebookage&quot;: &quot;NONE&quot;, &quot;birthdayprivacy&quot;: &quot;NONE&quot;, &quot;days_since_confirmed_bracket&quot;: &quot;NONE&quot;, &quot;platform_active30day&quot;: &quot;NONE&quot;, &quot;landphone&quot;: &quot;PHONE&quot;, &quot;dob_day&quot;: &quot;NONE&quot;, &quot;hometown_geo_country_profile&quot;: &quot;NONE&quot;, &quot;platformlastactiontime&quot;: &quot;NONE&quot;, &quot;country&quot;: &quot;NONE&quot;, &quot;daily_first_timestamp&quot;: &quot;NONE&quot;, &quot;political&quot;: &quot;NONE&quot;, &quot;is1dayactive&quot;: &quot;NONE&quot;, &quot;ds&quot;: &quot;NONE&quot;, &quot;region_from_ip&quot;: &quot;NONE&quot;, &quot;platform_daily_first_timestamp&quot;: &quot;NONE&quot;, &quot;platform_active7day&quot;: &quot;NONE&quot;, &quot;primary_phone_device_model&quot;: &quot;NONE&quot;, &quot;is30dayactive&quot;: &quot;NONE&quot;, &quot;accountstatus&quot;: &quot;NONE&quot;, &quot;mobile_active1day_interface&quot;: &quot;NONE&quot;, &quot;primary_tablet_device_model&quot;: &quot;NONE&quot;, &quot;mobilephone&quot;: &quot;PHONE&quot;, &quot;contact&quot;: &quot;EMAIL&quot;, &quot;l28_bracket&quot;: &quot;NONE&quot;, &quot;is7dayactive&quot;: &quot;NONE&quot;, &quot;current_city_profile&quot;: &quot;NONE&quot;, &quot;age_bracket&quot;: &quot;NONE&quot;, &quot;ageatregistration&quot;: &quot;NONE&quot;, &quot;web_active7day&quot;: &quot;NONE&quot;, &quot;dob_month&quot;: &quot;NONE&quot;, &quot;android_year_class&quot;: &quot;NONE&quot;, &quot;platform_l28&quot;: &quot;NONE&quot;, &quot;days_since_last_action_bracket&quot;: &quot;NONE&quot;, &quot;web_l30&quot;: &quot;NONE&quot;, &quot;web_active28day&quot;: &quot;NONE&quot;, &quot;l28&quot;: &quot;NONE&quot;, &quot;mobile_active28day_interface&quot;: &quot;NONE&quot;, &quot;web_l28&quot;: &quot;NONE&quot;, &quot;platform_l30&quot;: &quot;NONE&quot;, &quot;name&quot;: &quot;UNAME&quot;, &quot;mobile_active28day&quot;: &quot;NONE&quot;, &quot;current_zip_profile&quot;: &quot;NONE&quot;, &quot;userregtime&quot;: &quot;NONE&quot;, &quot;firstname&quot;: &quot;UNAME&quot;, &quot;l30&quot;: &quot;NONE&quot;, &quot;locale&quot;: &quot;NONE&quot;, &quot;hsyear&quot;: &quot;NONE&quot;, &quot;primary_phone_os&quot;: &quot;NONE&quot;, &quot;current_geo_id_profile&quot;: &quot;NONE&quot;, &quot;web_l7&quot;: &quot;NONE&quot;, &quot;screenname&quot;: &quot;UNAME&quot;, &quot;platform_active1day&quot;: &quot;NONE&quot;, &quot;city_prediction&quot;: &quot;NONE&quot;, &quot;mobilelastactiontime_interface&quot;: &quot;NONE&quot;, &quot;reg_email&quot;: &quot;EMAIL&quot;, &quot;mobile_l28_interface&quot;: &quot;NONE&quot;, &quot;infoupdatetime&quot;: &quot;NONE&quot;, &quot;mobile_daily_first_timestamp&quot;: &quot;NONE&quot;, &quot;is28dayactive&quot;: &quot;NONE&quot;, &quot;platform_active28day&quot;: &quot;NONE&quot;, &quot;days_since_confirmed&quot;: &quot;NONE&quot;, &quot;web_active1day&quot;: &quot;NONE&quot;, &quot;relationshipstatus&quot;: &quot;NONE&quot;, &quot;subscriber_count&quot;: &quot;NONE&quot;, &quot;weblastactiontime&quot;: &quot;NONE&quot;, &quot;friend_count_bracket&quot;: &quot;NONE&quot;, &quot;age&quot;: &quot;NONE&quot;, &quot;mobile_active30day_interface&quot;: &quot;NONE&quot;, &quot;location_id_from_ip&quot;: &quot;NONE&quot;, &quot;primary_alias&quot;: &quot;UNAME&quot;}&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Unit</text>
+        <text>&quot;{&quot;confirmedtime&quot;: &quot;NONE&quot;, &quot;mobile_active1day&quot;: &quot;NONE&quot;, &quot;platform_l7&quot;: &quot;NONE&quot;, &quot;userid&quot;: &quot;UID&quot;, &quot;lastactiontime&quot;: &quot;NONE&quot;, &quot;mobile_active7day_interface&quot;: &quot;NONE&quot;, &quot;verified_bitmask&quot;: &quot;NONE&quot;, &quot;mobile_l28&quot;: &quot;NONE&quot;, &quot;region_prediction&quot;: &quot;NONE&quot;, &quot;workphone&quot;: &quot;PHONE&quot;, &quot;friend_count&quot;: &quot;NONE&quot;, &quot;isactivated&quot;: &quot;NONE&quot;, &quot;mobile_l30_interface&quot;: &quot;NONE&quot;, &quot;profilepicturepresent&quot;: &quot;NONE&quot;, &quot;subscription_count&quot;: &quot;NONE&quot;, &quot;primary_mobile_carrier_id&quot;: &quot;NONE&quot;, &quot;mobile_active30day&quot;: &quot;NONE&quot;, &quot;contactemailconfirmed&quot;: &quot;EMAIL&quot;, &quot;acquisitiontime&quot;: &quot;NONE&quot;, &quot;hometown_geo_id_profile&quot;: &quot;NONE&quot;, &quot;facebook_age_bracket&quot;: &quot;NONE&quot;, &quot;lastname&quot;: &quot;UNAME&quot;, &quot;country_prediction&quot;: &quot;NONE&quot;, &quot;web_active30day&quot;: &quot;NONE&quot;, &quot;dob_year&quot;: &quot;NONE&quot;, &quot;num_initiated&quot;: &quot;NONE&quot;, &quot;primary_tablet_os&quot;: &quot;NONE&quot;, &quot;mobile_l30&quot;: &quot;NONE&quot;, &quot;web_daily_first_timestamp&quot;: &quot;NONE&quot;, &quot;current_address_profile&quot;: &quot;ADDR&quot;, &quot;mobile_l7&quot;: &quot;NONE&quot;, &quot;country_from_ip&quot;: &quot;NONE&quot;, &quot;lifestage_prediction&quot;: &quot;NONE&quot;, &quot;mobile_active7day&quot;: &quot;NONE&quot;, &quot;gender&quot;: &quot;NONE&quot;, &quot;mobilelastactiontime&quot;: &quot;NONE&quot;, &quot;city_from_ip&quot;: &quot;NONE&quot;, &quot;l7&quot;: &quot;NONE&quot;, &quot;zip_prediction&quot;: &quot;NONE&quot;, &quot;email&quot;: &quot;EMAIL&quot;, &quot;mobile_l7_interface&quot;: &quot;NONE&quot;, &quot;facebookage&quot;: &quot;NONE&quot;, &quot;birthdayprivacy&quot;: &quot;NONE&quot;, &quot;days_since_confirmed_bracket&quot;: &quot;NONE&quot;, &quot;platform_active30day&quot;: &quot;NONE&quot;, &quot;landphone&quot;: &quot;PHONE&quot;, &quot;dob_day&quot;: &quot;NONE&quot;, &quot;hometown_geo_country_profile&quot;: &quot;NONE&quot;, &quot;platformlastactiontime&quot;: &quot;NONE&quot;, &quot;country&quot;: &quot;NONE&quot;, &quot;daily_first_timestamp&quot;: &quot;NONE&quot;, &quot;political&quot;: &quot;NONE&quot;, &quot;is1dayactive&quot;: &quot;NONE&quot;, &quot;ds&quot;: &quot;NONE&quot;, &quot;region_from_ip&quot;: &quot;NONE&quot;, &quot;platform_daily_first_timestamp&quot;: &quot;NONE&quot;, &quot;platform_active7day&quot;: &quot;NONE&quot;, &quot;primary_phone_device_model&quot;: &quot;NONE&quot;, &quot;is30dayactive&quot;: &quot;NONE&quot;, &quot;accountstatus&quot;: &quot;NONE&quot;, &quot;mobile_active1day_interface&quot;: &quot;NONE&quot;, &quot;primary_tablet_device_model&quot;: &quot;NONE&quot;, &quot;mobilephone&quot;: &quot;PHONE&quot;, &quot;contact&quot;: &quot;EMAIL&quot;, &quot;l28_bracket&quot;: &quot;NONE&quot;, &quot;is7dayactive&quot;: &quot;NONE&quot;, &quot;current_city_profile&quot;: &quot;NONE&quot;, &quot;age_bracket&quot;: &quot;NONE&quot;, &quot;ageatregistration&quot;: &quot;NONE&quot;, &quot;web_active7day&quot;: &quot;NONE&quot;, &quot;dob_month&quot;: &quot;NONE&quot;, &quot;android_year_class&quot;: &quot;NONE&quot;, &quot;platform_l28&quot;: &quot;NONE&quot;, &quot;days_since_last_action_bracket&quot;: &quot;NONE&quot;, &quot;web_l30&quot;: &quot;NONE&quot;, &quot;web_active28day&quot;: &quot;NONE&quot;, &quot;l28&quot;: &quot;NONE&quot;, &quot;mobile_active28day_interface&quot;: &quot;NONE&quot;, &quot;web_l28&quot;: &quot;NONE&quot;, &quot;platform_l30&quot;: &quot;NONE&quot;, &quot;name&quot;: &quot;UNAME&quot;, &quot;mobile_active28day&quot;: &quot;NONE&quot;, &quot;current_zip_profile&quot;: &quot;NONE&quot;, &quot;userregtime&quot;: &quot;NONE&quot;, &quot;firstname&quot;: &quot;UNAME&quot;, &quot;l30&quot;: &quot;NONE&quot;, &quot;locale&quot;: &quot;NONE&quot;, &quot;hsyear&quot;: &quot;NONE&quot;, &quot;primary_phone_os&quot;: &quot;NONE&quot;, &quot;current_geo_id_profile&quot;: &quot;NONE&quot;, &quot;web_l7&quot;: &quot;NONE&quot;, &quot;screenname&quot;: &quot;UNAME&quot;, &quot;platform_active1day&quot;: &quot;NONE&quot;, &quot;city_prediction&quot;: &quot;NONE&quot;, &quot;mobilelastactiontime_interface&quot;: &quot;NONE&quot;, &quot;reg_email&quot;: &quot;EMAIL&quot;, &quot;mobile_l28_interface&quot;: &quot;NONE&quot;, &quot;infoupdatetime&quot;: &quot;NONE&quot;, &quot;mobile_daily_first_timestamp&quot;: &quot;NONE&quot;, &quot;is28dayactive&quot;: &quot;NONE&quot;, &quot;platform_active28day&quot;: &quot;NONE&quot;, &quot;days_since_confirmed&quot;: &quot;NONE&quot;, &quot;web_active1day&quot;: &quot;NONE&quot;, &quot;relationshipstatus&quot;: &quot;NONE&quot;, &quot;subscriber_count&quot;: &quot;NONE&quot;, &quot;weblastactiontime&quot;: &quot;NONE&quot;, &quot;friend_count_bracket&quot;: &quot;NONE&quot;, &quot;age&quot;: &quot;NONE&quot;, &quot;mobile_active30day_interface&quot;: &quot;NONE&quot;, &quot;location_id_from_ip&quot;: &quot;NONE&quot;, &quot;primary_alias&quot;: &quot;UNAME&quot;}&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xcPg==</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB2YWwgdGVzdFJlbGF0aW9uID0gTG9jYWxSZWxhdGlvbignYS5pbnQsICdiLmludCwgJ2MuaW50KQogIHZhbCB0ZXN0UmVsYXRpb24xID0gTG9jYWxSZWxhdGlvbignZC5pbnQpCg==</text>
@@ -1448,21 +1449,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xcPg==</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xcPg==</last-pattern>
-      <last-replace>&quot;string&quot;</last-replace>
-      <last-substitute>assuming</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>\\&quot;</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3FsQ29udGV4dFw+</entry>
         <entry>Join</entry>
         <entry>Test join</entry>
         <entry encoding="base64">XDx0ZXN0UmVsYXRpb25cPg==</entry>
@@ -1482,9 +1482,9 @@
         <entry>deserialize</entry>
         <entry encoding="base64">XDxjcmVhdGVUYWJsZVw+</entry>
         <entry encoding="base64">XDxjb2xcPg==</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/SMALLINT/smallint/g</entry>
         <entry>q</entry>
         <entry>372</entry>
         <entry>%s/TINYINT/tinyint/g</entry>
@@ -1504,6 +1504,7 @@
         <entry>ew</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
