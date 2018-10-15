@@ -118,8 +118,8 @@
       <file name="$USER_HOME$/git/presto/presto-parser/src/main/antlr4/com/facebook/presto/sql/parser/SqlBase.g4" timestamp="1535679621945">
         <mark key="'" line="655" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1539304702745">
-        <mark key="'" line="34" column="14" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1539574907092">
+        <mark key="'" line="64" column="38" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/schema/Table.java" timestamp="1526323429345">
         <mark key="'" line="79" column="6" />
@@ -190,6 +190,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/scala/collection/SetLike.class" timestamp="1539042262755">
         <mark key="'" line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/table_properties/bi/fct_post_production.json" timestamp="1539575031229">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/plan/RelTraitSet.java" timestamp="1526337176951">
         <mark key="'" line="389" column="26" />
@@ -741,8 +747,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1536366673817">
         <mark key="'" line="381" column="54" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" timestamp="1539304869699">
-        <mark key="'" line="62" column="21" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" timestamp="1539574624740">
+        <mark key="'" line="7" column="2" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SpContextTest.java" timestamp="1535510542753">
         <mark key="'" line="10" column="4" />
@@ -987,8 +993,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFlowHackathonTest.java" timestamp="1526085849175">
         <mark key="'" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" timestamp="1539024411051">
-        <mark key="'" line="39" column="4" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" timestamp="1539574645649">
+        <mark key="'" line="29" column="10" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/metadata/BuiltInMetadata.java" timestamp="1525908576281">
         <mark key="'" line="193" column="46" />
@@ -1297,10 +1303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="13" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/JoinOptimizationSuite.scala" />
-      <jump line="42" column="8" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/JoinOptimizationSuite.scala" />
-      <jump line="303" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
-      <jump line="395" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="407" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="435" column="69" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
       <jump line="673" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
@@ -1397,6 +1399,10 @@
       <jump line="41" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
       <jump line="65" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
       <jump line="50" column="95" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
+      <jump line="7" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" />
+      <jump line="29" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" />
+      <jump line="114" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
+      <jump line="64" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1409,7 +1415,7 @@
         <text>Unit</text>
       </register>
       <register name="/" type="4">
-        <text>deserialize</text>
+        <text encoding="base64">XDxjb2xcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB2YWwgdGVzdFJlbGF0aW9uID0gTG9jYWxSZWxhdGlvbignYS5pbnQsICdiLmludCwgJ2MuaW50KQogIHZhbCB0ZXN0UmVsYXRpb24xID0gTG9jYWxSZWxhdGlvbignZC5pbnQpCg==</text>
@@ -1446,18 +1452,16 @@
       </register>
     </registers>
     <search>
-      <last-search>deserialize</last-search>
+      <last-search encoding="base64">XDxjb2xcPg==</last-search>
       <last-offset />
-      <last-pattern>deserialize</last-pattern>
+      <last-pattern encoding="base64">XDxjb2xcPg==</last-pattern>
       <last-replace>&quot;string&quot;</last-replace>
       <last-substitute>assuming</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcHRpbWl6ZWRQbGFuXD4=</entry>
-        <entry encoding="base64">XDxfc3BhcmtTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxfc3FsQ29udGV4dFw+</entry>
         <entry>Join</entry>
         <entry>Test join</entry>
@@ -1476,6 +1480,8 @@
         <entry encoding="base64">XDxjb25kaXRpb25zXD4=</entry>
         <entry>expressions</entry>
         <entry>deserialize</entry>
+        <entry encoding="base64">XDxjcmVhdGVUYWJsZVw+</entry>
+        <entry encoding="base64">XDxjb2xcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SMALLINT/smallint/g</entry>
