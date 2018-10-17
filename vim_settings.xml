@@ -359,6 +359,9 @@
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/worker/DriverRunner.scala" timestamp="1529625926103">
         <mark key="'" line="215" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" timestamp="1539734634495">
+        <mark key="'" line="154" column="6" />
+      </file>
       <file name="/Dummy.scala" timestamp="1539729297715">
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -770,12 +773,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/interpreter/Bindables.java" timestamp="1526323351150">
         <mark key="'" line="192" column="12" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" timestamp="1539732948157">
-        <mark key="'" line="126" column="15" />
-        <mark key="[" line="158" column="19" />
-        <mark key="]" line="158" column="19" />
-        <mark key="." line="158" column="19" />
-        <mark key="^" line="158" column="19" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" timestamp="1539734738247">
+        <mark key="'" line="69" column="25" />
+        <mark key="[" line="69" column="94" />
+        <mark key="]" line="70" column="32" />
+        <mark key="." line="70" column="32" />
+        <mark key="^" line="70" column="32" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/core/Sort.java" timestamp="1531421155608">
         <mark key="'" line="62" column="13" />
@@ -1419,16 +1422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
-      <jump line="131" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
-      <jump line="136" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
-      <jump line="108" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
-      <jump line="52" column="9" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
-      <jump line="33" column="12" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/finishAnalysis.scala" />
-      <jump line="55" column="9" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
-      <jump line="139" column="43" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/RewriteDistinctAggregates.scala" />
-      <jump line="136" column="10" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/RewriteDistinctAggregates.scala" />
-      <jump line="178" column="10" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/RewriteDistinctAggregates.scala" />
       <jump line="181" column="17" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/RewriteDistinctAggregates.scala" />
       <jump line="163" column="34" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/RewriteDistinctAggregates.scala" />
       <jump line="148" column="39" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/RewriteDistinctAggregates.scala" />
@@ -1519,58 +1512,68 @@
       <jump line="127" column="53" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
       <jump line="159" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
       <jump line="126" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
+      <jump line="85" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
+      <jump line="69" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymizationDuplicate.scala" />
+      <jump line="211" column="53" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" />
+      <jump line="213" column="73" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" />
+      <jump line="215" column="49" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" />
+      <jump line="217" column="53" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" />
+      <jump line="37" column="28" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" />
+      <jump line="150" column="40" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" />
+      <jump line="152" column="40" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" />
+      <jump line="154" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiBPcHRpb25bU3RyaW5nXSA=</text>
+        <text>Map.empty[HiveAnonIdType, AttributeReference]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBPcHRpb25bU3RyaW5nXSA=</text>
+        <text>Map.empty[HiveAnonIdType, AttributeReference]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbk9wZXJhdGlvblw+</text>
+        <text>fold</text>
       </register>
       <register name="0" type="4">
-        <text>Project(Seq(UnresolvedAttribute(&quot;dim_uid_to_rid.uid&quot;), UnresolvedAttribute(&quot;dim_uid_to_rid.rid&quot;)), Filter())</text>
+        <text>attributeToRelationPolicy(a)._2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmlkVG9VaWQgPSBnZXRVaWRQbGFuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHVzZWRBdHRyaWJ1dGVzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVpZENvbHVtbnMuZm9yZWFjaCB7CiAgICAgIGF0dHJpYnV0ZSA9Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlbGF0aW9uIHRyYW5zZm9ybURvd24gewogICAgICBjYXNlIGxkcjogTG9naWNhbERhdGFzZXRSZWxhdGlvbiA9PgogICAgICAgIHZhbCBkc1ZhbHVlID0gcmVsYXRpb24uZGF0YXNldC5wYXJ0aXRpb25zLmdldCgiZHMiKSBtYXRjaCB7CiAgICAgICAgICBjYXNlIGRzTGlzdDogSW5PcGVyYXRpb24gPT4KICAgICAgICAgICAgZHNMaXN0Lm9wdGlvbnMuZ2V0KDApCiAgICAgICAgfQogICAgICAgIHZhbCByaWRUb1VpZCA9IGdldFVpZFBsYW4oKQogICAgICAgIGxkcgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcmVsID0+CiAgICAgICAgdmFsIHVpZEF0dHJpYnV0ZXMgPSByZWwuZXhwZWN0ZWRPdXRwdXRBdHRyaWJ1dGVzLmdldC5mb2xkKE1hcC5lbXB0eSkgewogICAgICAgICAgY2FzZSBhOiBBdHRyaWJ1dGVSZWZlcmVuY2UgPT4KICAgICAgICAgICAgaWYgKGFsbEF0dHJpYnV0ZXMuY29udGFpbnMoYSkpIHsKICAgICAgICAgICAgICB2YWwgcG9saWN5ID0gYXR0cmlidXRlVG9SZWxhdGlvblBvbGljeShhKS5fMgogICAgICAgICAgICAgIGdldElkVHlwZShwb2xpY3kpIG1hdGNoIHsKICAgICAgICAgICAgICAgIGNhc2UgSUdfRkJJRCA9PiBPcHRpb24oKQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICBOb25lCiAgICAgICAgICAgIH0KICAgICAgICAgIGNhc2UgbyA9PiBOb25lCiAgICAgICAgfQogICAgICAgIChyZWwsIHVpZEF0dHJpYnV0ZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVpZENvbHVtbnMuZm9yZWFjaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFByb2plY3QobGRyLmV4cGVjdGVkT3V0cHV0QXR0cmlidXRlcy5nZXQsIEpvaW4oKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYWxsQXR0cmlidXRlcy5jb250YWlucyhhKSAmJgogICAgICAgICAgICAgIChnZXRJZFR5cGUoYXR0cmlidXRlVG9SZWxhdGlvblBvbGljeShhKS5fMikgPT0gVUlEIHx8CiAgICAgICAgICAgICAgICBnZXRJZFR5cGUoYXR0cmlidXRlVG9SZWxhdGlvblBvbGljeShhKS5fMikgPT0gSUdJRCB8fAogICAgICAgICAgICAgICAgZ2V0SWRUeXBlKGF0dHJpYnV0ZVRvUmVsYXRpb25Qb2xpY3koYSkuXzIpID09IElHX0ZCSUQpID0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBnZXRVaWRQbGFuKGRzVmFsdWU6IFN0cmluZyk6IExvZ2ljYWxQbGFuID0gewogICAgdmFsIGRpbVJpZFRvUmlkUmVsYXRpb24gPSBVbnJlc29sdmVkUmVsYXRpb24oVGFibGVJZGVudGlmaWVyKCJkaW1fdWlkX3RvX3JpZCIpKQogICAgdmFsIGZpbHRlciA9IEZpbHRlcihFcXVhbFRvKFVucmVzb2x2ZWRBdHRyaWJ1dGUoImRzIiksIExpdGVyYWwoZHNWYWx1ZSwgU3RyaW5nVHlwZSkpLCBkaW1SaWRUb1JpZFJlbGF0aW9uKQogICAgdmFsIHByb2plY3QgPSBQcm9qZWN0KFNlcShVbnJlc29sdmVkQXR0cmlidXRlKCJ1aWQiKSwgVW5yZXNvbHZlZEF0dHJpYnV0ZSgicmlkIikpLCBmaWx0ZXIpCiAgICBwcm9qZWN0CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZGVmIGdldFVpZFBsYW4oZHNWYWx1ZTogU3RyaW5nKTogTG9naWNhbFBsYW4gPSB7CiAgICAgIHZhbCBkaW1SaWRUb1JpZFJlbGF0aW9uID0gVW5yZXNvbHZlZFJlbGF0aW9uKFRhYmxlSWRlbnRpZmllcigiZGltX3VpZF90b19yaWQiKSkKICAgICAgdmFsIGZpbHRlciA9IEZpbHRlcihFcXVhbFRvKFVucmVzb2x2ZWRBdHRyaWJ1dGUoImRzIiksIExpdGVyYWwoZHNWYWx1ZSwgU3RyaW5nVHlwZSkpLCByZWxhdGlvbikKICAgICAgdmFsIHByb2plY3QgPSBQcm9qZWN0KFNlcShVbnJlc29sdmVkQXR0cmlidXRlKCJ1aWQiKSwgVW5yZXNvbHZlZEF0dHJpYnV0ZSgicmlkIikpLCBmaWx0ZXIpCiAgICAgIHByb2plY3QKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbk9wZXJhdGlvblw+</last-search>
+      <last-search>fold</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbk9wZXJhdGlvblw+</last-pattern>
+      <last-pattern>fold</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1578,8 +1581,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGxSZWxhdGlvbnNcPg==</entry>
-        <entry>partitions</entry>
         <entry encoding="base64">XDxhZnRlclJ1bGVcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1Eb3duXD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJOb2RlXD4=</entry>
@@ -1598,6 +1599,8 @@
         <entry encoding="base64">XDxkc1ZhbHVlXD4=</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25zXD4=</entry>
         <entry encoding="base64">XDxJbk9wZXJhdGlvblw+</entry>
+        <entry encoding="base64">XDxyZWxhdGlvblRvSWdGYklkSWRBdHRyaWJ1dGVzXD4=</entry>
+        <entry>fold</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TINYINT/tinyint/g</entry>
