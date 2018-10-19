@@ -632,7 +632,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" timestamp="1532471519858">
         <mark key="'" line="128" column="11" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" timestamp="1539973512756">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" timestamp="1539981329684">
         <mark key="'" line="43" column="32" />
         <mark key="[" line="2" column="89" />
         <mark key="]" line="2" column="124" />
@@ -1312,8 +1312,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/dsl/package.scala" timestamp="1539023866714">
         <mark key="'" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmColumnPruning.scala" timestamp="1539979111031">
-        <mark key="'" line="92" column="27" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmColumnPruning.scala" timestamp="1539981313670">
+        <mark key="'" line="15" column="14" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-bumblebee/src/main/scala/com/facebook/fblearner/plasma/PlasmaSparkErrorClassificationHandler.scala" timestamp="1531870867215">
         <mark key="'" line="45" column="35" />
@@ -1468,8 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/internal/Logging.scala" />
-      <jump line="53" column="31" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/internal/Logging.scala" />
       <jump line="10" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmPrestoCatalog.scala" />
       <jump line="16" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmPrestoCatalog.scala" />
       <jump line="38" column="7" filename="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar!/org/slf4j/Logger.class" />
@@ -1568,6 +1566,8 @@
       <jump line="8" column="78" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/TestRule.scala" />
       <jump line="343" column="7" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
       <jump line="92" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmColumnPruning.scala" />
+      <jump line="85" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmColumnPruning.scala" />
+      <jump line="15" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmColumnPruning.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1580,7 +1580,7 @@
         <text>child</text>
       </register>
       <register name="/" type="4">
-        <text>ColumnPruning</text>
+        <text encoding="base64">XDxzYW1lT3V0cHV0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIEF0dGVtcHRzIHRvIGVsaW1pbmF0ZSB0aGUgcmVhZGluZyBvZiB1bm5lZWRlZCBjb2x1bW5zIGZyb20gdGhlIHF1ZXJ5IHBsYW4uCiAqCiAqIFNpbmNlIGFkZGluZyBQcm9qZWN0IGJlZm9yZSBGaWx0ZXIgY29uZmxpY3RzIHdpdGggUHVzaFByZWRpY2F0ZXNUaHJvdWdoUHJvamVjdCwgdGhpcyBydWxlIHdpbGwKICogcmVtb3ZlIHRoZSBQcm9qZWN0IHAyIGluIHRoZSBmb2xsb3dpbmcgcGF0dGVybjoKICoKICogICBwMSBAIFByb2plY3QoXywgRmlsdGVyKF8sIHAyIEAgUHJvamVjdChfLCBjaGlsZCkpKSBpZiBwMi5vdXRwdXRTZXQuc3Vic2V0T2YocDIuaW5wdXRTZXQpCiAqCiAqIHAyIGlzIHVzdWFsbHkgaW5zZXJ0ZWQgYnkgdGhpcyBydWxlIGFuZCB1c2VsZXNzLCBwMSBjb3VsZCBwcnVuZSB0aGUgY29sdW1ucyBhbnl3YXkuCiAqLwpvYmplY3QgQ29sdW1uUHJ1bmluZyBleHRlbmRzIFJ1bGVbTG9naWNhbFBsYW5dIHsKICBwcml2YXRlIGRlZiBzYW1lT3V0cHV0KG91dHB1dDE6IFNlcVtBdHRyaWJ1dGVdLCBvdXRwdXQyOiBTZXFbQXR0cmlidXRlXSk6IEJvb2xlYW4gPQogICAgb3V0cHV0MS5zaXplID09IG91dHB1dDIuc2l6ZSAmJgogICAgICBvdXRwdXQxLnppcChvdXRwdXQyKS5mb3JhbGwocGFpciA9PiBwYWlyLl8xLnNlbWFudGljRXF1YWxzKHBhaXIuXzIpKQoKICBkZWYgYXBwbHkocGxhbjogTG9naWNhbFBsYW4pOiBMb2dpY2FsUGxhbiA9IHJlbW92ZVByb2plY3RCZWZvcmVGaWx0ZXIocGxhbiB0cmFuc2Zvcm0gewogICAgLy8gUHJ1bmVzIHRoZSB1bnVzZWQgY29sdW1ucyBmcm9tIHByb2plY3QgbGlzdCBvZiBQcm9qZWN0L0FnZ3JlZ2F0ZS9FeHBhbmQKICAgIGNhc2UgcCBAIFByb2plY3QoXywgcDI6IFByb2plY3QpIGlmIChwMi5vdXRwdXRTZXQgLS0gcC5yZWZlcmVuY2VzKS5ub25FbXB0eSA9PgogICAgICBwLmNvcHkoY2hpbGQgPSBwMi5jb3B5KHByb2plY3RMaXN0ID0gcDIucHJvamVjdExpc3QuZmlsdGVyKHAucmVmZXJlbmNlcy5jb250YWlucykpKQogICAgY2FzZSBwIEAgUHJvamVjdChfLCBhOiBBZ2dyZWdhdGUpIGlmIChhLm91dHB1dFNldCAtLSBwLnJlZmVyZW5jZXMpLm5vbkVtcHR5ID0+CiAgICAgIHAuY29weSgKICAgICAgICBjaGlsZCA9IGEuY29weShhZ2dyZWdhdGVFeHByZXNzaW9ucyA9IGEuYWdncmVnYXRlRXhwcmVzc2lvbnMuZmlsdGVyKHAucmVmZXJlbmNlcy5jb250YWlucykpKQogICAgY2FzZSBhIEAgUHJvamVjdChfLCBlIEAgRXhwYW5kKF8sIF8sIGdyYW5kQ2hpbGQpKSBpZiAoZS5vdXRwdXRTZXQgLS0gYS5yZWZlcmVuY2VzKS5ub25FbXB0eSA9PgogICAgICB2YWwgbmV3T3V0cHV0ID0gZS5vdXRwdXQuZmlsdGVyKGEucmVmZXJlbmNlcy5jb250YWlucyhfKSkKICAgICAgdmFsIG5ld1Byb2plY3RzID0gZS5wcm9qZWN0aW9ucy5tYXAgeyBwcm9qID0+CiAgICAgICAgcHJvai56aXAoZS5vdXRwdXQpLmZpbHRlciB7IGNhc2UgKF8sIGEpID0+CiAgICAgICAgICBuZXdPdXRwdXQuY29udGFpbnMoYSkKICAgICAgICB9LnVuemlwLl8xCiAgICAgIH0KICAgICAgYS5jb3B5KGNoaWxkID0gRXhwYW5kKG5ld1Byb2plY3RzLCBuZXdPdXRwdXQsIGdyYW5kQ2hpbGQpKQoKICAgIC8vIFBydW5lcyB0aGUgdW51c2VkIGNvbHVtbnMgZnJvbSBjaGlsZCBvZiBgRGVzZXJpYWxpemVUb09iamVjdGAKICAgIGNhc2UgZCBAIERlc2VyaWFsaXplVG9PYmplY3QoXywgXywgY2hpbGQpIGlmIChjaGlsZC5vdXRwdXRTZXQgLS0gZC5yZWZlcmVuY2VzKS5ub25FbXB0eSA9PgogICAgICBkLmNvcHkoY2hpbGQgPSBwcnVuZWRDaGlsZChjaGlsZCwgZC5yZWZlcmVuY2VzKSkKCiAgICAvLyBQcnVuZXMgdGhlIHVudXNlZCBjb2x1bW5zIGZyb20gY2hpbGQgb2YgQWdncmVnYXRlL0V4cGFuZC9HZW5lcmF0ZQogICAgY2FzZSBhIEAgQWdncmVnYXRlKF8sIF8sIGNoaWxkKSBpZiAoY2hpbGQub3V0cHV0U2V0IC0tIGEucmVmZXJlbmNlcykubm9uRW1wdHkgPT4KICAgICAgYS5jb3B5KGNoaWxkID0gcHJ1bmVkQ2hpbGQoY2hpbGQsIGEucmVmZXJlbmNlcykpCiAgICBjYXNlIGUgQCBFeHBhbmQoXywgXywgY2hpbGQpIGlmIChjaGlsZC5vdXRwdXRTZXQgLS0gZS5yZWZlcmVuY2VzKS5ub25FbXB0eSA9PgogICAgICBlLmNvcHkoY2hpbGQgPSBwcnVuZWRDaGlsZChjaGlsZCwgZS5yZWZlcmVuY2VzKSkKICAgIGNhc2UgZzogR2VuZXJhdGUgaWYgIWcuam9pbiAmJiAoZy5jaGlsZC5vdXRwdXRTZXQgLS0gZy5yZWZlcmVuY2VzKS5ub25FbXB0eSA9PgogICAgICBnLmNvcHkoY2hpbGQgPSBwcnVuZWRDaGlsZChnLmNoaWxkLCBnLnJlZmVyZW5jZXMpKQoKICAgIC8vIFR1cm4gb2ZmIGBqb2luYCBmb3IgR2VuZXJhdGUgaWYgbm8gY29sdW1uIGZyb20gaXQncyBjaGlsZCBpcyB1c2VkCiAgICBjYXNlIHAgQCBQcm9qZWN0KF8sIGc6IEdlbmVyYXRlKQogICAgICAgIGlmIGcuam9pbiAmJiAhZy5vdXRlciAmJiBwLnJlZmVyZW5jZXMuc3Vic2V0T2YoZy5nZW5lcmF0ZWRTZXQpID0+CiAgICAgIHAuY29weShjaGlsZCA9IGcuY29weShqb2luID0gZmFsc2UpKQoKICAgIC8vIEVsaW1pbmF0ZSB1bm5lZWRlZCBhdHRyaWJ1dGVzIGZyb20gcmlnaHQgc2lkZSBvZiBhIExlZnQgRXhpc3RlbmNlIEpvaW4uCiAgICBjYXNlIGogQCBKb2luKF8sIHJpZ2h0LCBMZWZ0RXhpc3RlbmNlKF8pLCBfKSA9PgogICAgICBqLmNvcHkocmlnaHQgPSBwcnVuZWRDaGlsZChyaWdodCwgai5yZWZlcmVuY2VzKSkKCiAgICAvLyBhbGwgdGhlIGNvbHVtbnMgd2lsbCBiZSB1c2VkIHRvIGNvbXBhcmUsIHNvIHdlIGNhbid0IHBydW5lIHRoZW0KICAgIGNhc2UgcCBAIFByb2plY3QoXywgXzogU2V0T3BlcmF0aW9uKSA9PiBwCiAgICBjYXNlIHAgQCBQcm9qZWN0KF8sIF86IERpc3RpbmN0KSA9PiBwCiAgICAvLyBFbGltaW5hdGUgdW5uZWVkZWQgYXR0cmlidXRlcyBmcm9tIGNoaWxkcmVuIG9mIFVuaW9uLgogICAgY2FzZSBwIEAgUHJvamVjdChfLCB1OiBVbmlvbikgPT4KICAgICAgaWYgKCh1Lm91dHB1dFNldCAtLSBwLnJlZmVyZW5jZXMpLm5vbkVtcHR5KSB7CiAgICAgICAgdmFsIGZpcnN0Q2hpbGQgPSB1LmNoaWxkcmVuLmhlYWQKICAgICAgICB2YWwgbmV3T3V0cHV0ID0gcHJ1bmVkQ2hpbGQoZmlyc3RDaGlsZCwgcC5yZWZlcmVuY2VzKS5vdXRwdXQKICAgICAgICAvLyBwcnVuaW5nIHRoZSBjb2x1bW5zIG9mIGFsbCBjaGlsZHJlbiBiYXNlZCBvbiB0aGUgcHJ1bmVkIGZpcnN0IGNoaWxkLgogICAgICAgIHZhbCBuZXdDaGlsZHJlbiA9IHUuY2hpbGRyZW4ubWFwIHsgcCA9PgogICAgICAgICAgdmFsIHNlbGVjdGVkID0gcC5vdXRwdXQuemlwV2l0aEluZGV4LmZpbHRlciB7IGNhc2UgKGEsIGkpID0+CiAgICAgICAgICAgIG5ld091dHB1dC5jb250YWlucyhmaXJzdENoaWxkLm91dHB1dChpKSkKICAgICAgICAgIH0ubWFwKF8uXzEpCiAgICAgICAgICBQcm9qZWN0KHNlbGVjdGVkLCBwKQogICAgICAgIH0KICAgICAgICBwLmNvcHkoY2hpbGQgPSB1LndpdGhOZXdDaGlsZHJlbihuZXdDaGlsZHJlbikpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgcAogICAgICB9CgogICAgLy8gUHJ1bmUgdW5uZWNlc3Nhcnkgd2luZG93IGV4cHJlc3Npb25zCiAgICBjYXNlIHAgQCBQcm9qZWN0KF8sIHc6IFdpbmRvdykgaWYgKHcud2luZG93T3V0cHV0U2V0IC0tIHAucmVmZXJlbmNlcykubm9uRW1wdHkgPT4KICAgICAgcC5jb3B5KGNoaWxkID0gdy5jb3B5KAogICAgICAgIHdpbmRvd0V4cHJlc3Npb25zID0gdy53aW5kb3dFeHByZXNzaW9ucy5maWx0ZXIocC5yZWZlcmVuY2VzLmNvbnRhaW5zKSkpCgogICAgLy8gRWxpbWluYXRlIG5vLW9wIFdpbmRvdwogICAgY2FzZSB3OiBXaW5kb3cgaWYgdy53aW5kb3dFeHByZXNzaW9ucy5pc0VtcHR5ID0+IHcuY2hpbGQKCiAgICAvLyBFbGltaW5hdGUgbm8tb3AgUHJvamVjdHMKICAgIGNhc2UgcCBAIFByb2plY3QoXywgY2hpbGQpIGlmIHNhbWVPdXRwdXQoY2hpbGQub3V0cHV0LCBwLm91dHB1dCkgPT4gY2hpbGQKCiAgICAvLyBDYW4ndCBwcnVuZSB0aGUgY29sdW1ucyBvbiBMZWFmTm9kZQogICAgY2FzZSBwIEAgUHJvamVjdChfLCBfOiBMZWFmTm9kZSkgPT4gcAoKICAgIC8vIGZvciBhbGwgb3RoZXIgbG9naWNhbCBwbGFucyB0aGF0IGluaGVyaXRzIHRoZSBvdXRwdXQgZnJvbSBpdCdzIGNoaWxkcmVuCiAgICBjYXNlIHAgQCBQcm9qZWN0KF8sIGNoaWxkKSA9PgogICAgICB2YWwgcmVxdWlyZWQgPSBjaGlsZC5yZWZlcmVuY2VzICsrIHAucmVmZXJlbmNlcwogICAgICBpZiAoKGNoaWxkLmlucHV0U2V0IC0tIHJlcXVpcmVkKS5ub25FbXB0eSkgewogICAgICAgIHZhbCBuZXdDaGlsZHJlbiA9IGNoaWxkLmNoaWxkcmVuLm1hcChjID0+IHBydW5lZENoaWxkKGMsIHJlcXVpcmVkKSkKICAgICAgICBwLmNvcHkoY2hpbGQgPSBjaGlsZC53aXRoTmV3Q2hpbGRyZW4obmV3Q2hpbGRyZW4pKQogICAgICB9IGVsc2UgewogICAgICAgIHAKICAgICAgfQogIH0pCgogIC8qKiBBcHBsaWVzIGEgcHJvamVjdGlvbiBvbmx5IHdoZW4gdGhlIGNoaWxkIGlzIHByb2R1Y2luZyB1bm5lY2Vzc2FyeSBhdHRyaWJ1dGVzICovCiAgcHJpdmF0ZSBkZWYgcHJ1bmVkQ2hpbGQoYzogTG9naWNhbFBsYW4sIGFsbFJlZmVyZW5jZXM6IEF0dHJpYnV0ZVNldCkgPQogICAgaWYgKChjLm91dHB1dFNldCAtLSBhbGxSZWZlcmVuY2VzLmZpbHRlcihjLm91dHB1dFNldC5jb250YWlucykpLm5vbkVtcHR5KSB7CiAgICAgIFByb2plY3QoYy5vdXRwdXQuZmlsdGVyKGFsbFJlZmVyZW5jZXMuY29udGFpbnMpLCBjKQogICAgfSBlbHNlIHsKICAgICAgYwogICAgfQoKICAvKioKICAgKiBUaGUgUHJvamVjdCBiZWZvcmUgRmlsdGVyIGlzIG5vdCBuZWNlc3NhcnkgYnV0IGNvbmZsaWN0IHdpdGggUHVzaFByZWRpY2F0ZXNUaHJvdWdoUHJvamVjdCwKICAgKiBzbyByZW1vdmUgaXQuCiAgICovCiAgcHJpdmF0ZSBkZWYgcmVtb3ZlUHJvamVjdEJlZm9yZUZpbHRlcihwbGFuOiBMb2dpY2FsUGxhbik6IExvZ2ljYWxQbGFuID0gcGxhbiB0cmFuc2Zvcm0gewogICAgY2FzZSBwMSBAIFByb2plY3QoXywgZiBAIEZpbHRlcihfLCBwMiBAIFByb2plY3QoXywgY2hpbGQpKSkKICAgICAgaWYgcDIub3V0cHV0U2V0LnN1YnNldE9mKGNoaWxkLm91dHB1dFNldCkgPT4KICAgICAgcDEuY29weShjaGlsZCA9IGYuY29weShjaGlsZCA9IGNoaWxkKSkKICB9Cn0K</text>
@@ -1617,9 +1617,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ColumnPruning</last-search>
+      <last-search encoding="base64">XDxzYW1lT3V0cHV0XD4=</last-search>
       <last-offset />
-      <last-pattern>ColumnPruning</last-pattern>
+      <last-pattern encoding="base64">XDxzYW1lT3V0cHV0XD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1627,7 +1627,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxpc0J1aWxkTW9kZVw+</entry>
         <entry>needsAnon</entry>
         <entry>PST</entry>
@@ -1647,6 +1646,7 @@
         <entry encoding="base64">XDxsb2dpY2FsUGxhblw+</entry>
         <entry>Distinct</entry>
         <entry>ColumnPruning</entry>
+        <entry encoding="base64">XDxzYW1lT3V0cHV0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/STRING/string/g</entry>
