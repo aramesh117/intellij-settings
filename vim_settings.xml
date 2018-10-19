@@ -108,12 +108,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalFilter.java" timestamp="1525911378380">
         <mark key="'" line="47" column="41" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1539909120627">
-        <mark key="'" line="191" column="13" />
-        <mark key="[" line="207" column="55" />
-        <mark key="]" line="207" column="54" />
-        <mark key="." line="207" column="54" />
-        <mark key="^" line="207" column="54" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1539910168836">
+        <mark key="'" line="207" column="93" />
+        <mark key="[" line="207" column="103" />
+        <mark key="]" line="207" column="114" />
+        <mark key="." line="207" column="114" />
+        <mark key="^" line="207" column="114" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/VolcanoPlannerTraitTest.java" timestamp="1526330098311">
         <mark key="'" line="511" column="50" />
@@ -628,12 +628,6 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" timestamp="1532471519858">
         <mark key="'" line="128" column="11" />
-      </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" timestamp="1539844025122">
-        <mark key="'" line="39" column="23" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/adapter/enumerable/PhysType.java" timestamp="1526323591186">
         <mark key="'" line="63" column="2" />
@@ -1329,6 +1323,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/PlasmaHiveContext.scala" timestamp="1530228813690">
         <mark key="'" line="28" column="13" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/time/ZoneId.java" timestamp="1539909165820">
+        <mark key="'" line="233" column="42" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DistinctOperator.java" timestamp="1536615763235">
         <mark key="'" line="6" column="38" />
         <mark key="[" line="8" column="16" />
@@ -1452,8 +1449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="110" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="103" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="111" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="109" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -1552,19 +1547,21 @@
       <jump line="146" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="192" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="37" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="207" column="93" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="233" column="42" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/time/ZoneId.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LocalDate.</text>
+        <text>ZoneId.SHORT_IDS</text>
       </register>
       <register name="-" type="4">
-        <text>LocalDate.</text>
+        <text>ZoneId.SHORT_IDS</text>
       </register>
       <register name="/" type="4">
-        <text>needsAnon</text>
+        <text>PST</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgc2NoZWR1bGU6IFNjaGVkdWxlID0gU2NoZWR1bGUudmFsdWVPZihjb25maWcuZ2V0U2NoZWR1bGUudG9VcHBlckNhc2Uuc3Vic3RyaW5nKDEpKQo=</text>
@@ -1601,9 +1598,9 @@
       </register>
     </registers>
     <search>
-      <last-search>needsAnon</last-search>
+      <last-search>PST</last-search>
       <last-offset />
-      <last-pattern>needsAnon</last-pattern>
+      <last-pattern>PST</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1611,7 +1608,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assuming</entry>
         <entry>dataFrameSave</entry>
         <entry encoding="base64">XDxwcm9kdWNlRGF0YXNldFw+</entry>
         <entry encoding="base64">XDxvdXRwdXREYXRhc2V0XD4=</entry>
@@ -1631,6 +1627,7 @@
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxpc0J1aWxkTW9kZVw+</entry>
         <entry>needsAnon</entry>
+        <entry>PST</entry>
       </history-search>
       <history-cmd>
         <entry>%s/STRING/string/g</entry>
