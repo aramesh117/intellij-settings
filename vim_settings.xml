@@ -108,7 +108,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalFilter.java" timestamp="1525911378380">
         <mark key="'" line="47" column="41" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1540235542216">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1540236264620">
         <mark key="'" line="323" column="4" />
         <mark key="[" line="295" column="91" />
         <mark key="]" line="295" column="94" />
@@ -376,7 +376,7 @@
       <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableOnce.scala" timestamp="1539734634495">
         <mark key="'" line="154" column="6" />
       </file>
-      <file name="/Dummy.scala" timestamp="1540233444874">
+      <file name="/Dummy.scala" timestamp="1540237088483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -588,7 +588,6 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1534459634403">
         <mark key="'" line="851" column="11" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/analysis/CheckAnalysis.scala" timestamp="1540233948065" />
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/package.scala" timestamp="1539389450631">
         <mark key="'" line="111" column="8" />
       </file>
@@ -1092,7 +1091,7 @@
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/planner/Plan.java" timestamp="1535679400732">
         <mark key="'" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1540235596676">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1540236304220">
         <mark key="'" line="151" column="15" />
         <mark key="[" line="116" column="28" />
         <mark key="]" line="116" column="28" />
@@ -1150,8 +1149,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/target/generated-sources/antlr4/com/facebook/upm/hive/schema/HiveTypeParser.java" timestamp="1532996480037">
         <mark key="'" line="234" column="41" />
       </file>
-      <file name="/fragment.java" timestamp="1540233526658">
+      <file name="/fragment.java" timestamp="1540237149756">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="54" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/operators/GroupByElements.java" timestamp="1532372511667">
         <mark key="'" line="77" column="15" />
@@ -1354,7 +1356,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/hive/hive-thrift/0.11.0-FB-18/hive-thrift-0.11.0-FB-18-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" timestamp="1539124771339">
         <mark key="'" line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/operators/TreeNode.scala" timestamp="1540232638378" />
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-sql_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/execution/SparkOptimizer.scala" timestamp="1539898217468">
         <mark key="'" line="29" column="10" />
       </file>
@@ -1593,13 +1594,13 @@
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>renamed</text>
+        <text>new UpmSparkSqlBuilder(logicalPlan.asInstanceOf[Project].child.asInstanceOf[Project].child.asInstanceOf[Filter].child.asInstanceOf[SubqueryAlias].child.asInstanceOf[Project].child.asInstanceOf[Join].right.asInstanceOf[SubqueryAlias].child).toSQ</text>
       </register>
       <register name="-" type="4">
-        <text>renamed</text>
+        <text>new UpmSparkSqlBuilder(logicalPlan.asInstanceOf[Project].child.asInstanceOf[Project].child.asInstanceOf[Filter].child.asInstanceOf[SubqueryAlias].child.asInstanceOf[Project].child.asInstanceOf[Join].right.asInstanceOf[SubqueryAlias].child).toSQ</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbm9uRGF0YXNldFJlbGF0aW9uXD4=</text>
+        <text>(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIFBydW5lcyB0aGUgdW51c2VkIGNvbHVtbnMgZnJvbSBwcm9qZWN0IGxpc3Qgb2YgUHJvamVjdC9BZ2dyZWdhdGUvRXhwYW5kCiAgICBjYXNlIHAgQCBQcm9qZWN0KF8sIHAyOiBQcm9qZWN0KSBpZiAocDIub3V0cHV0U2V0IC0tIHAucmVmZXJlbmNlcykubm9uRW1wdHkgPT4KICAgICAgcC5jb3B5KGNoaWxkID0gcDIuY29weShwcm9qZWN0TGlzdCA9IHAyLnByb2plY3RMaXN0LmZpbHRlcihwLnJlZmVyZW5jZXMuY29udGFpbnMpKSkK</text>
@@ -1636,17 +1637,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbm9uRGF0YXNldFJlbGF0aW9uXD4=</last-search>
+      <last-search>(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbm9uRGF0YXNldFJlbGF0aW9uXD4=</last-pattern>
+      <last-pattern>(</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYW1lT3V0cHV0XD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVQcm9qZWN0QmVmb3JlRmlsdGVyXD4=</entry>
         <entry>Prunes the</entry>
         <entry encoding="base64">XDxwcnVuZWRQbGFuXD4=</entry>
@@ -1666,6 +1666,7 @@
         <entry encoding="base64">XDxsb2dpY2FsRGF0YXNldE1hcFw+</entry>
         <entry encoding="base64">XDxyZW5hbWVkXD4=</entry>
         <entry encoding="base64">XDxhbm9uRGF0YXNldFJlbGF0aW9uXD4=</entry>
+        <entry>(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/STRING/string/g</entry>
