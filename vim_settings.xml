@@ -323,8 +323,10 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/RelCollationImpl.java" timestamp="1526324275985">
         <mark key="'" line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalNonSql.scala" timestamp="1536706218961">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalNonSql.scala" timestamp="1540414689864">
         <mark key="'" line="9" column="10" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1539838580479">
         <mark key="'" line="120" column="49" />
@@ -1551,7 +1553,7 @@
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSBhbm9uSW5mb01hcHBpbmdzLm1hcFZhbHVlcyhhbm9uSW5mbyA9PiB7CiAgICAgIHZhbCBvcmlnaW5hbCA9IGFub25JbmZvLnVzZXJJZFRvUmlkVGFibGUKICAgICAgdmFsIHRhYmxlID0gb3JpZ2luYWwuc3Vic3RyaW5nKDAsIG9yaWdpbmFsLmluZGV4T2YoJzonKSkKICAgICAgYW5vbkluZm8uY29weSh1c2VySWRUb1JpZFRhYmxlID0gdGFibGUpCiAgICB9KQ==</text>
+        <text>UpmPhysicalNonSql</text>
       </register>
       <register name="-" type="4">
         <text>.toUpperCase()</text>
@@ -1560,7 +1562,7 @@
         <text encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YW5vbkluZm9NYXBwaW5ncy5tYXBWYWx1ZXMoYW5vbkluZm8gPT4gewogICAgICB2YWwgb3JpZ2luYWwgPSBhbm9uSW5mby51c2VySWRUb1JpZFRhYmxlCiAgICAgIHZhbCB0YWJsZSA9IG9yaWdpbmFsLnN1YnN0cmluZygwLCBvcmlnaW5hbC5pbmRleE9mKCc6JykpCiAgICAgIGFub25JbmZvLmNvcHkodXNlcklkVG9SaWRUYWJsZSA9IHRhYmxlKQogICAgfSk=</text>
+        <text>UpmPhysicalNonSql</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">PSBhbm9uSW5mb01hcHBpbmdzLm1hcFZhbHVlcyhhbm9uSW5mbyA9PiB7CiAgICAgIHZhbCBvcmlnaW5hbCA9IGFub25JbmZvLnVzZXJJZFRvUmlkVGFibGUKICAgICAgdmFsIHRhYmxlID0gb3JpZ2luYWwuc3Vic3RyaW5nKDAsIG9yaWdpbmFsLmluZGV4T2YoJzonKSkKICAgICAgYW5vbkluZm8uY29weSh1c2VySWRUb1JpZFRhYmxlID0gdGFibGUpCiAgICB9KQ==</text>
