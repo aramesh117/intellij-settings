@@ -87,6 +87,9 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/LogicalRelation.scala" timestamp="1539379475203">
         <mark key="'" line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalAlias.scala" timestamp="1540413346682">
+        <mark key="'" line="17" column="12" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/analysis/package.scala" timestamp="1539670709110">
         <mark key="'" line="36" column="21" />
       </file>
@@ -403,10 +406,10 @@
         <mark key="'" line="17" column="99" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" timestamp="1540357667920">
-        <mark key="[" line="147" column="38" />
-        <mark key="]" line="147" column="75" />
-        <mark key="." line="147" column="75" />
-        <mark key="^" line="147" column="75" />
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="75" />
+        <mark key="." line="11" column="75" />
+        <mark key="^" line="11" column="75" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/convert/ConverterImpl.java" timestamp="1526335131455">
         <mark key="'" line="31" column="15" />
@@ -840,8 +843,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" timestamp="1539640856076">
         <mark key="'" line="128" column="15" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/instagram/ig_users_hourly_source_unified_shadow.json" timestamp="1540351096469">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/instagram/ig_users_hourly_source_unified_shadow.json" timestamp="1540413331306">
+        <mark key="'" line="38" column="4" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -1153,7 +1156,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/UpmLogicalQuery.scala" timestamp="1538677488693">
         <mark key="'" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1540356746532" />
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-sql_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/execution/QueryExecution.scala" timestamp="1539627428891">
         <mark key="'" line="85" column="50" />
       </file>
@@ -1443,9 +1445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="11" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/literals.scala" />
-      <jump line="257" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="85" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="107" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="65" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="90" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -1543,6 +1542,9 @@
       <jump line="30" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
       <jump line="74" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
       <jump line="77" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
+      <jump line="38" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/instagram/ig_users_hourly_source_unified_shadow.json" />
+      <jump line="8" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalAlias.scala" />
+      <jump line="17" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/UpmPhysicalAlias.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1598,7 +1600,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
