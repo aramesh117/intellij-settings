@@ -24,6 +24,9 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameWriter.scala" timestamp="1539629264476">
         <mark key="'" line="369" column="24" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatePartitionSpec.java" timestamp="1540493571345">
+        <mark key="'" line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" timestamp="1539640630842">
         <mark key="'" line="392" column="14" />
       </file>
@@ -111,12 +114,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalFilter.java" timestamp="1525911378380">
         <mark key="'" line="47" column="41" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1540444377607">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1540494094266">
         <mark key="'" line="175" column="12" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="156" column="6" />
+        <mark key="[" line="255" column="52" />
+        <mark key="]" line="255" column="58" />
+        <mark key="." line="255" column="58" />
+        <mark key="^" line="255" column="58" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/VolcanoPlannerTraitTest.java" timestamp="1526330098311">
         <mark key="'" line="511" column="50" />
@@ -1011,11 +1014,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/handlers/LocalTesterPlanHandler.java" timestamp="1535744856183">
         <mark key="'" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpFactory.java" timestamp="1540328017211">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rex/RexSubQuery.java" timestamp="1525806958301">
         <mark key="'" line="48" column="30" />
       </file>
@@ -1088,12 +1086,12 @@
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/planner/Plan.java" timestamp="1535679400732">
         <mark key="'" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1540491830041">
-        <mark key="'" line="129" column="35" />
-        <mark key="[" line="142" column="51" />
-        <mark key="]" line="142" column="49" />
-        <mark key="." line="142" column="49" />
-        <mark key="^" line="142" column="49" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1540493486058">
+        <mark key="'" line="181" column="4" />
+        <mark key="[" line="183" column="68" />
+        <mark key="]" line="184" column="34" />
+        <mark key="." line="184" column="34" />
+        <mark key="^" line="184" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1.jar!/com/facebook/di/metastore/api/Table.class" timestamp="1539121791488">
         <mark key="'" line="26" column="29" />
@@ -1475,12 +1473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" />
-      <jump line="50" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="108" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
-      <jump line="128" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
-      <jump line="184" column="91" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
       <jump line="32" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
       <jump line="71" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="19" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/UpmSQLBuilderTest.java" />
@@ -1575,49 +1567,60 @@
       <jump line="176" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="175" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="129" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="145" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="172" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="40" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="181" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="74" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="2" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/DatePartitionSpec.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>actor_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBCdWlsZCBtb2RlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>actor_id</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXdyaXR0ZW5SZWxhdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3ROZXN0ZWRVaWRSZXdyaXRlKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBzZXR1cERhdGFzZXRzKC0xMDAsIGN0eCk7CiAgICBTdHJpbmcgaHFsID0KICAgICAgICAiU0VMRUNUIHRlc3RfYWxpYXMuYWN0b3JfaWQgRlJPTSAoU0VMRUNUIGRzLCBhY3Rvcl9pZCBhcyBhY3Rvcl9pZCwgcmVjaXBpZW50X2lkIEZST00gdXBtZGF0YXNldHMuZGF0YXNldCBXSEVSRSBzaGFyZV9zZXNzaW9uX2NudCA+IDEwMDAwKSB0ZXN0X2FsaWFzIjsKICAgIERhdGFGcmFtZSBkZiA9IGN0eC5ocWwoaHFsKTsKICAgIGRmLnNhdmUocHJvZHVjZWREYXRhc2V0LCB1cG1IaW50cywgSW1tdXRhYmxlTWFwLm9mKCkpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBsZXhlciA9CiAgICAgICAgICAgIG5ldyBEYXRhc2V0U3BlY0xleGVyKENoYXJTdHJlYW1zLmZyb21TdHJpbmcoU3BlY01hY3JvSGVscGVyLnJlbW92ZVRpbWVNYWNybyhkYXRlVmFsdWUpKSkKICAgICAgICAgIHZhbCBjb21tb25Ub2tlblN0cmVhbSA9IG5ldyBDb21tb25Ub2tlblN0cmVhbShsZXhlcikKICAgICAgICAgIHZhbCBwYXJzZXIgPSBuZXcgRGF0YXNldFNwZWNQYXJzZXIoY29tbW9uVG9rZW5TdHJlYW0pCiAgICAgICAgICB2YWwgdmlzaXRvciA9IG5ldyBEYXRhc2V0UGFydGl0aW9uU3BlY1Zpc2l0b3IKICAgICAgICAgIHZhbCBkYXRlRXhwcmVzc2lvbiA9IHZpc2l0b3IudmlzaXQocGFyc2VyLnNwZWMoKSkuYXNJbnN0YW5jZU9mW0RhdGVQYXJ0aXRpb25TcGVjXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERhdGFGcmFtZSBkZiA9IGN0eC5ocWwoaHFsKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBCdWlsZCBtb2RlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRmLnNhdmUocHJvZHVjZWREYXRhc2V0LCB1cG1IaW50cywgSW1tdXRhYmxlTWFwLm9mKCkpOwo=</text>
+        <text encoding="base64">YCAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyAK</text>
+      <register name="4" type="4">
+        <text>val lexer =
+            new DatasetSpecLexer(CharStreams.fromString(SpecMacroHelper.removeTimeMacro(dateValue)))
+          val commonTokenStream = new CommonTokenStream(lexer)
+          val parser = new DatasetSpecParser(commonTokenStream)
+          val visitor = new DatasetPartitionSpecVisitor
+          val dateExpression = visitor.visit(parser.spec()).asInstanceOf[DatePartitionSpec]</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgY2FzZSBjbGFzcyBQYXJzZVN0YXR1cyhzdWNjZXNzOiBCb29sZWFuLCBnZW5lcmF0ZWRTcWw6IFN0cmluZywgcGFyc2VFeGNlcHRpb246IE9wdGlvbltQYXJzZUV4Y2VwdGlvbl0gPSBOb25lKQovLyAgICBkZWYgZ2V0UGFyc2VTdGF0dXMoc3FsVGV4dDogU3RyaW5nKTogUGFyc2VTdGF0dXMgPSB7Ci8vICAgICAgdmFsIGJ1aWxkZXIgPSBuZXcgU3BhcmtTcWxBc3RCdWlsZGVyKGNvbmYpCi8vICAgICAgdmFsIHBhcnNlciA9IGdldFBhcnNlcihzcWxUZXh0KQovLyAgICAgIHRyeSB7Ci8vICAgICAgICBidWlsZGVyLnZpc2l0U2luZ2xlU3RhdGVtZW50KHBhcnNlci5zaW5nbGVTdGF0ZW1lbnQoKSkgbWF0Y2ggewovLyAgICAgICAgICBjYXNlIF86IExvZ2ljYWxQbGFuID0+IFBhcnNlU3RhdHVzKHN1Y2Nlc3MgPSB0cnVlLCBzcWxUZXh0KQovLyAgICAgICAgICBjYXNlIF8gPT4gUGFyc2VTdGF0dXMoc3VjY2VzcyA9IGZhbHNlLCBzcWxUZXh0KQovLyAgICAgICAgfQovLyAgICAgIH0gY2F0Y2ggewovLyAgICAgICAgY2FzZSBlOiBQYXJzZUV4Y2VwdGlvbiA9PiBQYXJzZVN0YXR1cyhzdWNjZXNzID0gZmFsc2UsIHNxbFRleHQsIE9wdGlvbihlKSkKLy8gICAgICB9Ci8vICAgIH0KLy8gICAgLy8gRm9yIGRlYnVnZ2luZyBvbmx5IC0gd2Ugd2FudCB0byBmaWd1cmUgb3V0IHdoaWNoIG5vZGVzIG9mIHRoZSBwbGFuIGFyZSBub3QgcmV2ZXJzaWJseSBwYXJzZWFibGUKLy8gICAgLy8gYnkgdGhlIHNwYXJrIHNxbCBidWlsZGVyCi8vICAgIHZhbCBjYW5CZVBhcnNlZCA9IG11dGFibGUuTWFwW0xvZ2ljYWxQbGFuLCBQYXJzZVN0YXR1c10oKQovLyAgICBhbmFseXplZFBsYW4uZm9yZWFjaCB7Ci8vICAgICAgbHAgPT4gY2FuQmVQYXJzZWQucHV0KGxwLCBnZXRQYXJzZVN0YXR1cyhuZXcgVXBtU3BhcmtTcWxCdWlsZGVyKGxwKS50b1NRTCkpCi8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RSYW5nZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgY2FzZSBjbGFzcyBQYXJzZVN0YXR1cyhzdWNjZXNzOiBCb29sZWFuLCBnZW5lcmF0ZWRTcWw6IFN0cmluZywgcGFyc2VFeGNlcHRpb246IE9wdGlvbltQYXJzZUV4Y2VwdGlvbl0gPSBOb25lKQovLyAgICBkZWYgZ2V0UGFyc2VTdGF0dXMoc3FsVGV4dDogU3RyaW5nKTogUGFyc2VTdGF0dXMgPSB7Ci8vICAgICAgdmFsIGJ1aWxkZXIgPSBuZXcgU3BhcmtTcWxBc3RCdWlsZGVyKGNvbmYpCi8vICAgICAgdmFsIHBhcnNlciA9IGdldFBhcnNlcihzcWxUZXh0KQovLyAgICAgIHRyeSB7Ci8vICAgICAgICBidWlsZGVyLnZpc2l0U2luZ2xlU3RhdGVtZW50KHBhcnNlci5zaW5nbGVTdGF0ZW1lbnQoKSkgbWF0Y2ggewovLyAgICAgICAgICBjYXNlIF86IExvZ2ljYWxQbGFuID0+IFBhcnNlU3RhdHVzKHN1Y2Nlc3MgPSB0cnVlLCBzcWxUZXh0KQovLyAgICAgICAgICBjYXNlIF8gPT4gUGFyc2VTdGF0dXMoc3VjY2VzcyA9IGZhbHNlLCBzcWxUZXh0KQovLyAgICAgICAgfQovLyAgICAgIH0gY2F0Y2ggewovLyAgICAgICAgY2FzZSBlOiBQYXJzZUV4Y2VwdGlvbiA9PiBQYXJzZVN0YXR1cyhzdWNjZXNzID0gZmFsc2UsIHNxbFRleHQsIE9wdGlvbihlKSkKLy8gICAgICB9Ci8vICAgIH0KLy8gICAgLy8gRm9yIGRlYnVnZ2luZyBvbmx5IC0gd2Ugd2FudCB0byBmaWd1cmUgb3V0IHdoaWNoIG5vZGVzIG9mIHRoZSBwbGFuIGFyZSBub3QgcmV2ZXJzaWJseSBwYXJzZWFibGUKLy8gICAgLy8gYnkgdGhlIHNwYXJrIHNxbCBidWlsZGVyCi8vICAgIHZhbCBjYW5CZVBhcnNlZCA9IG11dGFibGUuTWFwW0xvZ2ljYWxQbGFuLCBQYXJzZVN0YXR1c10oKQovLyAgICBhbmFseXplZFBsYW4uZm9yZWFjaCB7Ci8vICAgICAgbHAgPT4gY2FuQmVQYXJzZWQucHV0KGxwLCBnZXRQYXJzZVN0YXR1cyhuZXcgVXBtU3BhcmtTcWxCdWlsZGVyKGxwKS50b1NRTCkpCi8vICAgIH0K</text>
+        <text encoding="base64">ICAgIERhdGFGcmFtZSBkZiA9IGN0eC5ocWwoaHFsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
