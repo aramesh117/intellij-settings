@@ -118,12 +118,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/logical/LogicalFilter.java" timestamp="1525911378380">
         <mark key="'" line="47" column="41" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1540603871527">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1540604679236">
         <mark key="'" line="64" column="8" />
-        <mark key="[" line="189" column="81" />
-        <mark key="]" line="190" column="57" />
-        <mark key="." line="190" column="57" />
-        <mark key="^" line="190" column="57" />
+        <mark key="[" line="210" column="92" />
+        <mark key="]" line="212" column="13" />
+        <mark key="." line="212" column="13" />
+        <mark key="^" line="212" column="13" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/test/java/org/apache/calcite/plan/volcano/VolcanoPlannerTraitTest.java" timestamp="1526330098311">
         <mark key="'" line="511" column="50" />
@@ -1553,11 +1553,11 @@
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFJld3JpdGUgYWxsIGV4cHJlc3Npb25zIHRoYXQgdXNlZCB0byByZWZlciB0byB0aGUgb2xkIHJlbGF0aW9uIGF0dHJpYnV0ZXMgd2l0aCB1bnJlc29sdmVkCiAgICAvLyBhdHRyaWJ1dGVzCiAgICB2YWwgZnVsbEF0dHJpYnV0ZU1hcCA9IG11dGFibGUuTWFwW0F0dHJpYnV0ZVJlZmVyZW5jZSwgVW5yZXNvbHZlZEF0dHJpYnV0ZV0oKQogICAgcmV3cml0dGVuUmVsYXRpb25zLnZhbHVlcy5mb3JlYWNoIHsKICAgICAgY2FzZSAoXywgbWFwKSA9PiBmdWxsQXR0cmlidXRlTWFwICsrPSBtYXAKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text>rewrittenRelations</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50UGVyaW9kSWRcPg==</text>
@@ -1566,40 +1566,32 @@
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RSYW5nZVVpZFJld3JpdGVVaWQoKSB0aHJvd3MgVXBtRXhjZXB0aW9uIHsKICAgIHNldHVwRGF0ZVJhbmdlRGF0YXNldHMoLTEwMCwgLTk1LCBjdHgpOwogICAgU3RyaW5nIGhxbCA9ICJTRUxFQ1QgZHMsIGFjdG9yX2lkIEZST00gdXBtZGF0YXNldHMuZGF0YXNldCBXSEVSRSBzaGFyZV9zZXNzaW9uX2NudCA+IDEwMDAwIjsKICAgIGN0eC5ocWwoaHFsKS5zYXZlKHByb2R1Y2VkRGF0YXNldCwgdXBtSGludHMsIEltbXV0YWJsZU1hcC5vZigpKTsKICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFJld3JpdGUgYWxsIGV4cHJlc3Npb25zIHRoYXQgdXNlZCB0byByZWZlciB0byB0aGUgb2xkIHJlbGF0aW9uIGF0dHJpYnV0ZXMgd2l0aCB1bnJlc29sdmVkCiAgICAvLyBhdHRyaWJ1dGVzCiAgICB2YWwgZnVsbEF0dHJpYnV0ZU1hcCA9IG11dGFibGUuTWFwW0F0dHJpYnV0ZVJlZmVyZW5jZSwgVW5yZXNvbHZlZEF0dHJpYnV0ZV0oKQogICAgcmV3cml0dGVuUmVsYXRpb25zLnZhbHVlcy5mb3JlYWNoIHsKICAgICAgY2FzZSAoXywgbWFwKSA9PiBmdWxsQXR0cmlidXRlTWFwICsrPSBtYXAKICAgIH0K</text>
+        <text encoding="base64">ICAgIGV4cHJlc3Npb25TdWJzdGl0dXRlZFBsYW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBleHByZXNzaW9uU3Vic3RpdHV0ZWRQbGFuID0gbmV3TG9naWNhbFBsYW4udHJhbnNmb3JtIHsKICAgICAgY2FzZSBsZHI6IExvZ2ljYWxEYXRhc2V0UmVsYXRpb24gPT4gbGRyCiAgICAgIGNhc2UgbyA9PgogICAgICAgIG8udHJhbnNmb3JtRXhwcmVzc2lvbnMgewogICAgICAgICAgY2FzZSBhOiBBdHRyaWJ1dGVSZWZlcmVuY2UgPT4KICAgICAgICAgICAgaWYgKGZ1bGxBdHRyaWJ1dGVNYXAuY29udGFpbnMoYSkpCiAgICAgICAgICAgICAgZnVsbEF0dHJpYnV0ZU1hcChhKQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgYQogICAgICAgIH0KICAgIH0KICAgIGV4cHJlc3Npb25TdWJzdGl0dXRlZFBsYW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEl0ZXJhdGUgdGhyb3VnaCBwbGFuIG9uY2UgbW9yZSB0byByZXBsYWNlIGFsbCBvZiB0aGUgcmVsYXRpb25zIHRoYXQgaGF2ZSBiZWVuIG1vZGlmaWVkCiAgICB2YWwgbmV3TG9naWNhbFBsYW4gPSBsb2dpY2FsUGxhbi50cmFuc2Zvcm1Eb3duIHsKICAgICAgY2FzZSBscDogTG9naWNhbERhdGFzZXRSZWxhdGlvbiA9PgogICAgICAgIGlmIChyZXdyaXR0ZW5SZWxhdGlvbnMuY29udGFpbnMobHApKSB7CiAgICAgICAgICB2YWwgbmV3UGxhbiA9IHJld3JpdHRlblJlbGF0aW9ucyhscCkKICAgICAgICAgIG5ld1BsYW4KICAgICAgICB9IGVsc2UgewogICAgICAgICAgbHAKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGN1cnJlbnRQZXJpb2RJZCA9IHNjaGVkdWxlckluZm8uZmxhdE1hcChfLnBlcmlvZElkKS5nZXQK</text>
+      <register name="4" type="4">
+        <text>rewrittenRelations
+      .values</text>
       </register>
-      <register name="5" type="4">
-        <text>Instant
-              .ofEpochSecond(currentPeriodId.toLong)
-              .atZone(ZoneId.systemDefault())
-              .toLocalDate</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGN1cnJlbnRQZXJpb2RJZCA9IHNjaGVkdWxlckluZm8uZmxhdE1hcChfLnBlcmlvZElkKS5nZXQK</text>
+        <text encoding="base64">ICAgIHZhbCBmdWxsQXR0cmlidXRlTWFwID0gcmV3cml0dGVuUmVsYXRpb25zCiAgICAgIC52YWx1ZXMKICAgICAgLmZvbGRSaWdodChNYXAuZW1wdHlbQXR0cmlidXRlUmVmZXJlbmNlLCBVbnJlc29sdmVkQXR0cmlidXRlXSkoKG5ld1BsYW4sIG1hcCkgPT4gewogICAgICAgIHZhbCBvbGRBdHRyaWJ1dGVzID0gZ2V0QXR0cmlidXRlc1RvQmVSZXBsYWNlZChuZXdQbGFuKQogICAgICAgIG1hcCArKyBvbGRBdHRyaWJ1dGVzCiAgICAgIH0pCgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Instant
-              .ofEpochSecond(currentPeriodId.toLong)
-              .atZone(ZoneId.systemDefault())
-              .toLocalDate</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIFJld3JpdGUgYWxsIGV4cHJlc3Npb25zIHRoYXQgdXNlZCB0byByZWZlciB0byB0aGUgb2xkIHJlbGF0aW9uIGF0dHJpYnV0ZXMgd2l0aCB1bnJlc29sdmVkCiAgICAvLyBhdHRyaWJ1dGVzCiAgICB2YWwgZnVsbEF0dHJpYnV0ZU1hcCA9IG11dGFibGUuTWFwW0F0dHJpYnV0ZVJlZmVyZW5jZSwgVW5yZXNvbHZlZEF0dHJpYnV0ZV0oKQogICAgcmV3cml0dGVuUmVsYXRpb25zLnZhbHVlcy5mb3JlYWNoIHsKICAgICAgY2FzZSAoXywgbWFwKSA9PiBmdWxsQXR0cmlidXRlTWFwICsrPSBtYXAKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGN1cnJlbnRQZXJpb2RJZCA9IHNjaGVkdWxlckluZm8uZmxhdE1hcChfLnBlcmlvZElkKS5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Instant
-              .ofEpochSecond(currentPeriodId.toLong)
-              .atZone(ZoneId.systemDefault())
-              .toLocalDate</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIEl0ZXJhdGUgdGhyb3VnaCBwbGFuIG9uY2UgbW9yZSB0byByZXBsYWNlIGFsbCBvZiB0aGUgcmVsYXRpb25zIHRoYXQgaGF2ZSBiZWVuIG1vZGlmaWVkCiAgICB2YWwgbmV3TG9naWNhbFBsYW4gPSBsb2dpY2FsUGxhbi50cmFuc2Zvcm1Eb3duIHsKICAgICAgY2FzZSBscDogTG9naWNhbERhdGFzZXRSZWxhdGlvbiA9PgogICAgICAgIGlmIChyZXdyaXR0ZW5SZWxhdGlvbnMuY29udGFpbnMobHApKSB7CiAgICAgICAgICB2YWwgbmV3UGxhbiA9IHJld3JpdHRlblJlbGF0aW9ucyhscCkKICAgICAgICAgIG5ld1BsYW4KICAgICAgICB9IGVsc2UgewogICAgICAgICAgbHAKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
