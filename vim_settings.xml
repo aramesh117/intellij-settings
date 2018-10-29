@@ -628,12 +628,12 @@
         <mark key="." line="526" column="0" />
         <mark key="^" line="537" column="18" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1540847062745">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="58" column="63" />
-        <mark key="]" line="58" column="63" />
-        <mark key="." line="58" column="63" />
-        <mark key="^" line="58" column="63" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1540849879380">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="51" column="52" />
+        <mark key="." line="51" column="52" />
+        <mark key="^" line="51" column="52" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calengine/src/main/java/com/facebook/upm/engine/operators/UpmSql.java" timestamp="1532471519858">
         <mark key="'" line="128" column="11" />
@@ -696,8 +696,11 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/execution/joins/InnerJoinSuite.scala" timestamp="1539307201708">
         <mark key="'" line="66" column="10" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" timestamp="1540845801542">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" timestamp="1540849661229">
         <mark key="'" line="23" column="39" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="71" />
+        <mark key="." line="18" column="28" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/prepare/PlannerImpl.java" timestamp="1525904045734">
         <mark key="'" line="123" column="11" />
@@ -1086,10 +1089,10 @@
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/planner/Plan.java" timestamp="1535679400732">
         <mark key="'" line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1540847036531">
-        <mark key="'" line="94" column="62" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="36" column="31" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1540850327332">
+        <mark key="'" line="121" column="44" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="46" column="87" />
         <mark key="." line="205" column="42" />
         <mark key="^" line="205" column="42" />
       </file>
@@ -1134,6 +1137,12 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/test/java/com/facebook/upm/api/DataFlowHackathonTest.java" timestamp="1526085849175">
         <mark key="'" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" timestamp="1540835658593">
+        <mark key="'" line="19" column="45" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/calcite/core/src/main/java/org/apache/calcite/rel/metadata/BuiltInMetadata.java" timestamp="1525908576281">
         <mark key="'" line="193" column="46" />
@@ -1480,10 +1489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
-      <jump line="160" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
-      <jump line="33" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="26" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PartitionFilterBuilder.scala" />
       <jump line="411" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/TraversableLike.scala" />
       <jump line="42" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/NonSqlDataFrameTest.java" />
       <jump line="18" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/NonSqlDataFrameTest.java" />
@@ -1569,7 +1574,6 @@
       <jump line="16" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" />
       <jump line="21" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" />
       <jump line="199" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
-      <jump line="93" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
       <jump line="203" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
       <jump line="78" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
       <jump line="35" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" />
@@ -1580,47 +1584,52 @@
       <jump line="44" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmCatalog.scala" />
       <jump line="94" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
       <jump line="40" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="32" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="93" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="124" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="121" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>datasetSpec</text>
+        <text>testSelectFromDataframe</text>
       </register>
       <register name="-" type="4">
-        <text>datasetSpec</text>
+        <text>testSelectFromDataframe</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdW1lZERhdGFzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVXBtRGF0YXNldCgKICAgICAgICAgICAgImZjdF9wb3N0X3Byb2R1Y3Rpb24iLAogICAgICAgICAgICBJbW11dGFibGVNYXAub2YoImRzIiwgbmV3IEluT3BlcmF0aW9uKEltbXV0YWJsZUxpc3Qub2YoZGF0YXNldFNwZWMpKSksCiAgICAgICAgICAgICJkYXRhc2V0IiwKICAgICAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCkpOwo=</text>
+        <text encoding="base64">ICAgIGN0eC5hZGRDb25zdW1lZERhdGFzZXRzKAogICAgICAgIEltbXV0YWJsZU1hcC5vZigidXBtZGF0YXNldHMuIiArIGNvbnN1bWVkRGF0YXNldC50YWJsZUFsaWFzLCBjb25zdW1lZERhdGFzZXQpKTsKICAgIGN0eC5hZGRQcm9kdWNlRGF0YXNldHMoCiAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCJ1cG1kYXRhc2V0cy4iICsgcHJvZHVjZWREYXRhc2V0LnRhYmxlQWxpYXMsIHByb2R1Y2VkRGF0YXNldCkpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGFzc2VydExvZ2ljYWxQbGFuKGRmMSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGN0eC5hZGRDb25zdW1lZERhdGFzZXRzKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGRmMS5zYXZlKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>even if I explicitly
     // create datasets or turn off infer_partitions using hints.</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgLy8gIEBUZXN0CiAgLy8gIHB1YmxpYyB2b2lkIHRlc3RTaW5nbGVKb2luKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgLy8gICAgc2V0dXBTaW5nbGVEYXRlRGF0YXNldHMoLTEwMCwgY3R4KTsKICAvLyAgICBTdHJpbmcgc3FsVGV4dCA9IHBhcnNlVW5wYXJzZUhxbCgKICAvLyAgICAgICAgIlNFTEVDVCBkcywgdWlkX21hcC51aWQgYXMgYWN0b3JfaWQgRlJPTSB1cG1kYXRhc2V0cy5kYXRhc2V0IFxuIgogIC8vICAgICAgICAgICAgKyAiSk9JTiAoXG4iCiAgLy8gICAgICAgICAgICArICIgICAgU0VMRUNUIHVpZCwgcmlkIEZST00gZGltX3VpZF90b19yaWQgV0hFUkUgZHM9JzxMQVRFU1RfREFURUlEPidcbiIKICAvLyAgICAgICAgICAgICsgIikgdWlkX21hcCBPTiBhY3Rvcl9pZCA9IHVpZF9tYXAucmlkIik7CiAgLy8gICAgQXNzZXJ0LmFzc2VydFRydWUoY2FuUGFyc2VIcWwoc3FsVGV4dCkpOwogIC8vICB9CgogIC8vICBAVGVzdAogIC8vICBwdWJsaWMgdm9pZCB0ZXN0TXVsdGlwbGVKb2lucygpIHRocm93cyBVcG1FeGNlcHRpb24gewogIC8vICAgIHNldHVwU2luZ2xlRGF0ZURhdGFzZXRzKC0xMDAsIGN0eCk7CiAgLy8gICAgU3RyaW5nIHNxbFRleHQgPSBwYXJzZVVucGFyc2VIcWwoCiAgLy8gICAgICAgICJTRUxFQ1QgZHMsIHVpZF9tYXAudWlkIGFzIGFjdG9yX2lkLCB1aWRfbWFwMi51aWQgYXMgcmVjaXBpZW50X2lkIEZST00KICAvLyBmY3RfcG9zdF9wcm9kdWN0aW9uX2Fub24gXG4iCiAgLy8gICAgICAgICAgICArICJKT0lOIChcbiIKICAvLyAgICAgICAgICAgICsgIiAgICBTRUxFQ1QgdWlkLCByaWQgRlJPTSBkaW1fdWlkX3RvX3JpZCBXSEVSRSBkcz0nPExBVEVTVF9EQVRFSUQ+J1xuIgogIC8vICAgICAgICAgICAgKyAiKSB1aWRfbWFwIE9OIGZjdF9wb3N0X3Byb2R1Y3Rpb25fYW5vbi5hY3Rvcl9pZCA9IHVpZF9tYXAucmlkIEpPSU4gKFNFTEVDVCB1aWQsCiAgLy8gcmlkIEZST00gZGltX3VpZF90b19yaWQgV0hFUkUgZHM9JzxMQVRFU1RfREFURUlEPicpIHVpZF9tYXAyIE9OCiAgLy8gZmN0X3Bvc3RfcHJvZHVjdGlvbl9hbm9uLnJlY2lwaWVudF9pZCA9IHVpZF9tYXAyLnJpZCIpOwogIC8vICAgIEFzc2VydC5hc3NlcnRUcnVlKGNhblBhcnNlSHFsKHNxbFRleHQpKTsKICAvLyAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGRmMS5zYXZlCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgiYmkiKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldHVwU2luZ2xlRGF0ZURhdGFzZXRzKC0xMDAsIGN0eCk7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgiYmkiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgiYmkiKTsK</text>
+        <text encoding="base64">ICAgIHNldHVwU2luZ2xlRGF0ZURhdGFzZXRzKC0xMDAsIGN0eCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
