@@ -169,11 +169,11 @@
         <mark key="." line="526" column="0" />
         <mark key="^" line="537" column="18" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1540854472590">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="51" column="14" />
-        <mark key="]" line="51" column="52" />
-        <mark key="." line="51" column="52" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1540859756566">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="52" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" timestamp="1540853245502">
@@ -292,11 +292,11 @@
         <mark key="." line="12" column="20" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" timestamp="1540840808298">
-        <mark key="'" line="38" column="23" />
+        <mark key="'" line="37" column="23" />
         <mark key="[" line="32" column="19" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+        <mark key="]" line="32" column="7" />
+        <mark key="." line="32" column="7" />
+        <mark key="^" line="32" column="7" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/SparkSqlRuleExecutor.scala" timestamp="1540857402514">
         <mark key="[" line="6" column="76" />
@@ -510,8 +510,8 @@
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YWN0b3JfaWQg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIElmIEkgc2V0IGEgc2NoZWR1bGUgaW4gdGhlIGNvbmZpZ3VyYXRpb24sIHRoZW4gaXQgdHVybnMgb24gaW5mZXJlbmNlIHdoaWNoIGNhdXNlcyB0aGUgcGxhbgogICAgLy8gdG8gdGhpbmsgdGhhdCB0aGUgb25seSBkYXRhc2V0IGlzIGFuIGludGVybWVkaWF0ZSBkYXRhc2V0LCB3aGljaCBpcyB3cm9uZy4KLy8gICAgQ29udGV4dCBjdHggPSBnZXRDb250ZXh0KCJiaSIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWN0b3JfaWQg</text>
@@ -523,31 +523,31 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwppbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuSGFzaFNldAppbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLkFycmF5QnVmZmVyCgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5TcGFya0VudgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3Que0NhdGFseXN0Q29uZiwgU2ltcGxlQ2F0YWx5c3RDb25mfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QuYW5hbHlzaXMuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QuY2F0YWxvZy57SW5NZW1vcnlDYXRhbG9nLCBTZXNzaW9uQ2F0YWxvZ30KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LmV4cHJlc3Npb25zLl8KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LmV4cHJlc3Npb25zLmFnZ3JlZ2F0ZS5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5leHByZXNzaW9ucy5MaXRlcmFsLntGYWxzZUxpdGVyYWwsIFRydWVMaXRlcmFsfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbm5pbmcue0V4dHJhY3RGaWx0ZXJzQW5kSW5uZXJKb2lucywgVW5pb25zfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbnMuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbnMubG9naWNhbC5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5ydWxlcy5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC50eXBlcy5fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqIEZvciBVUE06Cg==</text>
+        <text encoding="base64">ICAgIC8vIElmIEkgc2V0IGEgc2NoZWR1bGUgaW4gdGhlIGNvbmZpZ3VyYXRpb24sIHRoZW4gaXQgdHVybnMgb24gaW5mZXJlbmNlIHdoaWNoIGNhdXNlcyB0aGUgcGxhbgogICAgLy8gdG8gdGhpbmsgdGhhdCB0aGUgb25seSBkYXRhc2V0IGlzIGFuIGludGVybWVkaWF0ZSBkYXRhc2V0LCB3aGljaCBpcyB3cm9uZy4KLy8gICAgQ29udGV4dCBjdHggPSBnZXRDb250ZXh0KCJiaSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVXBtQ29sdW1uUHJ1bmluZyB7Cgp9Cg==</text>
+        <text encoding="base64">ICAqIEZvciBVUE06Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgVXBtQ29sdW1uUHJ1bmluZyB7Cgp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN0eC5ocWwoaHFsKS5zYXZlKHByb2R1Y2VkRGF0YXNldCwgdXBtSGludHMsIEltbXV0YWJsZU1hcC5vZigpKTsKICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFBhcnNlZEFuZFVucGFyc2VkSXNWYWxpZChocWwpOwo=</text>
+        <text encoding="base64">ICAgIGN0eC5ocWwoaHFsKS5zYXZlKHByb2R1Y2VkRGF0YXNldCwgdXBtSGludHMsIEltbXV0YWJsZU1hcC5vZigpKTsKICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHMoLTEwMCwgLTk1LCBjdHgpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFBhcnNlZEFuZFVucGFyc2VkSXNWYWxpZChocWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHMoLTEwMCwgLTk1LCBjdHgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlbGF0aW9uID0gbG9naWNhbFBsYW4uYXNJbnN0YW5jZU9mW0xvZ2ljYWxSZWxhdGlvbl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
