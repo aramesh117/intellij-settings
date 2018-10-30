@@ -27,19 +27,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_all_users_fast.json" timestamp="1540835430944">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1540858328489">
-        <mark key="'" line="142" column="14" />
-        <mark key="[" line="80" column="44" />
-        <mark key="]" line="80" column="46" />
-        <mark key="." line="80" column="46" />
-        <mark key="^" line="80" column="46" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalInferSchedulerPartitions.scala" timestamp="1540856515762">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="14" column="61" />
-        <mark key="^" line="14" column="61" />
-        <mark key="." line="14" column="61" />
+        <mark key="'" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1540835704263">
         <mark key="'" line="106" column="57" />
@@ -169,11 +158,11 @@
         <mark key="." line="526" column="0" />
         <mark key="^" line="537" column="18" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1540859756566">
-        <mark key="'" line="76" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1540860442941">
+        <mark key="'" line="77" column="31" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+        <mark key="." line="62" column="32" />
         <mark key="^" line="51" column="52" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" timestamp="1540853245502">
@@ -291,13 +280,6 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" timestamp="1540840808298">
-        <mark key="'" line="37" column="23" />
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="7" />
-        <mark key="." line="32" column="7" />
-        <mark key="^" line="32" column="7" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/SparkSqlRuleExecutor.scala" timestamp="1540857402514">
         <mark key="[" line="6" column="76" />
         <mark key="]" line="6" column="76" />
@@ -370,10 +352,6 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmColumnPruning.scala" timestamp="1540858232832">
         <mark key="'" line="19" column="14" />
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="88" column="10" />
-        <mark key="." line="88" column="10" />
-        <mark key="^" line="88" column="10" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DistinctOperator.java" timestamp="1536615763235">
         <mark key="'" line="6" column="38" />
@@ -405,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="268" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="233" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="265" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
@@ -505,6 +482,7 @@
       <jump line="210" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
       <jump line="225" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="77" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
