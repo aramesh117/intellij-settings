@@ -251,12 +251,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" timestamp="1540935114203">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1540936768676">
-        <mark key="'" line="261" column="6" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
-        <mark key="^" line="192" column="90" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1540946554314">
+        <mark key="'" line="281" column="6" />
+        <mark key="[" line="82" column="25" />
+        <mark key="]" line="83" column="13" />
+        <mark key="." line="83" column="13" />
+        <mark key="^" line="83" column="13" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" timestamp="1536615822362">
         <mark key="'" line="29" column="83" />
@@ -504,7 +504,7 @@
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGV4cHJJZE1hcDogTWFwW0xvbmcsIExvbmddLAo=</text>
+        <text encoding="base64">ICAgICAgICByYW5BbHJlYWR5ID0gdHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bWVhbnMgd2hldGhlciB0aGUg</text>
@@ -516,13 +516,13 @@
         <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwppbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuSGFzaFNldAppbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLkFycmF5QnVmZmVyCgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5TcGFya0VudgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3Que0NhdGFseXN0Q29uZiwgU2ltcGxlQ2F0YWx5c3RDb25mfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QuYW5hbHlzaXMuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QuY2F0YWxvZy57SW5NZW1vcnlDYXRhbG9nLCBTZXNzaW9uQ2F0YWxvZ30KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LmV4cHJlc3Npb25zLl8KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LmV4cHJlc3Npb25zLmFnZ3JlZ2F0ZS5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5leHByZXNzaW9ucy5MaXRlcmFsLntGYWxzZUxpdGVyYWwsIFRydWVMaXRlcmFsfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbm5pbmcue0V4dHJhY3RGaWx0ZXJzQW5kSW5uZXJKb2lucywgVW5pb25zfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbnMuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbnMubG9naWNhbC5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5ydWxlcy5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC50eXBlcy5fCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGV4cHJJZE1hcDogTWFwW0xvbmcsIExvbmddLAo=</text>
+        <text encoding="base64">ICAgICAgICByYW5BbHJlYWR5ID0gdHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZ1bGxBdHRyaWJ1dGVNYXAuY29udGFpbnMoYSkpCiAgICAgICAgICAgICAgZnVsbEF0dHJpYnV0ZU1hcChhKQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGV4cHJJZE1hcDogTWFwW0xvbmcsIExvbmddLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZ1bGxBdHRyaWJ1dGVNYXAuY29udGFpbnMoYSkpCiAgICAgICAgICAgICAgZnVsbEF0dHJpYnV0ZU1hcChhKQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgYQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -534,13 +534,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYW5BbHJlYWR5ID0gdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuYWx5emVkSW5mb09wdGlvbiA9IE9wdGlvbihhbmFseXplZEluZm8pCg==</text>
+        <text encoding="base64">ICAgICAgICByYW5BbHJlYWR5ID0gdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob2xkVG9OZXdSZWxhdGlvbnMuY29udGFpbnMobHApKSB7CiAgICAgICAgICB2YWwgbmV3UGxhbiA9IG9sZFRvTmV3UmVsYXRpb25zKGxwKQogICAgICAgICAgbmV3UGxhbgogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBscAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGFuYWx5emVkSW5mb09wdGlvbiA9IE9wdGlvbihhbmFseXplZEluZm8pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
