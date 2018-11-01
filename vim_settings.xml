@@ -6,8 +6,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_ig_fbidv2_to_rid.json" timestamp="1540835478945">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" timestamp="1541100603379">
-        <mark key="'" line="248" column="30" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" timestamp="1541108719365">
+        <mark key="'" line="32" column="54" />
+        <mark key="[" line="32" column="54" />
+        <mark key="]" line="32" column="126" />
+        <mark key="." line="32" column="54" />
       </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" timestamp="1538513198994">
         <mark key="'" line="371" column="37" />
@@ -398,7 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmSparkCatalog.scala" />
       <jump line="31" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmSparkCatalog.scala" />
       <jump line="35" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmSparkCatalog.scala" />
       <jump line="17" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalInferSchedulerPartitions.scala" />
@@ -479,7 +481,6 @@
       <jump line="65" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="22" column="15" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/rules/Rule.scala" />
       <jump line="27" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
-      <jump line="32" column="71" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
       <jump line="99" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/HourlyBatchPrestoSqlRewriter.scala" />
       <jump line="13" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/HourlyBatchPrestoSqlRewriter.scala" />
       <jump line="21" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/HourlyBatchPrestoSqlRewriter.scala" />
@@ -498,22 +499,24 @@
       <jump line="19" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/ConfigHelper.scala" />
       <jump line="29" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
       <jump line="248" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
+      <jump line="32" column="54" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
+      <jump line="19" column="11" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Tuple2.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYW5BbHJlYWR5ID0gdHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>(hour, new HourlyBatchPrestoSqlRewriter(hour).process(prestoQuery.query))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVhbnMgd2hldGhlciB0aGUg</text>
+        <text>Tuple2</text>
       </register>
       <register name="/" type="4">
         <text>process</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwppbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5pbW11dGFibGUuSGFzaFNldAppbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLkFycmF5QnVmZmVyCgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5TcGFya0VudgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3Que0NhdGFseXN0Q29uZiwgU2ltcGxlQ2F0YWx5c3RDb25mfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QuYW5hbHlzaXMuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QuY2F0YWxvZy57SW5NZW1vcnlDYXRhbG9nLCBTZXNzaW9uQ2F0YWxvZ30KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LmV4cHJlc3Npb25zLl8KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LmV4cHJlc3Npb25zLmFnZ3JlZ2F0ZS5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5leHByZXNzaW9ucy5MaXRlcmFsLntGYWxzZUxpdGVyYWwsIFRydWVMaXRlcmFsfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbm5pbmcue0V4dHJhY3RGaWx0ZXJzQW5kSW5uZXJKb2lucywgVW5pb25zfQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbnMuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QucGxhbnMubG9naWNhbC5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5ydWxlcy5fCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC50eXBlcy5fCg==</text>
+      <register name="0" type="4">
+        <text>Tuple2(hour, new HourlyBatchPrestoSqlRewriter(hour).process(prestoQuery.query))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByYW5BbHJlYWR5ID0gdHJ1ZQo=</text>
