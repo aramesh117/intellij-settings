@@ -39,7 +39,6 @@
         <mark key="^" line="22" column="33" />
         <mark key="." line="22" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40-sources.jar!/com/facebook/presto/sql/tree/QuerySpecification.java" timestamp="1541110746578" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmSparkCatalog.scala" timestamp="1540852800156">
         <mark key="'" line="35" column="58" />
         <mark key="[" line="35" column="25" />
@@ -56,7 +55,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/ig_time_spent_active_users.json" timestamp="1540835527136">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" timestamp="1541099684787" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" timestamp="1539648387394">
         <mark key="'" line="97" column="6" />
         <mark key="[" line="45" column="9" />
@@ -215,7 +213,6 @@
         <mark key="." line="526" column="0" />
         <mark key="^" line="537" column="18" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/QueryBody.class" timestamp="1541111971131" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1540937665120">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="120" column="3" />
@@ -241,8 +238,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" timestamp="1540935558273">
         <mark key="'" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1540851874212">
-        <mark key="'" line="209" column="19" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1541185893087">
+        <mark key="'" line="121" column="19" />
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="19" />
         <mark key="^" line="26" column="19" />
@@ -388,8 +385,8 @@
         <mark key="." line="54" column="59" />
         <mark key="^" line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1540851374865">
-        <mark key="'" line="113" column="38" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1541186524448">
+        <mark key="'" line="601" column="23" />
         <mark key="[" line="271" column="95" />
         <mark key="]" line="271" column="27" />
         <mark key="^" line="271" column="27" />
@@ -404,10 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
-      <jump line="225" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
-      <jump line="77" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="55" column="57" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
       <jump line="74" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" />
       <jump line="59" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DatasetBuilder.java" />
       <jump line="8" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
@@ -504,6 +497,10 @@
       <jump line="25" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
       <jump line="34" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmCombineAdjacentSqlOperators.scala" />
       <jump line="8" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/CombinePrestoSqlRewriter.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="121" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="592" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
+      <jump line="601" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -516,7 +513,7 @@
         <text>Tuple2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUaW1lSWRcPg==</text>
+        <text encoding="base64">XDxhc2NGbGFnc1w+</text>
       </register>
       <register name="0" type="4">
         <text>Tuple2(hour, new HourlyBatchPrestoSqlRewriter(hour).process(prestoQuery.query))</text>
@@ -553,18 +550,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRUaW1lSWRcPg==</last-search>
+      <last-search encoding="base64">XDxhc2NGbGFnc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUaW1lSWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhc2NGbGFnc1w+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>upm-ai</entry>
-        <entry>upmp-api</entry>
         <entry>api</entry>
         <entry>spengine</entry>
         <entry>rewrite</entry>
@@ -583,6 +578,8 @@
         <entry encoding="base64">XDxvcmRlckJ5XD4=</entry>
         <entry encoding="base64">XDxob3VyT2Zmc2V0XD4=</entry>
         <entry encoding="base64">XDxnZXRUaW1lSWRcPg==</entry>
+        <entry>sort</entry>
+        <entry encoding="base64">XDxhc2NGbGFnc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
