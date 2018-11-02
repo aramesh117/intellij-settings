@@ -215,8 +215,8 @@
         <mark key="." line="526" column="0" />
         <mark key="^" line="537" column="18" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1540937665120">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1541197912800">
+        <mark key="'" line="40" column="11" />
         <mark key="[" line="120" column="3" />
         <mark key="]" line="121" column="1" />
         <mark key="." line="121" column="1" />
@@ -261,8 +261,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" timestamp="1540935114203">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1541032990304">
-        <mark key="'" line="65" column="11" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1541198505056">
+        <mark key="'" line="75" column="45" />
         <mark key="[" line="82" column="25" />
         <mark key="]" line="83" column="13" />
         <mark key="." line="83" column="13" />
@@ -397,10 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
-      <jump line="27" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
-      <jump line="78" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
-      <jump line="86" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
       <jump line="232" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
       <jump line="35" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" />
@@ -411,7 +407,6 @@
       <jump line="220" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="61" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="201" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="62" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="175" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="192" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="217" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -497,6 +492,11 @@
       <jump line="601" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="27" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SchedulerInfo.scala" />
       <jump line="4" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SchedulerInfo.scala" />
+      <jump line="40" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="62" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="79" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="232" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="75" column="45" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -509,7 +509,7 @@
         <text>Tuple2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc2NGbGFnc1w+</text>
+        <text encoding="base64">XDxzY2hlZHVsZXJJbmZvXD4=</text>
       </register>
       <register name="0" type="4">
         <text>Tuple2(hour, new HourlyBatchPrestoSqlRewriter(hour).process(prestoQuery.query))</text>
@@ -546,9 +546,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc2NGbGFnc1w+</last-search>
+      <last-search encoding="base64">XDxzY2hlZHVsZXJJbmZvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc2NGbGFnc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hlZHVsZXJJbmZvXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -556,7 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>api</entry>
         <entry>spengine</entry>
         <entry>rewrite</entry>
         <entry encoding="base64">aWYg</entry>
@@ -576,6 +575,7 @@
         <entry encoding="base64">XDxnZXRUaW1lSWRcPg==</entry>
         <entry>sort</entry>
         <entry encoding="base64">XDxhc2NGbGFnc1w+</entry>
+        <entry encoding="base64">XDxzY2hlZHVsZXJJbmZvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
