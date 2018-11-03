@@ -261,7 +261,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" timestamp="1540935114203">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1541198505056">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1541202100958">
         <mark key="'" line="75" column="45" />
         <mark key="[" line="82" column="25" />
         <mark key="]" line="83" column="13" />
@@ -329,6 +329,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/LogicalDataframeRelation.scala" timestamp="1540838888233">
         <mark key="'" line="15" column="10" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/impl/UpmEngineImpls.java" timestamp="1541202880876">
+        <mark key="'" line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1540835704263">
         <mark key="'" line="106" column="57" />
         <mark key="[" line="31" column="62" />
@@ -367,8 +370,8 @@
         <mark key="." line="94" column="0" />
         <mark key="^" line="100" column="68" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" timestamp="1540937684506">
-        <mark key="'" line="638" column="30" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" timestamp="1541202373277">
+        <mark key="'" line="286" column="14" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="646" column="1" />
@@ -397,9 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" />
-      <jump line="35" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" />
       <jump line="58" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" />
       <jump line="0" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" />
       <jump line="84" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -497,6 +497,9 @@
       <jump line="79" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="232" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="75" column="45" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="496" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
+      <jump line="286" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" />
+      <jump line="18" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/impl/UpmEngineImpls.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -509,7 +512,7 @@
         <text>Tuple2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hlZHVsZXJJbmZvXD4=</text>
+        <text>pipeMaap</text>
       </register>
       <register name="0" type="4">
         <text>Tuple2(hour, new HourlyBatchPrestoSqlRewriter(hour).process(prestoQuery.query))</text>
@@ -546,9 +549,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2hlZHVsZXJJbmZvXD4=</last-search>
+      <last-search>pipeMaap</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hlZHVsZXJJbmZvXD4=</last-pattern>
+      <last-pattern>pipeMaap</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -556,8 +559,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spengine</entry>
-        <entry>rewrite</entry>
         <entry encoding="base64">aWYg</entry>
         <entry>case</entry>
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
@@ -576,6 +577,8 @@
         <entry>sort</entry>
         <entry encoding="base64">XDxhc2NGbGFnc1w+</entry>
         <entry encoding="base64">XDxzY2hlZHVsZXJJbmZvXD4=</entry>
+        <entry>TRANSFORM</entry>
+        <entry>pipeMaap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
