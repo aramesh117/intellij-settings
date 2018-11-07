@@ -87,6 +87,9 @@
   <ScalaCodeStyleSettings>
     <option name="classCountToUseImportOnDemand" value="1000" />
     <option name="sortAsScalastyle" value="true" />
+    <option name="SCALAFMT_CONFIG_PATH" value="/Users/aramesh117/fbsource/.scalafmt.conf" />
+    <option name="FORMATTER" value="1" />
+    <option name="SHOW_SCALAFMT_INVALID_CODE_WARNINGS" value="true" />
   </ScalaCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="INDENT_CHAINED_CALLS" value="false" />
