@@ -545,7 +545,7 @@
         <text>Tuple2</text>
       </register>
       <register name="/" type="4">
-        <text>LIMIT</text>
+        <text>queue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgic2FsZXMiKTsK</text>
@@ -582,9 +582,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LIMIT</last-search>
+      <last-search>queue</last-search>
       <last-offset />
-      <last-pattern>LIMIT</last-pattern>
+      <last-pattern>queue</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -592,7 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>process</entry>
         <entry>Presto</entry>
         <entry encoding="base64">XDxsZWZ0XD4=</entry>
         <entry encoding="base64">XDxBbmFseXNpc1w+</entry>
@@ -612,6 +611,7 @@
         <entry>\cunion</entry>
         <entry>UNION</entry>
         <entry>LIMIT</entry>
+        <entry>queue</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
