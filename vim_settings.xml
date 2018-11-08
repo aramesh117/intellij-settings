@@ -275,12 +275,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" timestamp="1541471287710">
         <mark key="'" line="197" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1540937977433">
-        <mark key="'" line="115" column="6" />
-        <mark key="[" line="223" column="36" />
-        <mark key="]" line="223" column="37" />
-        <mark key="." line="223" column="37" />
-        <mark key="^" line="223" column="37" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1541634966863">
+        <mark key="'" line="94" column="2" />
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="1" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" timestamp="1540935114203">
         <mark key="'" line="0" column="0" />
@@ -423,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/HourlyBatchPrestoSqlRewriter.scala" />
       <jump line="142" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoAstRewriterBase.java" />
       <jump line="13" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/HourlyBatchPrestoSqlRewriter.scala" />
       <jump line="26" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
@@ -523,6 +522,7 @@
       <jump line="572" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="25" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="17" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="91" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
