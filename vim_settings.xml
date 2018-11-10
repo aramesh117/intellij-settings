@@ -431,13 +431,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1541806835742">
         <mark key="'" line="365" column="12" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" timestamp="1541808958866">
-        <mark key="'" line="37" column="29" />
-        <mark key="[" line="38" column="92" />
-        <mark key="]" line="39" column="9" />
-        <mark key="." line="39" column="9" />
-        <mark key="^" line="39" column="9" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="38" column="54" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-sql_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/UDFRegistration.scala" />
@@ -545,8 +538,8 @@
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBuZXcgU3RydWN0VHlwZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -558,31 +551,31 @@
         <text encoding="base64">ICAgICAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCJudW0ucGFydGl0aW9ucy5iZWZvcmUiLCAiMTAiLCAicGFydGl0aW9uLmNvbHVtbiIsICJoYXNoX25hbWUiKSwKICAgICAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBuZXcgU3RydWN0VHlwZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBTdHJ1Y3RUeXBlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIERhdGFGcmFtZSBkZiA9IGNvbnRleHQuaHFsKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgLmZvcmVhY2goY29sID0+IHJlc3VsdC5hZGQoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRGF0YUZyYW1lIGFiY2QgPSAK</text>
+        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcgo=</text>
+        <text encoding="base64">ICAgIG5ldyBTdHJ1Y3RUeXBlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBPcHRpb25hbDxQYWlyPEludGVnZXIsIFN0cmluZz4+IGdldFJlcGFydGl0aW9uSGludChNYXA8U3RyaW5nLCBTdHJpbmc+IGhpbnRzKSB7CiAgICBpZiAoaGludHMuY29udGFpbnNLZXkoVXBtSGludHMuTlVNX1BBUlRJVElPTlNfQkVGT1JFKQogICAgICAgICYmIGhpbnRzLmNvbnRhaW5zS2V5KFVwbUhpbnRzLlBBUlRJVElPTl9DT0xVTU4pKSB7CiAgICAgIGludCBudW1QYXJ0aXRpb25zID0gSW50ZWdlci5wYXJzZUludChoaW50cy5nZXQoVXBtSGludHMuTlVNX1BBUlRJVElPTlNfQkVGT1JFKSk7CiAgICAgIFN0cmluZyBwYXJ0aXRpb25Db2x1bW4gPSBoaW50cy5nZXQoVXBtSGludHMuUEFSVElUSU9OX0NPTFVNTik7CiAgICAgIHJldHVybiBPcHRpb25hbC5vZihQYWlyLm9mKG51bVBhcnRpdGlvbnMsIHBhcnRpdGlvbkNvbHVtbikpOwogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7CiAgICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChoaW50cy5jb250YWluc0tleShVcG1IaW50cy5OVU1fUEFSVElUSU9OU19CRUZPUkUpCiAgICAgICAgJiYgaGludHMuY29udGFpbnNLZXkoVXBtSGludHMuUEFSVElUSU9OX0NPTFVNTikpIHsKICAgICAgbnVtUGFydGl0aW9ucyA9IEludGVnZXIucGFyc2VJbnQoaGludHMuZ2V0KFVwbUhpbnRzLk5VTV9QQVJUSVRJT05TX0JFRk9SRSkpOwogICAgICBwYXJ0aXRpb25Db2x1bW4gPSBoaW50cy5nZXQoVXBtSGludHMuUEFSVElUSU9OX0NPTFVNTik7Cg==</text>
+        <text encoding="base64">ICAgIERhdGFGcmFtZSBkZiA9IGNvbnRleHQuaHFsKCIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBudW1QYXJ0aXRpb25zID0gMDsKICAgIFN0cmluZyBwYXJ0aXRpb25Db2x1bW47Cg==</text>
+        <text encoding="base64">ICAgICAgRGF0YUZyYW1lIGFiY2QgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
