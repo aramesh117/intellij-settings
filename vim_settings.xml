@@ -285,7 +285,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" timestamp="1541471287710">
         <mark key="'" line="197" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PythonToSparkDataTypeMapper.java" timestamp="1541920983057" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PythonToSparkDataTypeMapper.java" timestamp="1541923662961">
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="18" column="71" />
+        <mark key="." line="18" column="71" />
+        <mark key="^" line="18" column="71" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1541638909122">
         <mark key="'" line="34" column="27" />
         <mark key="]" line="24" column="1" />
@@ -539,44 +544,44 @@
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBuZXcgU3RydWN0VHlwZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>FloatType</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>FloatType</text>
       </register>
       <register name="/" type="4">
         <text>piped</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCJudW0ucGFydGl0aW9ucy5iZWZvcmUiLCAiMTAiLCAicGFydGl0aW9uLmNvbHVtbiIsICJoYXNoX25hbWUiKSwKICAgICAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5wdXQoImZsb2F0IiwgRGF0YVR5cGVzLkZsb2F0VHlwZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBuZXcgU3RydWN0VHlwZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5wdXQoIk51bWJlciIsIERhdGFUeXBlcy5Eb3VibGVUeXBlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXN1bHQgPSBuZXcgU3RydWN0VHlwZSgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmZvcmVhY2goY29sID0+IHJlc3VsdC5hZGQoKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgLmZvcmVhY2goY29sID0+IHJlc3VsdC5hZGQoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBTdHJ1Y3RUeXBlKCkK</text>
+        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIG5ldyBTdHJ1Y3RUeXBlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERhdGFGcmFtZSBkZiA9IGNvbnRleHQuaHFsKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRGF0YUZyYW1lIGFiY2QgPSAK</text>
+        <text encoding="base64">ICAgIERhdGFGcmFtZSBkZiA9IGNvbnRleHQuaHFsKCIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
