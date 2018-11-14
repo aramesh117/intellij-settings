@@ -105,12 +105,12 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/org/apache/hadoop/hive/ql/exec/UDAF.class" timestamp="1541529062307">
         <mark key="'" line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" timestamp="1542229178411">
-        <mark key="'" line="107" column="46" />
-        <mark key="[" line="308" column="0" />
-        <mark key="]" line="308" column="71" />
-        <mark key="." line="308" column="0" />
-        <mark key="^" line="308" column="12" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" timestamp="1542237572985">
+        <mark key="'" line="522" column="6" />
+        <mark key="[" line="576" column="16" />
+        <mark key="]" line="576" column="21" />
+        <mark key="." line="576" column="21" />
+        <mark key="^" line="576" column="21" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" timestamp="1541451577241">
         <mark key="'" line="25" column="6" />
@@ -398,8 +398,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" timestamp="1540935114203">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1542229217228">
-        <mark key="'" line="520" column="10" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1542237537192">
+        <mark key="'" line="578" column="10" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/ConfigHelper.scala" timestamp="1541100377251">
         <mark key="'" line="19" column="51" />
@@ -452,23 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="77" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PythonToSparkDataTypeMapper.java" />
-      <jump line="184" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="300" column="117" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="4" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/SpecMacroHelper.java" />
-      <jump line="37" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
-      <jump line="41" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
-      <jump line="57" column="14" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" />
-      <jump line="200" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
-      <jump line="222" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
-      <jump line="73" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="100" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="142" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="178" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="345" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="415" column="45" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="504" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="344" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="43" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" />
       <jump line="391" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -549,65 +532,80 @@
       <jump line="514" column="40" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="569" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="723" column="22" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
-      <jump line="578" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="666" column="18" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="520" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="659" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="576" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="578" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="523" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="540" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="547" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="566" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="580" column="2" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="600" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="603" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="644" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="662" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="676" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="875" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="1274" column="33" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="2203" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="2489" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
+      <jump line="522" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>else {
-        false
-      }</text>
+        <text>executeAndGetOutput(Seq(&quot;unzip&quot;, &quot;-o&quot;, archive.getCanonicalPath), targetDir)</text>
       </register>
       <register name="-" type="4">
-        <text>LatestDsPartitionSpec</text>
+        <text>executeAndGetOutput(Seq(&quot;unzip&quot;, &quot;-o&quot;, archive.getCanonicalPath), targetDir)</text>
       </register>
       <register name="/" type="4">
-        <text>Fetched</text>
+        <text encoding="base64">XDxsb2dJbmZvXD4=</text>
       </register>
       <register name="0" type="4">
         <text>dim_uid_to_rid</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSAiemlwIiB8ICJwYXIiID0+CiAgICAgICAgbG9nSW5mbyhleGVjdXRlQW5kR2V0T3V0cHV0KFNlcSgidW56aXAiLCAiLW8iLCBhcmNoaXZlLmdldENhbm9uaWNhbFBhdGgpLCB0YXJnZXREaXIpKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>else {
         false
       }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgaWYgKGRhdGVFeHByZXNzaW9uLmlzSW5zdGFuY2VPZltEYXRlUGFydGl0aW9uU3BlY10pIHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgdmFsIGRhdGVFeHByZXNzaW9uID0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gUHJveHkgZm9yIGRldGVybWluaW5nIHRoZSBtb2RlIHRoYXQgdGhlIGVuZ2luZSBpcyBydW4gaW4KICAgICAgaWYgKHNjaGVkdWxlckluZm8uZmxhdE1hcChfLnBlcmlvZElkKS5pc0VtcHR5KSB7CiAgICAgICAgLy8gSWYgdGhlIGRlbHRhIGlzIGxlc3MgdGhhbiAtOTAgZGF5cywgdGhlbiBubyBtYXR0ZXIgd2hhdCByZWFsIGRhdGUgaXQgaXMsIGl0IHdpbGwgbmVlZAogICAgICAgIC8vIGFub255bWl6YXRpb24KICAgICAgICBkYXRlRXhwcmVzc2lvbi5nZXREZWx0YUluRGF5cyA8IC1ISVZFX0FOT05ZTUlaQVRJT05fVEhSRVNIT0xEX0RBWVMKICAgICAgfSBlbHNlIHsgLy8gUnVuIG1vZGUKICAgICAgICB2YWwgYW5vbkJvdW5kYXJ5ID0gTG9jYWxEYXRlLm5vdygpLm1pbnVzRGF5cyhISVZFX0FOT05ZTUlaQVRJT05fVEhSRVNIT0xEX0RBWVMpCiAgICAgICAgdmFsIGN1cnJlbnREYXRlID0gZ2V0Q3VycmVudERhdGUKICAgICAgICBpZiAoZGF0ZUV4cHJlc3Npb24uZ2V0RGVsdGFJbkRheXMgPiAwKSB7CiAgICAgICAgICBjdXJyZW50RGF0ZS5wbHVzRGF5cyhkYXRlRXhwcmVzc2lvbi5nZXREZWx0YUluRGF5cykuaXNCZWZvcmUoYW5vbkJvdW5kYXJ5KQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBjdXJyZW50RGF0ZS5taW51c0RheXMoLWRhdGVFeHByZXNzaW9uLmdldERlbHRhSW5EYXlzKS5pc0JlZm9yZShhbm9uQm91bmRhcnkpCiAgICAgICAgfQogICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGF0ZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gUHJveHkgZm9yIGRldGVybWluaW5nIHRoZSBtb2RlIHRoYXQgdGhlIGVuZ2luZSBpcyBydW4gaW4KICAgICAgaWYgKHNjaGVkdWxlckluZm8uZmxhdE1hcChfLnBlcmlvZElkKS5pc0VtcHR5KSB7CiAgICAgICAgLy8gSWYgdGhlIGRlbHRhIGlzIGxlc3MgdGhhbiAtOTAgZGF5cywgdGhlbiBubyBtYXR0ZXIgd2hhdCByZWFsIGRhdGUgaXQgaXMsIGl0IHdpbGwgbmVlZAogICAgICAgIC8vIGFub255bWl6YXRpb24KICAgICAgICBkYXRlRXhwcmVzc2lvbi5nZXREZWx0YUluRGF5cyA8IC1ISVZFX0FOT05ZTUlaQVRJT05fVEhSRVNIT0xEX0RBWVMKICAgICAgfSBlbHNlIHsgLy8gUnVuIG1vZGUKICAgICAgICB2YWwgYW5vbkJvdW5kYXJ5ID0gTG9jYWxEYXRlLm5vdygpLm1pbnVzRGF5cyhISVZFX0FOT05ZTUlaQVRJT05fVEhSRVNIT0xEX0RBWVMpCiAgICAgICAgdmFsIGN1cnJlbnREYXRlID0gZ2V0Q3VycmVudERhdGUKICAgICAgICBpZiAoZGF0ZUV4cHJlc3Npb24uZ2V0RGVsdGFJbkRheXMgPiAwKSB7CiAgICAgICAgICBjdXJyZW50RGF0ZS5wbHVzRGF5cyhkYXRlRXhwcmVzc2lvbi5nZXREZWx0YUluRGF5cykuaXNCZWZvcmUoYW5vbkJvdW5kYXJ5KQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBjdXJyZW50RGF0ZS5taW51c0RheXMoLWRhdGVFeHByZXNzaW9uLmdldERlbHRhSW5EYXlzKS5pc0JlZm9yZShhbm9uQm91bmRhcnkpCiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Fetched</last-search>
+      <last-search encoding="base64">XDxsb2dJbmZvXD4=</last-search>
       <last-offset />
-      <last-pattern>Fetched</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dJbmZvXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -615,7 +613,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXRhbG9nXD4=</entry>
         <entry encoding="base64">XDxnZXRTdWJxdWVyeUZvck1hcHBpbmdUYWJsZVw+</entry>
         <entry encoding="base64">XDxnZXRQbGFuRm9ySWRcPg==</entry>
         <entry>&quot;&quot;</entry>
@@ -632,9 +629,10 @@
         <entry>Handling resource</entry>
         <entry>Handling</entry>
         <entry encoding="base64">XDxoYW5kbGVGQlBLR1Jlc291cmNlXD4=</entry>
-        <entry>fetchFBPKG</entry>
         <entry>Completed</entry>
         <entry>Fetched</entry>
+        <entry>fetchFBPKG</entry>
+        <entry encoding="base64">XDxsb2dJbmZvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
