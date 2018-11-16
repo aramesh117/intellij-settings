@@ -230,6 +230,9 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" timestamp="1542328809070">
+        <mark key="'" line="14" column="48" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/UpmLogicalPipeMap.scala" timestamp="1541981948627">
         <mark key="'" line="17" column="26" />
       </file>
@@ -267,6 +270,7 @@
         <mark key="." line="26" column="92" />
         <mark key="^" line="26" column="92" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/HiveTypeConverterBase.java" timestamp="1542328757370" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkSqlBuilder.scala" timestamp="1541202373277">
         <mark key="'" line="286" column="14" />
         <mark key="[" line="42" column="0" />
@@ -462,7 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="68" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="303" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="59" column="54" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/identifiers.scala" />
       <jump line="13" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" />
@@ -562,6 +565,7 @@
       <jump line="14" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PythonToSparkDataTypeMapper.java" />
       <jump line="29" column="31" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/DataTypes.java" />
       <jump line="22" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PythonToSparkDataTypeMapper.java" />
+      <jump line="14" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -574,7 +578,7 @@
         <text>executeAndGetOutput(Seq(&quot;unzip&quot;, &quot;-o&quot;, archive.getCanonicalPath), targetDir)</text>
       </register>
       <register name="/" type="4">
-        <text>Map</text>
+        <text encoding="base64">XDxtYXBwaW5nXD4=</text>
       </register>
       <register name="0" type="4">
         <text>dim_uid_to_rid</text>
@@ -613,9 +617,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Map</last-search>
+      <last-search encoding="base64">XDxtYXBwaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>Map</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBwaW5nXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -623,7 +627,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
         <entry encoding="base64">XDxjcm9zc2VzQW5vbkJvdW5kYXJ5XD4=</entry>
         <entry encoding="base64">XDxkYXRlRXhwcmVzc2lvblw+</entry>
         <entry>logInfo</entry>
@@ -643,6 +646,7 @@
         <entry>max(</entry>
         <entry>max</entry>
         <entry>Map</entry>
+        <entry encoding="base64">XDxtYXBwaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
