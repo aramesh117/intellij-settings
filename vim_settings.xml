@@ -333,8 +333,8 @@
         <mark key="^" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpFactory.java" timestamp="1541449976921">
-        <mark key="'" line="36" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpFactory.java" timestamp="1542332376186">
+        <mark key="'" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DistinctOperator.java" timestamp="1536615763235">
         <mark key="'" line="6" column="38" />
@@ -466,7 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="59" column="54" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/identifiers.scala" />
       <jump line="13" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" />
       <jump line="16" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" />
@@ -566,6 +565,7 @@
       <jump line="29" column="31" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/DataTypes.java" />
       <jump line="22" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PythonToSparkDataTypeMapper.java" />
       <jump line="14" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -578,7 +578,7 @@
         <text>executeAndGetOutput(Seq(&quot;unzip&quot;, &quot;-o&quot;, archive.getCanonicalPath), targetDir)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXBwaW5nXD4=</text>
+        <text>createFunction</text>
       </register>
       <register name="0" type="4">
         <text>dim_uid_to_rid</text>
@@ -617,9 +617,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXBwaW5nXD4=</last-search>
+      <last-search>createFunction</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXBwaW5nXD4=</last-pattern>
+      <last-pattern>createFunction</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -627,7 +627,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcm9zc2VzQW5vbkJvdW5kYXJ5XD4=</entry>
         <entry encoding="base64">XDxkYXRlRXhwcmVzc2lvblw+</entry>
         <entry>logInfo</entry>
         <entry encoding="base64">XDxyZXNvdXJjZXNcPg==</entry>
@@ -647,6 +646,7 @@
         <entry>max</entry>
         <entry>Map</entry>
         <entry encoding="base64">XDxtYXBwaW5nXD4=</entry>
+        <entry>createFunction</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
