@@ -283,15 +283,15 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testUidRewriteMultipleTimes__2__physicalplan.json" timestamp="1540937204571">
         <mark key="'" line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PythonToSparkDataTypeMapper.java" timestamp="1542327440244">
-        <mark key="'" line="22" column="9" />
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="18" column="71" />
-        <mark key="." line="18" column="71" />
-        <mark key="^" line="18" column="71" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PythonToSparkDataTypeMapper.java" timestamp="1542612992417">
+        <mark key="'" line="7" column="62" />
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1542608000264">
-        <mark key="'" line="136" column="0" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1542612596093">
+        <mark key="'" line="177" column="26" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1542251555187">
         <mark key="'" line="143" column="26" />
@@ -452,17 +452,14 @@
         <mark key="." line="54" column="59" />
         <mark key="^" line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1542401758485">
-        <mark key="'" line="125" column="26" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1542612599450">
+        <mark key="'" line="133" column="4" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" timestamp="1541981935800">
         <mark key="'" line="26" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" />
-      <jump line="34" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmDatasetManager.scala" />
-      <jump line="57" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmCatalog.scala" />
       <jump line="269" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="232" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="297" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -560,22 +557,25 @@
       <jump line="202" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
       <jump line="125" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="136" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="177" column="26" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="133" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
+      <jump line="7" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PythonToSparkDataTypeMapper.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgcHJvamVjdCA9IFByb2plY3QoCi8vICAgICAgICBTZXEoVW5yZXNvbHZlZEF0dHJpYnV0ZShoaXZlQW5vbkluZm8udXNlcklkQ29sdW1uKSwgVW5yZXNvbHZlZEF0dHJpYnV0ZSgicmlkIikpLAovLyAgICAgICAgdWlkVG9SaWRSZWxhdGlvbgovLyAgICAgICkKLy8gICAgICBwcm9qZWN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BinaryType</text>
       </register>
       <register name="-" type="4">
-        <text>executeAndGetOutput(Seq(&quot;unzip&quot;, &quot;-o&quot;, archive.getCanonicalPath), targetDir)</text>
+        <text>BinaryType</text>
       </register>
       <register name="/" type="4">
         <text>environment\c</text>
       </register>
-      <register name="0" type="4">
-        <text>dim_uid_to_rid</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5wdXQoImJ5dGVzIiwgRGF0YVR5cGVzLkJpbmFyeVR5cGUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICB2YWwgcHJvamVjdCA9IFByb2plY3QoCi8vICAgICAgICBTZXEoVW5yZXNvbHZlZEF0dHJpYnV0ZShoaXZlQW5vbkluZm8udXNlcklkQ29sdW1uKSwgVW5yZXNvbHZlZEF0dHJpYnV0ZSgicmlkIikpLAovLyAgICAgICAgdWlkVG9SaWRSZWxhdGlvbgovLyAgICAgICkKLy8gICAgICBwcm9qZWN0Cg==</text>
