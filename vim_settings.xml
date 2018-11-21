@@ -42,6 +42,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/BasicConnectorContext.java" timestamp="1541528853004">
         <mark key="'" line="5" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Enumeration.scala" timestamp="1542763799393" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" timestamp="1542655676638">
         <mark key="'" line="93" column="17" />
       </file>
@@ -362,6 +363,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpFactory.java" timestamp="1542332376186">
         <mark key="'" line="20" column="13" />
       </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1542763817602">
+        <mark key="'" line="719" column="33" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/DistinctOperator.java" timestamp="1536615763235">
         <mark key="'" line="6" column="38" />
         <mark key="[" line="8" column="16" />
@@ -500,10 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
-      <jump line="82" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
-      <jump line="38" column="27" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
-      <jump line="54" column="36" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
       <jump line="570" column="69" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="533" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="543" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
@@ -600,6 +600,10 @@
       <jump line="18" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/HiveTypeConverterBase.java" />
       <jump line="273" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="21" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="729" column="71" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="738" column="71" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
+      <jump line="719" column="33" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -612,7 +616,7 @@
         <text>BinaryType</text>
       </register>
       <register name="/" type="4">
-        <text>convert</text>
+        <text>-P</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIC5wdXQoImJ5dGVzIiwgRGF0YVR5cGVzLkJpbmFyeVR5cGUpCg==</text>
@@ -651,9 +655,9 @@
       </register>
     </registers>
     <search>
-      <last-search>convert</last-search>
+      <last-search>-P</last-search>
       <last-offset />
-      <last-pattern>convert</last-pattern>
+      <last-pattern>-P</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -661,7 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dJbmZvXD4=</entry>
         <entry encoding="base64">XDxnZXRTdWJxdWVyeUZvck1hcHBpbmdUYWJsZVw+</entry>
         <entry encoding="base64">XDxnZXRQbGFuRm9ySWRcPg==</entry>
         <entry encoding="base64">XDxwcm9qZWN0TGlzdFw+</entry>
@@ -681,6 +684,7 @@
         <entry encoding="base64">XDxjb21wbGV0ZWRPcGVyYXRvcnNcPg==</entry>
         <entry encoding="base64">XDxjb21wbGV0ZWRQbGFuXD4=</entry>
         <entry>convert</entry>
+        <entry>-P</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
