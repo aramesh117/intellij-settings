@@ -190,12 +190,12 @@
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1542612596093">
         <mark key="'" line="177" column="26" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1542847057963">
-        <mark key="'" line="336" column="52" />
-        <mark key="[" line="34" column="87" />
-        <mark key="]" line="35" column="3" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="3" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1542849198673">
+        <mark key="'" line="286" column="33" />
+        <mark key="[" line="256" column="33" />
+        <mark key="]" line="256" column="40" />
+        <mark key="." line="256" column="40" />
+        <mark key="^" line="256" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/MapType.scala" timestamp="1542655943237">
         <mark key="'" line="46" column="11" />
@@ -247,12 +247,12 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" timestamp="1542846991400">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" timestamp="1542848822033">
         <mark key="'" line="125" column="53" />
-        <mark key="[" line="73" column="32" />
-        <mark key="]" line="73" column="36" />
-        <mark key="." line="73" column="36" />
-        <mark key="^" line="73" column="36" />
+        <mark key="[" line="135" column="30" />
+        <mark key="]" line="135" column="30" />
+        <mark key="." line="135" column="30" />
+        <mark key="^" line="119" column="31" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" timestamp="1542674794041">
         <mark key="'" line="18" column="44" />
@@ -515,13 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="580" column="2" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="600" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="603" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="644" column="10" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="662" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="676" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
-      <jump line="875" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="1274" column="33" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="2203" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
       <jump line="2489" column="4" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/util/Utils.scala" />
@@ -615,68 +608,72 @@
       <jump line="84" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="52" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="336" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="433" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="78" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="44" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="66" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="204" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="162" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="280" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ENABLE_AUTO_ANON_REWRITE_KEY</text>
+        <text encoding="base64">bGVzcyA=</text>
       </register>
       <register name="-" type="4">
-        <text>ENABLE_AUTO_ANON_REWRITE_KEY</text>
+        <text encoding="base64">bGVzcyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBTk9OX1NVRkZJWFw+</text>
+        <text>substitute</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KFVwbUNvbmZpZ3VyYXRpb24uRU5BQkxFX0FVVE9fQU5PTl9SRVdSSVRFX0tFWSwgInRydWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBJZiB0aGUgZGVsdGEgaXMgbGVzcyB0aGFuIC05MCBkYXlzLCB0aGVuIG5vIG1hdHRlciB3aGF0IHJlYWwgZGF0ZSBpdCBpcywgaXQgd2lsbCBuZWVkCiAgICAgICAgICAgICAgLy8gYW5vbnltaXphdGlvbgogICAgICAgICAgICAgIGRhdGVFeHByZXNzaW9uLmdldERlbHRhSW5EYXlzIDwgLUhJVkVfQU5PTllNSVpBVElPTl9USFJFU0hPTERfREFZUwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgcHJvamVjdCA9IFByb2plY3QoCi8vICAgICAgICBTZXEoVW5yZXNvbHZlZEF0dHJpYnV0ZShoaXZlQW5vbkluZm8udXNlcklkQ29sdW1uKSwgVW5yZXNvbHZlZEF0dHJpYnV0ZSgicmlkIikpLAovLyAgICAgICAgdWlkVG9SaWRSZWxhdGlvbgovLyAgICAgICkKLy8gICAgICBwcm9qZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAiemlwIiB8ICJwYXIiID0+CiAgICAgICAgbG9nSW5mbyhleGVjdXRlQW5kR2V0T3V0cHV0KFNlcSgidW56aXAiLCAiLW8iLCBhcmNoaXZlLmdldENhbm9uaWNhbFBhdGgpLCB0YXJnZXREaXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSWYgdGhlIGRlbHRhIGlzIGxlc3MgdGhhbiAtOTAgZGF5cywgdGhlbiBubyBtYXR0ZXIgd2hhdCByZWFsIGRhdGUgaXQgaXMsIGl0IHdpbGwgbmVlZAogICAgICAgICAgICAvLyBhbm9ueW1pemF0aW9uCiAgICAgICAgICAgIGRhdGVFeHByZXNzaW9uLmdldERlbHRhSW5EYXlzIDwgLUhJVkVfQU5PTllNSVpBVElPTl9USFJFU0hPTERfREFZUwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>else {
-        false
-      }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJldmVyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBJZiB0aGUgZGVsdGEgaXMgbGVzcyB0aGFuIC05MCBkYXlzLCB0aGVuIG5vIG1hdHRlciB3aGF0IHJlYWwgZGF0ZSBpdCBpcywgaXQgd2lsbCBuZWVkCiAgICAgICAgICAgICAgLy8gYW5vbnltaXphdGlvbgogICAgICAgICAgICAgIGRhdGVFeHByZXNzaW9uLmdldERlbHRhSW5EYXlzIDwgLUhJVkVfQU5PTllNSVpBVElPTl9USFJFU0hPTERfREFZUwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRhdGVFeHByZXNzaW9uLmlzSW5zdGFuY2VPZltEYXRlUGFydGl0aW9uU3BlY10pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGRhdGVFeHByZXNzaW9uID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBTk9OX1NVRkZJWFw+</last-search>
+      <last-search>substitute</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBTk9OX1NVRkZJWFw+</last-pattern>
+      <last-pattern>substitute</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9qZWN0TGlzdFw+</entry>
         <entry>max(</entry>
         <entry>max</entry>
         <entry>Map</entry>
@@ -696,6 +693,7 @@
         <entry>-P</entry>
         <entry encoding="base64">XDxVcG1Mb2dpY2FsQXV0b0Fub255bWl6YXRpb25cPg==</entry>
         <entry encoding="base64">XDxBTk9OX1NVRkZJWFw+</entry>
+        <entry>substitute</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
