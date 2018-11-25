@@ -196,8 +196,8 @@
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1542612596093">
         <mark key="'" line="177" column="26" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1543137500816">
-        <mark key="'" line="66" column="21" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1543139041889">
+        <mark key="'" line="210" column="6" />
         <mark key="[" line="520" column="25" />
         <mark key="]" line="520" column="25" />
         <mark key="." line="520" column="25" />
@@ -612,7 +612,6 @@
       <jump line="150" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="263" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="457" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
-      <jump line="210" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="298" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="158" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="262" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
@@ -640,6 +639,7 @@
       <jump line="59" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
       <jump line="166" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="66" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="210" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -652,7 +652,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>should\c</text>
+        <text encoding="base64">XDxnZXRDdXJyZW50RGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KFVwbUNvbmZpZ3VyYXRpb24uRU5BQkxFX0FVVE9fQU5PTl9SRVZFUlNFX0tFWSwgInRydWUiKTsK</text>
@@ -689,9 +689,9 @@
       </register>
     </registers>
     <search>
-      <last-search>should\c</last-search>
+      <last-search encoding="base64">XDxnZXRDdXJyZW50RGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>should\c</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRDdXJyZW50RGF0ZVw+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -699,7 +699,6 @@
     </search>
     <history>
       <history-search>
-        <entry>needs</entry>
         <entry encoding="base64">XDx0YWJsZUV4aXN0c1w+</entry>
         <entry>rename</entry>
         <entry encoding="base64">XDxyZW5hbWVUYWJsZUZvckFub25cPg==</entry>
@@ -719,6 +718,7 @@
         <entry encoding="base64">XDxzZXR1cFNpbmdsZURhdGVEYXRhc2V0c1w+</entry>
         <entry>save\c</entry>
         <entry>should\c</entry>
+        <entry encoding="base64">XDxnZXRDdXJyZW50RGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
