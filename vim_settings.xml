@@ -196,12 +196,12 @@
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1542612596093">
         <mark key="'" line="177" column="26" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1543139041889">
-        <mark key="'" line="210" column="6" />
-        <mark key="[" line="520" column="25" />
-        <mark key="]" line="520" column="25" />
-        <mark key="." line="520" column="25" />
-        <mark key="^" line="520" column="25" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" timestamp="1543140855617">
+        <mark key="'" line="456" column="13" />
+        <mark key="[" line="442" column="34" />
+        <mark key="]" line="442" column="34" />
+        <mark key="." line="442" column="34" />
+        <mark key="^" line="442" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/MapType.scala" timestamp="1542655943237">
         <mark key="'" line="46" column="11" />
@@ -257,8 +257,8 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" timestamp="1543137373804">
-        <mark key="'" line="166" column="27" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" timestamp="1543140736681">
+        <mark key="'" line="201" column="27" />
         <mark key="[" line="254" column="30" />
         <mark key="]" line="254" column="30" />
         <mark key="." line="254" column="30" />
@@ -535,17 +535,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" timestamp="1542656243341">
         <mark key="'" line="56" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1543052120783">
+      <file name="/fragment.java" timestamp="1543140486341">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
-      <jump line="61" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
-      <jump line="102" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
-      <jump line="56" column="71" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
-      <jump line="227" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
       <jump line="91" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="479" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="486" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -640,19 +634,25 @@
       <jump line="166" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="66" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="210" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="386" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="441" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="373" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="362" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="456" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="201" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>cp /tmp/upm_tests_2018.11.25.01.15.38/ReverseAutoAnonymizationTest__testUIDRewrite__physicalplan.json /Users/aramesh117/fbsource/fbcode/fbjava/upm/spengine/src/test/resources</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>cp /tmp/upm_tests_2018.11.25.01.15.38/ReverseAutoAnonymizationTest__testUIDRewrite__physicalplan.json /Users/aramesh117/fbsource/fbcode/fbjava/upm/spengine/src/test/resources</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDdXJyZW50RGF0ZVw+</text>
+        <text>reverse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KFVwbUNvbmZpZ3VyYXRpb24uRU5BQkxFX0FVVE9fQU5PTl9SRVZFUlNFX0tFWSwgInRydWUiKTsK</text>
@@ -689,9 +689,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDdXJyZW50RGF0ZVw+</last-search>
+      <last-search>reverse</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDdXJyZW50RGF0ZVw+</last-pattern>
+      <last-pattern>reverse</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -699,7 +699,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZUV4aXN0c1w+</entry>
         <entry>rename</entry>
         <entry encoding="base64">XDxyZW5hbWVUYWJsZUZvckFub25cPg==</entry>
         <entry encoding="base64">XDxhbm9uQ291bnRlcnBhcnRFeGlzdHNcPg==</entry>
@@ -719,6 +718,7 @@
         <entry>save\c</entry>
         <entry>should\c</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50RGF0ZVw+</entry>
+        <entry>reverse</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;BOOLEAN&quot;/&quot;boolean&quot;/g</entry>
