@@ -141,12 +141,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/HiveTypeConverterBase.java" timestamp="1542658310562">
         <mark key="'" line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmPrestoCatalog.scala" timestamp="1543371672630">
-        <mark key="'" line="63" column="15" />
-        <mark key="[" line="54" column="43" />
-        <mark key="]" line="54" column="44" />
-        <mark key="." line="54" column="44" />
-        <mark key="^" line="54" column="44" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmPrestoCatalog.scala" timestamp="1543372663097">
+        <mark key="'" line="67" column="15" />
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="50" column="43" />
+        <mark key="." line="50" column="43" />
+        <mark key="^" line="50" column="43" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" timestamp="1541981935800">
         <mark key="'" line="26" column="57" />
@@ -399,43 +399,43 @@
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>Attribute $attr's datatype is ${attr.dataType}</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Attribute $attr's datatype is ${attr.dataType}</text>
       </register>
       <register name="/" type="4">
         <text>META_ONLY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KFVwbUNvbmZpZ3VyYXRpb24uRU5BQkxFX0FVVE9fQU5PTl9SRVZFUlNFX0tFWSwgInRydWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiQXR0cmlidXRlICRhdHRyJ3MgZGF0YXR5cGUgaXMgJHthdHRyLmRhdGFUeXBlfSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dHIuZGF0YVR5cGUuc2ltcGxlU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiQXR0cmlidXRlICRhdHRyJ3MgZGF0YXR5cGUgaXMgJHthdHRyLmRhdGFUeXBlfSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIlRoZSBvdXRwdXQgYXR0cmlidXRlcyAiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4ocyJBdHRyaWJ1dGUgJGF0dHIncyBkYXRhdHlwZSBpcyAke2F0dHIuZGF0YVR5cGV9IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3ROb0Fub25Db3VudGVycGFydCgpIHRocm93cyBVcG1FeGNlcHRpb24gewogICAgVXBtRGF0YXNldCBjb25zdW1lZERhdGFzZXQgPQogICAgICAgIG5ldyBVcG1EYXRhc2V0KAogICAgICAgICAgICAiZGltX2FsbF91c2VycyIsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigiZHMiLCBuZXcgSW5PcGVyYXRpb24oSW1tdXRhYmxlTGlzdC5vZigiPERBVEFTRVRfU1BFQ19TVEFSVDpEQVRFSUQ6REFUQVNFVF9TUEVDX0VORD4iKSkpLAogICAgICAgICAgICAiZGF0YXNldCIsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigpLAogICAgICAgICAgICBJbnRlcnZhbC5EQUlMWS50b1N0cmluZygpKTsKICAgIHByb2R1Y2VkRGF0YXNldCA9CiAgICAgICAgbmV3IFVwbURhdGFzZXQoCiAgICAgICAgICAgICJ0ZXN0X3RhYmxlIiwKICAgICAgICAgICAgSW1tdXRhYmxlTWFwLm9mKAogICAgICAgICAgICAgICAgImRzIiwKICAgICAgICAgICAgICAgIG5ldyBJbk9wZXJhdGlvbihJbW11dGFibGVMaXN0Lm9mKCI8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRDpEQVRBU0VUX1NQRUNfRU5EPiIpKSksCiAgICAgICAgICAgICJwcm9kdWNlX2RhdGFzZXQiLAogICAgICAgICAgICBJbW11dGFibGVNYXAub2YoKSwKICAgICAgICAgICAgSW50ZXJ2YWwuREFJTFkudG9TdHJpbmcoKSk7CiAgICBjdHguYWRkQ29uc3VtZWREYXRhc2V0cygKICAgICAgICBJbW11dGFibGVNYXAub2YoInVwbWRhdGFzZXRzLiIgKyBjb25zdW1lZERhdGFzZXQudGFibGVBbGlhcywgY29uc3VtZWREYXRhc2V0KSk7CiAgICBjdHguYWRkUHJvZHVjZURhdGFzZXRzKAogICAgICAgIEltbXV0YWJsZU1hcC5vZigidXBtZGF0YXNldHMuIiArIHByb2R1Y2VkRGF0YXNldC50YWJsZUFsaWFzLCBwcm9kdWNlZERhdGFzZXQpKTsKICAgIFVwbUxvZ2ljYWxBdXRvQW5vbnltaXphdGlvbiQuTU9EVUxFJC5jbGVhclVIYXVsVGFibGVzKCk7CiAgICBTdHJpbmcgaHFsID0gIlNFTEVDVCBkb2JfZGF5IEZST00gdXBtZGF0YXNldHMuZGF0YXNldCBXSEVSRSBhZ2UgPiAxMDAiOwogICAgRGF0YUZyYW1lIGRmID0gY3R4LmhxbChocWwsIHVwbUhpbnRzKTsKICAgIGRmLnNhdmUocHJvZHVjZWREYXRhc2V0LCB1cG1IaW50cywgSW1tdXRhYmxlTWFwLm9mKCkpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF0dHIuZGF0YVR5cGUuc2ltcGxlU3RyaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -474,7 +474,6 @@
         <entry>META_ONLY</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;TINYINT&quot;/&quot;tinyint&quot;/g</entry>
         <entry>%s/&quot;SMALLINT&quot;/&quot;smallint&quot;/g</entry>
         <entry>%s/\&quot;BIGINT\&quot;/\&quot;bigint\&quot;/g</entry>
         <entry>%s/&quot;STRING&quot;/&quot;string&quot;/g</entry>
@@ -493,6 +492,7 @@
         <entry>q</entry>
         <entry>54</entry>
         <entry>48</entry>
+        <entry>55</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
