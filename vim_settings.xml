@@ -281,6 +281,9 @@
         <mark key="." line="29" column="87" />
         <mark key="^" line="29" column="87" />
       </file>
+      <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/json/JsonFileFormat.scala" timestamp="1543523958531">
+        <mark key="'" line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/java/com/facebook/fblearner/plasma/PlasmaHiveConfProviderImpl.java" timestamp="1543360280774">
         <mark key="'" line="89" column="38" />
       </file>
@@ -676,7 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="6" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameReader.scala" />
       <jump line="422" column="4" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameReader.scala" />
       <jump line="430" column="69" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameReader.scala" />
       <jump line="31" column="10" filename="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveContext.scala" />
@@ -776,6 +778,7 @@
       <jump line="59" column="8" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/console.scala" />
       <jump line="24" column="56" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/streaming/console.scala" />
       <jump line="24" column="57" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/jdbc/JdbcRelationProvider.scala" />
+      <jump line="91" column="0" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/json/JsonFileFormat.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
