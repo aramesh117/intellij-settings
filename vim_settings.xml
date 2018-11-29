@@ -294,7 +294,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalInferSchedulerPartitions.scala" timestamp="1543134976774">
         <mark key="'" line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" timestamp="1543454933969">
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" timestamp="1543517626864">
+        <mark key="'" line="89" column="44" />
         <mark key="[" line="100" column="52" />
         <mark key="]" line="100" column="51" />
         <mark key="^" line="100" column="51" />
@@ -570,8 +571,8 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveContext.scala" timestamp="1543475206946">
         <mark key="'" line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1543455103281">
-        <mark key="'" line="664" column="62" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1543517786236">
+        <mark key="'" line="263" column="48" />
         <mark key="[" line="664" column="44" />
         <mark key="]" line="664" column="44" />
         <mark key="^" line="664" column="9" />
@@ -653,9 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1763" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
-      <jump line="13" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
-      <jump line="96" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="7" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="130" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
       <jump line="13" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/pom.xml" />
@@ -690,14 +688,11 @@
       <jump line="54" column="54" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="127" column="18" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="309" column="18" filename="/Executor.scala" />
-      <jump line="30" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
-      <jump line="65" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
       <jump line="68" column="22" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
       <jump line="514" column="22" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="267" column="21" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
       <jump line="72" column="32" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
       <jump line="77" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
-      <jump line="664" column="62" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="82" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
       <jump line="493" column="55" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
       <jump line="496" column="18" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
@@ -753,6 +748,12 @@
       <jump line="517" column="50" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
       <jump line="2425" column="34" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
       <jump line="2441" column="19" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
+      <jump line="30" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
+      <jump line="65" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
+      <jump line="664" column="31" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="89" column="44" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
+      <jump line="54" column="61" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/ExecutionResource.scala" />
+      <jump line="263" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -765,7 +766,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>writeStream</text>
+        <text encoding="base64">XDx0YXNrRXhlY3V0aW9uUmVzb3VyY2VzXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">UFlUSE9OX1RZUEVfTUFQUElOR1Mua2V5U2V0KCkuc3RyZWFtKCkuYWxsTWF0Y2gocyAtPiBzLnRvTG93ZXJDYXNlKCkuZXF1YWxzKHMpKSwgIkFsbCB0eXBlIGtleXMgaW4gdGhlIG1hcCBtdXN0IGJlIGxvd2VyY2FzZSEi</text>
@@ -802,20 +803,18 @@
       </register>
     </registers>
     <search>
-      <last-search>writeStream</last-search>
+      <last-search encoding="base64">XDx0YXNrRXhlY3V0aW9uUmVzb3VyY2VzXD4=</last-search>
       <last-offset />
-      <last-pattern>writeStream</last-pattern>
+      <last-pattern encoding="base64">XDx0YXNrRXhlY3V0aW9uUmVzb3VyY2VzXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setup</entry>
         <entry>fetchFBPKG</entry>
         <entry>sycnrhonized</entry>
-        <entry encoding="base64">XDxyZXNvdXJjZXNcPg==</entry>
         <entry encoding="base64">XDxhZGRlZEV4ZWN1dGlvblJlc291cmNlc1w+</entry>
         <entry>read</entry>
         <entry>parquet</entry>
@@ -832,6 +831,8 @@
         <entry>write</entry>
         <entry>readStream</entry>
         <entry>writeStream</entry>
+        <entry encoding="base64">XDxyZXNvdXJjZXNcPg==</entry>
+        <entry encoding="base64">XDx0YXNrRXhlY3V0aW9uUmVzb3VyY2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;SMALLINT&quot;/&quot;smallint&quot;/g</entry>
