@@ -184,8 +184,8 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/client/PlasmaHiveClientImpl.scala" timestamp="1543354992976">
         <mark key="'" line="116" column="18" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1542400854552">
-        <mark key="'" line="202" column="11" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1543614504767">
+        <mark key="'" line="175" column="11" />
         <mark key="[" line="275" column="0" />
         <mark key="]" line="275" column="0" />
         <mark key="." line="275" column="0" />
@@ -693,7 +693,7 @@
         <mark key="." line="54" column="59" />
         <mark key="^" line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1543345938844">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1543614805401">
         <mark key="'" line="659" column="12" />
         <mark key="[" line="273" column="42" />
         <mark key="]" line="273" column="75" />
@@ -708,9 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="6" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
-      <jump line="782" column="9" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/Dataset.scala" />
-      <jump line="57" column="17" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
       <jump line="510" column="20" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
       <jump line="511" column="20" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
       <jump line="517" column="50" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" />
@@ -808,6 +805,9 @@
       <jump line="72" column="12" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/client/HiveClient.scala" />
       <jump line="71" column="12" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/client/HiveClient.scala" />
       <jump line="54" column="30" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905-sources.jar!/org/apache/spark/sql/hive/client/PlasmaHiveClientImpl.scala" />
+      <jump line="28" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="174" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="175" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -820,7 +820,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>getTableOption</text>
+        <text>hql(</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">UFlUSE9OX1RZUEVfTUFQUElOR1Mua2V5U2V0KCkuc3RyZWFtKCkuYWxsTWF0Y2gocyAtPiBzLnRvTG93ZXJDYXNlKCkuZXF1YWxzKHMpKSwgIkFsbCB0eXBlIGtleXMgaW4gdGhlIG1hcCBtdXN0IGJlIGxvd2VyY2FzZSEi</text>
@@ -857,9 +857,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTableOption</last-search>
+      <last-search>hql(</last-search>
       <last-offset />
-      <last-pattern>getTableOption</last-pattern>
+      <last-pattern>hql(</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -867,7 +867,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lc3BhY2VDYWNoZVw+</entry>
         <entry encoding="base64">XDxuYW1lc3BhY2VPYmpcPg==</entry>
         <entry encoding="base64">XDxoaXZlQ29uZlw+</entry>
         <entry>THRIFT</entry>
@@ -887,6 +886,7 @@
         <entry>getTable</entry>
         <entry>getTable(</entry>
         <entry>getTableOption</entry>
+        <entry>hql(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;SMALLINT&quot;/&quot;smallint&quot;/g</entry>
