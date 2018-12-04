@@ -330,8 +330,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSqlParser.scala" timestamp="1543621265982">
         <mark key="'" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalInferSchedulerPartitions.scala" timestamp="1543902788663">
-        <mark key="'" line="23" column="31" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalInferSchedulerPartitions.scala" timestamp="1543903579115">
+        <mark key="'" line="18" column="26" />
         <mark key="[" line="11" column="79" />
         <mark key="]" line="11" column="79" />
         <mark key="." line="11" column="79" />
@@ -736,8 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="28" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="94" column="35" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
       <jump line="104" column="11" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" />
       <jump line="375" column="17" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" />
       <jump line="39" column="11" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" />
@@ -836,6 +834,8 @@
       <jump line="165" column="28" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/HiveMetastoreCatalog.scala" />
       <jump line="149" column="4" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/HiveMetastoreCatalog.scala" />
       <jump line="15" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" />
+      <jump line="18" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalInferSchedulerPartitions.scala" />
+      <jump line="16" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
