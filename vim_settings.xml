@@ -63,8 +63,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/BasicConnectorContext.java" timestamp="1541528853004">
         <mark key="'" line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" timestamp="1543964191251">
-        <mark key="'" line="34" column="42" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" timestamp="1544037029799">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="43" column="69" />
+        <mark key="]" line="43" column="84" />
+        <mark key="." line="43" column="84" />
+        <mark key="^" line="43" column="84" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameWriter.scala" timestamp="1543522390424">
         <mark key="'" line="203" column="21" />
@@ -359,12 +363,12 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" timestamp="1544035867488">
-        <mark key="'" line="185" column="35" />
-        <mark key="[" line="109" column="15" />
-        <mark key="]" line="109" column="96" />
-        <mark key="." line="109" column="96" />
-        <mark key="^" line="109" column="96" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" timestamp="1544036481175">
+        <mark key="'" line="105" column="42" />
+        <mark key="[" line="105" column="24" />
+        <mark key="]" line="105" column="42" />
+        <mark key="." line="105" column="42" />
+        <mark key="^" line="105" column="42" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" timestamp="1543444032100">
         <mark key="'" line="54" column="21" />
@@ -646,8 +650,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testUidRewriteMultipleTimes__2__physicalplan.json" timestamp="1543952279120">
         <mark key="'" line="13" column="1012" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1544035859414">
-        <mark key="'" line="9" column="19" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1544037087593">
+        <mark key="'" line="25" column="24" />
+        <mark key="[" line="103" column="68" />
+        <mark key="]" line="103" column="68" />
+        <mark key="." line="103" column="68" />
+        <mark key="^" line="103" column="68" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveContext.scala" timestamp="1543475206946">
         <mark key="'" line="31" column="10" />
@@ -756,13 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmDatasetManager.scala" />
-      <jump line="87" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmDatasetManager.scala" />
-      <jump line="50" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/LogicalDatasetRelation.scala" />
-      <jump line="113" column="10" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/HiveMetastoreCatalog.scala" />
-      <jump line="68" column="22" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/HiveMetastoreCatalog.scala" />
-      <jump line="165" column="28" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/HiveMetastoreCatalog.scala" />
-      <jump line="149" column="4" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/HiveMetastoreCatalog.scala" />
       <jump line="15" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" />
       <jump line="18" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalInferSchedulerPartitions.scala" />
       <jump line="16" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" />
@@ -856,19 +857,26 @@
       <jump line="9" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
       <jump line="185" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="96" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" />
+      <jump line="122" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
+      <jump line="21" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
+      <jump line="105" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" />
+      <jump line="21" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="72" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="25" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>EMPTY;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>EMPTY;</text>
       </register>
       <register name="/" type="4">
-        <text>shade</text>
+        <text encoding="base64">XDx1cG1IaW50c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVwbUNvbmZpZ3VyYXRpb24gdXBtQ29uZmlndXJhdGlvbiA9IG5ldyBVcG1Db25maWd1cmF0aW9uKCk7CiAgICB1cG1Db25maWd1cmF0aW9uLnB1dChVcG1Db25maWd1cmF0aW9uLk5BTUVTUEFDRV9LRVksICJiaSIpOwogICAgdXBtQ29uZmlndXJhdGlvbi5wdXQoVXBtQ29uZmlndXJhdGlvbi5TQ0hFRFVMRV9LRVksICJAZGFpbHkiKTsKICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KFVwbUNvbmZpZ3VyYXRpb24uU0NIRURVTEVSX0tFWSwgIlRFU1QiKTsKICAgIHVwbUNvbmZpZ3VyYXRpb24ucHV0KFVwbUNvbmZpZ3VyYXRpb24uUEVSSU9EX0lEX1NUUklORywgIiIgKyBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAvIDEwMDApOwogICAgdXBtQ29uZmlndXJhdGlvbi5wdXQoVXBtQ29uZmlndXJhdGlvbi5NT0RFX0tFWSwgVXBtQ29uZmlndXJhdGlvbi5SVU5fTU9ERSk7CiAgICB1cG1Db25maWd1cmF0aW9uLnB1dChVcG1Db25maWd1cmF0aW9uLkVOQUJMRV9BVVRPX0FOT05fUkVXUklURV9LRVksICJ0cnVlIik7CiAgICB1cG1Db25maWd1cmF0aW9uLnB1dChVcG1Db25maWd1cmF0aW9uLkVOQUJMRV9BVVRPX0FOT05fUkVWRVJTRV9LRVksICJ0cnVlIik7Cg==</text>
@@ -911,9 +919,9 @@ upm</text>
       </register>
     </registers>
     <search>
-      <last-search>shade</last-search>
+      <last-search encoding="base64">XDx1cG1IaW50c1w+</last-search>
       <last-offset />
-      <last-pattern>shade</last-pattern>
+      <last-pattern encoding="base64">XDx1cG1IaW50c1w+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -921,7 +929,6 @@ upm</text>
     </search>
     <history>
       <history-search>
-        <entry>lookupRelation</entry>
         <entry encoding="base64">XDxyZWxhdGlvblw+</entry>
         <entry encoding="base64">XDxsb2dpY2FsUGxhblw+</entry>
         <entry encoding="base64">XDxMb2dpY2FsRGF0YXNldFJlbGF0aW9uXD4=</entry>
@@ -941,6 +948,7 @@ upm</text>
         <entry>finalName</entry>
         <entry>sahde</entry>
         <entry>shade</entry>
+        <entry encoding="base64">XDx1cG1IaW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;SMALLINT&quot;/&quot;smallint&quot;/g</entry>
