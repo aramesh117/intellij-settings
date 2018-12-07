@@ -219,13 +219,6 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" timestamp="1544150351260">
-        <mark key="'" line="22" column="40" />
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" timestamp="1544144988954">
         <mark key="'" line="37" column="44" />
         <mark key="[" line="19" column="16" />
@@ -405,8 +398,8 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1544159294004">
-        <mark key="'" line="249" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1544160317268">
+        <mark key="'" line="228" column="0" />
         <mark key="[" line="103" column="62" />
         <mark key="]" line="103" column="66" />
         <mark key="." line="103" column="66" />
@@ -513,8 +506,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" timestamp="1544117349889">
         <mark key="'" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" timestamp="1544037029799">
-        <mark key="'" line="5" column="13" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" timestamp="1544160326097">
+        <mark key="'" line="15" column="29" />
         <mark key="[" line="43" column="69" />
         <mark key="]" line="43" column="84" />
         <mark key="." line="43" column="84" />
@@ -837,8 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
-      <jump line="234" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="74" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="122" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
       <jump line="24" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/LogicalDataframeRelation.scala" />
@@ -937,6 +928,8 @@
       <jump line="436" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="27" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
       <jump line="249" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="228" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="15" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -949,7 +942,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZWVkc0Fub25SZXdyaXRlXD4=</text>
+        <text encoding="base64">XDxJTkZFUl9QQVJUSVRJT05TXD4=</text>
       </register>
       <register name="0" type="4">
         <text>UpmAutoAnonRule.</text>
@@ -986,17 +979,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZWVkc0Fub25SZXdyaXRlXD4=</last-search>
+      <last-search encoding="base64">XDxJTkZFUl9QQVJUSVRJT05TXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZWVkc0Fub25SZXdyaXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxJTkZFUl9QQVJUSVRJT05TXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isReverse</entry>
         <entry encoding="base64">XDxjcm9zc2VzQW5vbkJvdW5kYXJ5XD4=</entry>
         <entry>needsAnonRewrite</entry>
         <entry>reverseAnon</entry>
@@ -1016,6 +1008,7 @@
         <entry>reverse</entry>
         <entry>needsAnon</entry>
         <entry encoding="base64">XDxuZWVkc0Fub25SZXdyaXRlXD4=</entry>
+        <entry encoding="base64">XDxJTkZFUl9QQVJUSVRJT05TXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;STRING&quot;/&quot;string&quot;/g</entry>
