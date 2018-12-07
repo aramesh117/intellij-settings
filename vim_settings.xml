@@ -762,12 +762,12 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveContext.scala" timestamp="1543475206946">
         <mark key="'" line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" timestamp="1544143199280">
-        <mark key="'" line="46" column="4" />
-        <mark key="[" line="233" column="60" />
-        <mark key="]" line="233" column="82" />
-        <mark key="." line="233" column="82" />
-        <mark key="^" line="233" column="82" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" timestamp="1544146864664">
+        <mark key="'" line="390" column="35" />
+        <mark key="[" line="54" column="54" />
+        <mark key="]" line="54" column="69" />
+        <mark key="." line="54" column="69" />
+        <mark key="^" line="54" column="69" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/SpecMacroHelper.java" timestamp="1542133020988">
         <mark key="'" line="4" column="13" />
@@ -830,35 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="54" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="19" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/PhysicalDataset.scala" />
-      <jump line="53" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="68" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="37" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/SqlOperator.java" />
-      <jump line="43" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/SqlOperator.java" />
-      <jump line="68" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" />
-      <jump line="106" column="53" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" />
-      <jump line="76" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Operator.java" />
-      <jump line="79" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/mutable/SetLike.scala" />
-      <jump line="40" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="216" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="8" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/PhysicalPlan.scala" />
-      <jump line="220" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="249" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="224" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="250" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="28" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" />
-      <jump line="33" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" />
-      <jump line="227" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="222" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPlanSerializer.scala" />
-      <jump line="152" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
-      <jump line="151" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
-      <jump line="140" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
-      <jump line="266" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="257" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="289" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
-      <jump line="467" column="15" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
       <jump line="288" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="50" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="69" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
@@ -883,15 +854,12 @@
       <jump line="74" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="122" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
       <jump line="24" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/LogicalDataframeRelation.scala" />
-      <jump line="44" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="54" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="21" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" />
       <jump line="387" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="300" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="517" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="512" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="510" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="270" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="21" column="21" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/Boolean.scala" />
       <jump line="515" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="299" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
@@ -906,10 +874,8 @@
       <jump line="480" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="99" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="160" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="263" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="249" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="233" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="307" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="482" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="479" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="477" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
@@ -919,96 +885,130 @@
       <jump line="54" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmCombineUnionWithChildrenSqlOperators.scala" />
       <jump line="218" column="59" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="56" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="264" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="250" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="269" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="5" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="34" column="74" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="46" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="10" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
       <jump line="41" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
       <jump line="185" column="28" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/DataTypes.java" />
       <jump line="37" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
+      <jump line="41" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="275" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="272" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="56" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="508" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="271" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="277" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="44" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="500" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="48" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="511" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="498" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="499" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="419" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="393" column="76" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="382" column="77" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="346" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="307" column="46" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="263" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="273" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="489" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="269" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="495" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="330" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="270" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="262" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="212" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="232" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="235" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="250" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="200" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="159" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="281" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="451" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="54" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="377" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="46" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
+      <jump line="390" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>query.children.map(_.asInstanceOf[UpmLogicalSparkQuery].sparkPlan)</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>query.children.map(_.asInstanceOf[UpmLogicalSparkQuery].sparkPlan)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWVsZE5hbWVzXD4=</text>
+        <text encoding="base64">XDxyZXZlcnNlQXV0b0Fub25FbmFibGVkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgY3Jvc3Nlc0Fub25Cb3VuZGFyeUJ1aWxkTW9kZSgpOiBCb29sZWFuID0gewogICAgCiAgfQo=</text>
+      <register name="0" type="4">
+        <text>UpmAutoAnonRule.</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgIHZhbA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBhbm9uQ291bnRlcnBhcnRFeGlzdHMocmVsYXRpb246IExvZ2ljYWxEYXRhc2V0UmVsYXRpb24pOiBCb29sZWFuID0gewogICAgdmFsIHRhYmxlSWRlbnRpZmllciA9IHJlbGF0aW9uLm1ldGFzdG9yZVRhYmxlSWRlbnRpZmllci5nZXQKICAgIHZhbCB0YWJsZU5hbWUgPSB0YWJsZUlkZW50aWZpZXIudGFibGUKICAgIGlmIChyZXZlcnNlQXV0b0Fub25FbmFibGVkKSB7CiAgICAgIHRhYmxlTmFtZS5lbmRzV2l0aChVcG1BdXRvQW5vblJ1bGUuQU5PTl9TVUZGSVgpICYmIHNlc3Npb25DYXRhbG9nCiAgICAgICAgLnRhYmxlRXhpc3RzKGdldEFub25UYWJsZUlkZW50aWZpZXIocmVsYXRpb24pKQogICAgfSBlbHNlIHsKICAgICAgc2Vzc2lvbkNhdGFsb2cudGFibGVFeGlzdHMoCiAgICAgICAgVGFibGVJZGVudGlmaWVyKHRhYmxlTmFtZSArIFVwbUF1dG9Bbm9uUnVsZS5BTk9OX1NVRkZJWCwgdGFibGVJZGVudGlmaWVyLmRhdGFiYXNlKSkKICAgIH0KICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0YWJsZSA9IHRhYmxlSWRlbnRpZmllci50YWJsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXZlcnNlQXV0b0Fub25FbmFibGVkKSB7CiAgICAgIC8vIEJvdGggdGhlIHN0YXJ0IGFuZCBlbmQgYXJlIG1vcmUgdGhhbiA5MCBkYXlzIGFnby4KICAgICAgaWYgKHN0YXJ0SXNCZWZvcmVBbm9uQm91bmRhcnkgJiYgZW5kSXNCZWZvcmVBbm9uQm91bmRhcnkpIHsKICAgICAgICBmYWxzZQogICAgICB9IGVsc2UgaWYgKHN0YXJ0SXNCZWZvcmVBbm9uQm91bmRhcnkgJiYgIWVuZElzQmVmb3JlQW5vbkJvdW5kYXJ5KSB7CiAgICAgICAgLy8gVGhpcyBjYXNlIGNyb3NzZXMgdGhlIGJvdW5kYXJ5IGFuZCB3ZSBkb24ndCB3YW50IHRvIGRlYWwgd2l0aCBpdCBhdCB0aGlzIHBvaW50IHNpbmNlCiAgICAgICAgLy8gaXQgd2lsbCBuZWVkIGEgdW5pb24gYmV0d2VlbiB0aGUgdHdvIHJhbmdlcyBpbiB0aGUgZnV0dXJlLgogICAgICAgIGZhbHNlCiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gRWxzZSBib3RoIGFyZSBsZXNzIHRoYW4gOTAgZGF5cyBhZ28KICAgICAgICB0cnVlCiAgICAgIH0KICAgIH0gZWxzZSB7CiAgICAgIC8vIEJvdGggdGhlIHN0YXJ0IGFuZCBlbmQgYXJlIG1vcmUgdGhhbiA5MCBkYXlzIGFnby4KICAgICAgaWYgKHN0YXJ0SXNCZWZvcmVBbm9uQm91bmRhcnkgJiYgZW5kSXNCZWZvcmVBbm9uQm91bmRhcnkpIHsKICAgICAgICB0cnVlCiAgICAgIH0gZWxzZSBpZiAoc3RhcnRJc0JlZm9yZUFub25Cb3VuZGFyeSAmJiAhZW5kSXNCZWZvcmVBbm9uQm91bmRhcnkpIHsKICAgICAgICAvLyBUaGlzIGNhc2UgY3Jvc3NlcyB0aGUgYm91bmRhcnkgYW5kIHdlIGRvbid0IHdhbnQgdG8gZGVhbCB3aXRoIGl0IGF0IHRoaXMgcG9pbnQgc2luY2UKICAgICAgICAvLyBpdCB3aWxsIG5lZWQgYSB1bmlvbiBiZXR3ZWVuIHRoZSB0d28gcmFuZ2VzIGluIHRoZSBmdXR1cmUuCiAgICAgICAgZmFsc2UKICAgICAgfSBlbHNlIHsKICAgICAgICAvLyBFbHNlIGJvdGggYXJlIGxlc3MgdGhhbiA5MCBkYXlzIGFnbwogICAgICAgIGZhbHNlCiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICBmaW5hbCB2YWwgSElWRV9BTk9OWU1JWkFUSU9OX1RIUkVTSE9MRF9EQVlTID0gOTAKICBmaW5hbCB2YWwgQU5PTl9TVUZGSVggPSAiX2Fub24iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXZlcnNlQW5vbikgewogICAgICBmYWxzZQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIChyZXZlcnNlQXV0b0Fub25FbmFibGVkKSB7CiAgICAgIGlmICghdGFibGUuZW5kc1dpdGgoQU5PTl9TVUZGSVgpKQogICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oCiAgICAgICAgICAiSWYgcmV2ZXJzZSBhbm9uIGlzIGVuYWJsZWQsIGNhbm5vdCByZW5hbWUgdGFibGUgdGhhdCIgKwogICAgICAgICAgICAiZG9lcyBub3QgZW5kIHdpdGggX2Fub24iKQogICAgICBUYWJsZUlkZW50aWZpZXIodGFibGUuc3Vic3RyaW5nKDAsIHRhYmxlLmxlbmd0aCAtIEFOT05fU1VGRklYLmxlbmd0aCksCiAgICAgICAgICAgICAgICAgICAgICB0YWJsZUlkZW50aWZpZXIuZGF0YWJhc2UpCiAgICB9IGVsc2UgewogICAgICBUYWJsZUlkZW50aWZpZXIodGFibGUgKyBBTk9OX1NVRkZJWCwgdGFibGVJZGVudGlmaWVyLmRhdGFiYXNlKQogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgIHZhbA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICBjdXJyZW50RGF0ZS5wbHVzRGF5cyhkYXRlRXhwcmVzc2lvbi5nZXREZWx0YUluRGF5cykuaXNCZWZvcmUoYW5vbkJvdW5kYXJ5KQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJldmVyc2VBdXRvQW5vbkVuYWJsZWQpIHsK</text>
+        <text encoding="base64">ICAgIGlmIChyZXZlcnNlQXV0b0Fub25FbmFibGVkKSB7CiAgICAgIC8vIEJvdGggdGhlIHN0YXJ0IGFuZCBlbmQgYXJlIG1vcmUgdGhhbiA5MCBkYXlzIGFnby4KICAgICAgaWYgKHN0YXJ0SXNCZWZvcmVBbm9uQm91bmRhcnkgJiYgZW5kSXNCZWZvcmVBbm9uQm91bmRhcnkpIHsKICAgICAgICBmYWxzZQogICAgICB9IGVsc2UgaWYgKHN0YXJ0SXNCZWZvcmVBbm9uQm91bmRhcnkgJiYgIWVuZElzQmVmb3JlQW5vbkJvdW5kYXJ5KSB7CiAgICAgICAgLy8gVGhpcyBjYXNlIGNyb3NzZXMgdGhlIGJvdW5kYXJ5IGFuZCB3ZSBkb24ndCB3YW50IHRvIGRlYWwgd2l0aCBpdCBhdCB0aGlzIHBvaW50IHNpbmNlCiAgICAgICAgLy8gaXQgd2lsbCBuZWVkIGEgdW5pb24gYmV0d2VlbiB0aGUgdHdvIHJhbmdlcyBpbiB0aGUgZnV0dXJlLgogICAgICAgIGZhbHNlCiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gRWxzZSBib3RoIGFyZSBsZXNzIHRoYW4gOTAgZGF5cyBhZ28KICAgICAgICB0cnVlCiAgICAgIH0KICAgIH0gZWxzZSB7CiAgICAgIC8vIEJvdGggdGhlIHN0YXJ0IGFuZCBlbmQgYXJlIG1vcmUgdGhhbiA5MCBkYXlzIGFnby4KICAgICAgaWYgKHN0YXJ0SXNCZWZvcmVBbm9uQm91bmRhcnkgJiYgZW5kSXNCZWZvcmVBbm9uQm91bmRhcnkpIHsKICAgICAgICB0cnVlCiAgICAgIH0gZWxzZSBpZiAoc3RhcnRJc0JlZm9yZUFub25Cb3VuZGFyeSAmJiAhZW5kSXNCZWZvcmVBbm9uQm91bmRhcnkpIHsKICAgICAgICAvLyBUaGlzIGNhc2UgY3Jvc3NlcyB0aGUgYm91bmRhcnkgYW5kIHdlIGRvbid0IHdhbnQgdG8gZGVhbCB3aXRoIGl0IGF0IHRoaXMgcG9pbnQgc2luY2UKICAgICAgICAvLyBpdCB3aWxsIG5lZWQgYSB1bmlvbiBiZXR3ZWVuIHRoZSB0d28gcmFuZ2VzIGluIHRoZSBmdXR1cmUuCiAgICAgICAgZmFsc2UKICAgICAgfSBlbHNlIHsKICAgICAgICAvLyBFbHNlIGJvdGggYXJlIGxlc3MgdGhhbiA5MCBkYXlzIGFnbwogICAgICAgIGZhbHNlCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRlRXhwcmVzc2lvbi5nZXREZWx0YUluRGF5cyA+IC1ISVZFX0FOT05ZTUlaQVRJT05fVEhSRVNIT0xEX0RBWVMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWVsZE5hbWVzXD4=</last-search>
+      <last-search encoding="base64">XDxyZXZlcnNlQXV0b0Fub25FbmFibGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWVsZE5hbWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXZlcnNlQXV0b0Fub25FbmFibGVkXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRPcGVyYXRvclBvam9zXD4=</entry>
-        <entry encoding="base64">XDxnZXRVcG1QbGFuUG9qb0FzSnNvblw+</entry>
-        <entry encoding="base64">XDxnZXRVcG1QbGFuUG9qb1w+</entry>
-        <entry encoding="base64">XDxnZXRMb2dpY2FsUXVlcnlcPg==</entry>
-        <entry encoding="base64">XDxVcG1SZXNvbHZlUmVmZXJlbmNlc1w+</entry>
-        <entry encoding="base64">XDx0ZXN0UGxhbkhhbmRsZXJcPg==</entry>
-        <entry>getPlanId</entry>
         <entry>getPlanFor</entry>
         <entry encoding="base64">XDxBdXRvQW5vbkNvbnRleHRcPg==</entry>
         <entry>isReverse</entry>
         <entry encoding="base64">XDxjcm9zc2VzQW5vbkJvdW5kYXJ5XD4=</entry>
-        <entry encoding="base64">XDxuZWVkc0Fub25SZXdyaXRlXD4=</entry>
         <entry>needsAnonRewrite</entry>
         <entry>reverseAnon</entry>
         <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry encoding="base64">XDxzcGFya1VuaW9uXD4=</entry>
-        <entry>reverse</entry>
-        <entry encoding="base64">XDxyZXZlcnNlQXV0b0Fub25FbmFibGVkXD4=</entry>
         <entry>DataTypes</entry>
         <entry encoding="base64">XDxmaWVsZE5hbWVzXD4=</entry>
+        <entry>reverse</entry>
+        <entry encoding="base64">XDxBTk9OX1NVRkZJWFw+</entry>
+        <entry encoding="base64">XDxISVZFX0FOT05ZTUlaQVRJT05fVEhSRVNIT0xEX0RBWVNcPg==</entry>
+        <entry encoding="base64">XDx0YWJsZVw+</entry>
+        <entry encoding="base64">XDxhbm9uQ291bnRlcnBhcnRFeGlzdHNcPg==</entry>
+        <entry encoding="base64">XDxnZXRBbm9uVGFibGVJZGVudGlmaWVyXD4=</entry>
+        <entry encoding="base64">XDxnZXRBbm9uSWRlbnRpZmllclw+</entry>
+        <entry encoding="base64">XDxuZWVkc0Fub25SZXdyaXRlXD4=</entry>
+        <entry>reverse\c</entry>
+        <entry encoding="base64">XDxyZXZlcnNlQXV0b0Fub25FbmFibGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;STRING&quot;/&quot;string&quot;/g</entry>
@@ -1029,8 +1029,8 @@
         <entry>55</entry>
         <entry>106</entry>
         <entry>we</entry>
-        <entry>vsplit</entry>
         <entry>w</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1074,6 +1074,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
