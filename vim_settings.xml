@@ -145,6 +145,13 @@
       <file name="$USER_HOME$/fb-spark/python/pyspark/rdd.py" timestamp="1543451800126">
         <mark key="'" line="727" column="0" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1544472508660">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="68" column="75" />
+        <mark key="]" line="68" column="145" />
+        <mark key="^" line="68" column="145" />
+        <mark key="." line="68" column="145" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" timestamp="1540839619762">
         <mark key="'" line="6" column="2" />
       </file>
@@ -185,12 +192,12 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/java/com/facebook/fblearner/plasma/PlasmaHiveConfProviderImpl.java" timestamp="1543360280774">
         <mark key="'" line="89" column="38" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" timestamp="1544198259518">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" timestamp="1544472548883">
         <mark key="'" line="120" column="52" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="60" column="18" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="147" column="11" />
+        <mark key="]" line="147" column="22" />
+        <mark key="^" line="147" column="22" />
+        <mark key="." line="147" column="22" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testNestedUidRewrite__physicalplan.json" timestamp="1543886617529">
         <mark key="'" line="0" column="0" />
@@ -833,8 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" />
-      <jump line="387" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="300" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="517" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="510" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
@@ -933,16 +938,18 @@
       <jump line="15" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" />
       <jump line="37" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalResolveRelations.scala" />
       <jump line="221" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="78" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIChoYWNrKTogQ3VycmVudGx5IHJldmVyc2UgYXV0byBhbm9uIGRvZXMgbm90IGludGVyYWN0IHdlbGwgd2l0aCBwYXJ0aXRpb24gaW5mZXJlbmNlLgo=</text>
+      <register name="&quot;" type="4">
+        <text>UPM only - end</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>UPM only - end</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
