@@ -266,6 +266,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" timestamp="1541981935800">
         <mark key="'" line="26" column="57" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" timestamp="1544810028796">
+        <mark key="'" line="62" column="34" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/MapOperator.java" timestamp="1536615729872">
         <mark key="'" line="25" column="28" />
         <mark key="[" line="13" column="16" />
@@ -852,8 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="5" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="34" column="74" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="10" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
       <jump line="41" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
@@ -952,6 +953,8 @@
       <jump line="472" column="68" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="101" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="51" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
+      <jump line="60" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
+      <jump line="62" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -964,7 +967,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>ANON_SUFFIX</text>
+        <text encoding="base64">XDxob3VybHlPcGVyYXRvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVwbUhpbnRzIHVwbUhpbnRzID0gbmV3IFVwbUhpbnRzKCk7CiAgICB1cG1IaW50cy5wdXQoImluZmVyX3BhcnRpdGlvbnMiLCAidHJ1ZSIpOwo=</text>
@@ -1001,17 +1004,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ANON_SUFFIX</last-search>
+      <last-search encoding="base64">XDxob3VybHlPcGVyYXRvclw+</last-search>
       <last-offset />
-      <last-pattern>ANON_SUFFIX</last-pattern>
+      <last-pattern encoding="base64">XDxob3VybHlPcGVyYXRvclw+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbm9uQ291bnRlcnBhcnRFeGlzdHNcPg==</entry>
         <entry encoding="base64">XDxnZXRBbm9uVGFibGVJZGVudGlmaWVyXD4=</entry>
         <entry encoding="base64">XDxnZXRBbm9uSWRlbnRpZmllclw+</entry>
         <entry>reverse\c</entry>
@@ -1031,6 +1033,7 @@
         <entry>needsAnonRewrite</entry>
         <entry>getIdentifier</entry>
         <entry>ANON_SUFFIX</entry>
+        <entry encoding="base64">XDxob3VybHlPcGVyYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;STRING&quot;/&quot;string&quot;/g</entry>
