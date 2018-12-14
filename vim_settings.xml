@@ -266,8 +266,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" timestamp="1541981935800">
         <mark key="'" line="26" column="57" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" timestamp="1544810028796">
-        <mark key="'" line="62" column="34" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" timestamp="1544810733972">
+        <mark key="'" line="56" column="51" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/MapOperator.java" timestamp="1536615729872">
         <mark key="'" line="25" column="28" />
@@ -321,7 +321,7 @@
         <mark key="^" line="1" column="3500" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/HourlyBatchPrestoSqlRewriter.scala" timestamp="1541114910347">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/HourlyBatchPrestoSqlRewriter.scala" timestamp="1544810788877">
         <mark key="'" line="97" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/StructType.scala" timestamp="1542656204806">
@@ -855,8 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="74" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="10" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
       <jump line="41" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
       <jump line="185" column="28" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/DataTypes.java" />
       <jump line="37" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/HiveToSparkDataTypeMapper.java" />
@@ -954,7 +952,9 @@
       <jump line="101" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="51" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="60" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
+      <jump line="75" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
       <jump line="62" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
+      <jump line="56" column="51" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
