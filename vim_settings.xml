@@ -282,6 +282,9 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/PlasmaOptimizerRules.scala" timestamp="1543359572833">
         <mark key="'" line="23" column="33" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionFilterRewriter.scala" timestamp="1545413478250">
+        <mark key="'" line="111" column="42" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/SparkDatasetHelper.scala" timestamp="1544473236501">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="48" column="0" />
@@ -853,10 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="508" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="271" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
-      <jump line="277" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="44" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="500" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
       <jump line="48" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmAutoAnonRule.scala" />
@@ -953,6 +952,10 @@
       <jump line="58" column="45" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="62" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="138" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" />
+      <jump line="128" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionFilterRewriter.scala" />
+      <jump line="109" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionFilterRewriter.scala" />
+      <jump line="17" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionFilterRewriter.scala" />
+      <jump line="111" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionFilterRewriter.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -965,7 +968,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxob3VybHlPcGVyYXRvclw+</text>
+        <text encoding="base64">XDx2aXNpdFRhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVwbUhpbnRzIHVwbUhpbnRzID0gbmV3IFVwbUhpbnRzKCk7CiAgICB1cG1IaW50cy5wdXQoImluZmVyX3BhcnRpdGlvbnMiLCAidHJ1ZSIpOwo=</text>
@@ -998,21 +1001,20 @@
         <text encoding="base64">ICAgICAgICAvLyBUT0RPIChoYWNrKTogQ3VycmVudGx5IHJldmVyc2UgYXV0byBhbm9uIGRvZXMgbm90IGludGVyYWN0IHdlbGwgd2l0aCBwYXJ0aXRpb24gaW5mZXJlbmNlLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>112</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxob3VybHlPcGVyYXRvclw+</last-search>
+      <last-search encoding="base64">XDx2aXNpdFRhYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxob3VybHlPcGVyYXRvclw+</last-pattern>
+      <last-pattern encoding="base64">XDx2aXNpdFRhYmxlXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBbm9uVGFibGVJZGVudGlmaWVyXD4=</entry>
         <entry encoding="base64">XDxnZXRBbm9uSWRlbnRpZmllclw+</entry>
         <entry>reverse\c</entry>
         <entry encoding="base64">XDxyZXZlcnNlQXV0b0Fub25FbmFibGVkXD4=</entry>
@@ -1032,9 +1034,9 @@
         <entry>getIdentifier</entry>
         <entry>ANON_SUFFIX</entry>
         <entry encoding="base64">XDxob3VybHlPcGVyYXRvclw+</entry>
+        <entry encoding="base64">XDx2aXNpdFRhYmxlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;STRING&quot;/&quot;string&quot;/g</entry>
         <entry>14</entry>
         <entry>44</entry>
         <entry>1011</entry>
@@ -1054,6 +1056,7 @@
         <entry>vsplit</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>112</entry>
       </history-cmd>
       <history-expr />
       <history-input />
