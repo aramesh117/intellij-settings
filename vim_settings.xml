@@ -763,12 +763,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_all_users.json" timestamp="1543049970787">
         <mark key="'" line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmCombineUnionWithChildrenSqlOperators.scala" timestamp="1544596640977">
-        <mark key="'" line="54" column="10" />
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="51" column="52" />
-        <mark key="^" line="51" column="52" />
-        <mark key="." line="51" column="52" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmCombineUnionWithChildrenSqlOperators.scala" timestamp="1545428290899">
+        <mark key="'" line="55" column="10" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1544746796127">
         <mark key="'" line="25" column="14" />
@@ -965,7 +964,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>UpmLogicalA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aXNpdFRhYmxlXD4=</text>
@@ -977,31 +976,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERhdGFGcmFtZSBkZiA9CiAgICAgICAgY29udGV4dC5zcWwoCiAgICAgICAgICAgICJTRUxFQ1QgMSBBUyBldGMgRlJPTSBkYWlseV9hY3RpdmVfdXNlcnNfYmFja3VwX2hvdXJseV90ZXN0X3BhcnRzIiwgdXBtSGludHMsIGRpYWxlY3QpOwo=</text>
+        <text encoding="base64">ICAgIGNhc2UgYWxpYXNAVXBtTG9naWNhbEFsaWFzKGEsIGIsIGMsIGQpID0+CiAgICAgIG5ldyBVcG1Mb2dpY2FsUXVlcnkoQWxpYXMoKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RGbGF0VGFibGUoKSB0aHJvd3MgVXBtRXhjZXB0aW9uIHsKICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgiYmkiKTsKICAgIERhdGFGcmFtZSBkZiA9IGN0eC5ocWwoIlNFTEVDVCAqIEZST00gc3JjIik7CiAgICBkZi5zYXZlKCJvdXRwdXQiKTsKICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIERhdGFGcmFtZSBkZiA9CiAgICAgICAgY29udGV4dC5zcWwoCiAgICAgICAgICAgICJTRUxFQ1QgMSBBUyBldGMgRlJPTSBkYWlseV9hY3RpdmVfdXNlcnNfYmFja3VwX2hvdXJseV90ZXN0X3BhcnRzIiwgdXBtSGludHMsIGRpYWxlY3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXZlcnNlQW5vbikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIC8vIEJvdGggdGhlIHN0YXJ0IGFuZCBlbmQgYXJlIG1vcmUgdGhhbiA5MCBkYXlzIGFnby4KICAgICAgaWYgKHN0YXJ0QmVmb3JlQW5vbkJvdW5kYXJ5ICYmIGVuZEJlZm9yZUFub25Cb3VuZGFyeSkgewogICAgICAgIHRydWUKICAgICAgfSBlbHNlIGlmIChzdGFydEJlZm9yZUFub25Cb3VuZGFyeSAmJiAhZW5kQmVmb3JlQW5vbkJvdW5kYXJ5KSB7CiAgICAgICAgLy8gVGhpcyBjYXNlIGNyb3NzZXMgdGhlIGJvdW5kYXJ5IGFuZCB3ZSBkb24ndCB3YW50IHRvIGRlYWwgd2l0aCBpdCBhdCB0aGlzIHBvaW50IHNpbmNlCiAgICAgICAgLy8gaXQgd2lsbCBuZWVkIGEgdW5pb24gYmV0d2VlbiB0aGUgdHdvIHJhbmdlcyBpbiB0aGUgZnV0dXJlLgogICAgICAgIGZhbHNlCiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gRWxzZSBib3RoIGFyZSBsZXNzIHRoYW4gOTAgZGF5cyBhZ28KICAgICAgICBmYWxzZQogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RGbGF0VGFibGUoKSB0aHJvd3MgVXBtRXhjZXB0aW9uIHsKICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgiYmkiKTsKICAgIERhdGFGcmFtZSBkZiA9IGN0eC5ocWwoIlNFTEVDVCAqIEZST00gc3JjIik7CiAgICBkZi5zYXZlKCJvdXRwdXQiKTsKICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gLSB0aGlzIGlzIG5vdCBhIHBvc3NpYmxlIG1hdGNoIGJlY2F1c2UgTG9naWNhbFBsYW4ncyBoaWVyYXJjeSBkb2VzIG5vdCBpbmNsdWRlIFVwbUxvZ2ljYWxOb25TcWwuLi4KICAgIGNhc2UgXzogVXBtTG9naWNhbE5vblNxbCA9PiBTZXEoKQoK</text>
+        <text encoding="base64">ICAgIGlmIChyZXZlcnNlQW5vbikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIChoYWNrKTogQ3VycmVudGx5IHJldmVyc2UgYXV0byBhbm9uIGRvZXMgbm90IGludGVyYWN0IHdlbGwgd2l0aCBwYXJ0aXRpb24gaW5mZXJlbmNlLgo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIC8vIEJvdGggdGhlIHN0YXJ0IGFuZCBlbmQgYXJlIG1vcmUgdGhhbiA5MCBkYXlzIGFnby4KICAgICAgaWYgKHN0YXJ0QmVmb3JlQW5vbkJvdW5kYXJ5ICYmIGVuZEJlZm9yZUFub25Cb3VuZGFyeSkgewogICAgICAgIHRydWUKICAgICAgfSBlbHNlIGlmIChzdGFydEJlZm9yZUFub25Cb3VuZGFyeSAmJiAhZW5kQmVmb3JlQW5vbkJvdW5kYXJ5KSB7CiAgICAgICAgLy8gVGhpcyBjYXNlIGNyb3NzZXMgdGhlIGJvdW5kYXJ5IGFuZCB3ZSBkb24ndCB3YW50IHRvIGRlYWwgd2l0aCBpdCBhdCB0aGlzIHBvaW50IHNpbmNlCiAgICAgICAgLy8gaXQgd2lsbCBuZWVkIGEgdW5pb24gYmV0d2VlbiB0aGUgdHdvIHJhbmdlcyBpbiB0aGUgZnV0dXJlLgogICAgICAgIGZhbHNlCiAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gRWxzZSBib3RoIGFyZSBsZXNzIHRoYW4gOTAgZGF5cyBhZ28KICAgICAgICBmYWxzZQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIChoYWNrKTogQ3VycmVudGx5IHJldmVyc2UgYXV0byBhbm9uIGRvZXMgbm90IGludGVyYWN0IHdlbGwgd2l0aCBwYXJ0aXRpb24gaW5mZXJlbmNlLgo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gLSB0aGlzIGlzIG5vdCBhIHBvc3NpYmxlIG1hdGNoIGJlY2F1c2UgTG9naWNhbFBsYW4ncyBoaWVyYXJjeSBkb2VzIG5vdCBpbmNsdWRlIFVwbUxvZ2ljYWxOb25TcWwuLi4KICAgIGNhc2UgXzogVXBtTG9naWNhbE5vblNxbCA9PiBTZXEoKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>112</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1055,8 +1054,8 @@
         <entry>106</entry>
         <entry>vsplit</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>112</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
