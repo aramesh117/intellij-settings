@@ -722,8 +722,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-sql_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/UDFRegistration.scala" timestamp="1541528930851">
         <mark key="'" line="38" column="54" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" timestamp="1546629393703">
-        <mark key="'" line="1811" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" timestamp="1546630375774">
+        <mark key="'" line="1739" column="32" />
         <mark key="[" line="1825" column="67" />
         <mark key="]" line="1825" column="83" />
         <mark key="." line="1825" column="83" />
@@ -869,7 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="470" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="477" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="511" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="485" column="56" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -950,7 +949,6 @@
       <jump line="82" column="23" filename="$USER_HOME$/fb-spark/assembly/pom.xml" />
       <jump line="129" column="33" filename="$USER_HOME$/fb-spark/assembly/pom.xml" />
       <jump line="1656" column="10" filename="$USER_HOME$/fb-spark/pom.xml" />
-      <jump line="1808" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
       <jump line="172" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/pom.xml" />
       <jump line="1600" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
       <jump line="1811" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
@@ -969,6 +967,8 @@
       <jump line="19" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
       <jump line="10" column="51" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
       <jump line="1809" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
+      <jump line="1808" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
+      <jump line="1739" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -981,7 +981,7 @@
         <text>.0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUYWJsZVw+</text>
+        <text encoding="base64">XDxwbHVnaW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuY29tbW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb25zLWxhbmczPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuaHR0cGNvbXBvbmVudHM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aHR0cGNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5odHRwY2xpZW50PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+CiAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4K</text>
@@ -1018,17 +1018,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUYWJsZVw+</last-search>
+      <last-search encoding="base64">XDxwbHVnaW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUYWJsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwbHVnaW5cPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getIdentifier</entry>
         <entry>ANON_SUFFIX</entry>
         <entry encoding="base64">XDxob3VybHlPcGVyYXRvclw+</entry>
         <entry encoding="base64">XDx2aXNpdFRhYmxlXD4=</entry>
@@ -1048,6 +1047,7 @@
         <entry>version</entry>
         <entry>original</entry>
         <entry encoding="base64">XDxUYWJsZVw+</entry>
+        <entry encoding="base64">XDxwbHVnaW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
