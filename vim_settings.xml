@@ -722,12 +722,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-sql_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/UDFRegistration.scala" timestamp="1541528930851">
         <mark key="'" line="38" column="54" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" timestamp="1546628154528">
-        <mark key="'" line="1804" column="23" />
-        <mark key="[" line="1810" column="58" />
-        <mark key="]" line="1811" column="21" />
-        <mark key="." line="1811" column="21" />
-        <mark key="^" line="1811" column="21" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" timestamp="1546629393703">
+        <mark key="'" line="1811" column="0" />
+        <mark key="[" line="1825" column="67" />
+        <mark key="]" line="1825" column="83" />
+        <mark key="." line="1825" column="83" />
+        <mark key="^" line="1825" column="83" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" timestamp="1546626962629">
         <mark key="'" line="24" column="13" />
@@ -869,7 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="465" column="70" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="470" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="477" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="511" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
@@ -969,16 +968,17 @@
       <jump line="1804" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
       <jump line="19" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
       <jump line="10" column="51" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
+      <jump line="1809" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZXM+IDwvZXhjbHVkZXM+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.0</text>
       </register>
       <register name="-" type="4">
-        <text>df1</text>
+        <text>.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUYWJsZVw+</text>
@@ -1014,7 +1014,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPGV4Y2x1c2lvbnM+CiAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUuaHR0cGNvbXBvbmVudHM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aHR0cGNsaWVudDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9uPgogICAgICAgICAgICA8L2V4Y2x1c2lvbnM+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>20</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1068,8 +1068,8 @@
         <entry>80</entry>
         <entry>515</entry>
         <entry>1820</entry>
-        <entry>w</entry>
         <entry>20</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
