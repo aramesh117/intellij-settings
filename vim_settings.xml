@@ -261,8 +261,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" timestamp="1541981935800">
         <mark key="'" line="26" column="57" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" timestamp="1547188455690">
-        <mark key="'" line="56" column="51" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" timestamp="1547499444214">
+        <mark key="'" line="360" column="16" />
         <mark key="[" line="66" column="61" />
         <mark key="]" line="66" column="62" />
         <mark key="." line="66" column="62" />
@@ -851,7 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="68" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="101" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/ReverseAutoAnonymizationTest.java" />
       <jump line="51" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="60" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
@@ -951,6 +950,7 @@
       <jump line="46" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="48" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="322" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
+      <jump line="360" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
