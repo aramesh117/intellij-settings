@@ -57,8 +57,8 @@
         <mark key="^" line="14" column="37" />
         <mark key="." line="14" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" timestamp="1543623573496">
-        <mark key="'" line="94" column="35" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" timestamp="1547686510078">
+        <mark key="'" line="35" column="37" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/expression/SparkExpressionFactory.scala" timestamp="1543952088031">
         <mark key="'" line="45" column="6" />
@@ -344,8 +344,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/hive/hive-metastore/0.11.0-FB-18/hive-metastore-0.11.0-FB-18-sources.jar!/org/apache/hadoop/hive/metastore/HiveMetaStoreClient.java" timestamp="1543355270693">
         <mark key="'" line="175" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" timestamp="1543623356042">
-        <mark key="'" line="160" column="19" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" timestamp="1547686696232">
+        <mark key="'" line="56" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/identifiers.scala" timestamp="1543047257917">
         <mark key="'" line="49" column="11" />
@@ -621,8 +621,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/json/JsonFileFormat.scala" timestamp="1543523958531">
         <mark key="'" line="91" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" timestamp="1544060509051">
-        <mark key="'" line="104" column="29" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" timestamp="1547686732336">
+        <mark key="'" line="40" column="58" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/DDLSourceLoadSuite.scala" timestamp="1543522528728">
         <mark key="'" line="52" column="50" />
@@ -805,8 +805,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/UpmLogicalAlias.scala" timestamp="1547621342510">
         <mark key="." line="23" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1543623641921">
-        <mark key="'" line="212" column="11" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1547686742567">
+        <mark key="'" line="133" column="11" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/onavo-plasma-apps-v1/src/main/scala/com/onavo/plasma/network_breakdown/AndroidNetworkSessions.scala" timestamp="1543457061291">
         <mark key="'" line="52" column="42" />
@@ -853,17 +853,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java" />
-      <jump line="128" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionFilterRewriter.scala" />
-      <jump line="109" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionFilterRewriter.scala" />
-      <jump line="17" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionFilterRewriter.scala" />
-      <jump line="111" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionFilterRewriter.scala" />
-      <jump line="50" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmCombineAliasWithSqlRule.scala" />
-      <jump line="47" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmCombineAliasWithSqlRule.scala" />
-      <jump line="16" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmCombineUnionWithChildrenSqlOperators.scala" />
-      <jump line="201" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/OptimizationRuleTests.java" />
-      <jump line="42" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" />
       <jump line="1836" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
       <jump line="7" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
       <jump line="12" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/pom.xml" />
@@ -953,6 +942,17 @@
       <jump line="48" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="310" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="21" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PlanUtils.scala" />
+      <jump line="42" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
+      <jump line="35" column="37" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
+      <jump line="134" column="11" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="39" column="36" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
+      <jump line="114" column="45" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
+      <jump line="28" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
+      <jump line="95" column="66" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
+      <jump line="57" column="32" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
+      <jump line="56" column="18" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
+      <jump line="40" column="58" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" />
+      <jump line="133" column="11" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -965,7 +965,7 @@
         <text>OPTIMIZE_HOURLY_BATCH</text>
       </register>
       <register name="/" type="4">
-        <text>alias\c</text>
+        <text>toAttri</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgaG91cmx5QmF0Y2goY29uZmlnOiBVcG1Db25maWd1cmF0aW9uLCBoaW50czogVXBtSGludHMpOiBCb29sZWFuID0KICAgIGNvbmZpZ1ZhbHVlKE9QVElNSVpFX0hPVVJMWV9CQVRDSCwgQk9PTF9GQUxTRSwgY29uZmlnLCBoaW50cykudG9Cb29sZWFuCg==</text>
@@ -1002,9 +1002,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alias\c</last-search>
+      <last-search>toAttri</last-search>
       <last-offset />
-      <last-pattern>alias\c</last-pattern>
+      <last-pattern>toAttri</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1012,11 +1012,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbnRscjRcPg==</entry>
-        <entry encoding="base64">XDxsaWJ0aHJpZnRcPg==</entry>
-        <entry>jar-plugin</entry>
-        <entry>avro-ipc</entry>
-        <entry encoding="base64">XDxhdnJvXD4=</entry>
         <entry>hadoop.deps.scope</entry>
         <entry>spark-core_</entry>
         <entry>spark-sql</entry>
@@ -1032,6 +1027,11 @@
         <entry encoding="base64">XDxwbGFuc1w+</entry>
         <entry encoding="base64">XDxTVEFUSUNfUElQRUxJTkVfS0VZXD4=</entry>
         <entry>alias\c</entry>
+        <entry>expressions</entry>
+        <entry>Expression</entry>
+        <entry>output</entry>
+        <entry encoding="base64">XDxvdXRwdXRcPg==</entry>
+        <entry>toAttri</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
