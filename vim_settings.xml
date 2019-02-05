@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" timestamp="1549323339701">
-        <mark key="'" line="114" column="77" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" timestamp="1549323777880">
+        <mark key="'" line="68" column="14" />
         <mark key="[" line="371" column="32" />
         <mark key="]" line="371" column="47" />
         <mark key="." line="371" column="47" />
@@ -145,6 +145,9 @@
       </file>
       <file name="$USER_HOME$/fb-spark/python/pyspark/rdd.py" timestamp="1543451800126">
         <mark key="'" line="727" column="0" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkConf.scala" timestamp="1549323799458">
+        <mark key="'" line="395" column="23" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1547598151321">
         <mark key="'" line="121" column="20" />
@@ -596,8 +599,8 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/Query.class" timestamp="1548464596005">
         <mark key="'" line="77" column="24" />
       </file>
-      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1549323717380">
-        <mark key="'" line="33" column="61" />
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" timestamp="1549323871481">
+        <mark key="'" line="120" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/MapType.scala" timestamp="1542655943237">
         <mark key="'" line="46" column="11" />
@@ -637,8 +640,8 @@
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java" timestamp="1543453331783">
-        <mark key="'" line="202" column="12" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java" timestamp="1549323904984">
+        <mark key="'" line="96" column="35" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSqlParser.scala" timestamp="1543963120789">
         <mark key="'" line="27" column="21" />
@@ -745,8 +748,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoModule.java" timestamp="1546627073814">
         <mark key="'" line="103" column="2" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" timestamp="1543453290694">
-        <mark key="'" line="344" column="45" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" timestamp="1549323899465">
+        <mark key="'" line="344" column="46" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmCatalog.scala" timestamp="1544050533018">
         <mark key="'" line="44" column="61" />
@@ -799,9 +802,6 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/UpmLogicalAlias.scala" timestamp="1547621342510">
-        <mark key="." line="23" column="13" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1547686742567">
         <mark key="'" line="133" column="11" />
       </file>
@@ -850,25 +850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" />
-      <jump line="24" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
-      <jump line="39" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoModule.java" />
-      <jump line="103" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoModule.java" />
-      <jump line="1764" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
-      <jump line="21" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
-      <jump line="1804" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
-      <jump line="19" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
-      <jump line="10" column="51" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
-      <jump line="1809" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
-      <jump line="1808" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
-      <jump line="1739" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
-      <jump line="46" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="322" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
-      <jump line="360" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
-      <jump line="210" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="220" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="175" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
-      <jump line="217" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="261" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="23" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" />
       <jump line="43" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
@@ -942,7 +923,6 @@
       <jump line="627" column="22" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="515" column="24" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="57" column="47" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="120" column="25" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="169" column="28" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="114" column="77" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
       <jump line="127" column="60" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
@@ -950,6 +930,26 @@
       <jump line="83" column="60" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
       <jump line="88" column="37" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonRDD.scala" />
       <jump line="33" column="61" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="110" column="15" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
+      <jump line="68" column="14" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkEnv.scala" />
+      <jump line="62" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkConf.scala" />
+      <jump line="131" column="12" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkConf.scala" />
+      <jump line="136" column="18" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkConf.scala" />
+      <jump line="152" column="18" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkConf.scala" />
+      <jump line="395" column="23" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkConf.scala" />
+      <jump line="54" column="31" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="120" column="25" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="343" column="20" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="181" column="31" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="271" column="59" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="273" column="50" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="274" column="52" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="277" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="288" column="41" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="298" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="344" column="46" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
+      <jump line="96" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java" />
+      <jump line="62" column="49" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -962,7 +962,7 @@
         <text>OPTIMIZE_HOURLY_BATCH</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnZWYXJzXD4=</text>
+        <text encoding="base64">XDxlbnZpcm9ubWVudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgaG91cmx5QmF0Y2goY29uZmlnOiBVcG1Db25maWd1cmF0aW9uLCBoaW50czogVXBtSGludHMpOiBCb29sZWFuID0KICAgIGNvbmZpZ1ZhbHVlKE9QVElNSVpFX0hPVVJMWV9CQVRDSCwgQk9PTF9GQUxTRSwgY29uZmlnLCBoaW50cykudG9Cb29sZWFuCg==</text>
@@ -999,9 +999,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnZWYXJzXD4=</last-search>
+      <last-search encoding="base64">XDxlbnZpcm9ubWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnZWYXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlbnZpcm9ubWVudFw+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1009,9 +1009,6 @@
     </search>
     <history>
       <history-search>
-        <entry>st_valid</entry>
-        <entry>st_</entry>
-        <entry>&quot;st_</entry>
         <entry>\cregister</entry>
         <entry>\cfunction</entry>
         <entry>\cregis</entry>
@@ -1029,6 +1026,9 @@
         <entry>LD_LIB</entry>
         <entry>environ</entry>
         <entry encoding="base64">XDxlbnZWYXJzXD4=</entry>
+        <entry>\cenviron</entry>
+        <entry>ProcessBuilder</entry>
+        <entry encoding="base64">XDxlbnZpcm9ubWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
