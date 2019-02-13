@@ -261,6 +261,9 @@
         <mark key="^" line="646" column="1" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaData.class" timestamp="1550099090398">
+        <mark key="'" line="25" column="69" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" timestamp="1541981935800">
         <mark key="'" line="26" column="57" />
       </file>
@@ -303,8 +306,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/Union.class" timestamp="1541111907235">
         <mark key="'" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" timestamp="1543870107074">
-        <mark key="'" line="464" column="27" />
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" timestamp="1550099035302">
+        <mark key="'" line="357" column="40" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/table_properties/bi/fct_post_production.json" timestamp="1539576033187">
         <mark key="'" line="1" column="3053" />
@@ -331,6 +334,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpFactory.java" timestamp="1542332376186">
         <mark key="'" line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkToScubaService.scala" timestamp="1550099050958">
+        <mark key="'" line="50" column="16" />
       </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1542763817602">
         <mark key="'" line="719" column="33" />
@@ -596,6 +602,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/identifiers.scala" timestamp="1543622997127">
         <mark key="'" line="8" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaSample.class" timestamp="1550099248911">
+        <mark key="'" line="77" column="48" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/Query.class" timestamp="1548464596005">
         <mark key="'" line="77" column="24" />
       </file>
@@ -850,30 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" />
-      <jump line="43" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
-      <jump line="121" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
-      <jump line="245" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="48" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="310" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
-      <jump line="21" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PlanUtils.scala" />
-      <jump line="42" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="35" column="37" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" />
-      <jump line="134" column="11" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
-      <jump line="39" column="36" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
-      <jump line="114" column="45" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
-      <jump line="28" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
-      <jump line="95" column="66" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
-      <jump line="57" column="32" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
-      <jump line="56" column="18" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" />
-      <jump line="40" column="58" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" />
-      <jump line="133" column="11" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" />
-      <jump line="31" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
-      <jump line="60" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
-      <jump line="61" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
-      <jump line="62" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
-      <jump line="63" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
-      <jump line="64" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
       <jump line="65" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
       <jump line="66" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
       <jump line="67" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
@@ -950,6 +935,30 @@
       <jump line="96" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java" />
       <jump line="62" column="49" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java" />
       <jump line="158" column="28" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
+      <jump line="471" column="27" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="342" column="34" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="410" column="25" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="541" column="39" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="542" column="68" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="550" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="551" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="552" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="553" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="554" column="61" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="579" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="578" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="559" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="357" column="40" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
+      <jump line="42" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkToScubaService.scala" />
+      <jump line="50" column="16" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkToScubaService.scala" />
+      <jump line="7" column="50" filename="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaData.class" />
+      <jump line="12" column="31" filename="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaData.class" />
+      <jump line="35" column="6" filename="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaData.class" />
+      <jump line="25" column="69" filename="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaData.class" />
+      <jump line="74" column="17" filename="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaSample.class" />
+      <jump line="75" column="38" filename="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaSample.class" />
+      <jump line="76" column="44" filename="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaSample.class" />
+      <jump line="77" column="48" filename="$MAVEN_REPOSITORY$/com/facebook/scribeclient/0.6/scribeclient-0.6.jar!/com/facebook/infrastructure/scribe/ScubaSample.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -962,7 +971,7 @@
         <text>OPTIMIZE_HOURLY_BATCH</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnZpcm9ubWVudFw+</text>
+        <text encoding="base64">XDxvXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgaG91cmx5QmF0Y2goY29uZmlnOiBVcG1Db25maWd1cmF0aW9uLCBoaW50czogVXBtSGludHMpOiBCb29sZWFuID0KICAgIGNvbmZpZ1ZhbHVlKE9QVElNSVpFX0hPVVJMWV9CQVRDSCwgQk9PTF9GQUxTRSwgY29uZmlnLCBoaW50cykudG9Cb29sZWFuCg==</text>
@@ -999,22 +1008,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnZpcm9ubWVudFw+</last-search>
+      <last-search encoding="base64">XDxvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnZpcm9ubWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxvXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\cregister</entry>
-        <entry>\cfunction</entry>
-        <entry>\cregis</entry>
-        <entry encoding="base64">XDxGdW5jdGlvbkNhbGxcPg==</entry>
-        <entry encoding="base64">XDxhZ2dyZWdhdGVzXD4=</entry>
-        <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
         <entry>python</entry>
         <entry>.par</entry>
         <entry>handle</entry>
@@ -1029,6 +1032,12 @@
         <entry>\cenviron</entry>
         <entry>ProcessBuilder</entry>
         <entry encoding="base64">XDxlbnZpcm9ubWVudFw+</entry>
+        <entry encoding="base64">XDxTY3ViYVNhbXBsZVw+</entry>
+        <entry encoding="base64">XDxzY3ViYVNhbXBsZVw+</entry>
+        <entry encoding="base64">XDxMb2dFbnRyeVw+</entry>
+        <entry encoding="base64">XDxzYW1wbGVzXD4=</entry>
+        <entry encoding="base64">XDxTY3JpYmVDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
