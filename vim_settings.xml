@@ -109,8 +109,8 @@
         <mark key="." line="576" column="21" />
         <mark key="^" line="576" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" timestamp="1545429024012">
-        <mark key="'" line="26" column="6" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" timestamp="1550603845381">
+        <mark key="'" line="28" column="6" />
         <mark key="[" line="25" column="32" />
         <mark key="]" line="25" column="33" />
         <mark key="^" line="25" column="33" />
@@ -491,6 +491,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1544142030687">
         <mark key="'" line="28" column="35" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" timestamp="1550603985667" />
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/ql/metadata/Hive.java" timestamp="1543355100111">
         <mark key="'" line="123" column="13" />
       </file>
@@ -856,8 +857,8 @@
         <mark key="." line="54" column="59" />
         <mark key="^" line="54" column="59" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1547621363895">
-        <mark key="'" line="310" column="31" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1550603875221">
+        <mark key="'" line="254" column="19" />
         <mark key="[" line="273" column="42" />
         <mark key="]" line="273" column="42" />
         <mark key="^" line="273" column="75" />
@@ -865,8 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="446" column="16" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/sql/analyzer/Analysis.class" />
-      <jump line="317" column="14" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/sql/analyzer/Analysis.class" />
       <jump line="23" column="22" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/FunctionCall.class" />
       <jump line="40" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoAstRewriterBase.java" />
       <jump line="103" column="49" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/sql/analyzer/Analysis.class" />
@@ -965,6 +964,8 @@
       <jump line="29" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" />
       <jump line="68" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
       <jump line="342" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" />
+      <jump line="28" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
+      <jump line="254" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -977,7 +978,7 @@
         <text>A</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmFseXplclw+</text>
+        <text encoding="base64">XDxvcHRpbWl6ZWRQbGFuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBVcG1Mb2dpY2FsUmVzb2x2ZVJlbGF0aW9ucyhkYXRhc2V0TWFuYWdlci5nZXRDYXRhbG9nLmdldFNwYXJrQ2F0YWxvZykgOjoKICAgICAgICBVcG1SZXNvbHZlUmVmZXJlbmNlcyA6OgogICAgICAgIFJlc29sdmVEZXNlcmlhbGl6ZXIgOjoKICAgICAgICBSZXNvbHZlTmV3SW5zdGFuY2UgOjoKICAgICAgICBSZXNvbHZlVXBDYXN0IDo6CiAgICAgICAgUmVzb2x2ZUdyb3VwaW5nQW5hbHl0aWNzIDo6CiAgICAgICAgUmVzb2x2ZVBpdm90IDo6CiAgICAgICAgUmVzb2x2ZU9yZGluYWxJbk9yZGVyQnlBbmRHcm91cEJ5IDo6CiAgICAgICAgUmVzb2x2ZU1pc3NpbmdSZWZlcmVuY2VzIDo6CiAgICAgICAgRXh0cmFjdEdlbmVyYXRvciA6OgogICAgICAgIFJlc29sdmVHZW5lcmF0ZSA6OgogICAgICAgIFJlc29sdmVGdW5jdGlvbnMgOjoKICAgICAgICBSZXNvbHZlQWxpYXNlcyA6OgogICAgICAgIFJlc29sdmVTdWJxdWVyeSA6OgogICAgICAgIFJlc29sdmVXaW5kb3dPcmRlciA6Ogo=</text>
@@ -1014,9 +1015,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbmFseXplclw+</last-search>
+      <last-search encoding="base64">XDxvcHRpbWl6ZWRQbGFuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmFseXplclw+</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRpbWl6ZWRQbGFuXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1024,7 +1025,6 @@
     </search>
     <history>
       <history-search>
-        <entry>par</entry>
         <entry>&quot;par&quot;</entry>
         <entry>|.par&quot;</entry>
         <entry>tar</entry>
@@ -1044,6 +1044,7 @@
         <entry>map\c</entry>
         <entry>UnresolvedAttribute</entry>
         <entry encoding="base64">XDxhbmFseXplclw+</entry>
+        <entry encoding="base64">XDxvcHRpbWl6ZWRQbGFuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
