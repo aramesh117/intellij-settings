@@ -118,12 +118,8 @@
         <mark key="." line="576" column="21" />
         <mark key="^" line="576" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" timestamp="1550615749086">
-        <mark key="'" line="27" column="6" />
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="25" column="33" />
-        <mark key="^" line="25" column="33" />
-        <mark key="." line="25" column="33" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" timestamp="1552511300793">
+        <mark key="'" line="30" column="6" />
       </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonUtils.scala" timestamp="1543454970764">
         <mark key="'" line="46" column="6" />
@@ -809,9 +805,6 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/pom.xml" timestamp="1546557371603">
         <mark key="'" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmCombineUnionWithChildrenSqlOperators.scala" timestamp="1545428650131">
-        <mark key="'" line="16" column="41" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1551813991550">
         <mark key="'" line="202" column="31" />
       </file>
@@ -892,7 +885,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="627" column="22" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="515" column="24" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
       <jump line="57" column="47" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="169" column="28" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
@@ -992,6 +984,7 @@
       <jump line="577" column="48" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1297" column="11" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
       <jump line="1298" column="8" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" />
+      <jump line="30" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1047,7 +1040,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
