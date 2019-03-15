@@ -202,12 +202,6 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/java/com/facebook/fblearner/plasma/PlasmaHiveConfProviderImpl.java" timestamp="1543360280774">
         <mark key="'" line="89" column="38" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmSparkSqlAnalyzer.scala" timestamp="1550603769075">
-        <mark key="'" line="342" column="4" />
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testNestedUidRewrite__physicalplan.json" timestamp="1543886617529">
         <mark key="'" line="0" column="0" />
       </file>
@@ -511,12 +505,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1550615851071">
         <mark key="'" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" timestamp="1550616369847">
-        <mark key="'" line="39" column="30" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/ql/metadata/Hive.java" timestamp="1543355100111">
         <mark key="'" line="123" column="13" />
       </file>
@@ -627,8 +615,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production_anon.json" timestamp="1540835524304">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" timestamp="1546626520321">
-        <mark key="'" line="6" column="5" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" timestamp="1552690734060">
+        <mark key="'" line="41" column="8" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" timestamp="1543354007168">
         <mark key="'" line="76" column="36" />
@@ -759,8 +747,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-sql_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/UDFRegistration.scala" timestamp="1541528930851">
         <mark key="'" line="38" column="54" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" timestamp="1546635193390">
-        <mark key="'" line="1739" column="32" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" timestamp="1552690953126">
+        <mark key="'" line="12" column="34" />
         <mark key="[" line="1825" column="67" />
         <mark key="]" line="1825" column="83" />
         <mark key="." line="1825" column="83" />
@@ -906,10 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="28" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
-      <jump line="471" column="27" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
-      <jump line="342" column="34" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
-      <jump line="410" column="25" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
       <jump line="541" column="39" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
       <jump line="542" column="68" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
       <jump line="550" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
@@ -1006,6 +990,10 @@
       <jump line="64" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PipelineRegressionTest.java" />
       <jump line="260" column="70" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="259" column="71" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
+      <jump line="1976" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
+      <jump line="12" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
+      <jump line="41" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1018,7 +1006,7 @@
         <text>does not</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcWxDcmVhdGVUYWJsZUFzU2VsZWN0XD4=</text>
+        <text>shade</text>
       </register>
       <register name="0" type="4">
         <text>sqlCreateTableAsSelect(tableName, selectSql)</text>
@@ -1055,17 +1043,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcWxDcmVhdGVUYWJsZUFzU2VsZWN0XD4=</last-search>
+      <last-search>shade</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcWxDcmVhdGVUYWJsZUFzU2VsZWN0XD4=</last-pattern>
+      <last-pattern>shade</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resolve</entry>
         <entry>join</entry>
         <entry>join(</entry>
         <entry>output</entry>
@@ -1085,6 +1072,7 @@
         <entry>\cnopartitions</entry>
         <entry>retentionDays</entry>
         <entry encoding="base64">XDxzcWxDcmVhdGVUYWJsZUFzU2VsZWN0XD4=</entry>
+        <entry>shade</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
