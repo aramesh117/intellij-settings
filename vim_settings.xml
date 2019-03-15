@@ -60,6 +60,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" timestamp="1547686510078">
         <mark key="'" line="35" column="37" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PipelineRegressionTest.java" timestamp="1552686997605">
+        <mark key="'" line="64" column="41" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/expression/SparkExpressionFactory.scala" timestamp="1543952088031">
         <mark key="'" line="45" column="6" />
       </file>
@@ -170,8 +173,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/subquery.scala" timestamp="1544061152449">
         <mark key="'" line="140" column="2" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" timestamp="1552684079376">
-        <mark key="'" line="259" column="40" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" timestamp="1552687105603">
+        <mark key="'" line="259" column="71" />
         <mark key="[" line="260" column="0" />
         <mark key="]" line="260" column="0" />
         <mark key="." line="260" column="0" />
@@ -336,12 +339,11 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/StructType.scala" timestamp="1542656204806">
         <mark key="'" line="280" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1552684015457">
-        <mark key="'" line="94" column="77" />
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="60" />
-        <mark key="^" line="15" column="60" />
-        <mark key="." line="15" column="60" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1552687470980">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/NonSqlSubDagOperator.java" timestamp="1536615873251">
         <mark key="'" line="29" column="35" />
@@ -824,7 +826,7 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/pom.xml" timestamp="1546557371603">
         <mark key="'" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1551813991550">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1552685872518">
         <mark key="'" line="202" column="31" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" timestamp="1550615984000">
@@ -904,14 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="50" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
-      <jump line="274" column="52" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
-      <jump line="277" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
-      <jump line="288" column="41" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
-      <jump line="298" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
-      <jump line="344" column="46" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessBuilder.java" />
-      <jump line="96" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java" />
-      <jump line="62" column="49" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java" />
       <jump line="158" column="28" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/api/python/PythonWorkerFactory.scala" />
       <jump line="471" column="27" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
       <jump line="342" column="34" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" />
@@ -1000,78 +994,77 @@
       <jump line="99" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
       <jump line="15" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="67" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="260" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="92" column="77" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="91" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/NonSqlDataFrameTest.java" />
       <jump line="280" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/NonSqlDataFrameTest.java" />
+      <jump line="16" column="60" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="18" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="70" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="17" column="84" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="69" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="12" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PipelineRegressionTest.java" />
+      <jump line="64" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PipelineRegressionTest.java" />
+      <jump line="260" column="70" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="259" column="71" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>does not</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>does not</text>
       </register>
       <register name="/" type="4">
-        <text>NoPartition</text>
+        <text encoding="base64">XDxzcWxDcmVhdGVUYWJsZUFzU2VsZWN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIENvbnRleHQgY29udGV4dCA9IGdldENvbnRleHQoImFtbCIpOwogICAgRGF0YUZyYW1lIGRmID0gY29udGV4dC5ocWwoIlNFTEVDVCBoYXNoX25hbWUgRlJPTSBkb3BwbGVyX2RhdGFfYXVkaW8iKTsK</text>
+      <register name="0" type="4">
+        <text>sqlCreateTableAsSelect(tableName, selectSql)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIElmIHRoZSBvdXRwdXQgZGF0YXNldCBpcyB0ZW1wb3JhcnksIG9yIGlmIHRoZSBwYXJ0aXRpb24gY29sdW1ucyBhcmUgZW1wdHksIHRoZW4gd2UganVzdAogICAgLy8gY3JlYXRlIGFuIGltbXV0YWJsZSB0YWJsZSB1c2luZyBjcmVhdGUgdGFibGUgYXMgc2VsZWN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID0gY29udGV4dC5zcWwoIlNFTEVDVCAqIEZST00gaWdfdXNlcnNfaG91cmx5X3NvdXJjZV91bmlmaWVkX3NoYWRvdyBXSEVSRSBkcyA9ICcyMDE5LTAzLTEyJyBMSU1JVCAxMCIpLnNhdmUoIm91dHB1dCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRmLnNhdmUoIm91dHB1dCIpOwo=</text>
+        <text encoding="base64">ICAgID0gY29udGV4dC5zcWwoIlNFTEVDVCAqIEZST00gaWdfdXNlcnNfaG91cmx5X3NvdXJjZV91bmlmaWVkX3NoYWRvdyBXSEVSRSBkcyA9ICcyMDE5LTAzLTEyJyBMSU1JVCAxMCIpLnNhdmUoIm91dHB1dCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmLnNhdmUoIm91dHB1dCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REYXRhc2V0V2l0aE5vUGFydGl0aW9ucygpIHRocm93cyBVcG1FeGNlcHRpb24gewogICAgQ29udGV4dCBjb250ZXh0ID0gZ2V0Q29udGV4dCgic2FsZXMiKTsKCiAgICBEYXRhRnJhbWUgZGYgPSBjb250ZXh0LnNxbCgiU0VMRUNUICogRlJPTSBlbXBzIFdIRVJFIGRzID0gJzIwMTktMDMtMTInIExJTUlUIDEwIik7CiAgICBkZiA9IGRmLm1hcChnZXREb3BwbGVEYXRhTWFwRnVuY3Rpb24oImRlcHRubyIsICJpbnQiKSwgSW1tdXRhYmxlTWFwLm9mKCksIEltbXV0YWJsZU1hcC5vZigpKTsKICAgIGRmLnNhdmUoIm91dHB1dCIpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REYXRhc2V0V2l0aE5vUGFydGl0aW9ucygpIHRocm93cyBVcG1FeGNlcHRpb24gewogICAgQ29udGV4dCBjb250ZXh0ID0gZ2V0Q29udGV4dCgic2FsZXMiKTsKCiAgICBEYXRhRnJhbWUgZGYgPSBjb250ZXh0LnNxbCgiU0VMRUNUICogRlJPTSBlbXBzIFdIRVJFIGRzID0gJzIwMTktMDMtMTInIExJTUlUIDEwIik7CiAgICBkZiA9IGRmLm1hcChnZXREb3BwbGVEYXRhTWFwRnVuY3Rpb24oImRlcHRubyIsICJpbnQiKSwgSW1tdXRhYmxlTWFwLm9mKCksIEltbXV0YWJsZU1hcC5vZigpKTsKICAgIGRmLnNhdmUoIm91dHB1dCIpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzcWwgPSBQcmVzdG9TcWxNYXRlcmlhbGl6ZXIubWF0ZXJpYWxpemUoc2VsZWN0U3FsLCBvdXRwdXREYXRhc2V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pYm0uaWN1LmltcGwubG9jYWxlLlhDbGRyU3R1Yi5JbW11dGFibGVTZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzcWwgPSBQcmVzdG9TcWxNYXRlcmlhbGl6ZXIubWF0ZXJpYWxpemUoc2VsZWN0U3FsLCBvdXRwdXREYXRhc2V0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NoPartition</last-search>
+      <last-search encoding="base64">XDxzcWxDcmVhdGVUYWJsZUFzU2VsZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>NoPartition</last-pattern>
+      <last-pattern encoding="base64">XDxzcWxDcmVhdGVUYWJsZUFzU2VsZWN0XD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTY3JpYmVDbGllbnRcPg==</entry>
-        <entry encoding="base64">XDxvXD4=</entry>
-        <entry>map\c</entry>
-        <entry encoding="base64">XDxhbmFseXplclw+</entry>
-        <entry encoding="base64">XDxvcHRpbWl6ZWRQbGFuXD4=</entry>
-        <entry>UnresolvedAttribute</entry>
-        <entry>AttributeReference</entry>
-        <entry>Project</entry>
-        <entry>checkAnalys</entry>
         <entry>resolve</entry>
         <entry>join</entry>
         <entry>join(</entry>
@@ -1083,6 +1076,15 @@
         <entry>map(</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25zXD4=</entry>
         <entry>NoPartition</entry>
+        <entry>retention</entry>
+        <entry>createAs\c</entry>
+        <entry>createtable\as</entry>
+        <entry>createTableAsSelect</entry>
+        <entry>retention_days</entry>
+        <entry>NoPartitions</entry>
+        <entry>\cnopartitions</entry>
+        <entry>retentionDays</entry>
+        <entry encoding="base64">XDxzcWxDcmVhdGVUYWJsZUFzU2VsZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
