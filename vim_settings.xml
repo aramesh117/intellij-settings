@@ -157,12 +157,12 @@
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkConf.scala" timestamp="1549323799458">
         <mark key="'" line="395" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1547598151321">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1553121927982">
         <mark key="'" line="121" column="20" />
-        <mark key="[" line="67" column="80" />
-        <mark key="]" line="68" column="65" />
-        <mark key="^" line="68" column="65" />
-        <mark key="." line="68" column="65" />
+        <mark key="[" line="58" column="87" />
+        <mark key="]" line="58" column="97" />
+        <mark key="^" line="58" column="97" />
+        <mark key="." line="58" column="97" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" timestamp="1540839619762">
         <mark key="'" line="6" column="2" />
@@ -340,13 +340,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/StructType.scala" timestamp="1542656204806">
         <mark key="'" line="280" column="19" />
-      </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1552694963407">
-        <mark key="'" line="27" column="55" />
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="78" />
-        <mark key="." line="27" column="78" />
-        <mark key="^" line="27" column="78" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/NonSqlSubDagOperator.java" timestamp="1536615873251">
         <mark key="'" line="29" column="35" />
@@ -1015,10 +1008,10 @@
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>catalogTable.</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>catalogTable.</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUYWJsZVBhcnRpdGlvblNwZWNcPg==</text>
@@ -1064,7 +1057,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
