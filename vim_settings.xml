@@ -169,11 +169,12 @@
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkConf.scala" timestamp="1549323799458">
         <mark key="'" line="395" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1553136252112">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1553142021369">
         <mark key="'" line="154" column="20" />
-        <mark key="[" line="58" column="5" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="59" column="68" />
+        <mark key="." line="59" column="68" />
+        <mark key="^" line="59" column="68" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" timestamp="1540839619762">
         <mark key="'" line="6" column="2" />
@@ -1032,11 +1033,11 @@
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>does not match the partition, then UPM will throw an error.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0aXRpb25Db2xzXD4=</text>
