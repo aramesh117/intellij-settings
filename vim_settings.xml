@@ -286,7 +286,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" timestamp="1541981935800">
         <mark key="'" line="26" column="57" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SqlMaterializer.scala" timestamp="1553150600373">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SqlMaterializer.scala" timestamp="1553187097524">
         <mark key="'" line="21" column="6" />
         <mark key="[" line="25" column="42" />
         <mark key="]" line="25" column="48" />
@@ -351,8 +351,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/StructType.scala" timestamp="1542656204806">
         <mark key="'" line="280" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1553151352557">
-        <mark key="'" line="18" column="33" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1553190008863">
+        <mark key="'" line="27" column="43" />
         <mark key="[" line="90" column="54" />
         <mark key="]" line="90" column="54" />
         <mark key="." line="90" column="54" />
@@ -581,8 +581,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1553180947203">
-        <mark key="'" line="964" column="24" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1553190864443">
+        <mark key="'" line="53" column="26" />
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
@@ -809,12 +809,11 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" timestamp="1553182640622">
-        <mark key="'" line="4" column="38" />
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="44" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="21" column="44" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" timestamp="1553189975775">
+        <mark key="'" line="22" column="28" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="22" column="73" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905-sources.jar!/org/apache/spark/sql/hive/client/PlasmaHiveClientImpl.scala" timestamp="1543540943892">
         <mark key="'" line="54" column="30" />
@@ -938,18 +937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/PhysicalDataset.scala" />
-      <jump line="34" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/PhysicalDataset.scala" />
-      <jump line="29" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/PhysicalDataset.scala" />
-      <jump line="266" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="254" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="82" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="38" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="33" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="262" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="59" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="58" column="98" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
-      <jump line="136" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="131" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="151" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="29" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" />
@@ -976,7 +963,6 @@
       <jump line="28" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="299" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="63" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/SparkTestTableGenerator.java" />
-      <jump line="27" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="71" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" />
       <jump line="14" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="75" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
@@ -1038,58 +1024,73 @@
       <jump line="237" column="68" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
       <jump line="292" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
       <jump line="304" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PartitionSchedulerTest.java" />
+      <jump line="23" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" />
+      <jump line="22" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" />
+      <jump line="37" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="47" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="27" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="31" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="68" column="110" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="959" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="24" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="33" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="41" column="60" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="46" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="53" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>producesDataset</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>INSERT</text>
+        <text>partition\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVwbURhdGFzZXQgcHJvZHVjZXNEYXRhc2V0ID0gbmV3IFVwbURhdGFzZXQoCiAgICAgICAgInVzZXJfaW50ZW50X2FkX3RhcmdldF9pbnRlcmVzdHNfc2hhZG93IiwKICAgICAgICBJbW11dGFibGVNYXAub2YoImRzIiwKICAgICAgICAgICAgbmV3IEluT3BlcmF0aW9uKEltbXV0YWJsZUxpc3Qub2YoIjxEQVRBU0VUX1NQRUNfU1RBUlQ6REFURUlEOkRBVEFTRVRfU1BFQ19FTkQ+IikpKSwKICAgICAgICAiaW50ZXJuYWxfZGF0YXNldF8wIiwgSW1tdXRhYmxlTWFwLm9mKCksIEludGVydmFsLk5PTkUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RJbnNlcnRpbmdJbnRvUGFydGl0aW9uKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBDb250ZXh0IGNvbnRleHQgPSBnZXRDb250ZXh0KCJhbWwiKTsKICAgIFVwbURhdGFzZXQgcHJvZHVjZXNEYXRhc2V0ID0gbmV3IFVwbURhdGFzZXQoCiAgICAgICAgICAgICJkb3BwbGVyX2RhdGFfYXVkaW9fdGVzdCIsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigKICAgICAgICAgICAgICAgICJkcyIsCiAgICAgICAgICAgICAgICBuZXcgSW5PcGVyYXRpb24oSW1tdXRhYmxlTGlzdC5vZigiPERBVEFTRVRfU1BFQ19TVEFSVDpEQVRFSUQ6REFUQVNFVF9TUEVDX0VORD4iKSkpLAogICAgICAgICAgICAiaW50ZXJuYWxfZGF0YXNldF8wIiwKICAgICAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCksCiAgICAgICAgICAgIEludGVydmFsLk5PTkUudG9TdHJpbmcoKSk7CiAgICBEYXRhRnJhbWUgZGYgPSBjb250ZXh0LnNxbCgiU0VMRUNUICogRlJPTSBkb3BwbGVyX2RhdGFfYXVkaW8gTElNSVQgMTAiKTsKICAgIGRmLnNhdmUocHJvZHVjZXNEYXRhc2V0LCBVcG1IaW50cy5FTVBUWSwgSW1tdXRhYmxlTWFwLm9mKCkpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgaWYgKG91dHB1dERhdGFzZXQuZGF0YXNldC5wYXJ0aXRpb25zLmlzRW1wdHkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuYWRkUHJvZHVjZURhdGFzZXRzKEltbXV0YWJsZU1hcC5vZigidXBtX2RhdGFzZXRzLmludGVybmFsX2RhdGFzZXQiLCBwcm9kdWNlc0RhdGFzZXQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFVwbURhdGFzZXQgcHJvZHVjZURhdGFzZXQgPQo=</text>
+        <text encoding="base64">ICAgICAgU3FsTWF0ZXJpYWxpemVyLnZhbGlkYXRlT3V0cHV0VGFibGVTY2hlbWEodGFibGVOYW1lLAogICAgICAgIG91dHB1dERhdGFzZXQsCiAgICAgICAgdXBtQ29ubmVjdGlvbiwKICAgICAgICB1cG1Db25maWd1cmF0aW9uKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsK</text>
+      <register name="5" type="4">
+        <text>if (outputDataset.dataset.partitions.isEmpty) {
+      Seq(sqlDeleteTableIfExists(tableName), sqlCreateTableAsSelect(tableName, selectSql))
+    } else</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsK</text>
+        <text encoding="base64">ICAgICAgU3FsTWF0ZXJpYWxpemVyLnZhbGlkYXRlT3V0cHV0VGFibGVTY2hlbWEodGFibGVOYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdXRwdXREYXRhc2V0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cG1Db25uZWN0aW9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cG1Db25maWd1cmF0aW9uKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsK</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RJbnNlcnRpbmdJbnRvUGFydGl0aW9uKCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBDb250ZXh0IGNvbnRleHQgPSBnZXRDb250ZXh0KCJhbWwiKTsKICAgIFVwbURhdGFzZXQgcHJvZHVjZXNEYXRhc2V0ID0gbmV3IFVwbURhdGFzZXQoCiAgICAgICAgICAgICJkb3BwbGVyX2RhdGFfYXVkaW9fdGVzdCIsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigKICAgICAgICAgICAgICAgICJkcyIsCiAgICAgICAgICAgICAgICBuZXcgSW5PcGVyYXRpb24oSW1tdXRhYmxlTGlzdC5vZigiPERBVEFTRVRfU1BFQ19TVEFSVDpEQVRFSUQ6REFUQVNFVF9TUEVDX0VORD4iKSkpLAogICAgICAgICAgICAiaW50ZXJuYWxfZGF0YXNldF8wIiwKICAgICAgICAgICAgSW1tdXRhYmxlTWFwLm9mKCksCiAgICAgICAgICAgIEludGVydmFsLk5PTkUudG9TdHJpbmcoKSk7CiAgICBEYXRhRnJhbWUgZGYgPSBjb250ZXh0LnNxbCgiU0VMRUNUICogRlJPTSBkb3BwbGVyX2RhdGFfYXVkaW8gTElNSVQgMTAiKTsKICAgIGRmLnNhdmUocHJvZHVjZXNEYXRhc2V0LCBVcG1IaW50cy5FTVBUWSwgSW1tdXRhYmxlTWFwLm9mKCkpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFVwbUV4Y2VwdGlvbiBlKSB7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQuYWRkUHJvZHVjZURhdGFzZXRzKEltbXV0YWJsZU1hcC5vZigidXBtX2RhdGFzZXRzLmludGVybmFsX2RhdGFzZXQiLCBwcm9kdWNlc0RhdGFzZXQpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>INSERT</last-search>
+      <last-search>partition\c</last-search>
       <last-offset />
-      <last-pattern>INSERT</last-pattern>
+      <last-pattern>partition\c</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1097,10 +1098,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LOG</entry>
-        <entry encoding="base64">XDxvdXRwdXREYXRhc2V0XD4=</entry>
-        <entry encoding="base64">XDxTcWxNYXRlcmlhbGl6ZXJcPg==</entry>
-        <entry encoding="base64">XDxwYXJ0aXRpb25zXD4=</entry>
         <entry>assertPhysicalPlan</entry>
         <entry>PARTIT</entry>
         <entry>infer\c</entry>
@@ -1114,9 +1111,13 @@
         <entry>retention</entry>
         <entry encoding="base64">XDxyZXRlbnRpb25EYXlzXD4=</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZU91dHB1dFRhYmxlU2NoZW1hXD4=</entry>
-        <entry encoding="base64">XDxwcm9kdWNlc0RhdGFzZXRcPg==</entry>
         <entry>RETENTION</entry>
         <entry>INSERT</entry>
+        <entry encoding="base64">XDxzcWxDcmVhdGVUYWJsZVw+</entry>
+        <entry>output</entry>
+        <entry encoding="base64">XDxwcm9kdWNlc0RhdGFzZXRcPg==</entry>
+        <entry encoding="base64">XDxpbnRlcm5hbF9kYXRhc2V0XzBcPg==</entry>
+        <entry>partition\c</entry>
       </history-search>
       <history-cmd>
         <entry>SyntasticCheck</entry>
