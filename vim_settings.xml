@@ -143,12 +143,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DataFrameTest__testSparkSqlWithConfigHints__physicalplan.json" timestamp="1542654549221">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" timestamp="1553787425904">
-        <mark key="'" line="14" column="34" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="71" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" timestamp="1553788766025">
+        <mark key="'" line="23" column="50" />
+        <mark key="]" line="351" column="0" />
+        <mark key="." line="351" column="0" />
+        <mark key="^" line="351" column="0" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/jdbc/JdbcRelationProvider.scala" timestamp="1543522907672">
         <mark key="'" line="24" column="57" />
@@ -564,8 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="68" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SqlMaterializer.scala" />
-      <jump line="34" column="63" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SqlMaterializer.scala" />
       <jump line="80" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="70" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/SparkDatasetHelper.scala" />
       <jump line="12" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGenerator.java" />
@@ -664,13 +661,15 @@
       <jump line="18" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
       <jump line="28" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
       <jump line="14" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
+      <jump line="30" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
+      <jump line="23" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydExvZ2ljYWxQbGFuKGRmKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBEYXRhRnJhbWUgZXVjaXJiamw=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -681,11 +680,11 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgic2FsZXMiKTsKICAgIERhdGFGcmFtZSBkZiA9IGN0eC5zcWwoIlNFTEVDVCAqIEZST00gZGVwdHMiKTsKICAgIGFzc2VydExvZ2ljYWxQbGFuKGRmKTsKCiAgICBEYXRhRnJhbWUgZGZTYXZlID0gZGYuc2F2ZSgib3V0cHV0X3RhYmxlIik7CiAgICBhc3NlcnREaXNwYXRjaGVkUGh5c2ljYWxQbGFuKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydExvZ2ljYWxQbGFuKGRmKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBEYXRhRnJhbWUgZXVjaXJiamw=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydExvZ2ljYWxQbGFuKGRmKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -694,16 +693,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB0YWJsZU5hbWUgPSBvdXRwdXREYXRhc2V0LmRhdGFzZXQudGFibGVOYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaGl2ZS1zZXJkZSBhbHJlYWR5IGRlcGVuZHMgb24gYXZybywgYnV0IHRoaXMgYnJpbmdzIGluIGN1c3RvbWl6ZWQgY29uZmlnIG9mIGF2cm8gZGVwcyBmcm9tIHBhcmVudCAtLT4K</text>
+        <text encoding="base64">ICAgIHZhbCB0YWJsZU5hbWUgPSBvdXRwdXREYXRhc2V0LmRhdGFzZXQudGFibGVOYW1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmF2cm88L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmF2cm88L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPiR7YXZyby52ZXJzaW9ufTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIDwhLS0gaGl2ZS1zZXJkZSBhbHJlYWR5IGRlcGVuZHMgb24gYXZybywgYnV0IHRoaXMgYnJpbmdzIGluIGN1c3RvbWl6ZWQgY29uZmlnIG9mIGF2cm8gZGVwcyBmcm9tIHBhcmVudCAtLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHNjb3BlPiR7aGFkb29wLmRlcHMuc2NvcGV9PC9zY29wZT4K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmF2cm88L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmF2cm88L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPiR7YXZyby52ZXJzaW9ufTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgPHNjb3BlPiR7aGFkb29wLmRlcHMuc2NvcGV9PC9zY29wZT4K</text>
