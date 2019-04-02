@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_ig_fbidv2_to_rid.json" timestamp="1540835478945">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testDatasetWithRangePartitionSpec__physicalplan.json" timestamp="1554227782901">
+        <mark key="'" line="16" column="51" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/HiveExternalCatalog.scala" timestamp="1543540930600">
         <mark key="'" line="90" column="17" />
       </file>
@@ -563,8 +566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/SparkDatasetHelper.scala" />
-      <jump line="12" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGenerator.java" />
       <jump line="113" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" />
       <jump line="21" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/PrestoTestTableGenerator.java" />
       <jump line="24" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/PrestoTestTableGenerator.java" />
@@ -663,6 +664,8 @@
       <jump line="30" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
       <jump line="23" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
       <jump line="1923" column="45" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" />
+      <jump line="13" column="77" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testDatasetWithRangePartitionSpec__physicalplan.json" />
+      <jump line="16" column="51" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testDatasetWithRangePartitionSpec__physicalplan.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -675,7 +678,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZlNhdmVcPg==</text>
+        <text>partition</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgic2FsZXMiKTsKICAgIERhdGFGcmFtZSBkZiA9IGN0eC5zcWwoIlNFTEVDVCAqIEZST00gZGVwdHMiKTsKICAgIGFzc2VydExvZ2ljYWxQbGFuKGRmKTsKCiAgICBEYXRhRnJhbWUgZGZTYXZlID0gZGYuc2F2ZSgib3V0cHV0X3RhYmxlIik7CiAgICBhc3NlcnREaXNwYXRjaGVkUGh5c2ljYWxQbGFuKCk7Cg==</text>
@@ -712,17 +715,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZlNhdmVcPg==</last-search>
+      <last-search>partition</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZlNhdmVcPg==</last-pattern>
+      <last-pattern>partition</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxkc0NvbHVtbk9wZXJhdGlvblw+</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcWxDcmVhdGVUYWJsZVw+</entry>
         <entry>output</entry>
         <entry encoding="base64">XDxwcm9kdWNlc0RhdGFzZXRcPg==</entry>
         <entry encoding="base64">XDxpbnRlcm5hbF9kYXRhc2V0XzBcPg==</entry>
@@ -742,6 +744,7 @@
         <entry>parser-shaded</entry>
         <entry>guava</entry>
         <entry encoding="base64">XDxkZlNhdmVcPg==</entry>
+        <entry>partition</entry>
       </history-search>
       <history-cmd>
         <entry>SyntasticCheck</entry>
