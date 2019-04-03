@@ -121,8 +121,8 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/conf/HiveConf.java" timestamp="1543360464439">
         <mark key="'" line="424" column="105" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" timestamp="1554249227673">
-        <mark key="'" line="36" column="6" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" timestamp="1554308071765">
+        <mark key="'" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1540935090159">
         <mark key="'" line="74" column="19" />
@@ -205,7 +205,7 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/Query.class" timestamp="1548464596005">
         <mark key="'" line="77" column="24" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" timestamp="1554265370261">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" timestamp="1554308668032">
         <mark key="'" line="260" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/org/apache/hadoop/hive/ql/metadata/Hive.class" timestamp="1543540712083">
@@ -249,6 +249,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSqlParser.scala" timestamp="1550616489750">
         <mark key="'" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" timestamp="1554308835780">
+        <mark key="'" line="53" column="12" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
@@ -572,14 +575,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1550615851071">
         <mark key="'" line="28" column="15" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" timestamp="1554308681820" />
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/ql/metadata/Hive.java" timestamp="1543355100111">
         <mark key="'" line="123" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
-      <jump line="218" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
-      <jump line="109" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/pom.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/pom.xml" />
       <jump line="29" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/pom.xml" />
       <jump line="30" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/pom.xml" />
@@ -674,9 +675,12 @@
       <jump line="37" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="113" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="105" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="36" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
       <jump line="262" column="60" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="260" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="36" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
+      <jump line="64" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
+      <jump line="59" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
+      <jump line="53" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -689,7 +693,7 @@
         <text>getColumnTypesList(schema, partitions).unzip._1.mkString(&quot;,&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcWxJbnNlcnRJbnRvXD4=</text>
+        <text encoding="base64">XDxuZXdTZWxlY3RJdGVtc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBzdGF0aWNQYXJ0VHlwZUNvbHMgPSBhbGxDb2xUeXBlcy5maWx0ZXIoewogICAgICBjYXNlIChmaWVsZE5hbWUsIF8pID0+IHN0YXRpY1BhcnRDb2xzLmNvbnRhaW5zKGZpZWxkTmFtZSkKICAgIH0pCg==</text>
@@ -726,17 +730,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcWxJbnNlcnRJbnRvXD4=</last-search>
+      <last-search encoding="base64">XDxuZXdTZWxlY3RJdGVtc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcWxJbnNlcnRJbnRvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdTZWxlY3RJdGVtc1w+</last-pattern>
       <last-replace />
       <last-substitute>.booleanValue()</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>spark-core</entry>
         <entry>spark-sql</entry>
         <entry>org.apache.avro</entry>
         <entry>hadoop.deps.scope</entry>
@@ -756,6 +759,7 @@
         <entry>ds</entry>
         <entry encoding="base64">XDxzZWxlY3RTcWxcPg==</entry>
         <entry encoding="base64">XDxzcWxJbnNlcnRJbnRvXD4=</entry>
+        <entry encoding="base64">XDxuZXdTZWxlY3RJdGVtc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>Errors</entry>
