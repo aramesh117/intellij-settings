@@ -545,8 +545,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/catalog/ExternalCatalog.scala" timestamp="1543540919354">
         <mark key="'" line="99" column="6" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1554499689682">
-        <mark key="'" line="302" column="22" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1554505630195">
+        <mark key="'" line="292" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmReorderPartitionColumns.scala" timestamp="1554504939634">
         <mark key="[" line="8" column="0" />
@@ -666,7 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="105" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="50" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="8" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmSqlTuner.scala" />
@@ -766,6 +765,7 @@
       <jump line="28" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
       <jump line="46" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmAddDatasetPartitionProjections.scala" />
       <jump line="32" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
+      <jump line="292" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -778,7 +778,7 @@
         <text>???</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGFuRGlzcGF0Y2hlclw+</text>
+        <text>schema</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4dGVuZHMgUnVsZVtVcG1Mb2dpY2FsUGxhbl0gewo=</text>
@@ -817,9 +817,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGFuRGlzcGF0Y2hlclw+</last-search>
+      <last-search>schema</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGFuRGlzcGF0Y2hlclw+</last-pattern>
+      <last-pattern>schema</last-pattern>
       <last-replace />
       <last-substitute>.booleanValue()</last-substitute>
       <last-dir>1</last-dir>
@@ -827,7 +827,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0dW5lclw+</entry>
         <entry encoding="base64">XDxzcGFya1NxbFR1bmVyXD4=</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>saveExplict</entry>
@@ -847,6 +846,7 @@
         <entry encoding="base64">XDxzY2hlZHVsZXJIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxQbGFuRGlzcGF0Y2hlclw+</entry>
         <entry encoding="base64">XDxwbGFuRGlzcGF0Y2hlclw+</entry>
+        <entry>schema</entry>
       </history-search>
       <history-cmd>
         <entry>Errors</entry>
