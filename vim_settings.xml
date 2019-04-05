@@ -24,6 +24,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpDataFrame.java" timestamp="1554341475166">
         <mark key="'" line="35" column="38" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio_test.json" timestamp="1554422748940">
+        <mark key="'" line="122" column="15" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" timestamp="1543477920141">
         <mark key="'" line="517" column="50" />
       </file>
@@ -69,12 +75,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1554417784789">
-        <mark key="'" line="126" column="12" />
-        <mark key="[" line="134" column="50" />
-        <mark key="]" line="134" column="56" />
-        <mark key="^" line="134" column="56" />
-        <mark key="." line="134" column="56" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1554426573108">
+        <mark key="[" line="159" column="37" />
+        <mark key="]" line="159" column="34" />
+        <mark key="." line="159" column="34" />
+        <mark key="^" line="159" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" timestamp="1547686510078">
         <mark key="'" line="35" column="37" />
@@ -100,6 +105,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/UpmLogicalSparkQuery.scala" timestamp="1550615874608">
         <mark key="'" line="8" column="47" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/SingleColumn.class" timestamp="1554424968306" />
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40-sources.jar!/com/facebook/presto/sql/tree/Query.java" timestamp="1541546769642">
         <mark key="'" line="34" column="18" />
       </file>
@@ -257,12 +263,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSqlParser.scala" timestamp="1550616489750">
         <mark key="'" line="29" column="22" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" timestamp="1554418285791">
-        <mark key="'" line="16" column="5" />
-        <mark key="[" line="58" column="10" />
-        <mark key="]" line="58" column="12" />
-        <mark key="^" line="58" column="12" />
-        <mark key="." line="58" column="12" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" timestamp="1554425827831">
+        <mark key="'" line="65" column="17" />
+        <mark key="[" line="67" column="85" />
+        <mark key="]" line="67" column="96" />
+        <mark key="." line="67" column="96" />
+        <mark key="^" line="67" column="96" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
@@ -327,6 +333,13 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/com/facebook/hive/udf/stats/UDAFFractionBootstrap.class" timestamp="1541529052116">
         <mark key="'" line="34" column="43" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" timestamp="1554420905199">
+        <mark key="'" line="449" column="34" />
+        <mark key="[" line="232" column="17" />
+        <mark key="]" line="232" column="17" />
+        <mark key="^" line="232" column="17" />
+        <mark key="." line="232" column="17" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmColumnPruning.scala" timestamp="1553647775163">
         <mark key="'" line="18" column="7" />
       </file>
@@ -351,12 +364,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/ig_time_spent_active_users.json" timestamp="1540835527136">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" timestamp="1554420079822">
-        <mark key="'" line="65" column="18" />
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="69" />
-        <mark key="^" line="30" column="69" />
-        <mark key="." line="30" column="69" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" timestamp="1554420739302">
+        <mark key="'" line="114" column="84" />
+        <mark key="[" line="114" column="84" />
+        <mark key="]" line="114" column="84" />
+        <mark key="." line="114" column="84" />
+        <mark key="^" line="114" column="84" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/catalog/interface.scala" timestamp="1552694838550">
         <mark key="'" line="110" column="23" />
@@ -381,6 +394,13 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/Union.class" timestamp="1541111907235">
         <mark key="'" line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/log4j.xml" timestamp="1554421783564">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-sql_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/UDFRegistration.scala" timestamp="1541528930851">
         <mark key="'" line="38" column="54" />
@@ -502,7 +522,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/catalog/ExternalCatalog.scala" timestamp="1543540919354">
         <mark key="'" line="99" column="6" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1554418153942">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1554421411593">
         <mark key="'" line="302" column="22" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testUidRewriteMultipleTimes__2__physicalplan.json" timestamp="1543952279120">
@@ -580,6 +600,13 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/HiveMetadata.class" timestamp="1543354055352">
         <mark key="'" line="169" column="43" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" timestamp="1554420804966">
+        <mark key="'" line="49" column="10" />
+        <mark key="[" line="53" column="67" />
+        <mark key="]" line="53" column="67" />
+        <mark key="^" line="53" column="67" />
+        <mark key="." line="53" column="67" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/IntegerType.scala" timestamp="1542655937092">
         <mark key="'" line="51" column="12" />
       </file>
@@ -589,47 +616,22 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGenerator.java" timestamp="1553149411415">
         <mark key="'" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1554418235126">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1554421417897">
         <mark key="'" line="255" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1550615851071">
         <mark key="'" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" timestamp="1554419613076">
-        <mark key="'" line="62" column="35" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" timestamp="1554425778138">
+        <mark key="'" line="44" column="17" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="40" />
       </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/ql/metadata/Hive.java" timestamp="1543355100111">
         <mark key="'" line="123" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="59" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="51" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" />
-      <jump line="35" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="33" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="48" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="133" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
-      <jump line="16" column="9" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar!/org/apache/commons/lang3/tuple/ImmutablePair.class" />
-      <jump line="34" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="40" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="47" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="56" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="27" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="62" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="53" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="49" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="42" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="15" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="20" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="55" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="31" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="13" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="17" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="29" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="35" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpDataFrame.java" />
-      <jump line="48" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="56" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/UpmLogicalAutoAnonymization.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="18" column="60" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
@@ -674,15 +676,12 @@
       <jump line="290" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="293" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="296" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
-      <jump line="302" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="255" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="21" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
       <jump line="35" column="69" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/analyzer/UpmLogicalPlanOptimizer.scala" />
       <jump line="21" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" />
       <jump line="47" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" />
-      <jump line="12" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
       <jump line="110" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
-      <jump line="16" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
       <jump line="123" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
       <jump line="50" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" />
       <jump line="56" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" />
@@ -703,58 +702,88 @@
       <jump line="368" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
       <jump line="216" column="18" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
       <jump line="383" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" />
+      <jump line="46" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="50" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="86" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="90" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="97" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="101" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="107" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="114" column="84" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="53" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" />
+      <jump line="40" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" />
+      <jump line="49" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/PartitionInferenceRule.scala" />
+      <jump line="190" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
+      <jump line="449" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmConvertSimpleDailyToHourlyPlan.scala" />
+      <jump line="302" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="125" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio_test.json" />
+      <jump line="141" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="30" column="66" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/log4j.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio_test.json" />
+      <jump line="127" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio_test.json" />
+      <jump line="116" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio_test.json" />
+      <jump line="98" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio_test.json" />
+      <jump line="60" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" />
+      <jump line="122" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio_test.json" />
+      <jump line="16" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
+      <jump line="12" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
+      <jump line="38" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
+      <jump line="44" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/spark/AddDatasetPartitionProjections.scala" />
+      <jump line="65" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>follows</text>
+        <text>ds</text>
       </register>
       <register name="-" type="4">
-        <text>follows</text>
+        <text>ds</text>
       </register>
       <register name="/" type="4">
-        <text>LinkedHashMap(</text>
+        <text encoding="base64">XDxvdXRwdXREYXRhc2V0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgKiAgIDxsaT5UaGUgbWFwIHNob3VsZCBub3QgYmUgbW9kaWZpZWQuPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbk9wZXJhdGlvbihJbW11dGFibGVMaXN0Lm9mKCIyMDE5LTAxLTAxIikpLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGxpPjwvbGk+MS4gSW1tdXRhYmxlTWFwIGVuc3VyZXMgdGhhdCBldmVyeW9uZSBrbm93cyB0aGF0IHRoZSBtYXAgY2Fubm90IGJlIG1vZGlmaWVkLgogICAqIDIu</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlkZGtra2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2ZXJzaW9uIiwKICAgICAgICAgICAgICAgIG5ldyBJbk9wZXJhdGlvbihJbW11dGFibGVMaXN0Lm9mKCJiYXNlIikpLAogICAgICAgICAgICAgICAgInRzIiwKICAgICAgICAgICAgICAgIG5ldyBJbk9wZXJhdGlvbihJbW11dGFibGVMaXN0Lm9mKCJ0cy10ZXN0IikpLAogICAgICAgICAgICAgICAgInBsYXRmb3JtIiwKICAgICAgICAgICAgICAgIG5ldyBJbk9wZXJhdGlvbihJbW11dGFibGVMaXN0Lm9mKCJhbmRyb2lkIikpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJkcyIsIG5ldyBJbk9wZXJhdGlvbihJbW11dGFibGVMaXN0Lm9mKCIyMDE5LTAxLTAxIikpLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHMiU0VMRUNUICR7Z2V0Q29sdW1uVHlwZXNMaXN0KHNjaGVtYSwgcGFydGl0aW9ucykudW56aXAuXzEubWtTdHJpbmcoIiwiKX0gRlJPTSAoJHNlbGVjdFNxbCkiCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgb3V0cHV0RGF0YXNldC4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB7CiAgICAiQ29sdW1uIjogImRzIiwKICAgICJUeXBlIjogInZhcmNoYXIiLAogICAgIkV4dHJhIjogIiIsCiAgICAiQ29tbWVudCI6ICIiCiAgfSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBUaGlzIGludGVyZmFjZSBpcyBpbXBvcnRhbnQgZm9yIHR3byByZWFzb25zOgogICAqIDx1bD4KICAgKiAgIDxsaT5UaGUgbWFwIHNob3VsZCBub3QgYmUgbW9kaWZpZWQuPC9saT4KICAgKiAgIDxsaT5UaGUgbWFwIGl0ZXJhdGlvbiBvcmRlciBpcyB0aGUgc2FtZSBhcyB0aGUgaW5zZXJ0aW9uIG9yZGVyLjwvbGk+CiAgICogPC91bD4KICAgKgogICAqLwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PGxpPjwvbGk+MS4gSW1tdXRhYmxlTWFwIGVuc3VyZXMgdGhhdCBldmVyeW9uZSBrbm93cyB0aGF0IHRoZSBtYXAgY2Fubm90IGJlIG1vZGlmaWVkLgogICAqIDIu</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGF0aWNQYXJ0VHlwZUNvbHMgPSBzdGEK</text>
+        <text encoding="base64">ICAgIGlkZGtra2sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LinkedHashMap(</last-search>
+      <last-search encoding="base64">XDxvdXRwdXREYXRhc2V0XD4=</last-search>
       <last-offset />
-      <last-pattern>LinkedHashMap(</last-pattern>
+      <last-pattern encoding="base64">XDxvdXRwdXREYXRhc2V0XD4=</last-pattern>
       <last-replace />
       <last-substitute>.booleanValue()</last-substitute>
       <last-dir>1</last-dir>
@@ -762,14 +791,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkeW5hbWljUGFydGl0aW9uc1w+</entry>
-        <entry encoding="base64">XDxwYXJ0aXRpb25LZXlWYWx1ZXNcPg==</entry>
-        <entry encoding="base64">XDx2aXNpdFF1ZXJ5U3BlY2lmaWNhdGlvblw+</entry>
-        <entry encoding="base64">XDxmaWx0ZXJlZFBhcnRpdGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxmaWx0ZXJCeVBhcnRpdGlvblZhbHVlc1w+</entry>
-        <entry encoding="base64">XDxwYXJ0aXRpb25WYWx1ZXNcPg==</entry>
-        <entry>getPartition</entry>
-        <entry encoding="base64">XDxnZXRQYXJ0aXRpb25zXD4=</entry>
         <entry encoding="base64">XDxkYXRhc2V0XD4=</entry>
         <entry>Output dataset can only have single partition values</entry>
         <entry>match</entry>
@@ -778,10 +799,18 @@
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>saveExplict</entry>
         <entry>save</entry>
-        <entry encoding="base64">XDxvdXRwdXREYXRhc2V0XD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVkUXVlcnlcPg==</entry>
         <entry>unzip</entry>
         <entry>LinkedHashMap(</entry>
+        <entry encoding="base64">XDxwYXNzdGhyb3VnaFByb3BlcnRpZXNcPg==</entry>
+        <entry encoding="base64">XDxmaWx0ZXJlZFBhcnRpdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxkYXRhc2V0UGFydGl0aW9uc1w+</entry>
+        <entry encoding="base64">XDxwcm9kdWNlc0RhdGFzZXRcPg==</entry>
+        <entry>ERROR</entry>
+        <entry>ds</entry>
+        <entry>PARTITION</entry>
+        <entry>partition</entry>
+        <entry encoding="base64">XDxvdXRwdXREYXRhc2V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Errors</entry>
