@@ -69,7 +69,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1554478371661">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1554750766423">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="150" column="50" />
         <mark key="]" line="150" column="52" />
         <mark key="." line="150" column="52" />
@@ -142,7 +143,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" timestamp="1554746178963">
-        <mark key="'" line="79" column="0" />
+        <mark key="'" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/jdbc/JdbcRelationProvider.scala" timestamp="1543522907672">
         <mark key="'" line="24" column="57" />
@@ -652,8 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="124" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="109" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="133" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="19" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
@@ -752,6 +751,8 @@
       <jump line="69" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" />
       <jump line="49" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpFactory.java" />
       <jump line="61" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="167" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -764,7 +765,7 @@
         <text encoding="base64">QUxMIA==</text>
       </register>
       <register name="/" type="4">
-        <text>setProduce</text>
+        <text>Union</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgiYW1sIik7CiAgICBEYXRhRnJhbWUgZGYgPSBjdHguc3FsKCJXSVRIIHggQVMgKFNFTEVDVCAqIEZST00gZG9wcGxlcl9kYXRhX2F1ZGlvKSBTRUxFQ1QgKiBGUk9NIHgiKTsKICAgIGRmLnNhdmUoIm91dHB1dF90YWJsZSIpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwo=</text>
@@ -801,9 +802,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setProduce</last-search>
+      <last-search>Union</last-search>
       <last-offset />
-      <last-pattern>setProduce</last-pattern>
+      <last-pattern>Union</last-pattern>
       <last-replace />
       <last-substitute>.booleanValue()</last-substitute>
       <last-dir>1</last-dir>
@@ -811,7 +812,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXNzdGhyb3VnaFByb3BlcnRpZXNcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJlZFBhcnRpdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxkYXRhc2V0UGFydGl0aW9uc1w+</entry>
         <entry encoding="base64">XDxwcm9kdWNlc0RhdGFzZXRcPg==</entry>
@@ -831,6 +831,7 @@
         <entry>set</entry>
         <entry>getPython</entry>
         <entry>setProduce</entry>
+        <entry>Union</entry>
       </history-search>
       <history-cmd>
         <entry>Errors</entry>
