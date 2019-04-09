@@ -772,7 +772,7 @@
         <text encoding="base64">QUxMIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRDb25zdW1lZERhdGFzZXRzXD4=</text>
+        <text>ts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgiYW1sIik7CiAgICBEYXRhRnJhbWUgZGYgPSBjdHguc3FsKCJXSVRIIHggQVMgKFNFTEVDVCAqIEZST00gZG9wcGxlcl9kYXRhX2F1ZGlvKSBTRUxFQ1QgKiBGUk9NIHgiKTsKICAgIGRmLnNhdmUoIm91dHB1dF90YWJsZSIpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwo=</text>
@@ -809,17 +809,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRDb25zdW1lZERhdGFzZXRzXD4=</last-search>
+      <last-search>ts</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRDb25zdW1lZERhdGFzZXRzXD4=</last-pattern>
+      <last-pattern>ts</last-pattern>
       <last-replace />
       <last-substitute>.booleanValue()</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>partition</entry>
         <entry encoding="base64">XDxvdXRwdXREYXRhc2V0XD4=</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxzY2hlZHVsZXJIYW5kbGVyXD4=</entry>
@@ -839,6 +838,7 @@
         <entry encoding="base64">XDxhZGRQcm9kdWNlRGF0YXNldHNcPg==</entry>
         <entry encoding="base64">XDxleHBhbmRQYXJ0aXRpb25NYWNyb3NcPg==</entry>
         <entry encoding="base64">XDxhZGRDb25zdW1lZERhdGFzZXRzXD4=</entry>
+        <entry>ts</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
