@@ -75,12 +75,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1554848670693">
-        <mark key="'" line="1593" column="81" />
-        <mark key="[" line="39" column="92" />
-        <mark key="]" line="54" column="15" />
-        <mark key="." line="54" column="15" />
-        <mark key="^" line="54" column="15" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1555008684723">
+        <mark key="'" line="1594" column="81" />
+        <mark key="[" line="1561" column="0" />
+        <mark key="]" line="1561" column="0" />
+        <mark key="." line="1561" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" timestamp="1547686510078">
         <mark key="'" line="35" column="37" />
@@ -292,7 +291,7 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" timestamp="1555004050469">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" timestamp="1555008527396">
         <mark key="'" line="39" column="3" />
         <mark key="[" line="38" column="44" />
         <mark key="]" line="38" column="44" />
@@ -768,11 +767,11 @@
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RTcGFya1NpbmdsZUFsaWFzV2l0aExpbWl0T3B0aW1pemF0aW9uUnVsZSgpIHRocm93cyBVcG1FeGNlcHRpb24gewogICAgQ29udGV4dCBjdHggPSBnZXRDb250ZXh0KCJiaSIpOwogICAgRGF0YUZyYW1lIGRmID0gY3R4LmhxbCgiU0VMRUNUIGtleSwgdmFsdWUgQVMga2V5IEZST00gc3JjIik7CiAgICBkZi5zYXZlKCJvdXRwdXQiKTsgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>kkkk</text>
       </register>
       <register name="/" type="4">
         <text>setConsumed</text>
@@ -781,31 +780,31 @@
         <text encoding="base64">ICAgIFVwbURhdGFzZXQgcHJvZHVjZXNEYXRhc2V0ID0KICAgICAgICBuZXcgVXBtRGF0YXNldCgKICAgICAgICAgICAgInNyYzEiLAogICAgICAgICAgICBJbW11dGFibGVNYXAub2YoCiAgICAgICAgICAgICAgICAiZHMiLAogICAgICAgICAgICAgICAgbmV3IEluT3BlcmF0aW9uKEltbXV0YWJsZUxpc3Qub2YoIjxEQVRBU0VUX1NQRUNfU1RBUlQ6REFURUlEOkRBVEFTRVRfU1BFQ19FTkQ+IikpKSwKICAgICAgICAgICAgImludGVybmFsX2RhdGFzZXRfMCIsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigpLAogICAgICAgICAgICBJbnRlcnZhbC5OT05FLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkYXRhc2V0TWFwSnNvbik7Cg==</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RTcGFya1NpbmdsZUFsaWFzV2l0aExpbWl0T3B0aW1pemF0aW9uUnVsZSgpIHRocm93cyBVcG1FeGNlcHRpb24gewogICAgQ29udGV4dCBjdHggPSBnZXRDb250ZXh0KCJiaSIpOwogICAgRGF0YUZyYW1lIGRmID0gY3R4LmhxbCgiU0VMRUNUIGtleSwgdmFsdWUgQVMga2V5IEZST00gc3JjIik7CiAgICBkZi5zYXZlKCJvdXRwdXQiKTsgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGFzZXQwd2MpCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkYXRhc2V0TWFwSnNvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cK</text>
+        <text encoding="base64">ICAgIHByaW50KGRhdGFzZXQwd2MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN0eC5nZXRDb25zdW1lZERhdGFzZXRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldENvbnRleHQoLmNjKQo=</text>
+        <text encoding="base64">ICAgIGN0eC5nZXRDb25zdW1lZERhdGFzZXRzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN0eC5hZGRQcm9kdWNlRGF0YXNldHMoKTsK</text>
+        <text encoding="base64">ICAgIGdldENvbnRleHQoLmNjKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcDw+Cg==</text>
+        <text encoding="base64">ICAgIGN0eC5hZGRQcm9kdWNlRGF0YXNldHMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1hcDw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEVuZ2luZVV0aWxzLmRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
