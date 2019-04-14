@@ -223,8 +223,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/StructType.scala" timestamp="1542656204806">
         <mark key="'" line="280" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1555115157947">
-        <mark key="'" line="17" column="33" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1555218480013">
+        <mark key="'" line="42" column="34" />
         <mark key="[" line="123" column="34" />
         <mark key="]" line="123" column="34" />
         <mark key="." line="123" column="34" />
@@ -660,7 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="61" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="102" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" />
       <jump line="19" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" />
@@ -760,6 +759,7 @@
       <jump line="200" column="27" filename="$USER_HOME$/git/presto/presto-parser/src/main/java/com/facebook/presto/sql/TreePrinter.java" />
       <jump line="354" column="16" filename="$USER_HOME$/git/presto/presto-parser/src/main/java/com/facebook/presto/sql/tree/AstVisitor.java" />
       <jump line="1199" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoAstRewriterBase.java" />
+      <jump line="42" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
