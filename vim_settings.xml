@@ -337,6 +337,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testDatasetWithRangePartitionSpec__physicalplan.json" timestamp="1554227782901">
         <mark key="'" line="16" column="51" />
       </file>
+      <file name="$USER_HOME$/git/aramesh117/algorithms/pom.xml" timestamp="1555223526151">
+        <mark key="[" line="47" column="3" />
+        <mark key="]" line="47" column="22" />
+        <mark key="." line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/HiveExternalCatalog.scala" timestamp="1543540930600">
         <mark key="'" line="90" column="17" />
       </file>
@@ -524,11 +530,10 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testDatasetWithDynamicPartitionSpec__physicalplan.json" timestamp="1555108616669">
         <mark key="'" line="13" column="338" />
       </file>
-      <file name="$USER_HOME$/git/aramesh117/algorithms/leetcode/pom.xml" timestamp="1555221610064">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/git/aramesh117/algorithms/leetcode/pom.xml" timestamp="1555223518130">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/catalog/interface.scala" timestamp="1552694838550">
         <mark key="'" line="110" column="23" />
@@ -665,7 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" />
       <jump line="19" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" />
       <jump line="1627" column="51" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="1653" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
@@ -765,16 +769,17 @@
       <jump line="1199" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoAstRewriterBase.java" />
       <jump line="42" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="15" column="12" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/pom.xml" />
+      <jump line="22" column="27" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHBsdWdpbj4KICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgIDwvcGx1Z2luPgo=</text>
+      <register name="&quot;" type="4">
+        <text>dependencies</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>dependencies</text>
       </register>
       <register name="/" type="4">
         <text>visitAll</text>
@@ -783,31 +788,31 @@
         <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RQcmVzdG9DcmVhdGVXaXRoUGFydGl0aW9uUmVvcmRlcmluZygpIHRocm93cyBVcG1FeGNlcHRpb24gewogICAgQ29udGV4dCBjb250ZXh0ID0gZ2V0Q29udGV4dCgiZGF0YXNjaWVuY2UiKTsKICAgIFVwbURhdGFzZXQgcHJvZHVjZXNEYXRhc2V0ID0KICAgICAgICBuZXcgVXBtRGF0YXNldCgKICAgICAgICAgICAgInRtcF90YWJsZSIsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigiZHMiLCBuZXcgSW5PcGVyYXRpb24oSW1tdXRhYmxlTGlzdC5vZigiMjAxOS0wMS0wMSIpKSksCiAgICAgICAgICAgICJpbnRlcm5hbF9kYXRhc2V0XzAiLAogICAgICAgICAgICBJbW11dGFibGVNYXAub2YoKSwKICAgICAgICAgICAgSW50ZXJ2YWwuTk9ORS50b1N0cmluZygpKTsKCiAgICBjb250ZXh0LmFkZFByb2R1Y2VEYXRhc2V0cyhJbW11dGFibGVNYXAub2YoInVwbWRhdGFzZXRzLmludGVybmFsX2RhdGFzZXRfMCIsIHByb2R1Y2VzRGF0YXNldCkpOwogICAgY29udGV4dAogICAgICAgIC5zcWwoIlNFTEVDVCAqIEZST00gcHZjX3VzYWdlX3N0YXRpc3RpY3MgV0hFUkUgZHMgPSAnMjAxOS0wMS0wMScgTElNSVQgMTAiKQogICAgICAgIC5zYXZlKHByb2R1Y2VzRGF0YXNldCwgVXBtSGludHMuRU1QVFksIEltbXV0YWJsZU1hcC5vZigpKTsKICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHBsdWdpbj4KICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgIDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzVmR9PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8ZGVwZW5kZW5jaWVzPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zY2FsYS1sYW5nPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zY2FsYS1saWJyYXJ5PC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4yLjEyLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+CiAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgPHBsdWdpbj4KICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zYzwvYXJ0aWZhY3RJZD4KICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGx1Zwo=</text>
+        <text encoding="base64">ICAgICAgICAgICwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gcmVtYWluZGVySW5kZXhNYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1zLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGlmIChyZW1haW5kZXJJbmRleE1hcC5jb250YWluc0tleShudW1zW2ldKSkgewogICAgICAgICAgICAgICAgaW50IHJlczEgPSByZW1haW5kZXJJbmRleE1hcC5nZXQobnVtc1tpXSkgKyAxOwogICAgICAgICAgICAgICAgaW50IHJlczIgPSBpICsgMTsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgaW50W117cmVzMSwgcmVzMn07CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZW1haW5kZXJJbmRleE1hcC5wdXQodGFyZ2V0IC0gbnVtc1tpXSwgaSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG5ldyBpbnRbMl07Cg==</text>
+        <text encoding="base64">ICA8cHJvcGVydGllcz4KICAgIDxqZGsudmVyc2lvbj4xLjg8L2pkay52ZXJzaW9uPgogIDwvcHJvcGVydGllcz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAyCiAgMwogIDQKICA1CiAgNgogIDcKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RQcmVzdG9XaXRoRHluYW1pY1BhcnRpdGlvblJlb3JkZXJpbmcoKSB0aHJvd3MgVXBtRXhjZXB0aW9uIHsKICAgIENvbnRleHQgY29udGV4dCA9IGdldENvbnRleHQoImRhdGFzY2llbmNlIik7CiAgICBVcG1EYXRhc2V0IHByb2R1Y2VzRGF0YXNldCA9CiAgICAgICAgbmV3IFVwbURhdGFzZXQoCiAgICAgICAgICAgICJ0bXBfdGFibGUiLAogICAgICAgICAgICBJbW11dGFibGVNYXAub2YoImRzIiwgbmV3IEluT3BlcmF0aW9uKEltbXV0YWJsZUxpc3Qub2YoIjIwMTktMDEtMDEiKSksICJwdmNfb3BlcmF0b3IiLCBuZXcgTWF0Y2hPcGVyYXRpb24oIioiKSksCiAgICAgICAgICAgICJpbnRlcm5hbF9kYXRhc2V0XzAiLAogICAgICAgICAgICBJbW11dGFibGVNYXAub2YoKSwKICAgICAgICAgICAgSW50ZXJ2YWwuTk9ORS50b1N0cmluZygpKTsKCiAgICBjb250ZXh0LmFkZFByb2R1Y2VEYXRhc2V0cyhJbW11dGFibGVNYXAub2YoInVwbWRhdGFzZXRzLmludGVybmFsX2RhdGFzZXRfMCIsIHByb2R1Y2VzRGF0YXNldCkpOwogICAgY29udGV4dAogICAgICAgIC5zcWwoIlNFTEVDVCB3b3JrZmxvdywgcGtnX3ZlcnNpb24gRlJPTSBwdmNfdXNhZ2Vfc3RhdGlzdGljcyBXSEVSRSBkcyA9ICcyMDE5LTAxLTAxJyBMSU1JVCAxMCIpCiAgICAgICAgLnNhdmUocHJvZHVjZXNEYXRhc2V0LCBVcG1IaW50cy5FTVBUWSwgSW1tdXRhYmxlTWFwLm9mKCkpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
+        <text encoding="base64">ICAgIDxwbHVnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REeW5hbWljCg==</text>
+        <text encoding="base64">ICAgICAgPHBsdWdpbj4KICAgICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CiAgICAgIDwvcGx1Z2luPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGVwZW5kZW5jaWVzPgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zY2FsYS1sYW5nPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zY2FsYS1saWJyYXJ5PC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4yLjEyLjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+CiAgPC9kZXBlbmRlbmNpZXM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RQYXJ0aXRpb25Db2x1bW5SZW9yZGVyaW5nKCkgewogICAgU3RyaW5nIHNxbFJlc3VsdCA9IHBhcnNlVW5wYXJzZVNxbCgiQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgdG1wX3B2Y182MzgzYjYxM184MmM4XzQ0YmNfODkxZF82MWE3Y2FmYWY1YjBfdXBtX3NoYWRvdyAoZXZlbnRfdGltZSBiaWdpbnQsdW5peG5hbWUgdmFyY2hhcixwdmNfb3BlcmF0b3IgdmFyY2hhcixkcyB2YXJjaGFyKSBXSVRIIChwYXJ0aXRpb25lZF9ieSA9IEFSUkFZWydkcycsICdwdmNfb3BlcmF0b3InXSwgcmV0ZW50aW9uX2RheXMgPSAzMCkiKTsKICAgIEFzc2VydC5hc3NlcnRUcnVlKGNhblBhcnNlU3FsKHNxbFJlc3VsdCkpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgcGx1Zwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
