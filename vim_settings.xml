@@ -386,8 +386,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/hr/dim_all_employees.json" timestamp="1543886234271">
         <mark key="'" line="5" column="118" />
       </file>
-      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1555455595275">
-        <mark key="'" line="572" column="71" />
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1555459406679">
+        <mark key="'" line="389" column="19" />
         <mark key="[" line="417" column="6" />
         <mark key="]" line="417" column="17" />
         <mark key="^" line="417" column="17" />
@@ -618,6 +618,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testUidRewriteMultipleTimes__2__physicalplan.json" timestamp="1543952279120">
         <mark key="'" line="13" column="1012" />
       </file>
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/ql/udf/generic/GenericUDF.java" timestamp="1555457764698" />
       <file name="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveContext.scala" timestamp="1543475206946">
         <mark key="'" line="31" column="10" />
       </file>
@@ -670,24 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="103" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="1608" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="26" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="15" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="149" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoAstRewriterBase.java" />
-      <jump line="13" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="283" column="60" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="102" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="86" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="36" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="97" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="85" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="56" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="57" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="59" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="71" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="0" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="23" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="46" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="52" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="53" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
@@ -770,6 +753,24 @@
       <jump line="223" column="16" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="175" column="26" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="236" column="36" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="568" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="499" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="392" column="35" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="256" column="58" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="316" column="13" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="344" column="22" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="345" column="36" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="223" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="346" column="10" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="325" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="319" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="258" column="11" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="255" column="11" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="269" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="444" column="25" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="285" column="25" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="342" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="389" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -782,7 +783,7 @@
         <text>1534236469);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGFjdEhhc2hcPg==</text>
+        <text encoding="base64">XDxjb25zdHJ1Y3RWYWxpZGF0aW9uUXVlcmllc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigxNTM0MjM2NDY5KTsK</text>
@@ -819,9 +820,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGFjdEhhc2hcPg==</last-search>
+      <last-search encoding="base64">XDxjb25zdHJ1Y3RWYWxpZGF0aW9uUXVlcmllc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGFjdEhhc2hcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdHJ1Y3RWYWxpZGF0aW9uUXVlcmllc1w+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -829,14 +830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>visitAll</entry>
-        <entry encoding="base64">XDxEcnlydW5cPg==</entry>
-        <entry encoding="base64">XDxTaGFkb3dcPg==</entry>
-        <entry encoding="base64">XDxwaGFzZVw+</entry>
-        <entry encoding="base64">XDxnZXRQaGFzZVw+</entry>
-        <entry encoding="base64">XDxnZXRWYWxpZGF0aW9uVHlwZVw+</entry>
-        <entry encoding="base64">XDxWYWxpZGF0aW9uVHlwZUNvbmZpZ05hbWVcPg==</entry>
-        <entry>shadow</entry>
         <entry>validate</entry>
         <entry>validation</entry>
         <entry encoding="base64">XDxWYWxUaHJlc2hvbGRDb25maWdOYW1lXD4=</entry>
@@ -846,9 +839,17 @@
         <entry>def validate(</entry>
         <entry encoding="base64">XDxDb21tc1w+</entry>
         <entry encoding="base64">XDxsaW1pdGVkUHJlY2lzaW9uRG91YmxlSGFzaFw+</entry>
-        <entry encoding="base64">XDxoXD4=</entry>
         <entry encoding="base64">XDxtb2RpZmllZEhhc2hDb2RlXD4=</entry>
         <entry encoding="base64">XDxleGFjdEhhc2hcPg==</entry>
+        <entry encoding="base64">XDxwcmVwYXJlVmFsaWRhdGlvblw+</entry>
+        <entry encoding="base64">XDx2ZXJpZmllc1w+</entry>
+        <entry encoding="base64">XDxxdWVyaWVzXD4=</entry>
+        <entry encoding="base64">XDxoXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZUhhc2hUaHJlc2hvbGRcPg==</entry>
+        <entry>SELECT SUM</entry>
+        <entry encoding="base64">XDxjb25zdHJ1Y3RCdWNrZXRWYWxpZGF0aW9uUXVlcmllc1w+</entry>
+        <entry>constructValidation</entry>
+        <entry encoding="base64">XDxjb25zdHJ1Y3RWYWxpZGF0aW9uUXVlcmllc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
