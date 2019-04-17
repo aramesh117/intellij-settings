@@ -93,6 +93,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextV2.java" timestamp="1554499783611">
         <mark key="'" line="122" column="6" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1555462193669">
+        <mark key="'" line="11" column="9" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" timestamp="1540839619762">
         <mark key="'" line="6" column="2" />
       </file>
@@ -393,6 +396,10 @@
         <mark key="^" line="417" column="17" />
         <mark key="." line="417" column="17" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" timestamp="1555462228452">
+        <mark key="[" line="225" column="14" />
+        <mark key="]" line="225" column="46" />
+      </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameReader.scala" timestamp="1543458699207">
         <mark key="'" line="430" column="69" />
       </file>
@@ -671,9 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="52" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
-      <jump line="53" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="55" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
       <jump line="6" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/PendingPlan.scala" />
       <jump line="61" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
@@ -771,22 +775,25 @@
       <jump line="285" column="25" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="342" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="389" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="8" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="10" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="11" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBUaGVyZSBhcmUgNCBwaGFzZXMgZm9yIHNoYWRvd2luZy4KICAgKiBIaXZlOiBSdW4gYXMgaGl2ZSBwaXBlbGluZSwgYW5kIFNwYXJrIGRvZXMgbm90IHJ1biBhdCBhbGwuCiAgICogRHJ5cnVuOiBRdWljayB0ZXN0IHdpdGggc3Bhcmsgb24gcGFydCBvZiB0aGUgZGF0YS4KICAgKiBTaGFkb3c6IFJ1biB0aGUgcGlwZWxpbmUgd2l0aCBIaXZlLCBhbmQgc2hhZG93IGl0IHdpdGggU3BhcmsuCiAgICogU3Bhcms6IFJ1biBhcyBTcGFyayBwaXBlbGluZSwgYW5kIEhpdmUgZG9lcyBub3QgcnVuIGF0IGF0IGFsbC4KICAgKi8K</text>
+      <register name="&quot;" type="4">
+        <text>testStaticAddMissingDependencies(</text>
       </register>
       <register name="-" type="4">
         <text>1534236469);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdHJ1Y3RWYWxpZGF0aW9uUXVlcmllc1w+</text>
+        <text>static</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigxNTM0MjM2NDY5KTsK</text>
+      <register name="0" type="4">
+        <text>testStaticAddMissingDependencies</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBzb3V0ICAK</text>
@@ -820,9 +827,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdHJ1Y3RWYWxpZGF0aW9uUXVlcmllc1w+</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdHJ1Y3RWYWxpZGF0aW9uUXVlcmllc1w+</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -830,8 +837,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validate</entry>
-        <entry>validation</entry>
         <entry encoding="base64">XDxWYWxUaHJlc2hvbGRDb25maWdOYW1lXD4=</entry>
         <entry encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</entry>
         <entry encoding="base64">XDxoYXNoVmFsaWRhdGVcPg==</entry>
@@ -850,6 +855,8 @@
         <entry encoding="base64">XDxjb25zdHJ1Y3RCdWNrZXRWYWxpZGF0aW9uUXVlcmllc1w+</entry>
         <entry>constructValidation</entry>
         <entry encoding="base64">XDxjb25zdHJ1Y3RWYWxpZGF0aW9uUXVlcmllc1w+</entry>
+        <entry>static\c</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
