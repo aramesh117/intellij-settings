@@ -392,12 +392,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/hr/dim_all_employees.json" timestamp="1543886234271">
         <mark key="'" line="5" column="118" />
       </file>
-      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1555609176881">
-        <mark key="'" line="342" column="20" />
-        <mark key="[" line="417" column="6" />
-        <mark key="]" line="417" column="17" />
-        <mark key="^" line="417" column="17" />
-        <mark key="." line="417" column="17" />
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1555611323485">
+        <mark key="'" line="356" column="35" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" timestamp="1555543641506">
         <mark key="[" line="225" column="14" />
@@ -483,8 +479,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/DDLSourceLoadSuite.scala" timestamp="1543522528728">
         <mark key="'" line="52" column="50" />
       </file>
-      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" timestamp="1555610130762">
-        <mark key="'" line="171" column="54" />
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" timestamp="1555612404525">
+        <mark key="'" line="274" column="26" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testUIDRewrite__physicalplan.json" timestamp="1543964787981">
         <mark key="'" line="92" column="4" />
@@ -565,6 +561,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-sql_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/UDFRegistration.scala" timestamp="1541528930851">
         <mark key="'" line="38" column="54" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar!/org/apache/commons/math3/util/Precision.class" timestamp="1555611976689">
+        <mark key="'" line="153" column="76" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" timestamp="1554223286458">
         <mark key="'" line="1923" column="45" />
@@ -686,38 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="636" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="637" column="52" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="638" column="71" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="654" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="648" column="16" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="94" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="674" column="49" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="650" column="16" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="651" column="25" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="98" column="68" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="43" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="89" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="388" column="24" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="608" column="59" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="44" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="72" column="13" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="49" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="102" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="627" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="494" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="569" column="21" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="18" column="21" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="165" column="13" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="73" column="12" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="15" column="33" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="168" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="162" column="32" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="132" column="15" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="336" column="50" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="9" column="22" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-serde/0.11.0-FB-18/hive-serde-0.11.0-FB-18.jar!/org/apache/hadoop/hive/serde2/objectinspector/StructObjectInspector.class" />
-      <jump line="51" column="26" filename="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/ql/udf/generic/GenericUDF.java" />
       <jump line="195" column="24" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="271" column="32" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="175" column="26" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
@@ -769,7 +736,6 @@
       <jump line="339" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="419" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="342" column="20" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="111" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="108" column="26" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="133" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="164" column="18" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
@@ -786,6 +752,39 @@
       <jump line="112" column="25" filename="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/ql/udf/generic/GenericUDF.java" />
       <jump line="30" column="25" filename="$MAVEN_REPOSITORY$/org/apache/hive/hive-ql/0.11.0-FB-18/hive-ql-0.11.0-FB-18.jar!/org/apache/hadoop/hive/ql/udf/generic/GenericUDF.class" />
       <jump line="115" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/ql/udf/generic/GenericUDF.java" />
+      <jump line="112" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="262" column="41" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="40" column="63" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="99" column="12" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="357" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="359" column="35" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="350" column="30" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="117" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="118" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="119" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="130" column="16" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="356" column="35" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="111" column="12" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="98" column="16" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="174" column="12" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="204" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="217" column="53" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="287" column="34" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="159" column="20" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="270" column="42" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="206" column="65" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="214" column="12" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="213" column="15" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="147" column="23" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar!/org/apache/commons/math3/util/Precision.class" />
+      <jump line="148" column="11" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar!/org/apache/commons/math3/util/Precision.class" />
+      <jump line="151" column="54" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar!/org/apache/commons/math3/util/Precision.class" />
+      <jump line="153" column="76" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar!/org/apache/commons/math3/util/Precision.class" />
+      <jump line="215" column="56" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="370" column="0" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="6" column="17" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="7" column="17" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="346" column="20" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="274" column="26" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -798,7 +797,7 @@
         <text>1534236469);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWFsaXplQW5kRm9sZENvbnN0YW50c1w+</text>
+        <text>Map</text>
       </register>
       <register name="0" type="4">
         <text>testStaticAddMissingDependencies</text>
@@ -835,9 +834,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0aWFsaXplQW5kRm9sZENvbnN0YW50c1w+</last-search>
+      <last-search>Map</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWFsaXplQW5kRm9sZENvbnN0YW50c1w+</last-pattern>
+      <last-pattern>Map</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -845,16 +844,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub25aZXJvVmFsaWF0ZVw+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZVw+</entry>
-        <entry encoding="base64">XDxtaWdyYXRlXD4=</entry>
-        <entry>def validate(</entry>
-        <entry encoding="base64">XDxidWNrZXRWZXJpZmllc1w+</entry>
-        <entry>bucketValidate</entry>
-        <entry encoding="base64">XDxGQkhRTEhhc2hcPg==</entry>
-        <entry>Map</entry>
-        <entry>\cMAP</entry>
-        <entry>hashValidate(</entry>
         <entry encoding="base64">XDxjb25zdHJ1Y3RWYWxpZGF0aW9uUXVlcmllc1w+</entry>
         <entry>hashValidator</entry>
         <entry>hashValidate</entry>
@@ -865,6 +854,16 @@
         <entry encoding="base64">XDxhcmd1bWVudE9Jc1w+</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQW5kRm9sZENvbnN0YW50c1w+</entry>
+        <entry>IntObject</entry>
+        <entry>columns</entry>
+        <entry encoding="base64">XDxzcGFya1NoYWRvd1RhYmxlXD4=</entry>
+        <entry encoding="base64">XDxmaWVsZE5hbWVzXD4=</entry>
+        <entry encoding="base64">XDxkb3VibGVOdW1QcmVjaXNpb25PSVw+</entry>
+        <entry encoding="base64">XDxyb3VuZGVkRG91YmxlV2l0aFByZWNpc2lvblw+</entry>
+        <entry encoding="base64">XDxsaW1pdGVkUHJlY2lzaW9uRG91YmxlSGFzaFw+</entry>
+        <entry encoding="base64">XDxkb3VibGVOdW1QcmVjaXNpb25cPg==</entry>
+        <entry encoding="base64">XDxyb3VuZGluZ01ldGhvZFw+</entry>
+        <entry>Map</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
