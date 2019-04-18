@@ -379,12 +379,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1555110773563">
-        <mark key="'" line="1590" column="32" />
-        <mark key="[" line="155" column="81" />
-        <mark key="]" line="155" column="119" />
-        <mark key="." line="155" column="119" />
-        <mark key="^" line="155" column="119" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1555623135646">
+        <mark key="'" line="1593" column="32" />
+        <mark key="[" line="170" column="46" />
+        <mark key="]" line="170" column="47" />
+        <mark key="." line="170" column="47" />
+        <mark key="^" line="170" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -791,10 +791,10 @@
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>testStaticAddMissingDependencies(</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>1534236469);</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>Map</text>
@@ -803,34 +803,34 @@
         <text>testStaticAddMissingDependencies</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzb3V0ICAK</text>
+        <text encoding="base64">ICAgIFByZWNpc2lvbi5yb3VuZCg1LjEyMzQxMjMxNDEyNzE1OSwgNSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaW50W10gdHdvU3VtKGludFtdIG51bXMsIGludCB0YXJnZXQpIHsKICB9Cg==</text>
+        <text encoding="base64">ICBzb3V0ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgaW50W10gdHdvU3VtKGludFtdIG51bXMsIGludCB0YXJnZXQpIHsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gcmVtYWluZGVySW5kZXhNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bXMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgaWYgKHJlbWFpbmRlckluZGV4TWFwLmNvbnRhaW5zS2V5KG51bXNbaV0pKSB7CiAgICAgICAgICAgICAgICBpbnQgcmVzMSA9IHJlbWFpbmRlckluZGV4TWFwLmdldChudW1zW2ldKSArIDE7CiAgICAgICAgICAgICAgICBpbnQgcmVzMiA9IGkgKyAxOwogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBpbnRbXXtyZXMxLCByZXMyfTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJlbWFpbmRlckluZGV4TWFwLnB1dCh0YXJnZXQgLSBudW1zW2ldLCBpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbmV3IGludFsyXTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gcmVtYWluZGVySW5kZXhNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzVmR9PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bXMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgaWYgKHJlbWFpbmRlckluZGV4TWFwLmNvbnRhaW5zS2V5KG51bXNbaV0pKSB7CiAgICAgICAgICAgICAgICBpbnQgcmVzMSA9IHJlbWFpbmRlckluZGV4TWFwLmdldChudW1zW2ldKSArIDE7CiAgICAgICAgICAgICAgICBpbnQgcmVzMiA9IGkgKyAxOwogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBpbnRbXXtyZXMxLCByZXMyfTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJlbWFpbmRlckluZGV4TWFwLnB1dCh0YXJnZXQgLSBudW1zW2ldLCBpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbmV3IGludFsyXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHBsdWdpbj4KICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zYzwvYXJ0aWZhY3RJZD4KICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzVmR9PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICwK</text>
+        <text encoding="base64">ICAgICAgPHBsdWdpbj4KICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zYzwvYXJ0aWZhY3RJZD4KICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>116</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -883,9 +883,9 @@
         <entry>%s/.booleanValue()//g</entry>
         <entry>24</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>112</entry>
         <entry>116</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
