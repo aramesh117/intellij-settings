@@ -392,8 +392,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/hr/dim_all_employees.json" timestamp="1543886234271">
         <mark key="'" line="5" column="118" />
       </file>
-      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1555611323485">
-        <mark key="'" line="356" column="35" />
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1555974853937">
+        <mark key="'" line="342" column="19" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" timestamp="1555543641506">
         <mark key="[" line="225" column="14" />
@@ -479,8 +479,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/test/scala/org/apache/spark/sql/sources/DDLSourceLoadSuite.scala" timestamp="1543522528728">
         <mark key="'" line="52" column="50" />
       </file>
-      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" timestamp="1555627301769">
-        <mark key="'" line="228" column="30" />
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" timestamp="1555975021205">
+        <mark key="'" line="66" column="40" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testUIDRewrite__physicalplan.json" timestamp="1543964787981">
         <mark key="'" line="92" column="4" />
@@ -578,7 +578,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" timestamp="1546628198366">
         <mark key="'" line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" timestamp="1554240040003">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" timestamp="1555968718997">
         <mark key="'" line="110" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905-sources.jar!/org/apache/spark/sql/hive/client/PlasmaHiveClientImpl.scala" timestamp="1543540943892">
@@ -685,17 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="13" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="344" column="22" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="345" column="36" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="325" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="319" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="258" column="11" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="255" column="11" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="269" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="285" column="25" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="389" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="8" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="10" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="11" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
       <jump line="346" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
@@ -728,9 +717,6 @@
       <jump line="223" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="392" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="417" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="339" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="419" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="342" column="20" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="108" column="26" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="133" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="164" column="18" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
@@ -785,58 +771,72 @@
       <jump line="92" column="26" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="90" column="26" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="228" column="30" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="151" column="34" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="352" column="27" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="426" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="439" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="443" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="481" column="35" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="339" column="14" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="419" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="342" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="325" column="32" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="50" column="51" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="53" column="30" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="62" column="40" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
+      <jump line="66" column="40" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBnYWxpZGF0ZVdpdGhCdWNrZXRFbnYoc2Vzc2lvbjogU3BhcmtTZXNzaW9uLAogICAgICBwbGFuOiBMb2dpY2FsUGxhbiwgbW9jazogQm9vbGVhbiA9IGZhbHNlKTogQm9vbGVhbiA9IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3VuZGVkU3RyaW5nXD4=</text>
+        <text>exact</text>
       </register>
       <register name="0" type="4">
         <text>testStaticAddMissingDependencies</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFByZWNpc2lvbi5yb3VuZCg1LjEyMzQxMjMxNDEyNzE1OSwgNSk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBnYWxpZGF0ZVdpdGhCdWNrZXRFbnYoc2Vzc2lvbjogU3BhcmtTZXNzaW9uLAogICAgICBwbGFuOiBMb2dpY2FsUGxhbiwgbW9jazogQm9vbGVhbiA9IGZhbHNlKTogQm9vbGVhbiA9IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzb3V0ICAK</text>
+        <text encoding="base64">ICAgIFByZWNpc2lvbi5yb3VuZCg1LjEyMzQxMjMxNDEyNzE1OSwgNSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaW50W10gdHdvU3VtKGludFtdIG51bXMsIGludCB0YXJnZXQpIHsKICB9Cg==</text>
+        <text encoding="base64">ICBzb3V0ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwdWJsaWMgaW50W10gdHdvU3VtKGludFtdIG51bXMsIGludCB0YXJnZXQpIHsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gcmVtYWluZGVySW5kZXhNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bXMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgaWYgKHJlbWFpbmRlckluZGV4TWFwLmNvbnRhaW5zS2V5KG51bXNbaV0pKSB7CiAgICAgICAgICAgICAgICBpbnQgcmVzMSA9IHJlbWFpbmRlckluZGV4TWFwLmdldChudW1zW2ldKSArIDE7CiAgICAgICAgICAgICAgICBpbnQgcmVzMiA9IGkgKyAxOwogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBpbnRbXXtyZXMxLCByZXMyfTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJlbWFpbmRlckluZGV4TWFwLnB1dCh0YXJnZXQgLSBudW1zW2ldLCBpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbmV3IGludFsyXTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gcmVtYWluZGVySW5kZXhNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzVmR9PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bXMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgaWYgKHJlbWFpbmRlckluZGV4TWFwLmNvbnRhaW5zS2V5KG51bXNbaV0pKSB7CiAgICAgICAgICAgICAgICBpbnQgcmVzMSA9IHJlbWFpbmRlckluZGV4TWFwLmdldChudW1zW2ldKSArIDE7CiAgICAgICAgICAgICAgICBpbnQgcmVzMiA9IGkgKyAxOwogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBpbnRbXXtyZXMxLCByZXMyfTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJlbWFpbmRlckluZGV4TWFwLnB1dCh0YXJnZXQgLSBudW1zW2ldLCBpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbmV3IGludFsyXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHBsdWdpbj4KICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zYzwvYXJ0aWZhY3RJZD4KICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+JHtzVmR9PC92ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3VuZGVkU3RyaW5nXD4=</last-search>
+      <last-search>exact</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3VuZGVkU3RyaW5nXD4=</last-pattern>
+      <last-pattern>exact</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -844,9 +844,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hashValidate</entry>
-        <entry>evaluate(</entry>
-        <entry>StringObject</entry>
         <entry>IntObjectInspector</entry>
         <entry encoding="base64">XDxtb2RpZmllZEhhc2hDb2RlXD4=</entry>
         <entry encoding="base64">XDxhcmd1bWVudE9Jc1w+</entry>
@@ -864,9 +861,11 @@
         <entry encoding="base64">XDxkb3VibGVOdW1QcmVjaXNpb25cPg==</entry>
         <entry encoding="base64">XDxyb3VuZGVkRG91YmxlV2l0aFByZWNpc2lvblw+</entry>
         <entry encoding="base64">XDxyb3VuZGVkU3RyaW5nXD4=</entry>
+        <entry>validate</entry>
+        <entry encoding="base64">XDxoYXNoVmFsaWF0ZVw+</entry>
+        <entry>exact</entry>
       </history-search>
       <history-cmd>
-        <entry>49</entry>
         <entry>36</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
@@ -886,6 +885,7 @@
         <entry>112</entry>
         <entry>116</entry>
         <entry>w</entry>
+        <entry>lnext</entry>
       </history-cmd>
       <history-expr />
       <history-input />
