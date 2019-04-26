@@ -281,8 +281,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/catalog/ExternalCatalog.scala" timestamp="1543540919354">
         <mark key="'" line="99" column="6" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1556225427632">
-        <mark key="'" line="369" column="19" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1556304600914">
+        <mark key="'" line="48" column="26" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" timestamp="1553282854209">
         <mark key="'" line="451" column="15" />
@@ -577,7 +577,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" timestamp="1546628198366">
         <mark key="'" line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/PhysicalPlan.java" timestamp="1556225617231" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" timestamp="1556044006071">
         <mark key="'" line="110" column="0" />
       </file>
@@ -615,8 +614,12 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/pom.xml" timestamp="1546557371603">
         <mark key="'" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1556044428684">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1556304776382">
         <mark key="'" line="14" column="0" />
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="258" column="6" />
+        <mark key="^" line="258" column="6" />
+        <mark key="." line="258" column="6" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSparkSqlParser.scala" timestamp="1550615984000">
         <mark key="'" line="44" column="13" />
@@ -685,7 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="18" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/PlasmaSparkSession.scala" />
       <jump line="506" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="45" column="19" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="497" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
@@ -785,6 +787,7 @@
       <jump line="156" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TestBase.java" />
       <jump line="369" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
       <jump line="770" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
+      <jump line="48" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -797,7 +800,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRMb2dpY2FsUGxhblw+</text>
+        <text>alias(</text>
       </register>
       <register name="0" type="4">
         <text>testStaticAddMissingDependencies</text>
@@ -834,17 +837,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRMb2dpY2FsUGxhblw+</last-search>
+      <last-search>alias(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRMb2dpY2FsUGxhblw+</last-pattern>
+      <last-pattern>alias(</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcmd1bWVudE9Jc1w+</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplQW5kRm9sZENvbnN0YW50c1w+</entry>
         <entry>IntObject</entry>
@@ -864,6 +866,7 @@
         <entry>exact</entry>
         <entry>assert</entry>
         <entry encoding="base64">XDxhc3NlcnRMb2dpY2FsUGxhblw+</entry>
+        <entry>alias(</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
