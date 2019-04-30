@@ -353,8 +353,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" timestamp="1543477920141">
         <mark key="'" line="517" column="50" />
       </file>
-      <file name="$USER_HOME$/fb-spark/pom.xml" timestamp="1546561168326">
-        <mark key="'" line="1656" column="10" />
+      <file name="$USER_HOME$/fb-spark/pom.xml" timestamp="1556651440037">
+        <mark key="'" line="127" column="27" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmSparkCatalog.scala" timestamp="1556044750049">
         <mark key="'" line="31" column="7" />
@@ -687,8 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="2" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="444" column="8" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="445" column="60" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="28" column="3" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="724" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
@@ -787,6 +785,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="76" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="75" column="63" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="495" column="19" filename="$USER_HOME$/fb-spark/pom.xml" />
+      <jump line="127" column="27" filename="$USER_HOME$/fb-spark/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -799,7 +799,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>\cretention</text>
+        <text>log4j.version</text>
       </register>
       <register name="0" type="4">
         <text>testStaticAddMissingDependencies</text>
@@ -836,9 +836,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\cretention</last-search>
+      <last-search>log4j.version</last-search>
       <last-offset />
-      <last-pattern>\cretention</last-pattern>
+      <last-pattern>log4j.version</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -846,7 +846,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0aWFsaXplQW5kRm9sZENvbnN0YW50c1w+</entry>
         <entry>IntObject</entry>
         <entry>columns</entry>
         <entry encoding="base64">XDxzcGFya1NoYWRvd1RhYmxlXD4=</entry>
@@ -866,6 +865,7 @@
         <entry encoding="base64">XDxhc3NlcnRMb2dpY2FsUGxhblw+</entry>
         <entry>alias(</entry>
         <entry>\cretention</entry>
+        <entry>log4j.version</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
