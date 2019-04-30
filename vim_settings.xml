@@ -353,8 +353,11 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SQLContext.scala" timestamp="1543477920141">
         <mark key="'" line="517" column="50" />
       </file>
-      <file name="$USER_HOME$/fb-spark/pom.xml" timestamp="1556651440037">
-        <mark key="'" line="127" column="27" />
+      <file name="$USER_HOME$/fb-spark/pom.xml" timestamp="1556666477842">
+        <mark key="[" line="301" column="32" />
+        <mark key="]" line="301" column="32" />
+        <mark key="." line="301" column="32" />
+        <mark key="^" line="301" column="32" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmSparkCatalog.scala" timestamp="1556044750049">
         <mark key="'" line="31" column="7" />
@@ -388,10 +391,6 @@
       </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1555974853937">
         <mark key="'" line="342" column="19" />
-      </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/SubDagDataframeTest.java" timestamp="1555543641506">
-        <mark key="[" line="225" column="14" />
-        <mark key="]" line="225" column="46" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameReader.scala" timestamp="1543458699207">
         <mark key="'" line="430" column="69" />
@@ -644,6 +643,9 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/apache-log4j-extras/1.1/apache-log4j-extras-1.1.jar!/org/apache/log4j/PropertyConfigurator.class" timestamp="1556666094767">
+        <mark key="'" line="93" column="21" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/AllColumns.class" timestamp="1555115494372">
         <mark key="'" line="12" column="16" />
       </file>
@@ -686,15 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="445" column="60" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="28" column="3" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="724" column="4" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="433" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="499" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="572" column="71" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="127" column="25" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="183" column="12" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
-      <jump line="314" column="16" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="321" column="46" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" />
       <jump line="645" column="6" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="256" column="42" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
@@ -785,59 +778,68 @@
       <jump line="76" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="75" column="63" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="495" column="19" filename="$USER_HOME$/fb-spark/pom.xml" />
-      <jump line="127" column="27" filename="$USER_HOME$/fb-spark/pom.xml" />
+      <jump line="34" column="13" filename="$MAVEN_REPOSITORY$/log4j/apache-log4j-extras/1.1/apache-log4j-extras-1.1.jar!/org/apache/log4j/PropertyConfigurator.class" />
+      <jump line="105" column="21" filename="$MAVEN_REPOSITORY$/log4j/apache-log4j-extras/1.1/apache-log4j-extras-1.1.jar!/org/apache/log4j/PropertyConfigurator.class" />
+      <jump line="18" column="0" filename="$USER_HOME$/fb-spark/pom.xml" />
+      <jump line="74" column="76" filename="$MAVEN_REPOSITORY$/log4j/apache-log4j-extras/1.1/apache-log4j-extras-1.1.jar!/org/apache/log4j/PropertyConfigurator.class" />
+      <jump line="18" column="11" filename="$MAVEN_REPOSITORY$/log4j/apache-log4j-extras/1.1/apache-log4j-extras-1.1.jar!/org/apache/log4j/PropertyConfigurator.class" />
+      <jump line="97" column="21" filename="$MAVEN_REPOSITORY$/log4j/apache-log4j-extras/1.1/apache-log4j-extras-1.1.jar!/org/apache/log4j/PropertyConfigurator.class" />
+      <jump line="101" column="21" filename="$MAVEN_REPOSITORY$/log4j/apache-log4j-extras/1.1/apache-log4j-extras-1.1.jar!/org/apache/log4j/PropertyConfigurator.class" />
+      <jump line="93" column="21" filename="$MAVEN_REPOSITORY$/log4j/apache-log4j-extras/1.1/apache-log4j-extras-1.1.jar!/org/apache/log4j/PropertyConfigurator.class" />
+      <jump line="301" column="25" filename="$USER_HOME$/fb-spark/pom.xml" />
+      <jump line="127" column="19" filename="$USER_HOME$/fb-spark/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>log4j.version</text>
+        <text>configure(</text>
       </register>
       <register name="0" type="4">
         <text>testStaticAddMissingDependencies</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3QK</text>
+        <text encoding="base64">ICAgIDxkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkCg==</text>
+        <text encoding="base64">ICAgIDxkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIGRhdGFEZiA9IHNlc3Npb24uY3JlYXRlRGF0YUZyYW1lKG5ldyBBcnJheUxpc3Q8PigpLCBzcGFya1NjaGVtYSk7CiAgICAgIGRhdGFEZgogICAgICAgICAgLndyaXRlKCkKICAgICAgICAgIC5mb3JtYXQoIm9yYyIpCiAgICAgICAgICAub3B0aW9uKCJjb21wcmVzc2lvbiIsICJub25lIikKICAgICAgICAgIC5vcHRpb24oImhpdmUuZXhlYy5vcmMuY29tcHJlc3MiLCAiTk9ORSIpCiAgICAgICAgICAucGFydGl0aW9uQnkoSmF2YUNvbnZlcnNpb25zLmFzU2NhbGFCdWZmZXIocGFydGl0aW9uQ29scykudG9TZXEoKSkKICAgICAgICAgIC5zYXZlQXNUYWJsZSh0YWJsZU5hbWUpOwogICAgfQo=</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghdGFibGVQcm9wZXJ0aWVzLmlzRW1wdHkoKSkgewo=</text>
+        <text encoding="base64">ICBkCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIGRhdGFEZiA9IHNlc3Npb24uY3JlYXRlRGF0YUZyYW1lKG5ldyBBcnJheUxpc3Q8PigpLCBzcGFya1NjaGVtYSk7CiAgICAgIGRhdGFEZgogICAgICAgICAgLndyaXRlKCkKICAgICAgICAgIC5mb3JtYXQoIm9yYyIpCiAgICAgICAgICAub3B0aW9uKCJjb21wcmVzc2lvbiIsICJub25lIikKICAgICAgICAgIC5vcHRpb24oImhpdmUuZXhlYy5vcmMuY29tcHJlc3MiLCAiTk9ORSIpCiAgICAgICAgICAucGFydGl0aW9uQnkoSmF2YUNvbnZlcnNpb25zLmFzU2NhbGFCdWZmZXIocGFydGl0aW9uQ29scykudG9TZXEoKSkKICAgICAgICAgIC5zYXZlQXNUYWJsZSh0YWJsZU5hbWUpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmICghdGFibGVQcm9wZXJ0aWVzLmlzRW1wdHkoKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3BhcmtDYXRhCg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIGRhdGFEZiA9IHNlc3Npb24uY3JlYXRlRGF0YUZyYW1lKG5ldyBBcnJheUxpc3Q8PigpLCBzcGFya1NjaGVtYSk7CiAgICAgIGRhdGFEZgogICAgICAgICAgLndyaXRlKCkKICAgICAgICAgIC5mb3JtYXQoIm9yYyIpCiAgICAgICAgICAub3B0aW9uKCJjb21wcmVzc2lvbiIsICJub25lIikKICAgICAgICAgIC5vcHRpb24oImhpdmUuZXhlYy5vcmMuY29tcHJlc3MiLCAiTk9ORSIpCiAgICAgICAgICAucGFydGl0aW9uQnkoSmF2YUNvbnZlcnNpb25zLmFzU2NhbGFCdWZmZXIocGFydGl0aW9uQ29scykudG9TZXEoKSkKICAgICAgICAgIC5zYXZlQXNUYWJsZSh0YWJsZU5hbWUpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvbi5nZXQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBnYWxpZGF0ZVdpdGhCdWNrZXRFbnYoc2Vzc2lvbjogU3BhcmtTZXNzaW9uLAogICAgICBwbGFuOiBMb2dpY2FsUGxhbiwgbW9jazogQm9vbGVhbiA9IGZhbHNlKTogQm9vbGVhbiA9IHsK</text>
+        <text encoding="base64">ICAgICAgc3BhcmtDYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log4j.version</last-search>
+      <last-search>configure(</last-search>
       <last-offset />
-      <last-pattern>log4j.version</last-pattern>
+      <last-pattern>configure(</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -845,8 +847,6 @@
     </search>
     <history>
       <history-search>
-        <entry>IntObject</entry>
-        <entry>columns</entry>
         <entry encoding="base64">XDxzcGFya1NoYWRvd1RhYmxlXD4=</entry>
         <entry encoding="base64">XDxmaWVsZE5hbWVzXD4=</entry>
         <entry encoding="base64">XDxkb3VibGVOdW1QcmVjaXNpb25PSVw+</entry>
@@ -865,6 +865,8 @@
         <entry>alias(</entry>
         <entry>\cretention</entry>
         <entry>log4j.version</entry>
+        <entry>dependencyManagement</entry>
+        <entry>configure(</entry>
       </history-search>
       <history-cmd>
         <entry>36</entry>
@@ -885,8 +887,8 @@
         <entry>wq</entry>
         <entry>112</entry>
         <entry>116</entry>
-        <entry>w</entry>
         <entry>lnext</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
