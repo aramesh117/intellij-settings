@@ -90,8 +90,12 @@
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/14.0.1/guava-14.0.1-sources.jar!/com/google/common/cache/LoadingCache.java" timestamp="1557337824684">
         <mark key="'" line="80" column="51" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" timestamp="1557337495817">
-        <mark key="'" line="459" column="90" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" timestamp="1557509194438">
+        <mark key="'" line="531" column="29" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_all_users_fast.json" timestamp="1541740321544">
         <mark key="'" line="157" column="0" />
@@ -324,8 +328,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1557429261661">
-        <mark key="'" line="44" column="39" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1557508919716">
+        <mark key="'" line="77" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -593,9 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/SubDagDataframeTest__testDynamicSubDagGraph__2__physicalplan.json" />
-      <jump line="9" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/SubDagDataframeTest__testDynamicSubDagGraph__2__physicalplan.json" />
-      <jump line="16" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/SubDagDataframeTest__testDynamicSubDagGraph__2__physicalplan.json" />
       <jump line="87" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/SubDagDataframeTest__testDynamicSubDagGraph__2__physicalplan.json" />
       <jump line="89" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/SubDagDataframeTest__testDynamicSubDagGraph__2__physicalplan.json" />
       <jump line="98" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/SubDagDataframeTest__testDynamicSubDagGraph__2__physicalplan.json" />
@@ -693,6 +694,9 @@
       <jump line="302" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
       <jump line="258" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
       <jump line="252" column="189" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
+      <jump line="77" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="521" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
+      <jump line="531" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -705,7 +709,7 @@
         <text>bi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUYWJsZVw+</text>
+        <text>uhaul</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgiYmkiKTsK</text>
@@ -738,24 +742,20 @@
         <text encoding="base64">ICAgIGlmICghdGFibGVQcm9wZXJ0aWVzLmlzRW1wdHkoKSkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>225</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRUYWJsZVw+</last-search>
+      <last-search>uhaul</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUYWJsZVw+</last-pattern>
+      <last-pattern>uhaul</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub3JtYWxpemVkRGVwdHNEYXRhc2V0XD4=</entry>
-        <entry>getLogicalQuery</entry>
-        <entry>getAnalysis</entry>
-        <entry>getView</entry>
         <entry>getOutput</entry>
         <entry>exact</entry>
         <entry encoding="base64">XDxleGFjdEhhc2hcPg==</entry>
@@ -772,9 +772,12 @@
         <entry encoding="base64">XDx0YWJsZUNhY2hlXD4=</entry>
         <entry>getTable(</entry>
         <entry encoding="base64">XDxnZXRUYWJsZVw+</entry>
+        <entry>\uhaul\c</entry>
+        <entry>uhual</entry>
+        <entry>\cuhaul</entry>
+        <entry>uhaul</entry>
       </history-search>
       <history-cmd>
-        <entry>54</entry>
         <entry>55</entry>
         <entry>106</entry>
         <entry>vsplit</entry>
@@ -794,6 +797,7 @@
         <entry>w</entry>
         <entry>2052</entry>
         <entry>225</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />
