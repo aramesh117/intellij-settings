@@ -447,12 +447,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/assembly/pom.xml" timestamp="1552690734060">
         <mark key="'" line="41" column="8" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" timestamp="1557768418749">
-        <mark key="'" line="303" column="21" />
-        <mark key="[" line="335" column="0" />
-        <mark key="]" line="335" column="123" />
-        <mark key="." line="335" column="119" />
-        <mark key="^" line="335" column="119" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" timestamp="1557770489020">
+        <mark key="'" line="338" column="4" />
+        <mark key="[" line="338" column="97" />
+        <mark key="]" line="338" column="97" />
+        <mark key="." line="338" column="97" />
+        <mark key="^" line="338" column="42" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/identifiers.scala" timestamp="1543622997127">
         <mark key="'" line="8" column="13" />
@@ -714,7 +714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135541" column="102" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.2-2/hive-apache-1.2.2-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
       <jump line="135546" column="87" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.2-2/hive-apache-1.2.2-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
       <jump line="135548" column="99" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.2-2/hive-apache-1.2.2-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
       <jump line="135553" column="125" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.2-2/hive-apache-1.2.2-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
@@ -807,23 +806,24 @@
       <jump line="102" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
       <jump line="329" column="76" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
       <jump line="15" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/metadata/QualifiedTablePrefix.class" />
-      <jump line="335" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
       <jump line="653" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/metadata/MetadataManager.class" />
       <jump line="334" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
       <jump line="51" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
       <jump line="604" column="67" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/analyzer/StatementAnalyzer.class" />
       <jump line="26" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PrestoQLTest.java" />
       <jump line="303" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
+      <jump line="335" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
+      <jump line="54" column="85" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCJSZXRyaWV2aW5nIHRoZSB2aWV3IGZvciAlcy4lcyIsIHZpZXdOYW1lLmdldFNjaGVtYU5hbWUoKSwgdmlld05hbWUuZ2V0T2JqZWN0TmFtZSgpKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>getView(</text>
