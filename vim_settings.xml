@@ -191,6 +191,13 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/spark/UpmSparkConnection.scala" timestamp="1552693962693">
         <mark key="'" line="11" column="6" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" timestamp="1557854494287">
+        <mark key="'" line="87" column="38" />
+        <mark key="[" line="87" column="38" />
+        <mark key="]" line="87" column="46" />
+        <mark key="." line="87" column="46" />
+        <mark key="^" line="87" column="46" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/SpUserFunction.scala" timestamp="1541981935800">
         <mark key="'" line="26" column="57" />
       </file>
@@ -337,8 +344,8 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkResourceStats.scala" timestamp="1543870127043">
         <mark key="'" line="196" column="4" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" timestamp="1557795917049">
-        <mark key="'" line="85" column="18" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" timestamp="1557854315542">
+        <mark key="'" line="44" column="17" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1543624166231">
         <mark key="'" line="260" column="51" />
@@ -739,12 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="85" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
-      <jump line="107" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="653" column="50" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/metadata/MetadataManager.class" />
-      <jump line="654" column="72" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/metadata/MetadataManager.class" />
-      <jump line="158" column="58" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="107" column="18" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
       <jump line="43" column="31" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-prism/0.208-SNAPSHOT/presto-prism-0.208-20180809.040237-25-sources.jar!/com/facebook/presto/hive/PrismLocatedHiveCluster.java" />
       <jump line="27" column="27" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-prism/0.208-SNAPSHOT/presto-prism-0.208-20180809.040237-25-sources.jar!/com/facebook/presto/hive/PrismLocatedHiveCluster.java" />
       <jump line="287" column="19" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-prism/0.208-SNAPSHOT/presto-prism-0.208-20180809.040237-25-sources.jar!/com/facebook/presto/hive/PrismNamespaceManager.java" />
@@ -816,7 +817,6 @@
       <jump line="48" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmSparkCatalog.scala" />
       <jump line="52" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmSparkCatalog.scala" />
       <jump line="35" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.996/spark-catalyst_2.11-2.0.996.jar!/org/apache/spark/sql/catalyst/catalog/SessionCatalog.class" />
-      <jump line="85" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" />
       <jump line="209" column="42" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/SemiTransactionalHiveMetastore.java" />
       <jump line="84" column="26" filename="$USER_HOME$/git/presto-facebook/presto-sharded-mysql/src/main/java/com/facebook/presto/shardedmysql/schema/SchemaMetadata.java" />
       <jump line="60" column="20" filename="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/metastore/TestCachingHiveMetastore.java" />
@@ -839,19 +839,26 @@
       <jump line="87" column="31" filename="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/metastore/TestCachingHiveMetastore.java" />
       <jump line="358" column="19" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/CachingHiveMetastore.java" />
       <jump line="740" column="16" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
+      <jump line="85" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" />
+      <jump line="38" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" />
+      <jump line="44" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" />
+      <jump line="77" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
+      <jump line="76" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
+      <jump line="87" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
+      <jump line="73" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9wcmVzdG9TZXNzaW9uID0gU2Vzc2lvbgogICAgICAuYnVpbGRlcihzZXNzaW9uUHJvcGVydHlNYW5hZ2VyKQogICAgICAuc2V0UXVlcnlJZChxdWVyeUlkR2VuZXJhdG9yLmNyZWF0ZU5leHRRdWVyeUlkKCkpCiAgICAgIC5zZXRJZGVudGl0eShuZXcgSWRlbnRpdHkoUFJFU1RPX1FVRVJZX0lERU5USVRZX05BTUUsIE9wdGlvbmFsLmVtcHR5KCkpKQogICAgICAuc2V0Q2F0YWxvZyhVUE1fQ0FUQUxPRykKICAgICAgLnNldFNjaGVtYShuYW1lc3BhY2UpCiAgICAgIC5zZXRUaW1lWm9uZUtleShUaW1lWm9uZUtleS5VVENfS0VZKQogICAgICAuc2V0TG9jYWxlKExvY2FsZS5FTkdMSVNIKQogICAgICAuYnVpbGQKICAgIG1ldGFkYXRhLmFkZEZ1bmN0aW9ucygKICAgICAgRnVuY3Rpb25FeHRyYWN0b3IuZXh0cmFjdEZ1bmN0aW9ucyhuZXcgRmFjZWJvb2tGdW5jdGlvbnNQbHVnaW4oKS5nZXRGdW5jdGlvbnMpKQoKICAgIHZhbCBnZW9QbHVnaW46IFBsdWdpbiA9IG5ldyBHZW9QbHVnaW4KICAgIG1ldGFkYXRhLmFkZEZ1bmN0aW9ucyhGdW5jdGlvbkV4dHJhY3Rvci5leHRyYWN0RnVuY3Rpb25zKGdlb1BsdWdpbi5nZXRGdW5jdGlvbnMpKQoKICAgIGdlb1BsdWdpbi5nZXRUeXBlcy5hc1NjYWxhCiAgICAgIC5mb3JlYWNoKHR5cGVNYW5hZ2VyLmFzSW5zdGFuY2VPZltUeXBlUmVnaXN0cnldLmFkZFR5cGUoXykpCiAgICBnZW9QbHVnaW4uZ2V0UGFyYW1ldHJpY1R5cGVzLmFzU2NhbGEKICAgICAgLmZvcmVhY2godHlwZU1hbmFnZXIuYXNJbnN0YW5jZU9mW1R5cGVSZWdpc3RyeV0uYWRkUGFyYW1ldHJpY1R5cGUoXykpCg==</text>
+      <register name="&quot;" type="4">
+        <text>uhualRewriteStatement</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>uhualRewriteStatement</text>
       </register>
       <register name="/" type="4">
-        <text>getTable</text>
+        <text encoding="base64">XDx1aHVhbFJld3JpdGVTdGF0ZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIF9wcmVzdG9TZXNzaW9uID0gU2Vzc2lvbgogICAgICAuYnVpbGRlcihzZXNzaW9uUHJvcGVydHlNYW5hZ2VyKQogICAgICAuc2V0UXVlcnlJZChxdWVyeUlkR2VuZXJhdG9yLmNyZWF0ZU5leHRRdWVyeUlkKCkpCiAgICAgIC5zZXRJZGVudGl0eShuZXcgSWRlbnRpdHkoUFJFU1RPX1FVRVJZX0lERU5USVRZX05BTUUsIE9wdGlvbmFsLmVtcHR5KCkpKQogICAgICAuc2V0Q2F0YWxvZyhVUE1fQ0FUQUxPRykKICAgICAgLnNldFNjaGVtYShuYW1lc3BhY2UpCiAgICAgIC5zZXRUaW1lWm9uZUtleShUaW1lWm9uZUtleS5VVENfS0VZKQogICAgICAuc2V0TG9jYWxlKExvY2FsZS5FTkdMSVNIKQogICAgICAuYnVpbGQKICAgIG1ldGFkYXRhLmFkZEZ1bmN0aW9ucygKICAgICAgRnVuY3Rpb25FeHRyYWN0b3IuZXh0cmFjdEZ1bmN0aW9ucyhuZXcgRmFjZWJvb2tGdW5jdGlvbnNQbHVnaW4oKS5nZXRGdW5jdGlvbnMpKQoKICAgIHZhbCBnZW9QbHVnaW46IFBsdWdpbiA9IG5ldyBHZW9QbHVnaW4KICAgIG1ldGFkYXRhLmFkZEZ1bmN0aW9ucyhGdW5jdGlvbkV4dHJhY3Rvci5leHRyYWN0RnVuY3Rpb25zKGdlb1BsdWdpbi5nZXRGdW5jdGlvbnMpKQoKICAgIGdlb1BsdWdpbi5nZXRUeXBlcy5hc1NjYWxhCiAgICAgIC5mb3JlYWNoKHR5cGVNYW5hZ2VyLmFzSW5zdGFuY2VPZltUeXBlUmVnaXN0cnldLmFkZFR5cGUoXykpCiAgICBnZW9QbHVnaW4uZ2V0UGFyYW1ldHJpY1R5cGVzLmFzU2NhbGEKICAgICAgLmZvcmVhY2godHlwZU1hbmFnZXIuYXNJbnN0YW5jZU9mW1R5cGVSZWdpc3RyeV0uYWRkUGFyYW1ldHJpY1R5cGUoXykpCg==</text>
@@ -888,9 +895,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getTable</last-search>
+      <last-search encoding="base64">XDx1aHVhbFJld3JpdGVTdGF0ZW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>getTable</last-pattern>
+      <last-pattern encoding="base64">XDx1aHVhbFJld3JpdGVTdGF0ZW1lbnRcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -898,8 +905,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIaXZlTWV0YXN0b3JlQ2xpZW50XD4=</entry>
-        <entry encoding="base64">XDxwcmlzbVNlcnZpY2VDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxuYW1lc3BhY2VcPg==</entry>
         <entry>namespace</entry>
         <entry>schema</entry>
@@ -918,6 +923,8 @@
         <entry encoding="base64">XDx0aHJpZnRIaXZlTWV0YXN0b3JlXD4=</entry>
         <entry encoding="base64">XDxDYWNoaW5nSGl2ZU1ldGFzdG9yZVw+</entry>
         <entry>getTable</entry>
+        <entry>Uhual</entry>
+        <entry encoding="base64">XDx1aHVhbFJld3JpdGVTdGF0ZW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
