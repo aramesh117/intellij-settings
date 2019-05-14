@@ -127,8 +127,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1543522427815">
         <mark key="'" line="124" column="51" />
       </file>
-      <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" timestamp="1557785144192">
-        <mark key="'" line="228" column="58" />
+      <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" timestamp="1557806488186">
+        <mark key="'" line="740" column="16" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/shaded/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" timestamp="1557527739816">
         <mark key="'" line="140719" column="11" />
@@ -240,7 +240,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/StructType.scala" timestamp="1542656204806">
         <mark key="'" line="280" column="19" />
       </file>
-      <file name="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/metastore/TestCachingHiveMetastore.java" timestamp="1557796316611">
+      <file name="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/metastore/TestCachingHiveMetastore.java" timestamp="1557806338272">
         <mark key="'" line="87" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/DoubleType.scala" timestamp="1543434487744">
@@ -739,7 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
       <jump line="54" column="85" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
       <jump line="107" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
       <jump line="653" column="50" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/metadata/MetadataManager.class" />
@@ -839,6 +838,7 @@
       <jump line="71" column="13" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/CachingHiveMetastore.java" />
       <jump line="87" column="31" filename="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/metastore/TestCachingHiveMetastore.java" />
       <jump line="358" column="19" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/CachingHiveMetastore.java" />
+      <jump line="740" column="16" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -851,7 +851,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYWNoaW5nSGl2ZU1ldGFzdG9yZVw+</text>
+        <text>getTable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIF9wcmVzdG9TZXNzaW9uID0gU2Vzc2lvbgogICAgICAuYnVpbGRlcihzZXNzaW9uUHJvcGVydHlNYW5hZ2VyKQogICAgICAuc2V0UXVlcnlJZChxdWVyeUlkR2VuZXJhdG9yLmNyZWF0ZU5leHRRdWVyeUlkKCkpCiAgICAgIC5zZXRJZGVudGl0eShuZXcgSWRlbnRpdHkoUFJFU1RPX1FVRVJZX0lERU5USVRZX05BTUUsIE9wdGlvbmFsLmVtcHR5KCkpKQogICAgICAuc2V0Q2F0YWxvZyhVUE1fQ0FUQUxPRykKICAgICAgLnNldFNjaGVtYShuYW1lc3BhY2UpCiAgICAgIC5zZXRUaW1lWm9uZUtleShUaW1lWm9uZUtleS5VVENfS0VZKQogICAgICAuc2V0TG9jYWxlKExvY2FsZS5FTkdMSVNIKQogICAgICAuYnVpbGQKICAgIG1ldGFkYXRhLmFkZEZ1bmN0aW9ucygKICAgICAgRnVuY3Rpb25FeHRyYWN0b3IuZXh0cmFjdEZ1bmN0aW9ucyhuZXcgRmFjZWJvb2tGdW5jdGlvbnNQbHVnaW4oKS5nZXRGdW5jdGlvbnMpKQoKICAgIHZhbCBnZW9QbHVnaW46IFBsdWdpbiA9IG5ldyBHZW9QbHVnaW4KICAgIG1ldGFkYXRhLmFkZEZ1bmN0aW9ucyhGdW5jdGlvbkV4dHJhY3Rvci5leHRyYWN0RnVuY3Rpb25zKGdlb1BsdWdpbi5nZXRGdW5jdGlvbnMpKQoKICAgIGdlb1BsdWdpbi5nZXRUeXBlcy5hc1NjYWxhCiAgICAgIC5mb3JlYWNoKHR5cGVNYW5hZ2VyLmFzSW5zdGFuY2VPZltUeXBlUmVnaXN0cnldLmFkZFR5cGUoXykpCiAgICBnZW9QbHVnaW4uZ2V0UGFyYW1ldHJpY1R5cGVzLmFzU2NhbGEKICAgICAgLmZvcmVhY2godHlwZU1hbmFnZXIuYXNJbnN0YW5jZU9mW1R5cGVSZWdpc3RyeV0uYWRkUGFyYW1ldHJpY1R5cGUoXykpCg==</text>
@@ -888,9 +888,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDYWNoaW5nSGl2ZU1ldGFzdG9yZVw+</last-search>
+      <last-search>getTable</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYWNoaW5nSGl2ZU1ldGFzdG9yZVw+</last-pattern>
+      <last-pattern>getTable</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -898,7 +898,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxIaXZlTWV0YXN0b3JlQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxwcmlzbVNlcnZpY2VDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxuYW1lc3BhY2VcPg==</entry>
@@ -918,6 +917,7 @@
         <entry>getDataset</entry>
         <entry encoding="base64">XDx0aHJpZnRIaXZlTWV0YXN0b3JlXD4=</entry>
         <entry encoding="base64">XDxDYWNoaW5nSGl2ZU1ldGFzdG9yZVw+</entry>
+        <entry>getTable</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
