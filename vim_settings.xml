@@ -725,6 +725,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_all_users.json" timestamp="1543049970787">
         <mark key="'" line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1557950500760">
+        <mark key="'" line="535" column="19" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="46" />
+      </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/pom.xml" timestamp="1546557371603">
         <mark key="'" line="5" column="16" />
       </file>
@@ -820,9 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="67" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="69" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
       <jump line="75" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
       <jump line="4" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
       <jump line="7" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
@@ -920,19 +922,22 @@
       <jump line="334" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
       <jump line="13" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
       <jump line="17" column="71" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
+      <jump line="13" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="95" column="5" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
+      <jump line="535" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>namespace</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxmYnNwYXJrLnZlcnNpb24+Mi4wLjk5NjwvZmJzcGFyay52ZXJzaW9uPgo=</text>
       </register>
       <register name="-" type="4">
         <text>namespace</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YWJsZW5hbWVcPg==</text>
+        <text>fbspark.version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBuYW1lc3BhY2UgPSBhcmdzKDEpCg==</text>
@@ -969,17 +974,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YWJsZW5hbWVcPg==</last-search>
+      <last-search>fbspark.version</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YWJsZW5hbWVcPg==</last-pattern>
+      <last-pattern>fbspark.version</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2FjdGlvbk1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxfbW9kdWxlTG9hZGVyXD4=</entry>
         <entry>prestoSession</entry>
         <entry>transaction</entry>
@@ -999,6 +1003,7 @@
         <entry>toString</entry>
         <entry>getViews</entry>
         <entry encoding="base64">XDx0YWJsZW5hbWVcPg==</entry>
+        <entry>fbspark.version</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
