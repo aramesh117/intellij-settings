@@ -21,6 +21,7 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/2.017/plasma-spark-2.017.jar!/com/facebook/hive/orc/encryption/SwiftClientProvider.class" timestamp="1543360111608">
         <mark key="'" line="92" column="28" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/shaded/org/apache/hadoop/hive/metastore/api/Table.class" timestamp="1557973889779" />
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-spi/0.208-SNAPSHOT/presto-spi-0.208-20180809.035259-40-sources.jar!/com/facebook/presto/spi/ColumnMetadata.java" timestamp="1557901997687">
         <mark key="'" line="118" column="18" />
       </file>
@@ -176,8 +177,8 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" timestamp="1557970720705">
-        <mark key="'" line="58" column="25" />
+      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" timestamp="1557973854547">
+        <mark key="'" line="201" column="28" />
       </file>
       <file name="$USER_HOME$/git/presto/presto-hive-hadoop2/src/test/java/com/facebook/presto/hive/TestHiveClient.java" timestamp="1557784012443">
         <mark key="'" line="22" column="16" />
@@ -191,6 +192,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/datainfra-metastore/api/src/main/java/com/facebook/di/painkiller/exception/PainkillerExceptionTransform.java" timestamp="1557533362953">
         <mark key="'" line="82" column="21" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1557965124046" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_uid_to_rid.json" timestamp="1540835513440">
         <mark key="'" line="0" column="0" />
       </file>
@@ -227,6 +229,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/UpmPrestoConnection.scala" timestamp="1557972341678">
         <mark key="'" line="30" column="6" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" timestamp="1557973796395">
+        <mark key="'" line="189" column="11" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/ReverseAutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" timestamp="1544117268500">
         <mark key="'" line="0" column="0" />
@@ -765,8 +770,8 @@
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/HiveMetastoreClientFactory.java" timestamp="1557972512430">
         <mark key="'" line="40" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" timestamp="1557517038189">
-        <mark key="'" line="143797" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" timestamp="1557973766991">
+        <mark key="'" line="143683" column="187" />
       </file>
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/StaticHiveCluster.java" timestamp="1557971849076">
         <mark key="'" line="73" column="59" />
@@ -824,39 +829,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="84" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="37" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="653" column="34" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/metadata/MetadataManager.class" />
-      <jump line="32" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="196" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" />
-      <jump line="113" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
-      <jump line="30" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmSqlParser.scala" />
-      <jump line="14" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/connection/PrConnection.java" />
-      <jump line="44" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" />
-      <jump line="73" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="49" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="95" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="131" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="103" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="94" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="114" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="327" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
-      <jump line="202" column="61" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
-      <jump line="191" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmMetadataManager.java" />
-      <jump line="22" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
-      <jump line="734" column="37" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37-sources.jar!/com/facebook/presto/metadata/MetadataManager.java" />
-      <jump line="29" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
-      <jump line="14" column="51" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
-      <jump line="12" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
-      <jump line="24" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
-      <jump line="378" column="11" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37-sources.jar!/com/facebook/presto/metadata/MetadataManager.java" />
-      <jump line="23" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" />
-      <jump line="137" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="142" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="25" column="13" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-spi/0.208-SNAPSHOT/presto-spi-0.208-20180809.035259-40-sources.jar!/com/facebook/presto/spi/ColumnMetadata.java" />
-      <jump line="100" column="18" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-spi/0.208-SNAPSHOT/presto-spi-0.208-20180809.035259-40-sources.jar!/com/facebook/presto/spi/ColumnMetadata.java" />
-      <jump line="118" column="18" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-spi/0.208-SNAPSHOT/presto-spi-0.208-20180809.035259-40-sources.jar!/com/facebook/presto/spi/ColumnMetadata.java" />
       <jump line="15" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/spi/ConnectorTableMetadata.class" />
       <jump line="60" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/spi/ConnectorTableMetadata.class" />
       <jump line="211" column="6" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37-sources.jar!/com/facebook/presto/sql/analyzer/StatementAnalyzer.java" />
@@ -924,6 +896,39 @@
       <jump line="44" column="16" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/HiveAuthenticationModule.java" />
       <jump line="74" column="59" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/StaticHiveCluster.java" />
       <jump line="38" column="40" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/Transport.java" />
+      <jump line="13" column="0" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="53044" column="12" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="53050" column="43" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="53099" column="11" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="53103" column="31" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="102976" column="12" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="102986" column="73" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="103071" column="11" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="131992" column="68" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="134866" column="13" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="134882" column="33" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="135679" column="16" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="139506" column="61" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="140718" column="14" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="8" column="0" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="40222" column="12" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="143705" column="4" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="143685" column="32" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="143683" column="187" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" />
+      <jump line="35" column="39" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="38" column="39" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="39" column="23" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="75" column="21" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="110" column="23" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="187" column="35" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="189" column="11" filename="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" />
+      <jump line="35" column="0" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
+      <jump line="47" column="120" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
+      <jump line="85" column="27" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
+      <jump line="68" column="17" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
+      <jump line="105" column="24" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
+      <jump line="201" column="28" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -936,7 +941,7 @@
         <text>Optional.empty();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</text>
+        <text>tableType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBuYW1lc3BhY2UgPSBhcmdzKDEpCg==</text>
@@ -973,9 +978,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</last-search>
+      <last-search>tableType</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</last-pattern>
+      <last-pattern>tableType</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -983,8 +988,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lc3BhY2VcPg==</entry>
-        <entry>toString</entry>
         <entry>getViews</entry>
         <entry encoding="base64">XDx0YWJsZW5hbWVcPg==</entry>
         <entry>fbspark.version</entry>
@@ -992,10 +995,8 @@
         <entry>Uhual</entry>
         <entry encoding="base64">XDxwcmVzdG9TY2hlbWFcPg==</entry>
         <entry>ImmutableM</entry>
-        <entry>get_table(</entry>
         <entry>getTable(</entry>
         <entry>getTableHandle</entry>
-        <entry>tableType</entry>
         <entry encoding="base64">XDxQUkVTVE9fUVVFUllfSURFTlRJVFlfTkFNRVw+</entry>
         <entry>getTable</entry>
         <entry>Auth</entry>
@@ -1003,6 +1004,10 @@
         <entry encoding="base64">XDxjbGllbnRDZXJ0UGF0aHNcPg==</entry>
         <entry encoding="base64">XDxoaXZlTWV0YXN0b3JlQXV0aGVudGljYXRpb25UeXBlXD4=</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</entry>
+        <entry encoding="base64">VGFibGUg</entry>
+        <entry>get_table(</entry>
+        <entry>Table</entry>
+        <entry>tableType</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
