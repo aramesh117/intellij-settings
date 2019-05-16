@@ -182,13 +182,15 @@
       <file name="$USER_HOME$/git/presto/presto-hive-hadoop2/src/test/java/com/facebook/presto/hive/TestHiveClient.java" timestamp="1557784012443">
         <mark key="'" line="22" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/Transport.java" timestamp="1557972728746">
+        <mark key="'" line="38" column="40" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/UpmLogicalPipeMap.scala" timestamp="1541981948627">
         <mark key="'" line="17" column="26" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/datainfra-metastore/api/src/main/java/com/facebook/di/painkiller/exception/PainkillerExceptionTransform.java" timestamp="1557533362953">
         <mark key="'" line="82" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGeneratorBase.java" timestamp="1557965124046" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_uid_to_rid.json" timestamp="1540835513440">
         <mark key="'" line="0" column="0" />
       </file>
@@ -334,7 +336,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1556579305110">
         <mark key="'" line="55" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" timestamp="1557971626572">
+      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" timestamp="1557972652934">
         <mark key="'" line="103" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-prism/0.208-SNAPSHOT/presto-prism-0.208-20180809.040237-25-sources.jar!/com/facebook/presto/hive/PrismLocatedHiveCluster.java" timestamp="1557776512380">
@@ -360,6 +362,9 @@
       </file>
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/HiveMetastore.java" timestamp="1557514975096">
         <mark key="'" line="78" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/StaticHiveCluster.java" timestamp="1557972704126">
+        <mark key="'" line="74" column="59" />
       </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkResourceStats.scala" timestamp="1543870127043">
         <mark key="'" line="196" column="4" />
@@ -819,8 +824,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
-      <jump line="66" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
       <jump line="68" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
       <jump line="84" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
       <jump line="37" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
@@ -919,6 +922,8 @@
       <jump line="961" column="63" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
       <jump line="40" column="18" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/HiveMetastoreClientFactory.java" />
       <jump line="44" column="16" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/HiveAuthenticationModule.java" />
+      <jump line="74" column="59" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/StaticHiveCluster.java" />
+      <jump line="38" column="40" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/Transport.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -931,7 +936,7 @@
         <text>Optional.empty();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaXZlTWV0YXN0b3JlQXV0aGVudGljYXRpb25UeXBlXD4=</text>
+        <text encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBuYW1lc3BhY2UgPSBhcmdzKDEpCg==</text>
@@ -968,9 +973,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoaXZlTWV0YXN0b3JlQXV0aGVudGljYXRpb25UeXBlXD4=</last-search>
+      <last-search encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaXZlTWV0YXN0b3JlQXV0aGVudGljYXRpb25UeXBlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -978,7 +983,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getView</entry>
         <entry encoding="base64">XDxuYW1lc3BhY2VcPg==</entry>
         <entry>toString</entry>
         <entry>getViews</entry>
@@ -998,6 +1002,7 @@
         <entry>\cauth</entry>
         <entry encoding="base64">XDxjbGllbnRDZXJ0UGF0aHNcPg==</entry>
         <entry encoding="base64">XDxoaXZlTWV0YXN0b3JlQXV0aGVudGljYXRpb25UeXBlXD4=</entry>
+        <entry encoding="base64">XDxhdXRoZW50aWNhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
