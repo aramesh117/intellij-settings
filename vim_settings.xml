@@ -58,6 +58,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/trees/TreeNode.scala" timestamp="1547686510078">
         <mark key="'" line="35" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/authentication/AuthenticationModules.java" timestamp="1558228666360">
+        <mark key="'" line="136" column="40" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PipelineRegressionTest.java" timestamp="1553150721740">
         <mark key="'" line="114" column="0" />
       </file>
@@ -138,6 +141,11 @@
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/DataSource.scala" timestamp="1543522427815">
         <mark key="'" line="124" column="51" />
+      </file>
+      <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" timestamp="1558027863474">
+        <mark key="'" line="228" column="49" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="233" column="25" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/shaded/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" timestamp="1558028911805">
         <mark key="'" line="140719" column="11" />
@@ -664,8 +672,10 @@
         <mark key="." line="36" column="61" />
         <mark key="^" line="36" column="61" />
       </file>
-      <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" timestamp="1558227298543">
-        <mark key="'" line="34" column="25" />
+      <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" timestamp="1558228778889">
+        <mark key="'" line="52" column="48" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="52" column="79" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/catalog/interface.scala" timestamp="1552694838550">
         <mark key="'" line="110" column="23" />
@@ -716,6 +726,7 @@
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" timestamp="1558227890337">
         <mark key="'" line="950" column="8" />
       </file>
+      <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/MetastoreKerberosConfig.java" timestamp="1558228786170" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" timestamp="1556741405391">
         <mark key="'" line="74" column="8" />
       </file>
@@ -755,6 +766,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_all_users.json" timestamp="1543049970787">
         <mark key="'" line="26" column="19" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/pom.xml" timestamp="1557950500760">
+        <mark key="'" line="535" column="19" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="46" />
+      </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/pom.xml" timestamp="1546557371603">
         <mark key="'" line="5" column="16" />
       </file>
@@ -785,12 +801,12 @@
       <file name="$USER_HOME$/fb-spark/sql/hive/src/main/scala/org/apache/spark/sql/hive/HiveContext.scala" timestamp="1543475206946">
         <mark key="'" line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/HiveMetastoreModule.java" timestamp="1558226744976">
-        <mark key="'" line="65" column="27" />
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="48" column="46" />
-        <mark key="." line="48" column="46" />
-        <mark key="^" line="48" column="46" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/HiveMetastoreModule.java" timestamp="1558228761083">
+        <mark key="'" line="67" column="27" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="49" column="46" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismMetadata.class" timestamp="1557793783779">
         <mark key="'" line="373" column="84" />
@@ -866,8 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
-      <jump line="47" column="120" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
       <jump line="85" column="27" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
       <jump line="68" column="17" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
       <jump line="105" column="24" filename="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.0-2/hive-apache-1.2.0-2-sources.jar!/org/apache/hadoop/hive/metastore/api/Table.java" />
@@ -966,66 +980,67 @@
       <jump line="929" column="27" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
       <jump line="970" column="8" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
       <jump line="950" column="8" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
+      <jump line="136" column="40" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
+      <jump line="52" column="48" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>NoHiveMetastoreAuthentication</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJpbmRlci5iaW5kKEhpdmVNZXRhc3RvcmVBdXRoZW50aWNhdGlvbi5jbGFzcykKICAgICAgICAudG8oS2VyYmVyb3NIaXZlTWV0YXN0b3JlQXV0aGVudGljYXRpb24uY2xhc3MpCiAgICAgICAgLmluKFNJTkdMRVRPTik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>NoHiveMetastoreAuthentication</text>
       </register>
       <register name="/" type="4">
-        <text>\ckerberos</text>
+        <text encoding="base64">XDxjcmVhdGVDYWNoaW5nS2VyYmVyb3NIYWRvb3BBdXRoZW50aWNhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYW1lc3BhY2UgPSBhcmdzKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRlci5iaW5kKEhpdmVNZXRhc3RvcmVBdXRoZW50aWNhdGlvbi5jbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgLnRvKEtlcmJlcm9zSGl2ZU1ldGFzdG9yZUF1dGhlbnRpY2F0aW9uLmNsYXNzKQogICAgICAgICAgICAgICAgICAgICAgICAuaW4oU0lOR0xFVE9OKTsKICAgICAgICAgICAgICAgIGNvbmZpZ0JpbmRlcihiaW5kZXIpLmJpbmRDb25maWcoTWV0YXN0b3JlS2VyYmVyb3NDb25maWcuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgaW5qZWN0Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRlci5iaW5kKEhpdmVNZXRhc3RvcmVBdXRoZW50aWNhdGlvbi5jbGFzcykKICAgICAgICAudG8oS2VyYmVyb3NIaXZlTWV0YXN0b3JlQXV0aGVudGljYXRpb24uY2xhc3MpCiAgICAgICAgLmluKFNJTkdMRVRPTik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkZWYgaW5qZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RQcmVzdG9VaHVhbFRhYmxlU2VsZWN0KCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBDb250ZXh0IGN0eCA9IGdldENvbnRleHQoImFtbCIpOwoKICAgIERhdGFGcmFtZSBkZiA9CiAgICAgICAgY3R4LnNxbCgiU0VMRUNUICogZnJvbSBkb3BwbGVyX2RhdGFfYXVkaW86YW1sIFVOSU9OIFNFTEVDVCAqIGZyb20gZG9wcGxlcl9kYXRhX2F1ZGlvIik7CiAgICBkZi5zYXZlKCJvdXRwdXRfdGFibGUiKTsKICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHVodWFsUmV3cml0ZVN0YXRlbWVudCA9IG5ldyBVaHVhbFRhYmxlSW5kZW50aWZpZXJSZXdyaXRlcigpCi8vICAgICAgLnByb2Nlc3Moc3RhdGVtZW50KQovLyAgICAgIC5hc0luc3RhbmNlT2ZbU3RhdGVtZW50XQo=</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RQcmVzdG9VaHVhbFRhYmxlU2VsZWN0KCkgdGhyb3dzIFVwbUV4Y2VwdGlvbiB7CiAgICBDb250ZXh0IGN0eCA9IGdldENvbnRleHQoImFtbCIpOwoKICAgIERhdGFGcmFtZSBkZiA9CiAgICAgICAgY3R4LnNxbCgiU0VMRUNUICogZnJvbSBkb3BwbGVyX2RhdGFfYXVkaW86YW1sIFVOSU9OIFNFTEVDVCAqIGZyb20gZG9wcGxlcl9kYXRhX2F1ZGlvIik7CiAgICBkZi5zYXZlKCJvdXRwdXRfdGFibGUiKTsKICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBJbW11dGFibGVMaXN0Lm9mKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIHVodWFsUmV3cml0ZVN0YXRlbWVudCA9IG5ldyBVaHVhbFRhYmxlSW5kZW50aWZpZXJSZXdyaXRlcigpCi8vICAgICAgLnByb2Nlc3Moc3RhdGVtZW50KQovLyAgICAgIC5hc0luc3RhbmNlT2ZbU3RhdGVtZW50XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBJbW11dGFibGVNYXAub2YoKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBJbW11dGFibGVMaXN0Lm9mKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBJbW11dGFibGVNYXAub2YoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\ckerberos</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVDYWNoaW5nS2VyYmVyb3NIYWRvb3BBdXRoZW50aWNhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>\ckerberos</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVDYWNoaW5nS2VyYmVyb3NIYWRvb3BBdXRoZW50aWNhdGlvblw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUVHJhbnNwb3J0XD4=</entry>
         <entry encoding="base64">XDxUcmFuc3BvcnRcPg==</entry>
         <entry encoding="base64">XDxIb3N0QW5kUG9ydFw+</entry>
         <entry encoding="base64">XDxhZGRyZXNzXD4=</entry>
@@ -1045,6 +1060,7 @@
         <entry>authentication\c</entry>
         <entry>kerberos</entry>
         <entry>\ckerberos</entry>
+        <entry encoding="base64">XDxjcmVhdGVDYWNoaW5nS2VyYmVyb3NIYWRvb3BBdXRoZW50aWNhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
@@ -1064,9 +1080,9 @@
         <entry>2052</entry>
         <entry>e</entry>
         <entry>225</entry>
-        <entry>w</entry>
         <entry>SyntasticCheck</entry>
         <entry>Errors</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
