@@ -488,8 +488,8 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/BridgingHiveMetastore.java" timestamp="1557511257080">
         <mark key="'" line="79" column="24" />
       </file>
-      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1557272147350">
-        <mark key="'" line="273" column="27" />
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1558381719335">
+        <mark key="'" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameReader.scala" timestamp="1543458699207">
         <mark key="'" line="430" column="69" />
@@ -879,9 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="54" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/HiveMetastoreClientFactory.java" />
-      <jump line="31" column="39" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/HiveMetastoreClientFactory.java" />
-      <jump line="57" column="45" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/HiveMetastoreClientFactory.java" />
       <jump line="42" column="38" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/Transport.java" />
       <jump line="49" column="13" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastoreClient.java" />
       <jump line="253" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
@@ -979,6 +976,9 @@
       <jump line="9" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/UpmPrestoConnection.scala" />
       <jump line="17" column="46" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/RawThriftCall.java" />
       <jump line="13" column="612" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testDatasetWithDynamicPartitionSpecPresto__physicalplan.json" />
+      <jump line="314" column="43" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="17" column="12" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="19" column="29" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -991,7 +991,7 @@
         <text>NoHiveMetastoreAuthentication</text>
       </register>
       <register name="/" type="4">
-        <text>SELECT</text>
+        <text>UDF</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRlci5iaW5kKEhpdmVNZXRhc3RvcmVBdXRoZW50aWNhdGlvbi5jbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgLnRvKEtlcmJlcm9zSGl2ZU1ldGFzdG9yZUF1dGhlbnRpY2F0aW9uLmNsYXNzKQogICAgICAgICAgICAgICAgICAgICAgICAuaW4oU0lOR0xFVE9OKTsKICAgICAgICAgICAgICAgIGNvbmZpZ0JpbmRlcihiaW5kZXIpLmJpbmRDb25maWcoTWV0YXN0b3JlS2VyYmVyb3NDb25maWcuY2xhc3MpOwo=</text>
@@ -1028,17 +1028,16 @@
       </register>
     </registers>
     <search>
-      <last-search>SELECT</last-search>
+      <last-search>UDF</last-search>
       <last-offset />
-      <last-pattern>SELECT</last-pattern>
+      <last-pattern>UDF</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVSYXdcPg==</entry>
         <entry encoding="base64">XDxhZGRyZXNzZXNcPg==</entry>
         <entry>\cinjector</entry>
         <entry encoding="base64">XDxfbW9kdWxlTG9hZGVyXD4=</entry>
@@ -1058,6 +1057,7 @@
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>injector</entry>
         <entry>SELECT</entry>
+        <entry>UDF</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
