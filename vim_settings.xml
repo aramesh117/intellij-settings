@@ -69,6 +69,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/expression/SparkExpressionFactory.scala" timestamp="1543952088031">
         <mark key="'" line="45" column="6" />
       </file>
+      <file name="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismNamespaceManager.java" timestamp="1558397449732">
+        <mark key="'" line="80" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/net/sf/py4j/py4j/0.10.6/py4j-0.10.6-sources.jar!/py4j/GatewayServer.java" timestamp="1552414984311">
         <mark key="'" line="91" column="46" />
       </file>
@@ -879,7 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="38" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/Transport.java" />
       <jump line="49" column="13" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastoreClient.java" />
       <jump line="253" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
       <jump line="92" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
@@ -979,6 +981,7 @@
       <jump line="314" column="43" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="17" column="12" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="19" column="29" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
+      <jump line="80" column="0" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismNamespaceManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -991,7 +994,7 @@
         <text>NoHiveMetastoreAuthentication</text>
       </register>
       <register name="/" type="4">
-        <text>UDF</text>
+        <text>rewrite\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmRlci5iaW5kKEhpdmVNZXRhc3RvcmVBdXRoZW50aWNhdGlvbi5jbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgLnRvKEtlcmJlcm9zSGl2ZU1ldGFzdG9yZUF1dGhlbnRpY2F0aW9uLmNsYXNzKQogICAgICAgICAgICAgICAgICAgICAgICAuaW4oU0lOR0xFVE9OKTsKICAgICAgICAgICAgICAgIGNvbmZpZ0JpbmRlcihiaW5kZXIpLmJpbmRDb25maWcoTWV0YXN0b3JlS2VyYmVyb3NDb25maWcuY2xhc3MpOwo=</text>
@@ -1028,9 +1031,9 @@
       </register>
     </registers>
     <search>
-      <last-search>UDF</last-search>
+      <last-search>rewrite\c</last-search>
       <last-offset />
-      <last-pattern>UDF</last-pattern>
+      <last-pattern>rewrite\c</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1038,7 +1041,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRyZXNzZXNcPg==</entry>
         <entry>\cinjector</entry>
         <entry encoding="base64">XDxfbW9kdWxlTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxpbmplY3Rvclw+</entry>
@@ -1058,6 +1060,7 @@
         <entry>injector</entry>
         <entry>SELECT</entry>
         <entry>UDF</entry>
+        <entry>rewrite\c</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
