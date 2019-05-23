@@ -473,8 +473,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1558377326593">
-        <mark key="'" line="21" column="13" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1558654368453">
+        <mark key="'" line="1693" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -831,6 +831,11 @@
       <file name="$MAVEN_REPOSITORY$/log4j/apache-log4j-extras/1.1/apache-log4j-extras-1.1.jar!/org/apache/log4j/PropertyConfigurator.class" timestamp="1556666094767">
         <mark key="'" line="93" column="21" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1558654145051">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="17" column="52" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/AllColumns.class" timestamp="1555115494372">
         <mark key="'" line="12" column="16" />
       </file>
@@ -882,9 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="13" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastoreClient.java" />
-      <jump line="253" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
-      <jump line="92" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
       <jump line="90" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
       <jump line="104" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
       <jump line="33" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastoreClient.class" />
@@ -982,13 +984,16 @@
       <jump line="17" column="12" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="19" column="29" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="80" column="0" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismNamespaceManager.java" />
+      <jump line="14" column="12" filename="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
+      <jump line="1693" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBtZXRhc3RvcmVVUklzID0gcHJlc3RvQ29ubmVjdGlvbi5pbmplY3Rvci5nZXRJbnN0YW5jZShjbGFzc09mW1N0YXRpY01ldGFzdG9yZUNvbmZpZ10pLmdldE1ldGFzdG9yZVVyaXMKICAgIExPRy5pbmZvKHMiVGhlIG1ldGFzdG9yZSBVUklzIGFyZSAkbWV0YXN0b3JlVVJJcyIpCg==</text>
+        <text encoding="base64">LVhtczRnCi1YbXg0ZwotWFg6UmVzZXJ2ZWRDb2RlQ2FjaGVTaXplPTI0MG0KLVhYOitVc2VDb21wcmVzc2VkT29wcwotRGZpbGUuZW5jb2Rpbmc9VVRGLTgKLVhYOitVc2VDb25jTWFya1N3ZWVwR0MKLVhYOlNvZnRSZWZMUlVQb2xpY3lNU1Blck1CPTUwCi1lYQotRHN1bi5pby51c2VDYW5vbkNhY2hlcz1mYWxzZQotRGphdmEubmV0LnByZWZlcklQdjRTdGFjaz10cnVlCi1YWDorSGVhcER1bXBPbk91dE9mTWVtb3J5RXJyb3IKLVhYOi1PbWl0U3RhY2tUcmFjZUluRmFzdFRocm93Ci1YdmVyaWZ5Om5vbmUKCi1YWDpFcnJvckZpbGU9JFVTRVJfSE9NRS9qYXZhX2Vycm9yX2luX2lkZWFfJXAubG9nCi1YWDpIZWFwRHVtcFBhdGg9JFVTRVJfSE9NRS9qYXZhX2Vycm9yX2luX2lkZWEuaHByb2YK</text>
       </register>
       <register name="-" type="4">
         <text>NoHiveMetastoreAuthentication</text>
