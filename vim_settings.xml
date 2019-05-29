@@ -240,12 +240,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/analyzer/StatementAnalyzer.class" timestamp="1557768312240">
         <mark key="'" line="604" column="67" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/UpmPrestoConnection.scala" timestamp="1559161235475">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/UpmPrestoConnection.scala" timestamp="1559168241270">
+        <mark key="'" line="50" column="14" />
         <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="64" />
-        <mark key="." line="50" column="61" />
-        <mark key="^" line="50" column="61" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-api/2.1.8.1/painkiller-api-2.1.8.1-sources.jar!/com/facebook/di/metastore/api/Table.java" timestamp="1557973796395">
         <mark key="'" line="189" column="11" />
@@ -486,11 +485,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1558742714040">
-        <mark key="'" line="293" column="4" />
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559168807841">
+        <mark key="'" line="62" column="12" />
+        <mark key="[" line="91" column="30" />
+        <mark key="]" line="91" column="30" />
+        <mark key="." line="91" column="30" />
+        <mark key="^" line="91" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -592,12 +592,12 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" timestamp="1558383928833">
         <mark key="'" line="163" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" timestamp="1559161141209">
-        <mark key="'" line="38" column="14" />
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="37" column="34" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" timestamp="1559168913641">
+        <mark key="'" line="37" column="14" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="36" column="34" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testUIDRewrite__physicalplan.json" timestamp="1543964787981">
         <mark key="'" line="92" column="4" />
@@ -628,6 +628,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/groups/shadow_664f6640_fea3_44cd_ade4_e12da4f9f702_tmp_pvc_2dfaf00a_a29e_47e9_8f14_08e05848cf08.json" timestamp="1557168090885">
         <mark key="'" line="8" column="7" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/security/HiveSecurityModule.class" timestamp="1559168898096">
+        <mark key="'" line="22" column="48" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/PartitionSchedulerTest__testPartitionWithLatestDs__2__physicalplan.json" timestamp="1544079141092">
         <mark key="'" line="39" column="13" />
@@ -908,14 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
-      <jump line="45" column="13" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
-      <jump line="39" column="33" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/HiveAuthenticationModule.java" />
-      <jump line="1310" column="4" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
-      <jump line="1324" column="0" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
-      <jump line="391" column="4" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
-      <jump line="125" column="64" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
-      <jump line="947" column="29" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
       <jump line="954" column="59" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
       <jump line="929" column="27" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
       <jump line="970" column="8" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveClientConfig.java" />
@@ -994,8 +989,6 @@
       <jump line="293" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="19" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="24" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="17" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/authentication/HiveAuthenticationModule.class" />
-      <jump line="36" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" />
       <jump line="68" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
       <jump line="67" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
       <jump line="61" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
@@ -1008,49 +1001,59 @@
       <jump line="818" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/HiveClientConfig.class" />
       <jump line="90" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/HiveClientConfig.class" />
       <jump line="964" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/HiveClientConfig.class" />
+      <jump line="64" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="51" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="50" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/UpmPrestoConnection.scala" />
+      <jump line="27" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="62" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="22" column="48" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/security/HiveSecurityModule.class" />
+      <jump line="36" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" />
+      <jump line="29" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/HiveMetastoreModule.java" />
+      <jump line="37" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" />
+      <jump line="17" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/authentication/HiveAuthenticationModule.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5wdXQoImhpdmUubWV0YXN0b3JlLmF1dGhlbnRpY2F0aW9uLnR5cGUiLCAiS0VSQkVST1MiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5ldyBIaXZlTWV0YXN0b3JlTW9kdWxlKCksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>java -cp jars/upm-assembly.jar com.facebook.upm.engine.TestPrestoHive bi bi dim_all_users</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZGRQcm9kdWNlRGF0YXNldHNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>hive.metastore.authentication.type</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFVwbURhdGFzZXQgcHJvZHVjZXNEYXRhc2V0ID0KICAgICAgICBuZXcgVXBtRGF0YXNldCgKICAgICAgICAgICAgInNyYzEiLAogICAgICAgICAgICBJbW11dGFibGVNYXAub2YoCiAgICAgICAgICAgICAgICAiZHMiLAogICAgICAgICAgICAgICAgbmV3IEluT3BlcmF0aW9uKEltbXV0YWJsZUxpc3Qub2YoIjxEQVRBU0VUX1NQRUNfU1RBUlQ6REFURUlEOkRBVEFTRVRfU1BFQ19FTkQ+IikpKSwKICAgICAgICAgICAgImludGVybmFsX2RhdGFzZXRfMCIsCiAgICAgICAgICAgIEltbXV0YWJsZU1hcC5vZigpLAogICAgICAgICAgICBJbnRlcnZhbC5OT05FLnRvU3RyaW5nKCksIG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5ldyBIaXZlTWV0YXN0b3JlTW9kdWxlKCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGFibGVQcm9wZXJ0aWVzLnB1dEFsbCh0YWJsZVByb3BlcnRpZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKyAiICAgIFwidGFibGVQcm9wZXJ0aWVzXCIgOiB7IH0sXG4iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygKICAgICAgICAie1xuIgogICAgICAgICAgICArICIgIFwidXBtZGF0YXNldHMuaW50ZXJuYWxfZGF0YXNldF8wXCIgOiB7XG4iCiAgICAgICAgICAgICsgIiAgICBcInRhYmxlTmFtZVwiIDogXCJzcmMxXCIsXG4iCiAgICAgICAgICAgICsgIiAgICBcInBhcnRpdGlvbnNcIiA6IHtcbiIKICAgICAgICAgICAgKyAiICAgICAgXCJkc1wiIDoge1xuIgogICAgICAgICAgICArICIgICAgICAgIFwidHlwZVwiIDogXCJpblwiLFxuIgogICAgICAgICAgICArICIgICAgICAgIFwib3B0aW9uc1wiIDogWyBcIjxEQVRBU0VUX1NQRUNfU1RBUlQ6REFURUlEOkRBVEFTRVRfU1BFQ19FTkQ+XCIgXVxuIgogICAgICAgICAgICArICIgICAgICB9XG4iCiAgICAgICAgICAgICsgIiAgICB9LFxuIgogICAgICAgICAgICArICIgICAgXCJ0YWJsZUFsaWFzXCIgOiBcInVwbWRhdGFzZXRzLmludGVybmFsX2RhdGFzZXRfMFwiLFxuIgogICAgICAgICAgICArICIgICAgXCJwYXNzdGhyb3VnaFByb3BlcnRpZXNcIiA6IHsgfSxcbiIKICAgICAgICAgICAgKyAiICAgIFwidGFibGVQcm9wZXJ0aWVzXCIgOiB7IH0sXG4iCiAgICAgICAgICAgICsgIiAgICBcImludGVydmFsXCIgOiBcIlwiXG4iCiAgICAgICAgICAgICsgIiAgfVxuIgogICAgICAgICAgICArICJ9IiwKICAgICAgICBFbmdpbmVVdGlscy5nZXRPYmplY3RNYXBwZXIoKS53cml0ZVZhbHVlQXNTdHJpbmcoY3R4LmdldENvbnN1bWVkRGF0YXNldHMoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5wdXQoImhpdmUubWV0YXN0b3JlLmF1dGhlbnRpY2F0aW9uLnR5cGUiLCAiS0VSQkVST1MiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ldyBIaXZlU2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBAVGUK</text>
+        <text encoding="base64">ICAgIHRoaXMudGFibGVQcm9wZXJ0aWVzLnB1dEFsbCh0YWJsZVByb3BlcnRpZXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3REYXRhZnJhbWVBbGlhc0R1cGxpY2F0ZUNvbHVtbnMoKSB0aHJvd3MgVXBtRXhjZXB0aW9uIHsKICAgIENvbnRleHQgY3R4ID0gZ2V0Q29udGV4dCgiYmkiKTsKICAgIERhdGFGcmFtZSBkYXRhZnJhbWUgPSBjdHguc3FsKCJTRUxFQ1QgKiBGUk9NIGJpLnNyYyIpOwogICAgZGF0YWZyYW1lLmFsaWFzKEltbXV0YWJsZUxpc3Qub2YoImtleSIsICJ2YWx1ZSIpLCBJbW11dGFibGVMaXN0Lm9mKCJrZXkiLCAia2V5IikpCiAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5ldyBIaXZlU2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1063,7 +1066,7 @@
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
