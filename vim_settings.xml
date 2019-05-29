@@ -585,8 +585,8 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLHashUDF.java" timestamp="1558383928833">
         <mark key="'" line="163" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" timestamp="1558229943846">
-        <mark key="'" line="48" column="31" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" timestamp="1559159106177">
+        <mark key="'" line="36" column="14" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -673,7 +673,7 @@
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/RecordingHiveMetastore.java" timestamp="1557866980491">
         <mark key="'" line="110" column="8" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" timestamp="1558234743334">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/TestPrestoHive.scala" timestamp="1559159077656">
         <mark key="'" line="15" column="31" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -900,7 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/HiveMetastoreModule.java" />
       <jump line="8" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/HiveMetastoreModule.java" />
       <jump line="2" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/HiveMetastoreModule.java" />
       <jump line="47" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/HiveMetastoreModule.java" />
@@ -932,7 +931,6 @@
       <jump line="114" column="4" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/AuthenticationModules.java" />
       <jump line="102" column="24" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveConnectorFactory.java" />
       <jump line="17" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/prism/metastore/PrismMetastoreModule.class" />
-      <jump line="36" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" />
       <jump line="32" column="47" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/security/HiveSecurityModule.java" />
       <jump line="26" column="52" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/security/SqlStandardSecurityModule.java" />
       <jump line="36" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/UpmPrestoConnection.scala" />
@@ -1000,6 +998,8 @@
       <jump line="293" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="19" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="24" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="36" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" />
+      <jump line="17" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/authentication/HiveAuthenticationModule.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1055,7 +1055,7 @@
       <last-replace />
       <last-substitute encoding="base64">XDxnZXRWYWxpZGF0aW9uVGhyZXNob2xkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
