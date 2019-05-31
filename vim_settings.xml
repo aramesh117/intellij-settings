@@ -297,12 +297,12 @@
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/HiveAuthenticationModule.java" timestamp="1558229597699">
         <mark key="'" line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1559334358512">
-        <mark key="'" line="129" column="8" />
-        <mark key="[" line="138" column="74" />
-        <mark key="]" line="142" column="7" />
-        <mark key="." line="142" column="7" />
-        <mark key="^" line="142" column="7" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1559341021556">
+        <mark key="'" line="140" column="61" />
+        <mark key="[" line="129" column="53" />
+        <mark key="]" line="129" column="53" />
+        <mark key="." line="129" column="53" />
+        <mark key="^" line="129" column="65" />
       </file>
       <file name="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/metastore/TestCachingHiveMetastore.java" timestamp="1557806338272">
         <mark key="'" line="87" column="31" />
@@ -500,12 +500,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559335746244">
-        <mark key="'" line="1879" column="13" />
-        <mark key="[" line="163" column="8" />
-        <mark key="]" line="163" column="6" />
-        <mark key="." line="163" column="6" />
-        <mark key="^" line="163" column="6" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559340792825">
+        <mark key="'" line="438" column="4" />
+        <mark key="[" line="440" column="55" />
+        <mark key="]" line="440" column="56" />
+        <mark key="." line="440" column="56" />
+        <mark key="^" line="440" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -531,7 +531,6 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" timestamp="1558383576488">
         <mark key="'" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/TraceDataTest.java" timestamp="1559335497196" />
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameReader.scala" timestamp="1543458699207">
         <mark key="'" line="430" column="69" />
       </file>
@@ -821,8 +820,8 @@
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/Session.java" timestamp="1557778038718">
         <mark key="'" line="502" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1559335573689">
-        <mark key="'" line="66" column="61" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" timestamp="1559336565838">
+        <mark key="'" line="154" column="13" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/infrastructure/rcu_st.json" timestamp="1559256618006">
         <mark key="[" line="0" column="0" />
@@ -919,20 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2479" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio.json" />
-      <jump line="1850" column="105" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="1843" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="1842" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="1816" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="1811" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="137" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio.json" />
-      <jump line="33" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio.json" />
-      <jump line="134" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/aml/doppler_data_audio.json" />
-      <jump line="74" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="44" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/logical/UpmAddDatasetPartitionProjections.scala" />
-      <jump line="30" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="27" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
       <jump line="16" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
       <jump line="142" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoAstRewriterBase.java" />
       <jump line="17" column="25" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/Query.class" />
@@ -985,7 +970,6 @@
       <jump line="142" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="101" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/SeqLike.scala" />
-      <jump line="140" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="600" column="2" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/scala/collection/SeqLike.scala" />
       <jump line="1859" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="57" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
@@ -1019,71 +1003,80 @@
       <jump line="1817" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="1879" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="66" column="61" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="117" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="7" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="8" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="9" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="58" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="89" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="134" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="154" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
+      <jump line="1695" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="370" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="440" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="437" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="476" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="438" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="140" column="61" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>expected = UpmException.class</text>
+        <text>.toLowerCase()</text>
       </register>
       <register name="-" type="4">
-        <text>expected = UpmException.class</text>
+        <text>.toLowerCase()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxDb2xUeXBlc1w+</text>
+        <text encoding="base64">XDxhbGxDb2xUeXBlc01hcFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmV3U2VsZWN0SXRlbXMuYWRkKGl0ZW0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">YWxsQ29sVHlwZXMuZmlsdGVyKHsKICAgICAgY2FzZSAoZmllbGROYW1lLCBfKSA9PiBzdGF0aWNQYXJ0Q29scy5jb250YWlucyhmaWVsZE5hbWUpCiAgICB9KQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LmZhaWwoCiAgICAgICAgICAiVGhpcyBpcyBpbnZhbGlkIGJlY2F1c2UgdGhlIHByb2plY3Rpb24gaW5jbHVkZXMgYW4gYW4gZXhwbGljaXRseSBkZWZpbmVkIGRhdGFzZXQgcGFydGl0aW9uLiIpOwogICAgfSBjYXRjaCAoVXBtRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">YWxsQ29sVHlwZXMuZmlsdGVyKHsKICAgICAgY2FzZSAoZmllbGROYW1lLCBfKSA9PiBzdGF0aWNQYXJ0Q29scy5jb250YWlucyhmaWVsZE5hbWUpCiAgICB9KQ==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3U2VsZWN0SXRlbXMuYWRkKGl0ZW0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ld1NlbGVjdEl0ZW1zLmFkZChpdGVtKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gRG8gbm90IGFkZCB0byB0aGUgc2VsZWN0IGl0ZW1zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxDb2xUeXBlc1w+</last-search>
+      <last-search encoding="base64">XDxhbGxDb2xUeXBlc01hcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxDb2xUeXBlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhbGxDb2xUeXBlc01hcFw+</last-pattern>
       <last-replace>\\</last-replace>
       <last-substitute>\\\\</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">c2VydmVyX2NvdW50ID49</entry>
-        <entry>tableId&quot;: 7</entry>
-        <entry>upm_shadow</entry>
-        <entry encoding="base64">XDxJbW11dGFibGVNYXBcPg==</entry>
-        <entry encoding="base64">XDx1cG1fc2hhZG93X2YxMTc5MTE2OTJfc2RfcHJvamVjdGlvbl9tb2RlbF9mY3N0XD4=</entry>
-        <entry encoding="base64">XDw3XD4=</entry>
         <entry>AllColumns</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>ds</entry>
@@ -1098,6 +1091,12 @@
         <entry encoding="base64">XDxnZXRDb2x1bW5UeXBlc0xpc3RcPg==</entry>
         <entry encoding="base64">XDxzcWxDcmVhdGVUYWJsZVw+</entry>
         <entry encoding="base64">XDxhbGxDb2xUeXBlc1w+</entry>
+        <entry>\cinfer</entry>
+        <entry>fail</entry>
+        <entry>Invalid</entry>
+        <entry>\cinvalid</entry>
+        <entry encoding="base64">XDxoaW50c1w+</entry>
+        <entry encoding="base64">XDxhbGxDb2xUeXBlc01hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.booleanValue()//g</entry>
