@@ -129,8 +129,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextV2.java" timestamp="1554499783611">
         <mark key="'" line="122" column="6" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1555462193669">
-        <mark key="'" line="11" column="9" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" timestamp="1559347059962">
+        <mark key="'" line="31" column="9" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/fct_post_production.json" timestamp="1540839619762">
         <mark key="'" line="6" column="2" />
@@ -596,8 +596,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testUIDRewrite__physicalplan.json" timestamp="1543964787981">
         <mark key="'" line="92" column="4" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" timestamp="1554499727897">
-        <mark key="'" line="47" column="49" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" timestamp="1559347284238">
+        <mark key="'" line="26" column="6" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/ProcessEnvironment.java" timestamp="1549323904984">
         <mark key="'" line="96" column="35" />
@@ -893,26 +893,14 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/testgenerator/TestTableGenerator.java" timestamp="1556044486170">
         <mark key="'" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1559345949894">
-        <mark key="'" line="40" column="13" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1559347270069">
+        <mark key="'" line="104" column="17" />
       </file>
       <file name="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/metastore/thrift/MockHiveMetastoreClient.java" timestamp="1557796130105">
         <mark key="'" line="96" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoAstRewriterBase.java" />
-      <jump line="17" column="25" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/Query.class" />
-      <jump line="7" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/core_metrics_growth_accounting.json" />
-      <jump line="289" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/core_metrics_growth_accounting.json" />
-      <jump line="272" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/core_metrics_growth_accounting.json" />
-      <jump line="1844" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="293" column="56" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismNamespaceManager.java" />
-      <jump line="45" column="18" filename="$USER_HOME$/git/presto-facebook/presto-namespace-client/src/main/java/com/facebook/presto/prism/namespace/PrismNamespace.java" />
-      <jump line="286" column="43" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismNamespaceManager.java" />
-      <jump line="9" column="19" filename="$USER_HOME$/git/presto-facebook/presto-namespace-client/src/main/java/com/facebook/presto/prism/namespace/PrismNamespace.java" />
-      <jump line="86" column="37" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismNamespaceManager.java" />
-      <jump line="276" column="55" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismNamespaceManager.java" />
       <jump line="25" column="19" filename="$USER_HOME$/git/presto-facebook/presto-namespace-client/src/main/java/com/facebook/presto/prism/namespace/PrismServiceClient.java" />
       <jump line="218" column="58" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismNamespaceManager.java" />
       <jump line="1806" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
@@ -1001,6 +989,18 @@
       <jump line="438" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="140" column="61" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="40" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
+      <jump line="2" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="10" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="11" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="12" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="13" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="14" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="19" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="25" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="31" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmConfiguration.java" />
+      <jump line="101" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
+      <jump line="104" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
+      <jump line="26" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1013,7 +1013,7 @@
         <text>.toLowerCase()</text>
       </register>
       <register name="/" type="4">
-        <text>stop(</text>
+        <text encoding="base64">XDxzY2hlZHVsZVBsYW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmV3U2VsZWN0SXRlbXMuYWRkKGl0ZW0pCg==</text>
@@ -1050,9 +1050,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stop(</last-search>
+      <last-search encoding="base64">XDxzY2hlZHVsZVBsYW5cPg==</last-search>
       <last-offset />
-      <last-pattern>stop(</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hlZHVsZVBsYW5cPg==</last-pattern>
       <last-replace>\\</last-replace>
       <last-substitute>\\\\</last-substitute>
       <last-dir>1</last-dir>
@@ -1060,8 +1060,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9tXD4=</entry>
-        <entry>ds</entry>
         <entry>toString</entry>
         <entry>CREAE</entry>
         <entry>CREATE</entry>
@@ -1079,7 +1077,9 @@
         <entry>\cinvalid</entry>
         <entry encoding="base64">XDxoaW50c1w+</entry>
         <entry encoding="base64">XDxhbGxDb2xUeXBlc01hcFw+</entry>
+        <entry>\cstatic</entry>
         <entry>stop(</entry>
+        <entry encoding="base64">XDxzY2hlZHVsZVBsYW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.booleanValue()//g</entry>
