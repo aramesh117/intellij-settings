@@ -298,6 +298,7 @@
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/authentication/HiveAuthenticationModule.java" timestamp="1558229597699">
         <mark key="'" line="39" column="33" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1559599086181" />
       <file name="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/metastore/TestCachingHiveMetastore.java" timestamp="1557806338272">
         <mark key="'" line="87" column="31" />
       </file>
@@ -506,8 +507,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559592620074">
-        <mark key="'" line="1919" column="49" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559598278630">
+        <mark key="[" line="2014" column="13" />
+        <mark key="]" line="2014" column="49" />
+        <mark key="." line="2059" column="0" />
+        <mark key="^" line="2011" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -944,13 +948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="121" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="105" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="17" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="52" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="98" column="72" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="117" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="1821" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="146" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
@@ -1003,7 +1000,6 @@
       <jump line="89" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="134" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
       <jump line="154" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DataFrameTest.java" />
-      <jump line="1695" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="370" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="440" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="437" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
@@ -1044,70 +1040,73 @@
       <jump line="22" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/AnalysisUtils.scala" />
       <jump line="75" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/analyzer/Field.class" />
       <jump line="1919" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="1999" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="1736" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="2028" column="1005" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="197" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="1695" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="2014" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="1796" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="2035" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAKICBAVGVzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>ig_users_hourly_source_unified_shadow</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA=</text>
+        <text>ig_users_hourly_source_unified_shadow</text>
       </register>
       <register name="/" type="4">
-        <text>contin</text>
+        <text>Delete</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIlNFTEVDVFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgc3JlZ2lvbiBBUyBzb3VyY2UsXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBkcmVnaW9uIEFTIGRlc3RpbmF0aW9uLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgSUYoaXNfZWJiLCAnRUJCJywgJ0NCQicpIEFTIGJhY2tib25lLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgTlVMTCBBUyBjb250aW5lbnRhbF9yZWdpb24sXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBDQVNUKE1BUCgpIEFTIE1BUChWQVJDSEFSLCBWQVJDSEFSKSkgQVMgZGltZW5zaW9ucyxcbiIKICAgICAgICAgICAgICAgICsgIiAgICAgICAgICAgIFNVTShnYnBzKSBBUyBnYnBzLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgZGF0ZSBhcyBkc1xuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICBGUk9NIChTRUxFQ1QgKiBGUk9NIHVwbV9zaGFkb3dfZjExODE2NzAyNl9vcmFjbGVfcmVnaW9uX3BhaXJfZm9yZWNhc3QgV0hFUkUgZHMgPSAnMjAxOS0wNS0wNycgQU5EIGZvcmVjYXN0X3ZlcnNpb24gPSAncG9yX21heTIwMTlfOTBfMTBfYmJtb3ZlX2FkZHN2YycpIFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICBHUk9VUCBCWSAxLCAyLCAzLCA0LCA1LCA3XG4iCiAgICAgICAgICAgICAgICArICIgICAgIg==</text>
+        <text>ig_users_hourly_source_unified_shadow</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBAVGVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wdXQoInVua25vd24iLCBEYXRhVHlwZXMuTnVsbFR5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICsgY29uc3VtZXNEYXRhc2V0LmdldE5hbWUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHQuYWRkQ29uc3VtZWREYXRhc2V0cyhjb25zdW1lc0RhdGFzZXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAVGVzdAo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQuYWRkUHJvZHVjZURhdGFzZXRzKEltbXV0YWJsZU1hcC5vZigidXBtZGF0YXNldHMuaW50ZXJuYWxfZGF0YXNldF8wIiwgcHJvZHVjZXNEYXRhc2V0KSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJkcyIsCiAgICAgICAgICAgICAgICBuZXcgSW5PcGVyYXRpb24oCiAgICAgICAgICAgICAgICAgICAgSW1tdXRhYmxlTGlzdC5vZigiPERBVEFTRVRfU1BFQ19TVEFSVDpEQVRFSUQ6REFUQVNFVF9TUEVDX0VORD4iKSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRmLnNhdmUoIm91dHB1dCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnRleHQuYWRkQ29uc3VtZWREYXRhc2V0cyhJbW11dGFibGVNYXAub2YoInVwbWRhdGFzZXRzLmludGVybmFsX2RhdGFzZXRfMSIsIGNvbnN1bWVzRGF0YXNldCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RVbmtub3duVHlwZSgpIHRocm93cyBVcG1FeGNlcHRpb24gewogICAgQ29udGV4dCBjdHggPSBnZXRDb250ZXh0KCJpbmZyYXN0cnVjdHVyZSIpOwogICAgRGF0YUZyYW1lIGRmID0KICAgICAgICBjdHguc3FsKAogICAgICAgICAgICAiU0VMRUNUXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBzcmVnaW9uIEFTIHNvdXJjZSxcbiIKICAgICAgICAgICAgICAgICsgIiAgICAgICAgICAgIGRyZWdpb24gQVMgZGVzdGluYXRpb24sXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBJRihpc19lYmIsICdFQkInLCAnQ0JCJykgQVMgYmFja2JvbmUsXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBOVUxMIEFTIGNvbnRpbmVudGFsX3JlZ2lvbixcbiIKICAgICAgICAgICAgICAgICsgIiAgICAgICAgICAgIENBU1QoTUFQKCkgQVMgTUFQKFZBUkNIQVIsIFZBUkNIQVIpKSBBUyBkaW1lbnNpb25zLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgU1VNKGdicHMpIEFTIGdicHMsXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBkYXRlIGFzIGRzXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgIEZST00gKFNFTEVDVCAqIEZST00gdXBtX3NoYWRvd19mMTE4MTY3MDI2X29yYWNsZV9yZWdpb25fcGFpcl9mb3JlY2FzdCBXSEVSRSBkcyA9ICcyMDE5LTA1LTA3JyBBTkQgZm9yZWNhc3RfdmVyc2lvbiA9ICdwb3JfbWF5MjAxOV85MF8xMF9iYm1vdmVfYWRkc3ZjJykgXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgIEdST1VQIEJZIDEsIDIsIDMsIDQsIDUsIDdcbiIKICAgICAgICAgICAgICAgICsgIiAgICAiKTsKICAgIGRmLnNhdmUoIm91dHB1dCIpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgVXBtRGF0YXNldCBwcm9kdWNlc0RhdGFzZXQgPQogICAgICAgICAgbmV3IFVwbURhdGFzZXQoCiAgICAgICAgICAgICAgInNyYyIsCiAgICAgICAgICAgICAgSW1tdXRhYmxlTWFwLm9mKAogICAgICAgICAgICAgICAgICAiZGV2aWNlaWQiLCBuZXcgTWF0Y2hPcGVyYXRpb24oIioiKSksCiAgICAgICAgICAgICAgTmFtZXNwYWNlcy5VUE1EQVRBU0VUU19OQU1FU1BBQ0UoKSArICIuaW50ZXJuYWxfZGF0YXNldF8wIiwKICAgICAgICAgICAgICBJbW11dGFibGVNYXAub2YoKSwKICAgICAgICAgICAgICBJbnRlcnZhbC5OT05FLnRvU3RyaW5nKCkpOwoKICAgICAgQ29udGV4dCBjb250ZXh0ID0gZ2V0Q29udGV4dCgiaW5zdGFncmFtIik7CgogICAgICBjb250ZXh0LmFkZFByb2R1Y2VEYXRhc2V0cyhJbW11dGFibGVNYXAub2YoInVwbWRhdGFzZXRzLmludGVybmFsX2RhdGFzZXRfMCIsIHByb2R1Y2VzRGF0YXNldCkpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgImRzIiwKICAgICAgICAgICAgICAgICAgbmV3IEluT3BlcmF0aW9uKAogICAgICAgICAgICAgICAgICAgICAgSW1tdXRhYmxlTGlzdC5vZigiPERBVEFTRVRfU1BFQ19TVEFSVDpEQVRFSUQ6REFUQVNFVF9TUEVDX0VORD4iKSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>contin</last-search>
+      <last-search>Delete</last-search>
       <last-offset />
-      <last-pattern>contin</last-pattern>
+      <last-pattern>Delete</last-pattern>
       <last-replace>\\</last-replace>
       <last-substitute>\\\\</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY2hlbWFOYW1lVHlwZXNcPg==</entry>
-        <entry>filter</entry>
-        <entry encoding="base64">XDxleHBhbmRlZFNlbGVjdEl0ZW1zXD4=</entry>
-        <entry encoding="base64">XDxnZXRDb2x1bW5UeXBlc0xpc3RcPg==</entry>
-        <entry encoding="base64">XDxzcWxDcmVhdGVUYWJsZVw+</entry>
         <entry encoding="base64">XDxhbGxDb2xUeXBlc1w+</entry>
         <entry>\cinfer</entry>
         <entry>fail</entry>
@@ -1123,6 +1122,11 @@
         <entry>DELETE</entry>
         <entry>continental</entry>
         <entry>contin</entry>
+        <entry>tmp</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDxpZ191c2Vyc19zb3VyY2VfdW5pZmllZF9zaGFkb3dcPg==</entry>
+        <entry>WHERE</entry>
+        <entry>Delete</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.booleanValue()//g</entry>
