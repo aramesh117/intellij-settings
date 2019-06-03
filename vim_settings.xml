@@ -394,6 +394,9 @@
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1552592622468">
         <mark key="'" line="1307" column="29" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testProducesConsumes__5__physicalplan.json" timestamp="1559537172022">
+        <mark key="'" line="13" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.2-2/hive-apache-1.2.2-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" timestamp="1557517181301">
         <mark key="'" line="139506" column="56" />
       </file>
@@ -486,6 +489,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559536982874">
+        <mark key="'" line="1991" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -782,6 +788,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/catalog/UpmCatalog.scala" timestamp="1557870127437">
         <mark key="'" line="52" column="6" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testProducesConsumesSql__5__physicalplan.json" timestamp="1559537209871">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/datainfra-metastore/client/src/main/java/com/facebook/di/metastore/ClassicMetastoreClient.java" timestamp="1557533383786">
         <mark key="'" line="693" column="11" />
       </file>
@@ -901,14 +912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="19" filename="$USER_HOME$/git/presto-facebook/presto-namespace-client/src/main/java/com/facebook/presto/prism/namespace/PrismServiceClient.java" />
-      <jump line="218" column="58" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismNamespaceManager.java" />
-      <jump line="1806" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="79" column="3" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
-      <jump line="98" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
-      <jump line="103" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
-      <jump line="159" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi.json" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi.json" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/infrastructure.json" />
       <jump line="1770" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
@@ -1001,58 +1004,66 @@
       <jump line="101" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="104" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
       <jump line="26" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" />
+      <jump line="470" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="1890" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="1887" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="21" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="1991" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="13" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testProducesConsumes__5__physicalplan.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.toLowerCase()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBzb3VyY2U6IDNiYzE4MjM2ZDZlYiBhcmNwYXRjaC1EMTU1ODYzNzEgLSBhcmFtZXNoMTE3OiBGaXggbXVsdGlwbGUgYnUuLi4K</text>
       </register>
       <register name="-" type="4">
         <text>.toLowerCase()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2hlZHVsZVBsYW5cPg==</text>
+        <text encoding="base64">Pj4+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmV3U2VsZWN0SXRlbXMuYWRkKGl0ZW0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBzb3VyY2U6IDNiYzE4MjM2ZDZlYiBhcmNwYXRjaC1EMTU1ODYzNzEgLSBhcmFtZXNoMTE3OiBGaXggbXVsdGlwbGUgYnUuLi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">PDw8PDw8PCBkZXN0OiAgIDk3NzIwNzIxOTE0MCBUNDUxNTQ1NzIgbnVsbF9wcmVzdG9fdHlwZSAtIGNtYXRoZXdzOiBbd2F0Y2ggcGEuLi4KICAgICAgInNpZ25hdHVyZXMiIDogWyAiZTIwNDRjNmYzNGY1ZGZkYWUxNTIzY2MwYjBlM2FhNDUzMmY1YWU0MDIzMGY5NDViNmM2OWVmZjA3YTZlYzZkMSIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBzcmMxIChkcyB2YXJjaGFyKSBXSVRIIChwYXJ0aXRpb25lZF9ieSA9IEFSUkFZWydkcyddLCByZXRlbnRpb25fZGF5cyA9IDMwKSAiLCAiREVMRVRFIEZST00gc3JjMSBXSEVSRSBkcyA9ICc8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRDpEQVRBU0VUX1NQRUNfRU5EPiciLCAiSU5TRVJUIElOVE8gc3JjMSAoZHMpIFNFTEVDVCBkcyBGUk9NIChTRUxFQ1RcbiAgeC5kc1xuLCAnPERBVEFTRVRfU1BFQ19TVEFSVDpEQVRFSUQ6REFUQVNFVF9TUEVDX0VORD4nIGRzXG5GUk9NXG4gIGJpLnRlc3RfZGFpbHlfYWN0aXZlX3VzZXJzX3Jhd19pbmNfYXJjaGl2ZSB4XG5XSEVSRSAoKHguZHMgSU4gKCc8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRDpEQVRBU0VUX1NQRUNfRU5EPicpKSBBTkQgKGRzID0gJ2Zvb2JhcicpKVxuKSIgXSwKPT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmZhaWwoCiAgICAgICAgICAiVGhpcyBpcyBpbnZhbGlkIGJlY2F1c2UgdGhlIHByb2plY3Rpb24gaW5jbHVkZXMgYW4gYW4gZXhwbGljaXRseSBkZWZpbmVkIGRhdGFzZXQgcGFydGl0aW9uLiIpOwogICAgfSBjYXRjaCAoVXBtRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">PDw8PDw8PCBkZXN0OiAgIDk3NzIwNzIxOTE0MCBUNDUxNTQ1NzIgbnVsbF9wcmVzdG9fdHlwZSAtIGNtYXRoZXdzOiBbd2F0Y2ggcGEuLi4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Cmtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2sKCiA=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">YWxsQ29sVHlwZXMuZmlsdGVyKHsKICAgICAgY2FzZSAoZmllbGROYW1lLCBfKSA9PiBzdGF0aWNQYXJ0Q29scy5jb250YWlucyhmaWVsZE5hbWUpCiAgICB9KQ==</text>
+        <text encoding="base64">Cmtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2traw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQXNzZXJ0LmZhaWwoCiAgICAgICAgICAiVGhpcyBpcyBpbnZhbGlkIGJlY2F1c2UgdGhlIHByb2plY3Rpb24gaW5jbHVkZXMgYW4gYW4gZXhwbGljaXRseSBkZWZpbmVkIGRhdGFzZXQgcGFydGl0aW9uLiIpOwogICAgfSBjYXRjaCAoVXBtRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2hlZHVsZVBsYW5cPg==</last-search>
+      <last-search encoding="base64">Pj4+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2hlZHVsZVBsYW5cPg==</last-pattern>
+      <last-pattern encoding="base64">Pj4+</last-pattern>
       <last-replace>\\</last-replace>
       <last-substitute>\\\\</last-substitute>
       <last-dir>1</last-dir>
@@ -1060,7 +1071,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toString</entry>
         <entry>CREAE</entry>
         <entry>CREATE</entry>
         <entry>case class</entry>
@@ -1080,6 +1090,7 @@
         <entry>\cstatic</entry>
         <entry>stop(</entry>
         <entry encoding="base64">XDxzY2hlZHVsZVBsYW5cPg==</entry>
+        <entry encoding="base64">Pj4+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.booleanValue()//g</entry>
@@ -1091,7 +1102,6 @@
         <entry>45</entry>
         <entry>48</entry>
         <entry>2052</entry>
-        <entry>e</entry>
         <entry>225</entry>
         <entry>SyntasticCheck</entry>
         <entry>Errors</entry>
@@ -1101,6 +1111,7 @@
         <entry encoding="base64">JzwsJz5zL1xcL1wvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xcL1w=</entry>
         <entry encoding="base64">JzwsJz5zLFxcXFwsXFwsZw==</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
