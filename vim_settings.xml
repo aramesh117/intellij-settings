@@ -490,8 +490,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559538427802">
-        <mark key="'" line="1978" column="21" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559582759872">
+        <mark key="'" line="1992" column="6" />
+        <mark key="[" line="1998" column="0" />
+        <mark key="]" line="1998" column="0" />
+        <mark key="." line="1998" column="0" />
+        <mark key="^" line="1997" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -918,7 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/infrastructure.json" />
       <jump line="1770" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="1921" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="1822" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
@@ -1018,13 +1021,14 @@
       <jump line="1991" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="13" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testProducesConsumes__5__physicalplan.json" />
       <jump line="1978" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="1992" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">STA1MzEgMTgyMTAwIHF1ZXJ5LnB5OjIwNF0gRXhlY3V0aW5nIHF1ZXJ5OiBcbiAgICAgICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">STA1MzEgMTgyMTAwIHF1ZXJ5LnB5OjIwNF0gRXhlY3V0aW5nIHF1ZXJ5OiBcbiAgICAgICAg</text>
@@ -1036,31 +1040,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmV3U2VsZWN0SXRlbXMuYWRkKGl0ZW0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzb3VyY2U6IDNiYzE4MjM2ZDZlYiBhcmNwYXRjaC1EMTU1ODYzNzEgLSBhcmFtZXNoMTE3OiBGaXggbXVsdGlwbGUgYnUuLi4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBkZXN0OiAgIDk3NzIwNzIxOTE0MCBUNDUxNTQ1NzIgbnVsbF9wcmVzdG9fdHlwZSAtIGNtYXRoZXdzOiBbd2F0Y2ggcGEuLi4KICAgICAgInNpZ25hdHVyZXMiIDogWyAiZTIwNDRjNmYzNGY1ZGZkYWUxNTIzY2MwYjBlM2FhNDUzMmY1YWU0MDIzMGY5NDViNmM2OWVmZjA3YTZlYzZkMSIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBzcmMxIChkcyB2YXJjaGFyKSBXSVRIIChwYXJ0aXRpb25lZF9ieSA9IEFSUkFZWydkcyddLCByZXRlbnRpb25fZGF5cyA9IDMwKSAiLCAiREVMRVRFIEZST00gc3JjMSBXSEVSRSBkcyA9ICc8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRDpEQVRBU0VUX1NQRUNfRU5EPiciLCAiSU5TRVJUIElOVE8gc3JjMSAoZHMpIFNFTEVDVCBkcyBGUk9NIChTRUxFQ1RcbiAgeC5kc1xuLCAnPERBVEFTRVRfU1BFQ19TVEFSVDpEQVRFSUQ6REFUQVNFVF9TUEVDX0VORD4nIGRzXG5GUk9NXG4gIGJpLnRlc3RfZGFpbHlfYWN0aXZlX3VzZXJzX3Jhd19pbmNfYXJjaGl2ZSB4XG5XSEVSRSAoKHguZHMgSU4gKCc8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRDpEQVRBU0VUX1NQRUNfRU5EPicpKSBBTkQgKGRzID0gJ2Zvb2JhcicpKVxuKSIgXSwKPT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBkZXN0OiAgIDk3NzIwNzIxOTE0MCBUNDUxNTQ1NzIgbnVsbF9wcmVzdG9fdHlwZSAtIGNtYXRoZXdzOiBbd2F0Y2ggcGEuLi4K</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cmtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2sKCiA=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cmtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2traw==</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXJ0LmZhaWwoCiAgICAgICAgICAiVGhpcyBpcyBpbnZhbGlkIGJlY2F1c2UgdGhlIHByb2plY3Rpb24gaW5jbHVkZXMgYW4gYW4gZXhwbGljaXRseSBkZWZpbmVkIGRhdGFzZXQgcGFydGl0aW9uLiIpOwogICAgfSBjYXRjaCAoVXBtRXhjZXB0aW9uIGUpIHsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZi4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBzb3VyY2U6IDNiYzE4MjM2ZDZlYiBhcmNwYXRjaC1EMTU1ODYzNzEgLSBhcmFtZXNoMTE3OiBGaXggbXVsdGlwbGUgYnUuLi4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBkZXN0OiAgIDk3NzIwNzIxOTE0MCBUNDUxNTQ1NzIgbnVsbF9wcmVzdG9fdHlwZSAtIGNtYXRoZXdzOiBbd2F0Y2ggcGEuLi4KICAgICAgInNpZ25hdHVyZXMiIDogWyAiZTIwNDRjNmYzNGY1ZGZkYWUxNTIzY2MwYjBlM2FhNDUzMmY1YWU0MDIzMGY5NDViNmM2OWVmZjA3YTZlYzZkMSIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBzcmMxIChkcyB2YXJjaGFyKSBXSVRIIChwYXJ0aXRpb25lZF9ieSA9IEFSUkFZWydkcyddLCByZXRlbnRpb25fZGF5cyA9IDMwKSAiLCAiREVMRVRFIEZST00gc3JjMSBXSEVSRSBkcyA9ICc8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRDpEQVRBU0VUX1NQRUNfRU5EPiciLCAiSU5TRVJUIElOVE8gc3JjMSAoZHMpIFNFTEVDVCBkcyBGUk9NIChTRUxFQ1RcbiAgeC5kc1xuLCAnPERBVEFTRVRfU1BFQ19TVEFSVDpEQVRFSUQ6REFUQVNFVF9TUEVDX0VORD4nIGRzXG5GUk9NXG4gIGJpLnRlc3RfZGFpbHlfYWN0aXZlX3VzZXJzX3Jhd19pbmNfYXJjaGl2ZSB4XG5XSEVSRSAoKHguZHMgSU4gKCc8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRDpEQVRBU0VUX1NQRUNfRU5EPicpKSBBTkQgKGRzID0gJ2Zvb2JhcicpKVxuKSIgXSwKPT09PT09PQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBkZXN0OiAgIDk3NzIwNzIxOTE0MCBUNDUxNTQ1NzIgbnVsbF9wcmVzdG9fdHlwZSAtIGNtYXRoZXdzOiBbd2F0Y2ggcGEuLi4K</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Cmtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2sKCiA=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Cmtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2traw==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
