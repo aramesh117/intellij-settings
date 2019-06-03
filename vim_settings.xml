@@ -490,8 +490,12 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559536982874">
-        <mark key="'" line="1991" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559538427802">
+        <mark key="'" line="1978" column="21" />
+        <mark key="[" line="1995" column="504" />
+        <mark key="]" line="1995" column="504" />
+        <mark key="^" line="1995" column="504" />
+        <mark key="." line="1995" column="504" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -758,6 +762,12 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/CachingHiveMetastore.java" timestamp="1557970445320">
         <mark key="'" line="159" column="61" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/infrastructure/upm_shadow_f118167026_oracle_region_pair_forecast.json" timestamp="1559538322575">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="522" />
+        <mark key="^" line="0" column="522" />
+        <mark key="." line="0" column="522" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" timestamp="1556741405391">
         <mark key="'" line="74" column="8" />
       </file>
@@ -912,7 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi.json" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/infrastructure.json" />
       <jump line="1770" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="1921" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
@@ -1012,16 +1021,17 @@
       <jump line="7" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="1991" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="13" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testProducesConsumes__5__physicalplan.json" />
+      <jump line="1978" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzb3VyY2U6IDNiYzE4MjM2ZDZlYiBhcmNwYXRjaC1EMTU1ODYzNzEgLSBhcmFtZXNoMTE3OiBGaXggbXVsdGlwbGUgYnUuLi4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">STA1MzEgMTgyMTAwIHF1ZXJ5LnB5OjIwNF0gRXhlY3V0aW5nIHF1ZXJ5OiBcbiAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>.toLowerCase()</text>
+        <text encoding="base64">STA1MzEgMTgyMTAwIHF1ZXJ5LnB5OjIwNF0gRXhlY3V0aW5nIHF1ZXJ5OiBcbiAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pj4+</text>
