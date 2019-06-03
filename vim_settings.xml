@@ -97,12 +97,10 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/StructField.scala" timestamp="1542655706034">
         <mark key="'" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PrestoToSparkTypeMapper.java" timestamp="1559584937036">
-        <mark key="'" line="27" column="43" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="20" />
-        <mark key="^" line="27" column="43" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PrestoToSparkTypeMapper.java" timestamp="1559589453663">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/NonSqlDataFrameTest__testJoin__2__physicalplan.json" timestamp="1551828073622">
         <mark key="'" line="122" column="24" />
@@ -118,6 +116,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/ContextFactory.java" timestamp="1554746517379">
         <mark key="'" line="69" column="16" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testUnknownType__physicalplan.json" timestamp="1559586867264">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/HiveMetastoreClientFactory.java" timestamp="1558045972292">
         <mark key="'" line="57" column="45" />
@@ -406,7 +407,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testProducesConsumes__5__physicalplan.json" timestamp="1559537172022">
         <mark key="'" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/analyzer/Field.class" timestamp="1559584461409" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/analyzer/Field.class" timestamp="1559589116892">
+        <mark key="'" line="75" column="9" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/hive/hive-apache/1.2.2-2/hive-apache-1.2.2-2.jar!/org/apache/hadoop/hive/metastore/api/ThriftHiveMetastore.class" timestamp="1557517181301">
         <mark key="'" line="139506" column="56" />
       </file>
@@ -497,17 +500,18 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testMultipleUidRewrite__physicalplan.json" timestamp="1554847412470">
         <mark key="'" line="19" column="5" />
       </file>
-      <file name="/Dummy.scala" timestamp="1559584387021">
+      <file name="/Dummy.scala" timestamp="1559589473010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559586098183">
-        <mark key="'" line="2003" column="2" />
-        <mark key="[" line="1997" column="0" />
-        <mark key="]" line="2007" column="23" />
-        <mark key="." line="1992" column="0" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1559589715472">
+        <mark key="'" line="1919" column="49" />
+        <mark key="[" line="2001" column="36" />
+        <mark key="]" line="2001" column="36" />
+        <mark key="^" line="2008" column="21" />
+        <mark key="." line="2001" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/di/painkiller-client/2.1.8.1/painkiller-client-2.1.8.1.jar!/com/facebook/di/metastore/MetastoreClientConfiguration.class" timestamp="1543360236320">
         <mark key="'" line="10" column="26" />
@@ -536,8 +540,12 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/DataFrameReader.scala" timestamp="1543458699207">
         <mark key="'" line="430" column="69" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/AnalysisUtils.scala" timestamp="1559584498383">
-        <mark key="'" line="22" column="56" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/AnalysisUtils.scala" timestamp="1559589472196">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="25" column="41" />
+        <mark key="]" line="25" column="67" />
+        <mark key="^" line="25" column="67" />
+        <mark key="." line="25" column="67" />
       </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/client/PlasmaHiveClientImpl.scala" timestamp="1543354992976">
         <mark key="'" line="116" column="18" />
@@ -940,9 +948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="124" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="21" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="44" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="121" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="105" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
@@ -1032,7 +1037,6 @@
       <jump line="13" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testProducesConsumes__5__physicalplan.json" />
       <jump line="1978" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="1992" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
-      <jump line="22" column="56" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/AnalysisUtils.scala" />
       <jump line="190" column="22" filename="$USER_HOME$/git/presto/presto-spi/src/main/java/com/facebook/presto/spi/type/RowType.java" />
       <jump line="93" column="4" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/type/UnknownType.java" />
       <jump line="27" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/mappers/PrestoToSparkTypeMapper.java" />
@@ -1040,67 +1044,69 @@
       <jump line="1993" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="23" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/PythonToSparkDataTypeMapperTest.java" />
       <jump line="2003" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testUnknownType__physicalplan.json" />
+      <jump line="22" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/AnalysisUtils.scala" />
+      <jump line="75" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/analyzer/Field.class" />
+      <jump line="1919" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgIlNFTEVDVFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgc3JlZ2lvbiBBUyBzb3VyY2UsXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBkcmVnaW9uIEFTIGRlc3RpbmF0aW9uLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgSUYoaXNfZWJiLCAnRUJCJywgJ0NCQicpIEFTIGJhY2tib25lLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgTlVMTCBBUyBjb250aW5lbnRhbF9yZWdpb24sXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBDQVNUKE1BUCgpIEFTIE1BUChWQVJDSEFSLCBWQVJDSEFSKSkgQVMgZGltZW5zaW9ucyxcbiIKICAgICAgICAgICAgICAgICsgIiAgICAgICAgICAgIFNVTShnYnBzKSBBUyBnYnBzLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgZGF0ZSBhcyBkc1xuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICBGUk9NIChTRUxFQ1QgKiBGUk9NIHVwbV9zaGFkb3dfZjExODE2NzAyNl9vcmFjbGVfcmVnaW9uX3BhaXJfZm9yZWNhc3QgV0hFUkUgZHMgPSAnMjAxOS0wNS0wNycgQU5EIGZvcmVjYXN0X3ZlcnNpb24gPSAncG9yX21heTIwMTlfOTBfMTBfYmJtb3ZlX2FkZHN2YycpIFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICBHUk9VUCBCWSAxLCAyLCAzLCA0LCA1LCA3XG4iCiAgICAgICAgICAgICAgICArICIgICAgIg==</text>
+        <text encoding="base64">KSA=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">KSA=</text>
       </register>
       <register name="/" type="4">
-        <text>DELETE</text>
+        <text>contin</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgIlNFTEVDVFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgc3JlZ2lvbiBBUyBzb3VyY2UsXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBkcmVnaW9uIEFTIGRlc3RpbmF0aW9uLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgSUYoaXNfZWJiLCAnRUJCJywgJ0NCQicpIEFTIGJhY2tib25lLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgTlVMTCBBUyBjb250aW5lbnRhbF9yZWdpb24sXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBDQVNUKE1BUCgpIEFTIE1BUChWQVJDSEFSLCBWQVJDSEFSKSkgQVMgZGltZW5zaW9ucyxcbiIKICAgICAgICAgICAgICAgICsgIiAgICAgICAgICAgIFNVTShnYnBzKSBBUyBnYnBzLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgZGF0ZSBhcyBkc1xuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICBGUk9NIChTRUxFQ1QgKiBGUk9NIHVwbV9zaGFkb3dfZjExODE2NzAyNl9vcmFjbGVfcmVnaW9uX3BhaXJfZm9yZWNhc3QgV0hFUkUgZHMgPSAnMjAxOS0wNS0wNycgQU5EIGZvcmVjYXN0X3ZlcnNpb24gPSAncG9yX21heTIwMTlfOTBfMTBfYmJtb3ZlX2FkZHN2YycpIFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICBHUk9VUCBCWSAxLCAyLCAzLCA0LCA1LCA3XG4iCiAgICAgICAgICAgICAgICArICIgICAgIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RVbmtub3duVHlwZSgpIHRocm93cyBVcG1FeGNlcHRpb24gewogICAgQ29udGV4dCBjdHggPSBnZXRDb250ZXh0KCJpbmZyYXN0cnVjdHVyZSIpOwogICAgRGF0YUZyYW1lIGRmID0KICAgICAgICBjdHguc3FsKAogICAgICAgICAgICAiU0VMRUNUXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBzcmVnaW9uIEFTIHNvdXJjZSxcbiIKICAgICAgICAgICAgICAgICsgIiAgICAgICAgICAgIGRyZWdpb24gQVMgZGVzdGluYXRpb24sXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBJRihpc19lYmIsICdFQkInLCAnQ0JCJykgQVMgYmFja2JvbmUsXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBOVUxMIEFTIGNvbnRpbmVudGFsX3JlZ2lvbixcbiIKICAgICAgICAgICAgICAgICsgIiAgICAgICAgICAgIENBU1QoTUFQKCkgQVMgTUFQKFZBUkNIQVIsIFZBUkNIQVIpKSBBUyBkaW1lbnNpb25zLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgU1VNKGdicHMpIEFTIGdicHMsXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBkYXRlIGFzIGRzXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgIEZST00gKFNFTEVDVCAqIEZST00gdXBtX3NoYWRvd19mMTE4MTY3MDI2X29yYWNsZV9yZWdpb25fcGFpcl9mb3JlY2FzdCBXSEVSRSBkcyA9ICcyMDE5LTA1LTA3JyBBTkQgZm9yZWNhc3RfdmVyc2lvbiA9ICdwb3JfbWF5MjAxOV85MF8xMF9iYm1vdmVfYWRkc3ZjJykgXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgIEdST1VQIEJZIDEsIDIsIDMsIDQsIDUsIDdcbiIKICAgICAgICAgICAgICAgICsgIiAgICAiKTsKICAgIGRmLnNhdmUoIm91dHB1dCIpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIC5wdXQoInVua25vd24iLCBEYXRhVHlwZXMuTnVsbFR5cGUpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBAVGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZi4K</text>
+        <text encoding="base64">ICAgIGFzc2VydERpc3BhdGNoZWRQaHlzaWNhbFBsYW4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzb3VyY2U6IDNiYzE4MjM2ZDZlYiBhcmNwYXRjaC1EMTU1ODYzNzEgLSBhcmFtZXNoMTE3OiBGaXggbXVsdGlwbGUgYnUuLi4K</text>
+        <text encoding="base64">ICAgIGRmLnNhdmUoIm91dHB1dCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBkZXN0OiAgIDk3NzIwNzIxOTE0MCBUNDUxNTQ1NzIgbnVsbF9wcmVzdG9fdHlwZSAtIGNtYXRoZXdzOiBbd2F0Y2ggcGEuLi4KICAgICAgInNpZ25hdHVyZXMiIDogWyAiZTIwNDRjNmYzNGY1ZGZkYWUxNTIzY2MwYjBlM2FhNDUzMmY1YWU0MDIzMGY5NDViNmM2OWVmZjA3YTZlYzZkMSIgXSwKICAgICAgInNxbCIgOiBbICJDUkVBVEUgVEFCTEUgSUYgTk9UIEVYSVNUUyBzcmMxIChkcyB2YXJjaGFyKSBXSVRIIChwYXJ0aXRpb25lZF9ieSA9IEFSUkFZWydkcyddLCByZXRlbnRpb25fZGF5cyA9IDMwKSAiLCAiREVMRVRFIEZST00gc3JjMSBXSEVSRSBkcyA9ICc8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRDpEQVRBU0VUX1NQRUNfRU5EPiciLCAiSU5TRVJUIElOVE8gc3JjMSAoZHMpIFNFTEVDVCBkcyBGUk9NIChTRUxFQ1RcbiAgeC5kc1xuLCAnPERBVEFTRVRfU1BFQ19TVEFSVDpEQVRFSUQ6REFUQVNFVF9TUEVDX0VORD4nIGRzXG5GUk9NXG4gIGJpLnRlc3RfZGFpbHlfYWN0aXZlX3VzZXJzX3Jhd19pbmNfYXJjaGl2ZSB4XG5XSEVSRSAoKHguZHMgSU4gKCc8REFUQVNFVF9TUEVDX1NUQVJUOkRBVEVJRDpEQVRBU0VUX1NQRUNfRU5EPicpKSBBTkQgKGRzID0gJ2Zvb2JhcicpKVxuKSIgXSwKPT09PT09PQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBkZXN0OiAgIDk3NzIwNzIxOTE0MCBUNDUxNTQ1NzIgbnVsbF9wcmVzdG9fdHlwZSAtIGNtYXRoZXdzOiBbd2F0Y2ggcGEuLi4K</text>
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RVbmtub3duVHlwZSgpIHRocm93cyBVcG1FeGNlcHRpb24gewogICAgQ29udGV4dCBjdHggPSBnZXRDb250ZXh0KCJpbmZyYXN0cnVjdHVyZSIpOwogICAgRGF0YUZyYW1lIGRmID0KICAgICAgICBjdHguc3FsKAogICAgICAgICAgICAiU0VMRUNUXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBzcmVnaW9uIEFTIHNvdXJjZSxcbiIKICAgICAgICAgICAgICAgICsgIiAgICAgICAgICAgIGRyZWdpb24gQVMgZGVzdGluYXRpb24sXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBJRihpc19lYmIsICdFQkInLCAnQ0JCJykgQVMgYmFja2JvbmUsXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBOVUxMIEFTIGNvbnRpbmVudGFsX3JlZ2lvbixcbiIKICAgICAgICAgICAgICAgICsgIiAgICAgICAgICAgIENBU1QoTUFQKCkgQVMgTUFQKFZBUkNIQVIsIFZBUkNIQVIpKSBBUyBkaW1lbnNpb25zLFxuIgogICAgICAgICAgICAgICAgKyAiICAgICAgICAgICAgU1VNKGdicHMpIEFTIGdicHMsXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgICAgICBkYXRlIGFzIGRzXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgIEZST00gKFNFTEVDVCAqIEZST00gdXBtX3NoYWRvd19mMTE4MTY3MDI2X29yYWNsZV9yZWdpb25fcGFpcl9mb3JlY2FzdCBXSEVSRSBkcyA9ICcyMDE5LTA1LTA3JyBBTkQgZm9yZWNhc3RfdmVyc2lvbiA9ICdwb3JfbWF5MjAxOV85MF8xMF9iYm1vdmVfYWRkc3ZjJykgXG4iCiAgICAgICAgICAgICAgICArICIgICAgICAgIEdST1VQIEJZIDEsIDIsIDMsIDQsIDUsIDdcbiIKICAgICAgICAgICAgICAgICsgIiAgICAiKTsKICAgIGRmLnNhdmUoIm91dHB1dCIpOwogICAgYXNzZXJ0RGlzcGF0Y2hlZFBoeXNpY2FsUGxhbigpOwogIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cmtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2sKCiA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cmtra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2traw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DELETE</last-search>
+      <last-search>contin</last-search>
       <last-offset />
-      <last-pattern>DELETE</last-pattern>
+      <last-pattern>contin</last-pattern>
       <last-replace>\\</last-replace>
       <last-substitute>\\\\</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>case class</entry>
-        <entry>[(String, String</entry>
         <entry encoding="base64">XDxzY2hlbWFOYW1lVHlwZXNcPg==</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxleHBhbmRlZFNlbGVjdEl0ZW1zXD4=</entry>
@@ -1119,6 +1125,8 @@
         <entry encoding="base64">Pj4+</entry>
         <entry encoding="base64">XDxOdWxsVHlwZVw+</entry>
         <entry>DELETE</entry>
+        <entry>continental</entry>
+        <entry>contin</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.booleanValue()//g</entry>
