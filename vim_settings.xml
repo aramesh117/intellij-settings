@@ -340,6 +340,9 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/PlasmaSparkSession.scala" timestamp="1555547404753">
         <mark key="'" line="91" column="18" />
       </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" timestamp="1559948347515">
+        <mark key="'" line="83" column="6" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-hive_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-hive_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/hive/client/HiveClient.scala" timestamp="1543540936683">
         <mark key="'" line="71" column="12" />
       </file>
@@ -381,6 +384,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/DataTypes.java" timestamp="1543373416537">
         <mark key="'" line="59" column="56" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" timestamp="1559948382978">
+        <mark key="'" line="593" column="44" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/connection/UpmConnection.java" timestamp="1552694089444">
         <mark key="'" line="11" column="13" />
@@ -897,9 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="116" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
-      <jump line="99" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="50" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
       <jump line="2059" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
       <jump line="2015" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
@@ -997,6 +1000,9 @@
       <jump line="113" column="79" filename="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/HiveQueryRunner.java" />
       <jump line="112" column="12" filename="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/HiveQueryRunner.java" />
       <jump line="107" column="19" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/file/FileHiveMetastore.java" />
+      <jump line="83" column="6" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/SparkContext.scala" />
+      <jump line="521" column="40" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
+      <jump line="593" column="44" filename="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/executor/Executor.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1009,7 +1015,7 @@
         <text encoding="base64">PT4g</text>
       </register>
       <register name="/" type="4">
-        <text>Upm</text>
+        <text>resource</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTZXEoCiAgICAgICAgICBzcWxDcmVhdGVUYWJsZSh0YWJsZU5hbWUsIHNjaGVtYSwgcGFydGl0aW9ucywgb3V0cHV0RGF0YXNldC5kYXRhc2V0LnRhYmxlUHJvcGVydGllcyksCiAgICAgICAgICBzcWxEcm9wUGFydGl0aW9uKHRhYmxlTmFtZSwgcGFydGl0aW9ucyksCiAgICAgICAgICBzcWxJbnNlcnRJbnRvKHNxbFNlbGVjdChzZWxlY3RTcWwsIHNjaGVtYSwgcGFydGl0aW9ucyksIHRhYmxlTmFtZSwgc2NoZW1hLCBwYXJ0aXRpb25zKQogICAgICAgICkK</text>
@@ -1046,9 +1052,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Upm</last-search>
+      <last-search>resource</last-search>
       <last-offset />
-      <last-pattern>Upm</last-pattern>
+      <last-pattern>resource</last-pattern>
       <last-replace>\\</last-replace>
       <last-substitute>\\\\</last-substitute>
       <last-dir>1</last-dir>
@@ -1056,7 +1062,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxpZ191c2Vyc19zb3VyY2VfdW5pZmllZF9zaGFkb3dcPg==</entry>
         <entry>WHERE</entry>
         <entry>Delete</entry>
@@ -1076,6 +1081,7 @@
         <entry>execute</entry>
         <entry>UpmMeta</entry>
         <entry>Upm</entry>
+        <entry>resource</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.booleanValue()//g</entry>
