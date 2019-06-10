@@ -530,8 +530,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/analyzer/RelationType.class" timestamp="1559325697676">
         <mark key="'" line="61" column="20" />
       </file>
-      <file name="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismPermissions.java" timestamp="1559964473197">
-        <mark key="'" line="31" column="18" />
+      <file name="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismPermissions.java" timestamp="1560186740489">
+        <mark key="'" line="50" column="27" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/metadata/MetadataManager.class" timestamp="1557870078371">
         <mark key="'" line="659" column="60" />
@@ -899,7 +899,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1550616059448">
         <mark key="'" line="315" column="26" />
       </file>
-      <file name="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismPermissionsClient.java" timestamp="1559956515763" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/onavo-plasma-apps-v1/src/main/scala/com/onavo/plasma/network_breakdown/AndroidNetworkSessions.scala" timestamp="1543457061291">
         <mark key="'" line="52" column="42" />
       </file>
@@ -1036,8 +1035,8 @@
       <jump line="24" column="34" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismPlugin.java" />
       <jump line="33" column="27" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismSecurityModule.java" />
       <jump line="28" column="20" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismPermissionsModule.java" />
-      <jump line="50" column="8" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismPermissions.java" />
       <jump line="31" column="18" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismPermissions.java" />
+      <jump line="50" column="27" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismPermissions.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1093,7 +1092,7 @@
       <last-replace>\\</last-replace>
       <last-substitute>\\\\</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
