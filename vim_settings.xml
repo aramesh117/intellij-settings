@@ -1179,7 +1179,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2aWNlc1w+</text>
+        <text>hiveTypeName</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z2V0VGFibGVUeXBlKCkuZXF1YWxzKFRhYmxlVHlwZS5WSVJUVUFMX1ZJRVcubmFtZSgpKQogICAgICAgICYmICFTdHJpbmdzLmlzTnVsbE9yRW1wdHkodGFibGVPcHRpb25hbC5nZXQoKS5nZXRWaWV3T3JpZ2luYWxUZXh0KCkp</text>
@@ -1216,9 +1216,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2aWNlc1w+</last-search>
+      <last-search>hiveTypeName</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2aWNlc1w+</last-pattern>
+      <last-pattern>hiveTypeName</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>);</last-substitute>
       <last-dir>1</last-dir>
@@ -1226,7 +1226,6 @@
     </search>
     <history>
       <history-search>
-        <entry>propagate</entry>
         <entry encoding="base64">XDxSZXRyeURyaXZlclw+</entry>
         <entry>clientProvider</entry>
         <entry>isPrestoView</entry>
@@ -1246,6 +1245,7 @@
         <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
         <entry encoding="base64">XDxtZXRhc3RvcmVDbGllbnRGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxzZXJ2aWNlc1w+</entry>
+        <entry>hiveTypeName</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
