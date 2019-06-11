@@ -42,12 +42,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/TestCatalogHelper.java" timestamp="1557870464342">
         <mark key="'" line="26" column="25" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/BasicConnectorContext.java" timestamp="1560209887411">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="34" />
-        <mark key="." line="27" column="34" />
-        <mark key="^" line="27" column="34" />
-      </file>
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/testing/TestingConnectorContext.java" timestamp="1559952678099">
         <mark key="'" line="43" column="19" />
       </file>
@@ -215,8 +209,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/AutoAnonymizationTest__testNestedUidRewrite__physicalplan.json" timestamp="1543886617529">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/presto-facebook/presto-namespace-client/src/main/java/com/facebook/presto/prism/namespace/PrismServiceClientModule.java" timestamp="1557860023392">
-        <mark key="'" line="13" column="50" />
+      <file name="$USER_HOME$/git/presto-facebook/presto-namespace-client/src/main/java/com/facebook/presto/prism/namespace/PrismServiceClientModule.java" timestamp="1560213832743">
+        <mark key="'" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/git/presto/presto-parser/src/main/antlr4/com/facebook/presto/sql/parser/SqlBase.g4" timestamp="1557516267226">
         <mark key="'" line="440" column="6" />
@@ -359,8 +353,8 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkToScubaService.scala" timestamp="1550099050958">
         <mark key="'" line="50" column="16" />
       </file>
-      <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/security/HiveSecurityModule.java" timestamp="1558229546231">
-        <mark key="'" line="32" column="47" />
+      <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/security/HiveSecurityModule.java" timestamp="1560213145597">
+        <mark key="'" line="38" column="16" />
       </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1542763817602">
         <mark key="'" line="719" column="33" />
@@ -841,8 +835,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" timestamp="1560193754166">
         <mark key="'" line="1627" column="32" />
       </file>
-      <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java" timestamp="1560212842748">
-        <mark key="'" line="201" column="81" />
+      <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java" timestamp="1560213113262">
+        <mark key="'" line="347" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/airlift/bootstrap/0.178/bootstrap-0.178.jar!/io/airlift/bootstrap/Bootstrap.class" timestamp="1560211167951">
         <mark key="'" line="178" column="20" />
@@ -856,8 +850,8 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37-sources.jar!/com/facebook/presto/metadata/TableMetadata.java" timestamp="1557904439286">
         <mark key="'" line="43" column="11" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" timestamp="1560212921212">
-        <mark key="'" line="85" column="33" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" timestamp="1560213528430">
+        <mark key="'" line="66" column="6" />
         <mark key="[" line="89" column="64" />
         <mark key="]" line="89" column="63" />
         <mark key="^" line="89" column="63" />
@@ -947,8 +941,8 @@
       <file name="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismSecurityModule.java" timestamp="1559956501131">
         <mark key="'" line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismConnectorFactory.class" timestamp="1560212575157">
-        <mark key="'" line="85" column="18" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismConnectorFactory.class" timestamp="1560213351608">
+        <mark key="'" line="100" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-parser/0.208-SNAPSHOT/presto-parser-0.208-20180809.035317-40.jar!/com/facebook/presto/sql/tree/FunctionCall.class" timestamp="1548464698979">
         <mark key="'" line="23" column="22" />
@@ -1045,22 +1039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="36" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/rewrite/ShowQueriesRewrite.java" />
-      <jump line="161" column="123" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/rewrite/ShowQueriesRewrite.java" />
-      <jump line="167" column="64" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/rewrite/ShowQueriesRewrite.java" />
-      <jump line="189" column="26" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/rewrite/ShowQueriesRewrite.java" />
-      <jump line="113" column="9" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/security/AccessControl.java" />
-      <jump line="84" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
-      <jump line="102" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
-      <jump line="21" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/metadata/Catalog.class" />
-      <jump line="111" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
-      <jump line="67" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
-      <jump line="71" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
-      <jump line="11" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/spi/PageSorter.class" />
-      <jump line="27" column="53" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/BasicConnectorContext.java" />
-      <jump line="48" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
-      <jump line="29" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
-      <jump line="20" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/shaded/io/airlift/node/NodeConfig.class" />
       <jump line="41" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/shaded/io/airlift/node/NodeConfig.class" />
       <jump line="44" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/shaded/io/airlift/node/NodeConfig.class" />
       <jump line="46" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/shaded/io/airlift/node/NodeConfig.class" />
@@ -1076,7 +1054,6 @@
       <jump line="14" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/warmstorage/security/WarehouseTokenServiceModule.class" />
       <jump line="50" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" />
       <jump line="82" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoModule.java" />
-      <jump line="89" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="86" column="74" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="32" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="30" column="19" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/InternalNode.java" />
@@ -1118,7 +1095,6 @@
       <jump line="25" column="24" filename="$USER_HOME$/git/presto/presto-spi/src/main/java/com/facebook/presto/spi/connector/ConnectorContext.java" />
       <jump line="77" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="58" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismConnectorFactory.class" />
-      <jump line="92" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="21" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/connector/system/SystemConnector.class" />
       <jump line="94" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismConnectorFactory.class" />
       <jump line="134" column="36" filename="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismConnectorFactory.java" />
@@ -1128,8 +1104,6 @@
       <jump line="36" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" />
       <jump line="14" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/shaded/io/airlift/node/NodeModule.class" />
       <jump line="49" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmPrestoModuleLoader.java" />
-      <jump line="85" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismConnectorFactory.class" />
-      <jump line="81" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="228" column="14" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-tests/0.196-SNAPSHOT/presto-tests-0.196-20180302.004500-48.jar!/com/facebook/presto/tests/DistributedQueryRunner.class" />
       <jump line="80" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="65" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
@@ -1139,12 +1113,32 @@
       <jump line="205" column="30" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java" />
       <jump line="39" column="11" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/informationSchema/InformationSchemaConnector.java" />
       <jump line="201" column="81" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java" />
-      <jump line="76" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="105" column="82" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="85" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
       <jump line="20" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/BasicConnectorContext.java" />
       <jump line="29" column="18" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorContextInstance.java" />
       <jump line="19" column="17" filename="$USER_HOME$/git/presto/presto-spi/src/main/java/com/facebook/presto/spi/NodeManager.java" />
+      <jump line="79" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="16" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismSecurityModule.class" />
+      <jump line="92" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/git/presto/presto-plugin-toolkit/src/main/java/com/facebook/presto/plugin/base/security/ReadOnlyAccessControl.java" />
+      <jump line="347" column="31" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java" />
+      <jump line="31" column="8" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/security/HiveSecurityModule.java" />
+      <jump line="38" column="16" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/security/HiveSecurityModule.java" />
+      <jump line="19" column="13" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/security/SecurityConfig.java" />
+      <jump line="51" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismConnectorFactory.class" />
+      <jump line="85" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismConnectorFactory.class" />
+      <jump line="100" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/PrismConnectorFactory.class" />
+      <jump line="76" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="41" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="54" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="107" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="89" column="65" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="69" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="81" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="66" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoPrismConnectorPreparer.java" />
+      <jump line="13" column="33" filename="$USER_HOME$/git/presto-facebook/presto-namespace-client/src/main/java/com/facebook/presto/prism/namespace/PrismServiceClientModule.java" />
+      <jump line="39" column="55" filename="$MAVEN_REPOSITORY$/com/facebook/presto/smc/presto-smc-client/1.2/presto-smc-client-1.2.jar!/com/facebook/presto/smc/SmcServiceBinder.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1157,7 +1151,7 @@
         <text>NodeManager nodeManager</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0b3JGYWN0b3J5XD4=</text>
+        <text encoding="base64">XDxoaXZlTWV0YXN0b3JlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBNdWx0aWJpbmRlcjxIaXZlUGFnZVNvdXJjZUZhY3Rvcnk+IHBhZ2VTb3VyY2VGYWN0b3J5QmluZGVyID0gbmV3U2V0QmluZGVyKGJpbmRlciwgSGl2ZVBhZ2VTb3VyY2VGYWN0b3J5LmNsYXNzKTsKICAgICAgICBwYWdlU291cmNlRmFjdG9yeUJpbmRlci5hZGRCaW5kaW5nKCkudG8oT3JjUGFnZVNvdXJjZUZhY3RvcnkuY2xhc3MpLmluKFNjb3Blcy5TSU5HTEVUT04pOwogICAgICAgIHBhZ2VTb3VyY2VGYWN0b3J5QmluZGVyLmFkZEJpbmRpbmcoKS50byhEd3JmUGFnZVNvdXJjZUZhY3RvcnkuY2xhc3MpLmluKFNjb3Blcy5TSU5HTEVUT04pOwogICAgICAgIHBhZ2VTb3VyY2VGYWN0b3J5QmluZGVyLmFkZEJpbmRpbmcoKS50byhQYXJxdWV0UGFnZVNvdXJjZUZhY3RvcnkuY2xhc3MpLmluKFNjb3Blcy5TSU5HTEVUT04pOwogICAgICAgIHBhZ2VTb3VyY2VGYWN0b3J5QmluZGVyLmFkZEJpbmRpbmcoKS50byhSY0ZpbGVQYWdlU291cmNlRmFjdG9yeS5jbGFzcykuaW4oU2NvcGVzLlNJTkdMRVRPTik7Cgo=</text>
@@ -1194,20 +1188,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0b3JGYWN0b3J5XD4=</last-search>
+      <last-search encoding="base64">XDxoaXZlTWV0YXN0b3JlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0b3JGYWN0b3J5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoaXZlTWV0YXN0b3JlXD4=</last-pattern>
       <last-replace>\\</last-replace>
       <last-substitute>\\\\</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Access</entry>
-        <entry>access\c</entry>
-        <entry>createView</entry>
-        <entry>createTable</entry>
         <entry encoding="base64">XDxhY2Nlc3NDb250cm9sXD4=</entry>
         <entry encoding="base64">XDxjb25uZWN0b3JDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxOb2RlQ29uZmlnXD4=</entry>
@@ -1221,9 +1211,13 @@
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry>\cbootstrap</entry>
         <entry>NodeManager</entry>
-        <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry encoding="base64">XDxWQUxJRF9DT05GSUdfS0VZU1w+</entry>
+        <entry>create(</entry>
+        <entry encoding="base64">XDxhcHBcPg==</entry>
+        <entry encoding="base64">XDxpbmplY3Rvclw+</entry>
         <entry encoding="base64">XDxjb25uZWN0b3JGYWN0b3J5XD4=</entry>
+        <entry encoding="base64">XDxtZXRhZGF0YVw+</entry>
+        <entry encoding="base64">XDxoaXZlTWV0YXN0b3JlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.booleanValue()//g</entry>
