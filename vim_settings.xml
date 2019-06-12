@@ -227,6 +227,9 @@
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/Table.java" timestamp="1560290489140">
         <mark key="'" line="309" column="21" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" timestamp="1560375044464">
+        <mark key="'" line="58" column="7" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/metastore/thrift/Transport.java" timestamp="1558045984536">
         <mark key="'" line="42" column="38" />
       </file>
@@ -337,6 +340,9 @@
       </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" timestamp="1550099035302">
         <mark key="'" line="357" column="40" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" timestamp="1560375433697">
+        <mark key="'" line="41" column="15" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/HourlyBatchPrestoSqlRewriter.scala" timestamp="1555115445036">
         <mark key="'" line="18" column="55" />
@@ -1067,12 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="18" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="1324" column="0" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="54" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmThriftHiveMetastore.java" />
-      <jump line="35" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmThriftHiveMetastore.java" />
-      <jump line="1309" column="12" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="72" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmThriftHiveMetastore.java" />
       <jump line="30" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmThriftHiveMetastore.java" />
       <jump line="86" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
       <jump line="25" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmThriftHiveMetastore.java" />
@@ -1167,6 +1167,12 @@
       <jump line="83" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
       <jump line="109" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
       <jump line="69" column="6" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Iterator.java" />
+      <jump line="56" column="24" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="2225" column="15" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="39" column="3" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="41" column="15" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="58" column="7" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="41" column="15" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1179,7 +1185,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>hiveTypeName</text>
+        <text>Optimize</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z2V0VGFibGVUeXBlKCkuZXF1YWxzKFRhYmxlVHlwZS5WSVJUVUFMX1ZJRVcubmFtZSgpKQogICAgICAgICYmICFTdHJpbmdzLmlzTnVsbE9yRW1wdHkodGFibGVPcHRpb25hbC5nZXQoKS5nZXRWaWV3T3JpZ2luYWxUZXh0KCkp</text>
@@ -1216,9 +1222,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hiveTypeName</last-search>
+      <last-search>Optimize</last-search>
       <last-offset />
-      <last-pattern>hiveTypeName</last-pattern>
+      <last-pattern>Optimize</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>);</last-substitute>
       <last-dir>1</last-dir>
@@ -1226,8 +1232,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXRyeURyaXZlclw+</entry>
-        <entry>clientProvider</entry>
         <entry>isPrestoView</entry>
         <entry>stats</entry>
         <entry encoding="base64">XDxnZXRNZXRhc3RvcmVcPg==</entry>
@@ -1246,6 +1250,8 @@
         <entry encoding="base64">XDxtZXRhc3RvcmVDbGllbnRGYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDxzZXJ2aWNlc1w+</entry>
         <entry>hiveTypeName</entry>
+        <entry>OptimizeLimit</entry>
+        <entry>Optimize</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
