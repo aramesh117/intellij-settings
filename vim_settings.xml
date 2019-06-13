@@ -341,8 +341,18 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkScubaLogger.scala" timestamp="1550099035302">
         <mark key="'" line="357" column="40" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" timestamp="1560375433697">
-        <mark key="'" line="41" column="15" />
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" timestamp="1560388331406">
+        <mark key="'" line="2408" column="13" />
+        <mark key="[" line="2414" column="0" />
+        <mark key="]" line="2414" column="0" />
+        <mark key="." line="2414" column="0" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" timestamp="1560388956452">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="105" column="39" />
+        <mark key="]" line="105" column="39" />
+        <mark key="^" line="112" column="0" />
+        <mark key="." line="105" column="39" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/HourlyBatchPrestoSqlRewriter.scala" timestamp="1555115445036">
         <mark key="'" line="18" column="55" />
@@ -770,9 +780,6 @@
       <file name="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/PrismAccessControlFactory.java" timestamp="1560208445973">
         <mark key="'" line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" timestamp="1560285319067">
-        <mark key="'" line="256" column="35" />
-      </file>
       <file name="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/ConfigeratorHdfsConfiguration.java" timestamp="1560200825991">
         <mark key="'" line="52" column="19" />
       </file>
@@ -1073,28 +1080,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmThriftHiveMetastore.java" />
-      <jump line="86" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
-      <jump line="25" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmThriftHiveMetastore.java" />
-      <jump line="83" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.class" />
-      <jump line="21" column="32" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="112" column="30" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="119" column="4" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="229" column="95" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="58" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmThriftHiveMetastore.java" />
-      <jump line="255" column="55" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="150" column="31" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/HiveUtil.java" />
-      <jump line="245" column="4" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="73" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/UpmThriftHiveMetastore.java" />
-      <jump line="32" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
-      <jump line="71" column="78" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="483" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/PrismHiveMetastore.class" />
-      <jump line="1281" column="4" filename="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastore.java" />
-      <jump line="79" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
-      <jump line="122" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
-      <jump line="25" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
-      <jump line="82" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/ReadOnlyPrismHiveMetastore.java" />
       <jump line="63" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/PrismHiveMetastore.class" />
       <jump line="72" column="16" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/PrismHiveMetastore.class" />
       <jump line="356" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/PrismHiveMetastore.class" />
@@ -1173,58 +1158,80 @@
       <jump line="41" column="15" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
       <jump line="58" column="7" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
       <jump line="41" column="15" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="2039" column="2" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="1937" column="4" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="2382" column="31" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="67" column="19" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="68" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="2401" column="39" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="28" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LocalRelation.scala" />
+      <jump line="2419" column="4" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="1412" column="14" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="1462" column="7" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="100" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="2422" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="69" column="9" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="2408" column="13" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/optimizer/Optimizer.scala" />
+      <jump line="121" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
+      <jump line="33" column="11" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
+      <jump line="107" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
+      <jump line="45" column="29" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
+      <jump line="12" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
+      <jump line="40" column="52" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
+      <jump line="27" column="12" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, isAll = false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, isAll = false</text>
       </register>
       <register name="/" type="4">
-        <text>Optimize</text>
+        <text>CombineUnions</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z2V0VGFibGVUeXBlKCkuZXF1YWxzKFRhYmxlVHlwZS5WSVJUVUFMX1ZJRVcubmFtZSgpKQogICAgICAgICYmICFTdHJpbmdzLmlzTnVsbE9yRW1wdHkodGFibGVPcHRpb25hbC5nZXQoKS5nZXRWaWV3T3JpZ2luYWxUZXh0KCkp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiV1RGISBBbSBJIGV2ZW4gaW52b2tlZD8iKTsK</text>
+        <text encoding="base64">LyoKICogTGljZW5zZWQgdG8gdGhlIEFwYWNoZSBTb2Z0d2FyZSBGb3VuZGF0aW9uIChBU0YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIFlvdSB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wCiAqICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8KCnBhY2thZ2Ugb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3Qub3B0aW1pemVyCgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuUm93CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5kc2wuZXhwcmVzc2lvbnMuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuY2F0YWx5c3QuZHNsLnBsYW5zLl8KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LmV4cHJlc3Npb25zLkxpdGVyYWwKaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LnBsYW5zLl8KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LnBsYW5zLmxvZ2ljYWwue0Rpc3RpbmN0LCBHbG9iYWxMaW1pdCwgTG9jYWxMaW1pdCwgTG9jYWxSZWxhdGlvbiwgTG9naWNhbFBsYW4sIFByb2plY3R9CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5ydWxlcy5SdWxlRXhlY3V0b3IKaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLnR5cGVzLkludGVnZXJUeXBlCgovLyBUZXN0IGNsYXNzIHRvIHZlcmlmeSBjb3JyZWN0IGZ1bmN0aW9uaW5nIG9mIE9wdGltaXplTGltaXRaZXJvIHJ1bGUgaW4gdmFyaW91cyBzY2VuYXJpb3MKY2xhc3MgT3B0aW1pemVMaW1pdFplcm9TdWl0ZSBleHRlbmRzIFBsYW5UZXN0IHsKICBvYmplY3QgT3B0aW1pemUgZXh0ZW5kcyBSdWxlRXhlY3V0b3JbTG9naWNhbFBsYW5dIHsKICAgIHZhbCBiYXRjaGVzID0KICAgICAgQmF0Y2goIk9wdGltaXplTGltaXRaZXJvIiwgT25jZSwKICAgIEBnZW5nbGlhbmd3YW5nCiAgICBnZW5nbGlhbmd3YW5nIG9uIEFwciA0ICBDb250cmlidXRvcgogICAgSSB0aGluayB3ZSBjYW4gaGF2ZSB0d28gYmF0Y2hlcyBoZXJlLCBqdXN0IHRoZSBzYW1lIGFzIE9wdGltaXplci4KCiAgICBAYWF5dXNobWFhbmphaW4KICAgIGFheXVzaG1hYW5qYWluIG9uIEFwciA0ICDigKIKICAgIEF1dGhvciBDb250cmlidXRvcgogICAgQGdlbmdsaWFuZ3dhbmcgSXMgdGhlcmUgYSBzcGVjaWZpYyByZWFzb24gZm9yIGhhdmluZyBpdCB0aGF0IHdheT8gSSBtb2RlbGxlZCB0aGUgdGVzdCBzdWl0ZSBiYXNlZCBvbiBQcm9wYWdhdGVFbXB0eVJlbGF0aW9uLCB3aGVyZWluIGFsc28gdGhleSBoYXZlIGFsbCBydWxlcyBhcyBwYXJ0IG9mIHRoZSBzYW1lIGJhdGNoLi4KCiAgICBSZXBsYWNlSW50ZXJzZWN0V2l0aFNlbWlKb2luLAogICAgT3B0aW1pemVMaW1pdFplcm8sCiAgICBQcm9wYWdhdGVFbXB0eVJlbGF0aW9uKSA6OiBOaWwKICB9CgogIHZhbCB0ZXN0UmVsYXRpb24xID0gTG9jYWxSZWxhdGlvbi5mcm9tRXh0ZXJuYWxSb3dzKFNlcSgnYS5pbnQpLCBkYXRhID0gU2VxKFJvdygxKSkpCiAgdmFsIHRlc3RSZWxhdGlvbjIgPSBMb2NhbFJlbGF0aW9uLmZyb21FeHRlcm5hbFJvd3MoU2VxKCdiLmludCksIGRhdGEgPSBTZXEoUm93KDEpKSkKCiAgdGVzdCgiTGltaXQgMDogcmV0dXJuIGVtcHR5IGxvY2FsIHJlbGF0aW9uIikgewogICAgdmFsIHF1ZXJ5ID0gdGVzdFJlbGF0aW9uMS5saW1pdCgwKQoKICAgIHZhbCBvcHRpbWl6ZWQgPSBPcHRpbWl6ZS5leGVjdXRlKHF1ZXJ5LmFuYWx5emUpCiAgICB2YWwgY29ycmVjdEFuc3dlciA9IExvY2FsUmVsYXRpb24oJ2EuaW50KQoKICAgIGNvbXBhcmVQbGFucyhvcHRpbWl6ZWQsIGNvcnJlY3RBbnN3ZXIpCiAgfQoKICB0ZXN0KCJMaW1pdCAwOiBpbmRpdmlkdWFsIExvY2FsTGltaXQgMCBub2RlIikgewogICAgdmFsIHF1ZXJ5ID0gTG9jYWxMaW1pdCgwLCB0ZXN0UmVsYXRpb24xKQoKICAgIHZhbCBvcHRpbWl6ZWQgPSBPcHRpbWl6ZS5leGVjdXRlKHF1ZXJ5LmFuYWx5emUpCiAgICB2YWwgY29ycmVjdEFuc3dlciA9IExvY2FsUmVsYXRpb24oJ2EuaW50KQoKICAgIGNvbXBhcmVQbGFucyhvcHRpbWl6ZWQsIGNvcnJlY3RBbnN3ZXIpCiAgfQoKICB0ZXN0KCJMaW1pdCAwOiBpbmRpdmlkdWFsIEdsb2JhbExpbWl0IDAgbm9kZSIpIHsKICAgIHZhbCBxdWVyeSA9IEdsb2JhbExpbWl0KDAsIHRlc3RSZWxhdGlvbjEpCgogICAgdmFsIG9wdGltaXplZCA9IE9wdGltaXplLmV4ZWN1dGUocXVlcnkuYW5hbHl6ZSkKICAgIHZhbCBjb3JyZWN0QW5zd2VyID0gTG9jYWxSZWxhdGlvbignYS5pbnQpCgogICAgY29tcGFyZVBsYW5zKG9wdGltaXplZCwgY29ycmVjdEFuc3dlcikKICB9CgogIFNlcSgKICAgIChJbm5lciwgTG9jYWxSZWxhdGlvbignYS5pbnQsICdiLmludCkpLAogICAgKExlZnRPdXRlciwgUHJvamVjdChTZXEoJ2EsIExpdGVyYWwobnVsbCkuY2FzdChJbnRlZ2VyVHlwZSkuYXMoJ2IpKSwgdGVzdFJlbGF0aW9uMSkuYW5hbHl6ZSksCiAgICAoUmlnaHRPdXRlciwgTG9jYWxSZWxhdGlvbignYS5pbnQsICdiLmludCkpLAogICAgKEZ1bGxPdXRlciwgUHJvamVjdChTZXEoJ2EsIExpdGVyYWwobnVsbCkuY2FzdChJbnRlZ2VyVHlwZSkuYXMoJ2IpKSwgdGVzdFJlbGF0aW9uMSkuYW5hbHl6ZSkKICApLmZvcmVhY2ggeyBjYXNlIChqdCwgY29ycmVjdEFuc3dlcikgPT4KICAgIHRlc3QocyJMaW1pdCAwOiBmb3Igam9pbiB0eXBlICRqdCIpIHsKICAgICAgdmFsIHF1ZXJ5ID0gdGVzdFJlbGF0aW9uMQogICAgICAgIC5qb2luKHRlc3RSZWxhdGlvbjIubGltaXQoMCksIGpvaW5UeXBlID0ganQsIGNvbmRpdGlvbiA9IFNvbWUoJ2EuYXR0ciA9PSAnYi5hdHRyKSkKCiAgICAgIHZhbCBvcHRpbWl6ZWQgPSBPcHRpbWl6ZS5leGVjdXRlKHF1ZXJ5LmFuYWx5emUpCgogICAgICBjb21wYXJlUGxhbnMob3B0aW1pemVkLCBjb3JyZWN0QW5zd2VyKQogICAgfQogIH0KCiAgdGVzdCgiTGltaXQgMDogMy13YXkgam9pbiIpIHsKICAgIHZhbCB0ZXN0UmVsYXRpb24zID0gTG9jYWxSZWxhdGlvbi5mcm9tRXh0ZXJuYWxSb3dzKFNlcSgnYy5pbnQpLCBkYXRhID0gU2VxKFJvdygxKSkpCgogICAgdmFsIHN1YkpvaW5RdWVyeSA9IHRlc3RSZWxhdGlvbjEKICAgICAgLmpvaW4odGVzdFJlbGF0aW9uMiwgam9pblR5cGUgPSBJbm5lciwgY29uZGl0aW9uID0gU29tZSgnYS5hdHRyID09ICdiLmF0dHIpKQogICAgdmFsIHF1ZXJ5ID0gc3ViSm9pblF1ZXJ5CiAgICAgIC5qb2luKHRlc3RSZWxhdGlvbjMubGltaXQoMCksIGpvaW5UeXBlID0gSW5uZXIsIGNvbmRpdGlvbiA9IFNvbWUoJ2EuYXR0ciA9PSAnYy5hdHRyKSkKCiAgICB2YWwgb3B0aW1pemVkID0gT3B0aW1pemUuZXhlY3V0ZShxdWVyeS5hbmFseXplKQogICAgdmFsIGNvcnJlY3RBbnN3ZXIgPSBMb2NhbFJlbGF0aW9uKCdhLmludCwgJ2IuaW50LCAnYy5pbnQpCgogICAgY29tcGFyZVBsYW5zKG9wdGltaXplZCwgY29ycmVjdEFuc3dlcikKICB9CgogIHRlc3QoIkxpbWl0IDA6IGludGVyc2VjdCIpIHsKICAgIHZhbCBxdWVyeSA9IHRlc3RSZWxhdGlvbjEKICAgICAgLmludGVyc2VjdCh0ZXN0UmVsYXRpb24xLmxpbWl0KDApLCBpc0FsbCA9IGZhbHNlKQoKICAgIHZhbCBvcHRpbWl6ZWQgPSBPcHRpbWl6ZS5leGVjdXRlKHF1ZXJ5LmFuYWx5emUpCiAgICB2YWwgY29ycmVjdEFuc3dlciA9IERpc3RpbmN0KExvY2FsUmVsYXRpb24oJ2EuaW50KSkKCiAgICBjb21wYXJlUGxhbnMob3B0aW1pemVkLCBjb3JyZWN0QW5zd2VyKQogIH0KfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBGdW5jdGlvbjxFeGNlcHRpb24sIEV4Y2VwdGlvbj4gZ2V0RXhjZXB0aW9uTWFwcGVyKCkgewogICAgcmV0dXJuIChlKSAtPiB7CiAgICAgIGlmIChlIGluc3RhbmNlb2YgSW52YWxpZE9iamVjdEV4Y2VwdGlvbiAmJiBlLmdldE1lc3NhZ2UoKSAhPSBudWxsKSB7CiAgICAgICAgdGhyb3cgbmV3IFByZXN0b0V4Y2VwdGlvbihQcmlzbUVycm9yQ29kZS5QUklTTV9JTlZBTElEX09CSkVDVCwgZSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgaWYgKGUgaW5zdGFuY2VvZiBzaGFkZWQub3JnLmFwYWNoZS5oYWRvb3AuaGl2ZS5tZXRhc3RvcmUuYXBpLk1ldGFFeGNlcHRpb24KICAgICAgICAgICAgJiYgZS5nZXRNZXNzYWdlKCkgIT0gbnVsbCkgewogICAgICAgICAgaWYgKGUuZ2V0TWVzc2FnZSgpLmNvbnRhaW5zKCIgQm9ndXMgSkRPRXhjZXB0aW9uICIpKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgb3JnLmFwYWNoZS50aHJpZnQuVEV4Y2VwdGlvbihlKTsKICAgICAgICAgIH0KCiAgICAgICAgICBpZiAoZS5nZXRNZXNzYWdlKCkuY29udGFpbnMoIi8gTWV0YXN0b3JlIGNsaWVudCBuZWVkcyB0byByZXRyeSIpKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgb3JnLmFwYWNoZS50aHJpZnQuVEV4Y2VwdGlvbihlKTsKICAgICAgICAgIH0KCiAgICAgICAgICBJdGVyYXRvciB2YXIxID0gTUVUQVNUT1JFX0VSUk9SUy5lbnRyeVNldCgpLml0ZXJhdG9yKCk7CgogICAgICAgICAgd2hpbGUgKHZhcjEuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgIEVudHJ5PFN0cmluZywgRXJyb3JDb2RlU3VwcGxpZXI+IGVudHJ5ID0gKEVudHJ5KSB2YXIxLm5leHQoKTsKICAgICAgICAgICAgaWYgKGUuZ2V0TWVzc2FnZSgpLmNvbnRhaW5zKChDaGFyU2VxdWVuY2UpIGVudHJ5LmdldEtleSgpKSkgewogICAgICAgICAgICAgIHJldHVybiBuZXcgUHJlc3RvRXhjZXB0aW9uKChFcnJvckNvZGVTdXBwbGllcikgZW50cnkuZ2V0VmFsdWUoKSwgZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KCiAgICAgICAgICBpZiAoZS5nZXRNZXNzYWdlKCkuY29udGFpbnMoIltPcGVyYXRpb24gaW52YWxpZF0iKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUHJlc3RvRXhjZXB0aW9uKEhpdmVFcnJvckNvZGUuSElWRV9NRVRBU1RPUkVfRVJST1IsIGUpOwogICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGU7CiAgICAgIH0KICAgIH07CiAgfQoKICBzdGF0aWMgewogICAgTUVUQVNUT1JFX0VSUk9SUyA9CiAgICAgICAgSW1tdXRhYmxlTWFwLjxTdHJpbmcsIEVycm9yQ29kZVN1cHBsaWVyPmJ1aWxkZXIoKQogICAgICAgICAgICAucHV0KCJbSW52YWxpZCBvYmplY3RdIiwgUHJpc21FcnJvckNvZGUuUFJJU01fSU5WQUxJRF9PQkpFQ1QpCiAgICAgICAgICAgIC5wdXQoIltJbnZhbGlkIHNjaGVtYSBjaGFuZ2VdIiwgUHJpc21FcnJvckNvZGUuUFJJU01fSU5WQUxJRF9TQ0hFTUFfQ0hBTkdFKQogICAgICAgICAgICAucHV0KCJbRGVwZW5kZW50IHRhYmxlIGV4aXN0c10iLCBQcmlzbUVycm9yQ29kZS5QUklTTV9ERVBFTkRFTlRfVEFCTEVfRVhJU1RTKQogICAgICAgICAgICAucHV0KCJbRHJvcCB0YWJsZSBkZW5pZWRdIiwgUHJpc21FcnJvckNvZGUuUFJJU01fRFJPUF9UQUJMRV9ERU5JRUQpCiAgICAgICAgICAgIC5wdXQoIltEcm9wIHBhcnRpdGlvbiBkZW5pZWRdIiwgUHJpc21FcnJvckNvZGUuUFJJU01fRFJPUF9QQVJUSVRJT05fREVOSUVEKQogICAgICAgICAgICAuYnVpbGQoKTsKICB9Cg==</text>
+        <text encoding="base64">cGFja2FnZSBvcmcuYXBhY2hlLnNwYXJrLnNxbC5jYXRhbHlzdC5vcHRpbWl6ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBUaGlzIGlzIG92ZXJyaWRkZW4gaW4gb3JkZXIgdG8gcHJldmVudCB0aGUgTnVsbFBvaW50ZXJFeGNlcHRpb24gaW4gdGhlIGNhc2VzIHdoZXJlIHdlIHJlcXVlc3QKICAgKiBnZXRUYWJsZSBidXQgdGhlIHRhYmxlVHlwZSBmaWVsZCBpcyBudWxsLiBTZWUge0BsaW5rIFVwbVRocmlmdEhpdmVNZXRhc3RvcmV9IGZvciBtb3JlIGRldGFpbHMuCiAgICoKICAgKiA8cD5UaGUgbWFpbiBjaGFuZ2UgaGVyZSBpcyB0aGUgbnVsbCBjaGVjay4KICAgKi8KICBAT3ZlcnJpZGUKICBwdWJsaWMgT3B0aW9uYWw8VGFibGU+IGdldFRhYmxlKFN0cmluZyBkYXRhYmFzZU5hbWUsIFN0cmluZyB0YWJsZU5hbWUpIHsKICAgIEhpdmVOYW1lc3BhY2UgbmFtZXNwYWNlID0gdGhpcy5uYW1lc3BhY2VNYW5hZ2VyLmxvb2t1cE5hbWVzcGFjZShkYXRhYmFzZU5hbWUpOwogICAgT3B0aW9uYWw8VGFibGU+IHRhYmxlT3B0aW9uYWwgPQogICAgICAgIHRoaXMuZ2V0TWV0YXN0b3JlKG5hbWVzcGFjZSkKICAgICAgICAgICAgLmdldFRhYmxlKG5hbWVzcGFjZS5nZXREYXRhYmFzZSgpLCB0YWJsZU5hbWUpCiAgICAgICAgICAgIC5tYXAoKHQpIC0+IHBvc3RQcm9jZXNzKHQsIG5hbWVzcGFjZSkpOwogICAgaWYgKHRhYmxlT3B0aW9uYWwuaXNQcmVzZW50KCkpIHsKICAgICAgVGFibGUgdGFibGUgPSB0YWJsZU9wdGlvbmFsLmdldCgpOwogICAgICBpZiAodGFibGUuZ2V0VGFibGVUeXBlKCkuZXF1YWxzKFRhYmxlVHlwZS5WSVJUVUFMX1ZJRVcubmFtZSgpKQogICAgICAgICAgJiYgIVN0cmluZ3MuaXNOdWxsT3JFbXB0eSh0YWJsZU9wdGlvbmFsLmdldCgpLmdldFZpZXdPcmlnaW5hbFRleHQoKSkpIHsKICAgICAgICB0aHJvdyBuZXcgSGl2ZVZpZXdOb3RTdXBwb3J0ZWRFeGNlcHRpb24obmV3IFNjaGVtYVRhYmxlTmFtZShkYXRhYmFzZU5hbWUsIHRhYmxlTmFtZSkpOwogICAgICB9CiAgICAgIHJldHVybiB0YWJsZU9wdGlvbmFsOwogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIHRhYmxlT3B0aW9uYWw7CiAgICB9CiAgfQoKICBwcml2YXRlIHN0YXRpYyBUYWJsZSBwb3N0UHJvY2VzcyhUYWJsZSB0YWJsZSwgSGl2ZU5hbWVzcGFjZSBuYW1lc3BhY2UpIHsKICAgIFByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudCh0YWJsZS5nZXREYk5hbWUoKS5lcXVhbHMobmFtZXNwYWNlLmdldERhdGFiYXNlKCkpKTsKICAgIHRhYmxlID0gdGFibGUuZGVlcENvcHkoKTsKICAgIHRhYmxlLnNldERiTmFtZShuYW1lc3BhY2UuZ2V0TmFtZXNwYWNlKCkpOwogICAgcmV0dXJuIHRhYmxlOwogIH0K</text>
+        <text encoding="base64">Y2xhc3MgT3B0aW1pemVMaW1pdFplcm9TdWl0ZSB7Cgp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbmplY3RvciA9IHByZXN0b0Nvbm5lY3Rpb24uaW5qZWN0b3IKICAgIHZhbCBtZXRhc3RvcmUgPSBpbmplY3Rvci5nZXRJbnN0YW5jZShjbGFzc09mW0hpdmVNZXRhc3RvcmVdKQogICAgdmFsIHRhYmxlID0gbWV0YXN0b3JlLmdldFRhYmxlKG5hbWVzcGFjZSwgdGFibGVuYW1lKQogICAgaWYgKHRhYmxlLmlzUHJlc2VudCkgewogICAgICBwcmludGxuKHMiVGhlIG1ldGFzdG9yZSByZXR1cm5zOiAke3RhYmxlLmdldCgpfSIpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5wcmVzdG8uaGl2ZS5tZXRhc3RvcmUudGhyaWZ0LlRocmlmdEhpdmVNZXRhc3RvcmU7Cg==</text>
+        <text encoding="base64">ICAgIEJhdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiV1RGISBBbSBJIGV2ZW4gaW52b2tlZD8iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExPRy5pbmZvKCJBbWF6aW5nISBXZSBnb3QgdGhlIHRhYmxlIG9iamVjdCEgSXQgaXMge30iLCB0YWJsZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBMT0cud2FybigiV2hvYSEgR2V0dGluZyB0YWJsZSBmcm9tIG1ldGFzdG9yZSEiKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBGdW5jdGlvbjxFeGNlcHRpb24sIEV4Y2VwdGlvbj4gZ2V0RXhjZXB0aW9uTWFwcGVyKCkgewogICAgcmV0dXJuIChlKSAtPiB7CiAgICAgIGlmIChlIGluc3RhbmNlb2YgSW52YWxpZE9iamVjdEV4Y2VwdGlvbiAmJiBlLmdldE1lc3NhZ2UoKSAhPSBudWxsKSB7CiAgICAgICAgdGhyb3cgbmV3IFByZXN0b0V4Y2VwdGlvbihQcmlzbUVycm9yQ29kZS5QUklTTV9JTlZBTElEX09CSkVDVCwgZSk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgaWYgKGUgaW5zdGFuY2VvZiBzaGFkZWQub3JnLmFwYWNoZS5oYWRvb3AuaGl2ZS5tZXRhc3RvcmUuYXBpLk1ldGFFeGNlcHRpb24KICAgICAgICAgICAgJiYgZS5nZXRNZXNzYWdlKCkgIT0gbnVsbCkgewogICAgICAgICAgaWYgKGUuZ2V0TWVzc2FnZSgpLmNvbnRhaW5zKCIgQm9ndXMgSkRPRXhjZXB0aW9uICIpKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgb3JnLmFwYWNoZS50aHJpZnQuVEV4Y2VwdGlvbihlKTsKICAgICAgICAgIH0KCiAgICAgICAgICBpZiAoZS5nZXRNZXNzYWdlKCkuY29udGFpbnMoIi8gTWV0YXN0b3JlIGNsaWVudCBuZWVkcyB0byByZXRyeSIpKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgb3JnLmFwYWNoZS50aHJpZnQuVEV4Y2VwdGlvbihlKTsKICAgICAgICAgIH0KCiAgICAgICAgICBJdGVyYXRvciB2YXIxID0gTUVUQVNUT1JFX0VSUk9SUy5lbnRyeVNldCgpLml0ZXJhdG9yKCk7CgogICAgICAgICAgd2hpbGUgKHZhcjEuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgIEVudHJ5PFN0cmluZywgRXJyb3JDb2RlU3VwcGxpZXI+IGVudHJ5ID0gKEVudHJ5KSB2YXIxLm5leHQoKTsKICAgICAgICAgICAgaWYgKGUuZ2V0TWVzc2FnZSgpLmNvbnRhaW5zKChDaGFyU2VxdWVuY2UpIGVudHJ5LmdldEtleSgpKSkgewogICAgICAgICAgICAgIHJldHVybiBuZXcgUHJlc3RvRXhjZXB0aW9uKChFcnJvckNvZGVTdXBwbGllcikgZW50cnkuZ2V0VmFsdWUoKSwgZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KCiAgICAgICAgICBpZiAoZS5nZXRNZXNzYWdlKCkuY29udGFpbnMoIltPcGVyYXRpb24gaW52YWxpZF0iKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUHJlc3RvRXhjZXB0aW9uKEhpdmVFcnJvckNvZGUuSElWRV9NRVRBU1RPUkVfRVJST1IsIGUpOwogICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGU7CiAgICAgIH0KICAgIH07CiAgfQoKICBzdGF0aWMgewogICAgTUVUQVNUT1JFX0VSUk9SUyA9CiAgICAgICAgSW1tdXRhYmxlTWFwLjxTdHJpbmcsIEVycm9yQ29kZVN1cHBsaWVyPmJ1aWxkZXIoKQogICAgICAgICAgICAucHV0KCJbSW52YWxpZCBvYmplY3RdIiwgUHJpc21FcnJvckNvZGUuUFJJU01fSU5WQUxJRF9PQkpFQ1QpCiAgICAgICAgICAgIC5wdXQoIltJbnZhbGlkIHNjaGVtYSBjaGFuZ2VdIiwgUHJpc21FcnJvckNvZGUuUFJJU01fSU5WQUxJRF9TQ0hFTUFfQ0hBTkdFKQogICAgICAgICAgICAucHV0KCJbRGVwZW5kZW50IHRhYmxlIGV4aXN0c10iLCBQcmlzbUVycm9yQ29kZS5QUklTTV9ERVBFTkRFTlRfVEFCTEVfRVhJU1RTKQogICAgICAgICAgICAucHV0KCJbRHJvcCB0YWJsZSBkZW5pZWRdIiwgUHJpc21FcnJvckNvZGUuUFJJU01fRFJPUF9UQUJMRV9ERU5JRUQpCiAgICAgICAgICAgIC5wdXQoIltEcm9wIHBhcnRpdGlvbiBkZW5pZWRdIiwgUHJpc21FcnJvckNvZGUuUFJJU01fRFJPUF9QQVJUSVRJT05fREVOSUVEKQogICAgICAgICAgICAuYnVpbGQoKTsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Optimize</last-search>
+      <last-search>CombineUnions</last-search>
       <last-offset />
-      <last-pattern>Optimize</last-pattern>
+      <last-pattern>CombineUnions</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>);</last-substitute>
       <last-dir>1</last-dir>
@@ -1232,9 +1239,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isPrestoView</entry>
-        <entry>stats</entry>
-        <entry encoding="base64">XDxnZXRNZXRhc3RvcmVcPg==</entry>
         <entry>getTable(</entry>
         <entry encoding="base64">XDxwb3N0UHJvY2Vzc1w+</entry>
         <entry>tableType</entry>
@@ -1252,6 +1256,9 @@
         <entry>hiveTypeName</entry>
         <entry>OptimizeLimit</entry>
         <entry>Optimize</entry>
+        <entry>Batch</entry>
+        <entry>Combine</entry>
+        <entry>CombineUnions</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
