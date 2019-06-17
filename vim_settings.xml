@@ -630,7 +630,6 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/metadata/MetadataManager.class" timestamp="1557870078371">
         <mark key="'" line="659" column="60" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/trees/RuleExecutorSuite.scala" timestamp="1560452960828" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/hr/dim_all_employees.json" timestamp="1543886234271">
         <mark key="'" line="5" column="118" />
       </file>
@@ -658,6 +657,10 @@
       </file>
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/client/PlasmaHiveClientImpl.scala" timestamp="1543354992976">
         <mark key="'" line="116" column="18" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/AnalysisUtils.scala" timestamp="1560810205774">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="73" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/transaction/TransactionManager.class" timestamp="1560215493148">
         <mark key="'" line="315" column="40" />
@@ -916,7 +919,6 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/pom.xml" timestamp="1560193754166">
         <mark key="'" line="1627" column="32" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-prism/0.208-SNAPSHOT/presto-prism-0.208-20180809.040237-25.jar!/com/facebook/presto/hive/metastore/thrift/PrismHiveMetastore.class" timestamp="1560288961973" />
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorManager.java" timestamp="1560215456046">
         <mark key="'" line="188" column="23" />
       </file>
@@ -1249,8 +1251,8 @@
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcyIkZmllbGROYW1lJ3MgaW5mZXJyZWQgb3V0cHV0IGlzIE5VTEwuICIgKwogICAgICAgICAgICAgIHMiUGxlYXNlIGNhc3QgdG8gYSB2YWxpZCB0eXBlIHVzaW5nIENBU1QoTlVMTCBhcyBfdHlwZV8pLiIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1299,7 +1301,7 @@
       <last-replace>)</last-replace>
       <last-substitute>);</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
