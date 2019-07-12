@@ -425,6 +425,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/plans/QueryPlan.scala" timestamp="1547686696232">
         <mark key="'" line="56" column="18" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/sdk/base-testing/src/main/scala/com/facebook/spark/common/testutil/PipelineTester.scala" timestamp="1562950487143">
+        <mark key="'" line="37" column="39" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/catalyst/identifiers.scala" timestamp="1543047257917">
         <mark key="'" line="49" column="11" />
       </file>
@@ -1156,9 +1159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
-      <jump line="51" column="4" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
-      <jump line="85" column="21" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/optimizer/OptimizeLimitZeroSuite.scala" />
       <jump line="84" column="29" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/plans/PlanTest.scala" />
       <jump line="85" column="53" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/plans/PlanTest.scala" />
       <jump line="91" column="13" filename="$USER_HOME$/fb-spark/sql/catalyst/src/test/scala/org/apache/spark/sql/catalyst/plans/PlanTest.scala" />
@@ -1256,6 +1256,9 @@
       <jump line="71" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
       <jump line="263" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
       <jump line="182" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
+      <jump line="27" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/sdk/base-testing/src/main/scala/com/facebook/spark/common/testutil/PipelineTester.scala" />
+      <jump line="36" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/sdk/base-testing/src/main/scala/com/facebook/spark/common/testutil/PipelineTester.scala" />
+      <jump line="37" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/sdk/base-testing/src/main/scala/com/facebook/spark/common/testutil/PipelineTester.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1268,7 +1271,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJUlRvUHJlc3RvXD4=</text>
+        <text encoding="base64">XDxfaGl2ZUNvbnRleHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoKICogTGljZW5zZWQgdG8gdGhlIEFwYWNoZSBTb2Z0d2FyZSBGb3VuZGF0aW9uIChBU0YpIHVuZGVyIG9uZSBvciBtb3JlCiAqIGNvbnRyaWJ1dG9yIGxpY2Vuc2UgYWdyZWVtZW50cy4gIFNlZSB0aGUgTk9USUNFIGZpbGUgZGlzdHJpYnV0ZWQgd2l0aAogKiB0aGlzIHdvcmsgZm9yIGFkZGl0aW9uYWwgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGNvcHlyaWdodCBvd25lcnNoaXAuCiAqIFRoZSBBU0YgbGljZW5zZXMgdGhpcyBmaWxlIHRvIFlvdSB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wCiAqICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoCiAqIHRoZSBMaWNlbnNlLiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8K</text>
@@ -1305,9 +1308,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJUlRvUHJlc3RvXD4=</last-search>
+      <last-search encoding="base64">XDxfaGl2ZUNvbnRleHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJUlRvUHJlc3RvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfaGl2ZUNvbnRleHRcPg==</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>);</last-substitute>
       <last-dir>1</last-dir>
@@ -1315,9 +1318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conf</entry>
-        <entry>LocalRelation</entry>
-        <entry>PropagateEmpty</entry>
         <entry encoding="base64">XDxMb2NhbFJlbGF0aW9uXD4=</entry>
         <entry>Propagate</entry>
         <entry encoding="base64">XDxQcm9wYWdhdGVFbXB0eVJlbGF0aW9uXD4=</entry>
@@ -1335,6 +1335,9 @@
         <entry>Replacing</entry>
         <entry>column</entry>
         <entry encoding="base64">XDxJUlRvUHJlc3RvXD4=</entry>
+        <entry>namespace</entry>
+        <entry>_hiveContext</entry>
+        <entry encoding="base64">XDxfaGl2ZUNvbnRleHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
