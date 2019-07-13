@@ -386,6 +386,11 @@
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/security/HiveSecurityModule.java" timestamp="1560213145597">
         <mark key="'" line="38" column="16" />
       </file>
+      <file name="$USER_HOME$/git/presto/presto-parser/src/test/java/com/facebook/presto/sql/parser/TestSqlParser.java" timestamp="1562977287167">
+        <mark key="[" line="1688" column="0" />
+        <mark key="]" line="1688" column="0" />
+        <mark key="." line="1688" column="0" />
+      </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/deploy/SparkSubmit.scala" timestamp="1542763817602">
         <mark key="'" line="719" column="33" />
       </file>
@@ -470,6 +475,13 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/PrismMetastoreClientFactory.class" timestamp="1560290740171">
         <mark key="'" line="53" column="21" />
       </file>
+      <file name="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/TestHiveIntegrationSmokeTest.java" timestamp="1562976986731">
+        <mark key="'" line="139" column="13" />
+        <mark key="[" line="4017" column="8" />
+        <mark key="]" line="4017" column="11" />
+        <mark key="." line="4017" column="11" />
+        <mark key="^" line="4017" column="11" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/pom.xml" timestamp="1559246726759">
         <mark key="'" line="50" column="22" />
       </file>
@@ -533,6 +545,12 @@
         <mark key="]" line="68" column="67" />
         <mark key="." line="68" column="67" />
         <mark key="^" line="68" column="67" />
+      </file>
+      <file name="$USER_HOME$/git/presto/presto-product-tests/src/main/java/com/facebook/presto/tests/hive/HivePartitioningTest.java" timestamp="1562976960637">
+        <mark key="'" line="28" column="22" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/java/com/facebook/upm/api/OptimizationRuleTests.java" timestamp="1554836525938">
         <mark key="'" line="446" column="39" />
@@ -1154,8 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="50" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="282" column="62" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="211" column="21" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
       <jump line="73" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
       <jump line="167" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
@@ -1254,49 +1270,51 @@
       <jump line="876" column="8" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="125" column="9" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="282" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
+      <jump line="28" column="22" filename="$USER_HOME$/git/presto/presto-product-tests/src/main/java/com/facebook/presto/tests/hive/HivePartitioningTest.java" />
+      <jump line="138" column="13" filename="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/TestHiveIntegrationSmokeTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dHV2IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHV2IA==</text>
+        <text>Node</text>
       </register>
       <register name="/" type="4">
         <text>USING</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBMZWZ0U2VtaSAgID0+ID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgQWxpYXNlZFJlbGF0aW9uKG5ldyBVbm5lc3QoSW1tdXRhYmxlTGlzdC5vZihuZXcgSWRlbnRpZmllcigiYSIpKSwgZmFsc2UpLCBuZXcgSWRlbnRpZmllcigidG1wIiksIEltbXV0YWJsZUxpc3Qub2YobmV3IElkZW50aWZpZXIoImMiKSkpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZ25vcmUoIiIpIHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBhZGZhc2QKICAgICAgICAgICAgZiBhcwogICAgICAgICAgICAgICAgZGYgYQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZS5nZXRDb2wK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmNhdGFseXN0LnBsYW5zLkxlZnRTZW1pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBMZWZ0U2VtaSAgID0+ID8/Pwo=</text>
+        <text encoding="base64">ICAgIEBUCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIE8K</text>
+        <text encoding="base64">ICBpZ25vcmUoIiIpIHsKICAgIAogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
