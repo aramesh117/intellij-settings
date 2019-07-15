@@ -875,8 +875,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/onavo-plasma-apps-v1/src/main/scala/com/onavo/common/config/ConfigHelper.scala" timestamp="1543457068899">
         <mark key="'" line="60" column="20" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" timestamp="1562957759546">
-        <mark key="'" line="3073" column="39" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" timestamp="1563214066304">
+        <mark key="'" line="110" column="55" />
         <mark key="." line="79" column="33" />
       </file>
       <file name="$USER_HOME$/git/presto/presto-thrift-connector/src/main/java/com/facebook/presto/connector/thrift/ThriftConnectorFactory.java" timestamp="1557530327495">
@@ -1167,10 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="21" filename="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/sql/hive/FBHQLShadow.scala" />
-      <jump line="73" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" />
-      <jump line="167" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
-      <jump line="9" column="16" filename="$MAVEN_REPOSITORY$/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar!/org/scalatest/FunSuiteLike.class" />
       <jump line="168" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
       <jump line="90" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
       <jump line="103" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
@@ -1267,6 +1263,10 @@
       <jump line="282" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" />
       <jump line="28" column="22" filename="$USER_HOME$/git/presto/presto-product-tests/src/main/java/com/facebook/presto/tests/hive/HivePartitioningTest.java" />
       <jump line="138" column="13" filename="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/TestHiveIntegrationSmokeTest.java" />
+      <jump line="113" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
+      <jump line="93" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
+      <jump line="117" column="51" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
+      <jump line="110" column="55" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1322,7 +1322,7 @@
       <last-replace>ignore(</last-replace>
       <last-substitute>test(</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
