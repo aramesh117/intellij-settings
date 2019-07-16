@@ -495,11 +495,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-connector/src/main/java/com/facebook/upm/engine/presto/PrestoAstRewriterBase.java" timestamp="1555115627589">
         <mark key="'" line="1199" column="10" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" timestamp="1562975992053">
-        <mark key="[" line="130" column="43" />
-        <mark key="]" line="130" column="43" />
-        <mark key="." line="130" column="43" />
-        <mark key="^" line="130" column="20" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" timestamp="1563296813763">
+        <mark key="[" line="128" column="2" />
+        <mark key="]" line="128" column="7" />
+        <mark key="." line="128" column="7" />
+        <mark key="^" line="128" column="7" />
       </file>
       <file name="$USER_HOME$/fb-spark/core/src/main/scala/org/apache/spark/rdd/RDD.scala" timestamp="1552592622468">
         <mark key="'" line="1307" column="29" />
@@ -708,12 +708,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/jdbc/JdbcRelationProvider.scala" timestamp="1543522907672">
         <mark key="'" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" timestamp="1563233047990">
-        <mark key="'" line="133" column="1" />
-        <mark key="[" line="136" column="27" />
-        <mark key="]" line="136" column="35" />
-        <mark key="." line="136" column="35" />
-        <mark key="^" line="136" column="35" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" timestamp="1563296699914">
+        <mark key="'" line="132" column="1" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/DataType.scala" timestamp="1543344772830">
         <mark key="'" line="33" column="15" />
@@ -1177,7 +1173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3073" column="39" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
       <jump line="134" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
       <jump line="63" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
       <jump line="66" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
@@ -1275,21 +1270,22 @@
       <jump line="11" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/expressions/ResolvedFunction.scala" />
       <jump line="24" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/expressions/ResolvedFunction.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
-      <jump line="132" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
       <jump line="133" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="44" column="75" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="132" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>concat&quot;</text>
+        <text>concat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ImNvbmNhdCIsInZhcmNoYXIiLCJ2YXJjaGFyLi4uIiwic2NhbGFyIiwidHJ1ZSIsImNvbmNhdGVuYXRlcyBnaXZlbiBzdHJpbmdzIgo=</text>
@@ -1326,9 +1322,9 @@
       </register>
     </registers>
     <search>
-      <last-search>concat&quot;</last-search>
+      <last-search>concat</last-search>
       <last-offset />
-      <last-pattern>concat&quot;</last-pattern>
+      <last-pattern>concat</last-pattern>
       <last-replace>ignore(</last-replace>
       <last-substitute>test(</last-substitute>
       <last-dir>1</last-dir>
@@ -1336,7 +1332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ghi</entry>
         <entry encoding="base64">XDxpZ25vcmVcPg==</entry>
         <entry>Int</entry>
         <entry>INT</entry>
@@ -1356,6 +1351,7 @@
         <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry>getArguments</entry>
         <entry>concat&quot;</entry>
+        <entry>concat</entry>
       </history-search>
       <history-cmd>
         <entry>lnext</entry>
