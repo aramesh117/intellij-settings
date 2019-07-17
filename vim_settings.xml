@@ -129,6 +129,9 @@
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorAwareNodeManager.java" timestamp="1560210904782">
         <mark key="'" line="25" column="19" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" timestamp="1563391425351">
+        <mark key="'" line="76" column="30" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/bi/dim_all_users_fast.json" timestamp="1541740321544">
         <mark key="'" line="157" column="0" />
       </file>
@@ -218,6 +221,9 @@
       </file>
       <file name="$USER_HOME$/git/presto-facebook/presto-namespace-client/src/main/java/com/facebook/presto/prism/namespace/PrismServiceClientModule.java" timestamp="1560283139971">
         <mark key="'" line="13" column="8" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/mappers/PrestoToUpmTypeMapper.scala" timestamp="1563391438181">
+        <mark key="'" line="182" column="17" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/rules/presto/DatasetPartitionProjectionRewriter.scala" timestamp="1561073642568">
         <mark key="'" line="73" column="12" />
@@ -508,8 +514,8 @@
       <file name="$USER_HOME$/fb-spark/fblearner-plasma/plasma-spark/src/main/scala/org/apache/spark/scheduler/SparkResourceStats.scala" timestamp="1543870127043">
         <mark key="'" line="196" column="4" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" timestamp="1563388913357">
-        <mark key="'" line="71" column="7" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" timestamp="1563391597052">
+        <mark key="'" line="236" column="47" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
@@ -1122,17 +1128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1489" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/planner/IRToPrestoForSpark.scala" />
-      <jump line="43" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/serializer/IRToJson.scala" />
-      <jump line="5" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/ExtendedAstVisitor.scala" />
-      <jump line="1465" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/planner/IRToPrestoForSpark.scala" />
-      <jump line="157" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
-      <jump line="67" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
-      <jump line="33" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
-      <jump line="684" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
-      <jump line="680" column="3" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
-      <jump line="1183" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
-      <jump line="935" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
       <jump line="144" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
       <jump line="22" column="38" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
       <jump line="89" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
@@ -1222,6 +1217,17 @@
       <jump line="163" column="43" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/expressions/mathExpressions.scala" />
       <jump line="56" column="34" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/expressions/mathExpressions.scala" />
       <jump line="74" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
+      <jump line="223" column="59" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="27" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="32" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="122" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="382" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/mappers/PrestoToUpmTypeMapper.scala" />
+      <jump line="76" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="389" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/mappers/PrestoToUpmTypeMapper.scala" />
+      <jump line="150" column="11" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/mappers/PrestoToUpmTypeMapper.scala" />
+      <jump line="182" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/mappers/PrestoToUpmTypeMapper.scala" />
+      <jump line="38" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="236" column="47" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1234,7 +1240,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>expressions</text>
+        <text>parse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvVGVzdCgiU0VMRUNUIE1BUCgnYScsICdiJykgYXMgYWJjZCIsICJwcm9qZWN0KG9uZV9yb3dfcmVsYXRpb24oKSxbYWxpYXMocmVzb2x2ZWRfZnVuY3Rpb24oYnVpbHRpbl9mdW5jdGlvbignbWFwJyksW2xpdGVyYWwoJ2EnLHNxbF9zdHJpbmcoKSksbGl0ZXJhbCgnYicsc3FsX3N0cmluZygpKV0pLCdhYmNkJyldKSIsICJTRUxFQ1QgYG1hcGAoJ2EnLCAnYicpIGFiY2QiKQo=</text>
@@ -1271,9 +1277,9 @@
       </register>
     </registers>
     <search>
-      <last-search>expressions</last-search>
+      <last-search>parse</last-search>
       <last-offset />
-      <last-pattern>expressions</last-pattern>
+      <last-pattern>parse</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>ignore</last-substitute>
       <last-dir>1</last-dir>
@@ -1281,7 +1287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CatalystExpressions</entry>
         <entry encoding="base64">XDxwcmVzdG9NYXBcPg==</entry>
         <entry>SPARK</entry>
         <entry>lookupFunction</entry>
@@ -1301,6 +1306,7 @@
         <entry encoding="base64">XDxnZXRQcmVzdG9GdW5jdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxnZXRTcGFya0Z1bmN0aW9uXD4=</entry>
         <entry>expressions</entry>
+        <entry>parse</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
