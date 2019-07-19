@@ -821,8 +821,8 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/security/HiveSecurityModule.class" timestamp="1559168898096">
         <mark key="'" line="22" column="48" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1543624159924">
-        <mark key="'" line="45" column="18" />
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" timestamp="1563578074589">
+        <mark key="'" line="209" column="61" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/hive/metastore/thrift/BridgingHiveMetastore.class" timestamp="1560287132227">
         <mark key="'" line="78" column="2" />
@@ -874,10 +874,6 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/fb-spark-applications/onavo-plasma-apps-v1/src/main/scala/com/onavo/common/config/ConfigHelper.scala" timestamp="1543457068899">
         <mark key="'" line="60" column="20" />
-      </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" timestamp="1563486139308">
-        <mark key="'" line="37" column="6" />
-        <mark key="." line="79" column="33" />
       </file>
       <file name="$USER_HOME$/git/presto/presto-thrift-connector/src/main/java/com/facebook/presto/connector/thrift/ThriftConnectorFactory.java" timestamp="1557530327495">
         <mark key="'" line="71" column="24" />
@@ -1152,7 +1148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="22" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/analysis/FunctionRegistry.scala" />
       <jump line="390" column="33" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/analysis/FunctionRegistry.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
       <jump line="192" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
@@ -1252,6 +1247,7 @@
       <jump line="161" column="6" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/FunctionRegistry.scala" />
       <jump line="453" column="55" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/FunctionRegistry.scala" />
       <jump line="163" column="4" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/FunctionRegistry.scala" />
+      <jump line="209" column="61" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/LogicalPlan.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
