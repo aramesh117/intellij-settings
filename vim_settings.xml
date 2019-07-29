@@ -704,8 +704,8 @@
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/jdbc/JdbcRelationProvider.scala" timestamp="1543522907672">
         <mark key="'" line="24" column="57" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" timestamp="1563385653850">
-        <mark key="'" line="145" column="7" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" timestamp="1564423938833">
+        <mark key="'" line="586" column="74" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/DataType.scala" timestamp="1543344772830">
         <mark key="'" line="33" column="15" />
@@ -911,7 +911,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/resources/ad_metrics/ads_pixel_traffic_inc_archive.json" timestamp="1556044298959">
         <mark key="'" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/buckEngine/src/main/resources/presto.functions.csv" timestamp="1563952308896" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/buckEngine/src/main/resources/presto.functions.csv" timestamp="1564422645315">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-sql_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/UDFRegistration.scala" timestamp="1541528930851">
         <mark key="'" line="38" column="54" />
       </file>
@@ -1145,11 +1147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="9" column="67" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="100" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="161" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/analysis/FunctionRegistry.scala" />
-      <jump line="167" column="4" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/analysis/FunctionRegistry.scala" />
       <jump line="469" column="16" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.1350/spark-catalyst_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/catalyst/analysis/FunctionRegistry.scala" />
       <jump line="439" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
       <jump line="145" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
@@ -1245,6 +1242,11 @@
       <jump line="683" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/pom.xml" />
       <jump line="57" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/hive-udfs/core-udfs/src/main/java/com/facebook/hive/udf/UDFNonempty.java" />
       <jump line="48" column="19" filename="$USER_HOME$/fbsource/fbcode/fbjava/hive-udfs/core-udfs/src/main/java/com/facebook/hive/udf/UDFNonempty.java" />
+      <jump line="24" column="41" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/buckEngine/src/main/resources/presto.functions.csv" />
+      <jump line="9" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/buckEngine/src/main/resources/presto.functions.csv" />
+      <jump line="319" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="586" column="74" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
     </jumps>
     <registers>
       <register name="a" type="4">
