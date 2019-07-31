@@ -265,7 +265,7 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" timestamp="1559325717332">
         <mark key="'" line="53" column="31" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" timestamp="1564608931326">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" timestamp="1564613667286">
         <mark key="'" line="122" column="4" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1543624166231">
@@ -315,6 +315,9 @@
       </file>
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/analyzer/Analyzer.java" timestamp="1560209316390">
         <mark key="'" line="75" column="56" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1564613691831">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
@@ -691,8 +694,12 @@
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/SignatureBinder.java" timestamp="1564431209572">
         <mark key="'" line="255" column="35" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" timestamp="1564608761957">
-        <mark key="'" line="100" column="14" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" timestamp="1564614100367">
+        <mark key="'" line="121" column="14" />
+        <mark key="[" line="111" column="14" />
+        <mark key="]" line="112" column="27" />
+        <mark key="^" line="112" column="27" />
+        <mark key="." line="112" column="27" />
       </file>
       <file name="$USER_HOME$/fb-spark/python/pyspark/rdd.py" timestamp="1543451800126">
         <mark key="'" line="727" column="0" />
@@ -1004,8 +1011,12 @@
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/parser/ParseDriver.scala" timestamp="1563562486762">
         <mark key="'" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" timestamp="1564609007570">
-        <mark key="'" line="159" column="7" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" timestamp="1564614249386">
+        <mark key="'" line="380" column="0" />
+        <mark key="[" line="734" column="0" />
+        <mark key="]" line="734" column="0" />
+        <mark key="^" line="734" column="97" />
+        <mark key="." line="734" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.0.2-SNAPSHOT_2017-10-03-12-03-09/spark-catalyst_2.11-2.0.2-SNAPSHOT_2017-10-03-12-03-09-sources.jar!/org/apache/spark/sql/types/DataType.scala" timestamp="1543344772830">
         <mark key="'" line="33" column="15" />
@@ -1097,8 +1108,8 @@
       <file name="$USER_HOME$/git/presto/presto-client/src/main/java/com/facebook/presto/client/StatementClientFactory.java" timestamp="1564430404970">
         <mark key="'" line="23" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" timestamp="1564608914087">
-        <mark key="'" line="2039" column="10" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" timestamp="1564614312089">
+        <mark key="'" line="182" column="9" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testDatasetWithDynamicPartitionSpec__physicalplan.json" timestamp="1558241653620">
         <mark key="'" line="13" column="338" />
@@ -1228,25 +1239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="20" filename="$USER_HOME$/git/presto/presto-client/src/main/java/com/facebook/presto/client/StatementClientV1.java" />
-      <jump line="382" column="40" filename="$USER_HOME$/git/presto/presto-client/src/main/java/com/facebook/presto/client/StatementClientV1.java" />
-      <jump line="129" column="16" filename="$USER_HOME$/git/presto/presto-client/src/main/java/com/facebook/presto/client/StatementClientV1.java" />
-      <jump line="131" column="59" filename="$USER_HOME$/git/presto/presto-client/src/main/java/com/facebook/presto/client/StatementClientV1.java" />
-      <jump line="24" column="19" filename="$USER_HOME$/git/presto/presto-tests/src/main/java/com/facebook/presto/tests/sql/JdbcSqlExecutor.java" />
-      <jump line="31" column="24" filename="$USER_HOME$/git/presto/presto-tests/src/main/java/com/facebook/presto/tests/sql/PrestoSqlExecutor.java" />
-      <jump line="82" column="81" filename="$USER_HOME$/git/presto/presto-tests/src/main/java/com/facebook/presto/tests/AbstractTestingPrestoClient.java" />
-      <jump line="89" column="19" filename="$USER_HOME$/git/presto/presto-tests/src/main/java/com/facebook/presto/tests/AbstractTestingPrestoClient.java" />
-      <jump line="88" column="57" filename="$USER_HOME$/git/presto/presto-tests/src/main/java/com/facebook/presto/tests/AbstractTestingPrestoClient.java" />
-      <jump line="59" column="18" filename="$USER_HOME$/git/presto/presto-tests/src/main/java/com/facebook/presto/tests/AbstractTestingPrestoClient.java" />
-      <jump line="44" column="13" filename="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.9.0/okhttp-3.9.0.jar!/okhttp3/OkHttpClient.class" />
-      <jump line="64" column="18" filename="$USER_HOME$/git/presto/presto-tests/src/main/java/com/facebook/presto/tests/AbstractTestingPrestoClient.java" />
-      <jump line="383" column="19" filename="$USER_HOME$/git/presto/presto-tests/src/main/java/com/facebook/presto/tests/DistributedQueryRunner.java" />
-      <jump line="77" column="19" filename="$USER_HOME$/git/presto/presto-tests/src/main/java/com/facebook/presto/tests/DistributedQueryRunner.java" />
-      <jump line="71" column="87" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ConcatFunction.java" />
-      <jump line="36" column="31" filename="$USER_HOME$/git/presto/presto-spi/src/main/java/com/facebook/presto/spi/type/AbstractType.java" />
-      <jump line="69" column="87" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ConcatFunction.java" />
-      <jump line="32" column="30" filename="$USER_HOME$/git/presto/presto-spi/src/main/java/com/facebook/presto/spi/type/VarcharType.java" />
-      <jump line="77" column="18" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ConcatFunction.java" />
       <jump line="41" column="11" filename="$USER_HOME$/git/presto/presto-spi/src/main/java/com/facebook/presto/spi/function/Signature.java" />
       <jump line="82" column="16" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ConcatFunction.java" />
       <jump line="75" column="26" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ConcatFunction.java" />
@@ -1321,65 +1313,84 @@
       <jump line="122" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
       <jump line="2039" column="10" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
       <jump line="362" column="1" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
-      <jump line="159" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
       <jump line="16" column="24" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/aggregation/MinAggregationFunction.java" />
       <jump line="54" column="22" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/aggregation/AbstractMinMaxAggregationFunction.java" />
       <jump line="82" column="25" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/aggregation/AbstractMinMaxAggregationFunction.java" />
       <jump line="83" column="42" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/aggregation/AbstractMinMaxAggregationFunction.java" />
       <jump line="55" column="16" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/aggregation/AbstractMinMaxAggregationFunction.java" />
       <jump line="103" column="17" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/SqlAggregationFunction.java" />
+      <jump line="159" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="122" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="454" column="37" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="494" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="779" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="780" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="781" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="782" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="91" column="25" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="452" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="112" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="111" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="105" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="103" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="121" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="213" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/java/com/facebook/upm/engine/sql/types/DataTypes.java" />
+      <jump line="1819" column="2" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
+      <jump line="1823" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
+      <jump line="380" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
+      <jump line="182" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>op.userFunction.getRuntime, op.userFunction.getEncoding</text>
       </register>
       <register name="&quot;" type="4">
-        <text>PrestoSignature(output, args2Arity, functionType, deterministic, isVariableArity)</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>args2Arity</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>Signature</text>
+        <text>&quot;if&quot;</text>
       </register>
       <register name="0" type="4">
         <text>PrestoSignature(output, args2Arity, functionType, deterministic, isVariableArity)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3QXIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIERhdGFUeXBlcy5jcmVhdGVTdHJ1Y3RUeXBlKAogICAgICBhcmdzCiAgICAgICAgLm1hcChhcmcgPT4gewogICAgICAgIH0pCiAgICAgICAgLnRvTGlzdAogICAgICAgIC5hc0phdmEKICAgICkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGZpZWxkTmFtZSA9IHN1YlBhcnRzKDApCiAgICAgIHZhbCBmaWVsZERhdGFUeXBlID0gc3ViUGFydHMoMSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBhcmdzID0gUHJlc3RvVURGVXRpbHMuSU5TVEFOQ0UucGFyc2VBcmd1bWVudFR5cGVzKG5ld0FyZ3NUeXBlKQogICAgICAgICAgdmFsIGRldGVybWluaXN0aWMgPSBwYXJ0cyg0KS5lcXVhbHNJZ25vcmVDYXNlKCJ0cnVlIikKICAgICAgICAgIHByZXN0b01hcC5wdXQoCiAgICAgICAgICAgIG5hbWUsCiAgICAgICAgICAgIHByZXN0b01hcC5nZXRPckVsc2UobmFtZSwgU2VxKCkpCiAgICAgICAgICAgICAgOisgUHJlc3RvU2lnbmF0dXJlKG91dHB1dCwgYXJncywgZnVuY3Rpb25UeXBlLCBkZXRlcm1pbmlzdGljLCBpc1ZhcmlhYmxlQXJpdHkpCiAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBuZXdBcmdzVHlwZSA9IGlmIChpc1ZhcmlhYmxlQXJpdHkpIHsKICAgICAgICAgICAgLy8gVE9ETzogSW1wbGVtZW50IHZhcmFyZ3MgdHlwZSBjaGVja2VyCiAgICAgICAgICAgIC8vIFNpbmNlIHRoZSB2YXJhcmdzIHR5cGUgY2hlY2tlciBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LCB3ZSB3aWxsIG1hcCB2YXJhcmdzIGFyaXR5IHRvCiAgICAgICAgICAgIC8vIDIgb2YgdGhlIHNhbWUgdHlwZSAoYXMgYmVmb3JlKSBzbyB0aGF0IHdlIGNhbiBjb250aW51ZSBvbndhcmRzIHdpdGggdGhlIG5ldyBmdW5jdGlvbnMuCiAgICAgICAgICAgIGFyZ3NUeXBlLmRyb3BSaWdodCgzKSArICIsICIgKyBhcmdzVHlwZS5kcm9wUmlnaHQoMykKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGFyZ3NUeXBlCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBzdWJQYXJ0cyA9IGFyZy5zcGxpdCgiICIpCiAgICAgICAgICB2YWwgKGZpZWxkTmFtZSwgZmllbGRUeXBlKSA9IGlmIChzdWJQYXJ0cy5sZW5ndGggPT0gMikgewogICAgICAgICAgICAvLyBUaGVyZSBpcyBhIGZpZWxkIG5hbWUgYXMgd2VsbCBhcyBhIHR5cGUKICAgICAgICAgICAgKHN1YlBhcnRzWzBdLCBzdWJQYXJ0c1sxXSkKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICgpCiAgICAgICAgICB9CiAgICAgICAgICB2YWwgZmllbGROYW1lID0gc3ViUGFydHMoMCkKICAgICAgICAgIHZhbCBmaWVsZERhdGFUeXBlID0gc3ViUGFydHMoMSkKICAgICAgICAgIHZhbCBudWxsYWJsZSA9IHRydWUgLy8gVE9ETzogVGhpcyBtYXkgbm90IGFsd2F5cyBiZSB0cnVlLCBub3Qgc3VyZS4KICAgICAgICAgIERhdGFUeXBlcy5jcmVhdGVTdHJ1Y3RGaWVsZCgKICAgICAgICAgICAgc3ViUGFydHMoMCksCiAgICAgICAgICAgIGNvbnZlcnRQcmVzdG9Ub1VwbVR5cGUoc3ViUGFydHMoMSkpLAogICAgICAgICAgICBudWxsYWJsZQogICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFNpbmNlIHRoZSB2YXJhcmdzIHR5cGUgY2hlY2tlciBpcyBub3QgaW1wbGVtZW50ZWQgeWV0LCB3ZSB3aWxsIG1hcCB2YXJhcmdzIGFyaXR5IHRvCiAgICAgICAgICAvLyAyIG9mIHRoZSBzYW1lIHR5cGUgKGFzIGJlZm9yZSkgc28gdGhhdCB3ZSBjYW4gY29udGludWUgb253YXJkcyB3aXRoIHRoZSBuZXcgZnVuY3Rpb25zLgo=</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmxhIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBpc1ZhcmlhYmxlQXJpdHkgPSBhcmdzLmVuZHNXaXRoKCIuLi4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3QXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Signature</last-search>
+      <last-search>&quot;if&quot;</last-search>
       <last-offset />
-      <last-pattern>Signature</last-pattern>
+      <last-pattern>&quot;if&quot;</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>ignore</last-substitute>
       <last-dir>1</last-dir>
@@ -1387,13 +1398,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxzcWxcPg==</entry>
-        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
-        <entry>variableAritty</entry>
-        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
-        <entry encoding="base64">XDx2YXJpYWJsZUFyaXR5XD4=</entry>
-        <entry>Presto</entry>
         <entry>getPresto</entry>
         <entry>Greatest</entry>
         <entry>Least</entry>
@@ -1407,6 +1411,13 @@
         <entry>getPrestoFunctions</entry>
         <entry>if&quot;</entry>
         <entry>Signature</entry>
+        <entry>map_entries</entry>
+        <entry encoding="base64">XDxwYXJzZURhdGFUeXBlQW5kQXJnc1w+</entry>
+        <entry>row(</entry>
+        <entry>bing_tile</entry>
+        <entry encoding="base64">XDxmaWVsZERhdGFUeXBlXD4=</entry>
+        <entry encoding="base64">XDxmaWVsZE5hbWVcPg==</entry>
+        <entry>&quot;if&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>2052</entry>
