@@ -123,6 +123,7 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" timestamp="1564600761011" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/UpmLogicalPipeMap.scala" timestamp="1541981948627">
         <mark key="'" line="17" column="26" />
       </file>
@@ -263,6 +264,9 @@
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" timestamp="1559325717332">
         <mark key="'" line="53" column="31" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" timestamp="1564600910053">
+        <mark key="'" line="306" column="40" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1543624166231">
         <mark key="'" line="260" column="51" />
@@ -588,7 +592,7 @@
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/ThriftHiveMetastoreClient.java" timestamp="1560192379997">
         <mark key="'" line="395" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/OverloadResolution.scala" timestamp="1563386388119">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/OverloadResolution.scala" timestamp="1564601061741">
         <mark key="'" line="138" column="17" />
       </file>
       <file name="$USER_HOME$/git/presto-facebook/presto-prism/src/main/java/com/facebook/presto/hive/metastore/thrift/PrismHiveMetastore.java" timestamp="1557516874178">
@@ -678,7 +682,7 @@
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/SignatureBinder.java" timestamp="1564431209572">
         <mark key="'" line="255" column="35" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" timestamp="1564596158373">
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" timestamp="1564600690628">
         <mark key="'" line="100" column="14" />
       </file>
       <file name="$USER_HOME$/fb-spark/python/pyspark/rdd.py" timestamp="1543451800126">
@@ -1212,10 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="586" column="74" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
-      <jump line="16" column="21" filename="$USER_HOME$/git/presto-facebook/presto-facebook-functions/src/main/java/com/facebook/presto/facebook/FacebookFunctionsPlugin.java" />
-      <jump line="37" column="24" filename="$USER_HOME$/git/presto-facebook/presto-facebook-functions/src/main/java/com/facebook/presto/facebook/FacebookEscapeFunctions.java" />
-      <jump line="15" column="21" filename="$USER_HOME$/git/presto-facebook/presto-facebook-functions/src/main/java/com/facebook/presto/facebook/FacebookFunctionsPlugin.java" />
       <jump line="8" column="21" filename="$USER_HOME$/git/presto-facebook/presto-facebook-functions/src/main/java/com/facebook/presto/facebook/FacebookFunctionsPlugin.java" />
       <jump line="249" column="50" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/StaticFunctionNamespace.java" />
       <jump line="250" column="65" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/StaticFunctionNamespace.java" />
@@ -1312,6 +1312,10 @@
       <jump line="230" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
       <jump line="1822" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
       <jump line="241" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="266" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="306" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="136" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/OverloadResolution.scala" />
+      <jump line="138" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/OverloadResolution.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1324,7 +1328,7 @@
         <text>argsType</text>
       </register>
       <register name="/" type="4">
-        <text>FFB_NON</text>
+        <text encoding="base64">XDxjYW5kaWRhdGVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvVGVzdCgiU0VMRUNUIE1BUCgnYScsICdiJykgYXMgYWJjZCIsICJwcm9qZWN0KG9uZV9yb3dfcmVsYXRpb24oKSxbYWxpYXMocmVzb2x2ZWRfZnVuY3Rpb24oYnVpbHRpbl9mdW5jdGlvbignbWFwJyksW2xpdGVyYWwoJ2EnLHNxbF9zdHJpbmcoKSksbGl0ZXJhbCgnYicsc3FsX3N0cmluZygpKV0pLCdhYmNkJyldKSIsICJTRUxFQ1QgYG1hcGAoJ2EnLCAnYicpIGFiY2QiKQo=</text>
@@ -1363,9 +1367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FFB_NON</last-search>
+      <last-search encoding="base64">XDxjYW5kaWRhdGVzXD4=</last-search>
       <last-offset />
-      <last-pattern>FFB_NON</last-pattern>
+      <last-pattern encoding="base64">XDxjYW5kaWRhdGVzXD4=</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>ignore</last-substitute>
       <last-dir>1</last-dir>
@@ -1373,7 +1377,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWQVJDSEFSX0NPTkNBVFw+</entry>
         <entry encoding="base64">XDxTaG93RnVuY3Rpb25zXD4=</entry>
         <entry encoding="base64">XDxyb3dzXD4=</entry>
         <entry encoding="base64">XDxnZXRGdW5jdGlvblR5cGVcPg==</entry>
@@ -1393,6 +1396,7 @@
         <entry encoding="base64">XDxhcmdzXD4=</entry>
         <entry encoding="base64">XDxhcmdzVHlwZVw+</entry>
         <entry>FFB_NON</entry>
+        <entry encoding="base64">XDxjYW5kaWRhdGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2052</entry>
