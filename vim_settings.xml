@@ -258,6 +258,9 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/parser/UpmPrestoSqlParser.scala" timestamp="1559325717332">
         <mark key="'" line="53" column="31" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" timestamp="1564531806606">
+        <mark key="'" line="236" column="45" />
+      </file>
       <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/expressions/namedExpressions.scala" timestamp="1543624166231">
         <mark key="'" line="260" column="51" />
       </file>
@@ -666,8 +669,8 @@
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/SignatureBinder.java" timestamp="1564431209572">
         <mark key="'" line="255" column="35" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" timestamp="1563485435601">
-        <mark key="'" line="73" column="6" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" timestamp="1564547893513">
+        <mark key="'" line="26" column="6" />
       </file>
       <file name="$USER_HOME$/fb-spark/python/pyspark/rdd.py" timestamp="1543451800126">
         <mark key="'" line="727" column="0" />
@@ -1181,14 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="589" column="55" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/SparkSession.scala" />
-      <jump line="53" column="4" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/parser/ParseDriver.scala" />
-      <jump line="62" column="28" filename="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/parser/ParseDriver.scala" />
-      <jump line="53" column="6" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" />
-      <jump line="306" column="58" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" />
-      <jump line="315" column="8" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" />
-      <jump line="376" column="15" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" />
-      <jump line="380" column="15" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" />
       <jump line="477" column="5" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" />
       <jump line="546" column="34" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" />
       <jump line="548" column="50" filename="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" />
@@ -1281,6 +1276,14 @@
       <jump line="504" column="39" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/SignatureBinder.java" />
       <jump line="75" column="18" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ArrayConstructor.java" />
       <jump line="116" column="19" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ConcatFunction.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="67" column="64" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="70" column="69" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="79" column="72" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="80" column="52" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="122" column="4" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="26" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/PrestoUDFUtils.scala" />
+      <jump line="236" column="45" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1293,7 +1296,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YXJpYWJsZUFyaXR5XD4=</text>
+        <text>Presto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRvVGVzdCgiU0VMRUNUIE1BUCgnYScsICdiJykgYXMgYWJjZCIsICJwcm9qZWN0KG9uZV9yb3dfcmVsYXRpb24oKSxbYWxpYXMocmVzb2x2ZWRfZnVuY3Rpb24oYnVpbHRpbl9mdW5jdGlvbignbWFwJyksW2xpdGVyYWwoJ2EnLHNxbF9zdHJpbmcoKSksbGl0ZXJhbCgnYicsc3FsX3N0cmluZygpKV0pLCdhYmNkJyldKSIsICJTRUxFQ1QgYG1hcGAoJ2EnLCAnYicpIGFiY2QiKQo=</text>
@@ -1330,9 +1333,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YXJpYWJsZUFyaXR5XD4=</last-search>
+      <last-search>Presto</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YXJpYWJsZUFyaXR5XD4=</last-pattern>
+      <last-pattern>Presto</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>ignore</last-substitute>
       <last-dir>1</last-dir>
@@ -1340,7 +1343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cfunction</entry>
         <entry>visitTemporary</entry>
         <entry>CREATE TEMPORARY</entry>
         <entry encoding="base64">XDxmdW5jdGlvblJlc291cmNlTG9hZGVyXD4=</entry>
@@ -1360,6 +1362,7 @@
         <entry>variableAritty</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDx2YXJpYWJsZUFyaXR5XD4=</entry>
+        <entry>Presto</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
