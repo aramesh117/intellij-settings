@@ -30,8 +30,12 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/presto/presto-hive/0.208-SNAPSHOT/presto-hive-0.208-20180809.052232-35-sources.jar!/com/facebook/presto/hive/authentication/AuthenticationModules.java" timestamp="1558228666360">
         <mark key="'" line="136" column="40" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" timestamp="1564683738827">
-        <mark key="'" line="204" column="26" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" timestamp="1564695722946">
+        <mark key="'" line="655" column="8" />
+        <mark key="[" line="562" column="10" />
+        <mark key="]" line="562" column="9" />
+        <mark key="^" line="562" column="9" />
+        <mark key="." line="562" column="9" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/expression/SparkExpressionFactory.scala" timestamp="1543952088031">
         <mark key="'" line="45" column="6" />
@@ -324,9 +328,6 @@
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/analyzer/Analyzer.java" timestamp="1560209316390">
         <mark key="'" line="75" column="56" />
       </file>
-      <file name="/Dummy.scala" timestamp="1564613691831">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/presto-parser-shaded/target/upm-presto-parser-shaded-1.0.0.jar!/com/facebook/presto/sql/tree/SetOperation.class" timestamp="1541111987124">
         <mark key="'" line="22" column="61" />
       </file>
@@ -356,6 +357,9 @@
       </file>
       <file name="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/connector/ConnectorContextInstance.java" timestamp="1560212958220">
         <mark key="'" line="29" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/bumblebee/bumblebee-application-framework/0.156/bumblebee-application-framework-0.156-sources.jar!/com/facebook/bumblebee/applicationframework/core/BumblebeeMasterExecutorSessionController.java" timestamp="1564695461966">
+        <mark key="'" line="67" column="13" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DataFrameTest__testSparkSqlWithConfigHints__physicalplan.json" timestamp="1542654549221">
         <mark key="'" line="0" column="0" />
@@ -581,6 +585,9 @@
       </file>
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/HiveMetastoreClientFactory.java" timestamp="1559176931913">
         <mark key="'" line="57" column="110" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-bumblebee/2.0.1350/plasma-bumblebee-2.0.1350-sources.jar!/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" timestamp="1564695634162">
+        <mark key="'" line="145" column="12" />
       </file>
       <file name="$USER_HOME$/git/presto/presto-hive/src/main/java/com/facebook/presto/hive/metastore/thrift/StaticHiveCluster.java" timestamp="1558129471307">
         <mark key="'" line="40" column="29" />
@@ -1304,25 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/expressions/higherOrderFunctions.scala" />
-      <jump line="167" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/expressions/higherOrderFunctions.scala" />
-      <jump line="99" column="50" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/expressions/higherOrderFunctions.scala" />
-      <jump line="236" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="239" column="60" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="230" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
-      <jump line="1822" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
-      <jump line="266" column="62" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="306" column="40" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="136" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/OverloadResolution.scala" />
-      <jump line="138" column="17" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/OverloadResolution.scala" />
-      <jump line="241" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="210" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
-      <jump line="50" column="44" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
-      <jump line="243" column="66" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="232" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="252" column="84" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="240" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
-      <jump line="51" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
       <jump line="240" column="18" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
       <jump line="243" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
       <jump line="255" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToSparkTests.scala" />
@@ -1393,7 +1381,6 @@
       <jump line="659" column="17" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.0.1350/spark-sql_2.11-2.0.1350-sources.jar!/org/apache/spark/sql/SparkSession.scala" />
       <jump line="1980" column="4" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
       <jump line="1994" column="7" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
-      <jump line="204" column="26" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
       <jump line="56" column="14" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/ui/SparkUI.scala" />
       <jump line="95" column="10" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/ui/SparkUI.scala" />
       <jump line="157" column="4" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/ui/WebUI.scala" />
@@ -1404,6 +1391,26 @@
       <jump line="14" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/connection/SpConnection.java" />
       <jump line="23" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/TestPrestoConnection.scala" />
       <jump line="105" column="15" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
+      <jump line="67" column="13" filename="$MAVEN_REPOSITORY$/com/facebook/bumblebee/bumblebee-application-framework/0.156/bumblebee-application-framework-0.156-sources.jar!/com/facebook/bumblebee/applicationframework/core/BumblebeeMasterExecutorSessionController.java" />
+      <jump line="204" column="26" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="404" column="5" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="1975" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="145" column="12" filename="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-bumblebee/2.0.1350/plasma-bumblebee-2.0.1350-sources.jar!/org/apache/spark/scheduler/cluster/CoarseBumblebeeApplicationSchedulerBackend.scala" />
+      <jump line="2758" column="16" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="2762" column="41" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="2755" column="37" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="18" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="56" column="24" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="57" column="24" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="58" column="24" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="59" column="24" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="300" column="58" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="207" column="14" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="564" column="24" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="563" column="9" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="648" column="24" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="649" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
+      <jump line="655" column="8" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.1350/spark-core_2.11-2.0.1350-sources.jar!/org/apache/spark/SparkContext.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1463,13 +1470,6 @@
     </search>
     <history>
       <history-search>
-        <entry>FFB_NON</entry>
-        <entry encoding="base64">XDxjYW5kaWRhdGVzXD4=</entry>
-        <entry>greatest</entry>
-        <entry>FB_NON</entry>
-        <entry>getPrestoFunctions</entry>
-        <entry>if&quot;</entry>
-        <entry>Signature</entry>
         <entry>map_entries</entry>
         <entry encoding="base64">XDxwYXJzZURhdGFUeXBlQW5kQXJnc1w+</entry>
         <entry>row(</entry>
@@ -1482,6 +1482,13 @@
         <entry>stop()</entry>
         <entry encoding="base64">XDxfc2Vzc2lvbkNhdGFsb2dcPg==</entry>
         <entry>\cui</entry>
+        <entry>closing with final</entry>
+        <entry>\cscheduler</entry>
+        <entry encoding="base64">XDxzY2hlZHVsZXJcPg==</entry>
+        <entry>scheduler</entry>
+        <entry encoding="base64">XDxfc2NoZWR1bGVyQmFja2VuZFw+</entry>
+        <entry>asdfadsf</entry>
+        <entry encoding="base64">XDxzY2hlZFw+</entry>
         <entry>stop(</entry>
       </history-search>
       <history-cmd>
