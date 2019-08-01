@@ -123,7 +123,6 @@
       <file name="$MAVEN_REPOSITORY$/com/facebook/fblearner/plasma/plasma-spark/1.905/plasma-spark-1.905.jar!/RegisterUDFs.class" timestamp="1541529075914">
         <mark key="'" line="980" column="21" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/EngineUtils.java" timestamp="1564600761011" />
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/operators/logical/UpmLogicalPipeMap.scala" timestamp="1541981948627">
         <mark key="'" line="17" column="26" />
       </file>
@@ -800,8 +799,8 @@
       <file name="$USER_HOME$/git/presto/presto-hive/src/test/java/com/facebook/presto/hive/metastore/TestMetastoreConfig.java" timestamp="1559688849121">
         <mark key="'" line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" timestamp="1560214501755">
-        <mark key="'" line="124" column="15" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" timestamp="1564680275414">
+        <mark key="'" line="55" column="24" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/operators/logical/LogicalPlan.scala" timestamp="1563319872626">
         <mark key="'" line="36" column="15" />
@@ -892,6 +891,9 @@
       </file>
       <file name="$USER_HOME$/git/presto/presto-spi/src/main/java/com/facebook/presto/spi/type/RowType.java" timestamp="1559584667279">
         <mark key="'" line="190" column="22" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/buckUnifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" timestamp="1564680238086">
+        <mark key="'" line="201" column="65" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/pojo/Dataset.java" timestamp="1543523975764">
         <mark key="'" line="10" column="0" />
@@ -1108,7 +1110,9 @@
       <file name="$USER_HOME$/git/presto/presto-client/src/main/java/com/facebook/presto/client/StatementClientFactory.java" timestamp="1564430404970">
         <mark key="'" line="23" column="19" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" timestamp="1564617112161" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" timestamp="1564680174004">
+        <mark key="'" line="33" column="6" />
+      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/test/resources/DatasetTest__testDatasetWithDynamicPartitionSpec__physicalplan.json" timestamp="1558241653620">
         <mark key="'" line="13" column="338" />
       </file>
@@ -1237,11 +1241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="11" filename="$USER_HOME$/git/presto/presto-spi/src/main/java/com/facebook/presto/spi/function/Signature.java" />
-      <jump line="82" column="16" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ConcatFunction.java" />
-      <jump line="75" column="26" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ConcatFunction.java" />
-      <jump line="27" column="18" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/SqlScalarFunction.java" />
-      <jump line="66" column="21" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/operator/scalar/ConcatFunction.java" />
       <jump line="535" column="32" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/rewrite/ShowQueriesRewrite.java" />
       <jump line="529" column="87" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/sql/rewrite/ShowQueriesRewrite.java" />
       <jump line="249" column="16" filename="$USER_HOME$/git/presto/presto-main/src/main/java/com/facebook/presto/metadata/SignatureBinder.java" />
@@ -1337,6 +1336,11 @@
       <jump line="1823" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
       <jump line="380" column="0" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/resources/presto.functions.csv" />
       <jump line="182" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
+      <jump line="33" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/test/scala/com/facebook/upm/engine/IRToPrestoTests.scala" />
+      <jump line="201" column="65" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/buckUnifiedeng/src/main/scala/com/facebook/upm/engine/sql/analysis/FunctionRegistry.scala" />
+      <jump line="15" column="9" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-facebook-functions/0.208-SNAPSHOT/presto-facebook-functions-0.208-20180809.035432-40.jar!/com/facebook/presto/facebook/FacebookFunctionsPlugin.class" />
+      <jump line="55" column="24" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/spengine/src/main/scala/com/facebook/upm/engine/presto/PrestoConnectionBase.scala" />
+      <jump line="21" column="44" filename="$MAVEN_REPOSITORY$/com/facebook/presto/presto-main/0.208-SNAPSHOT/presto-main-0.208-20180809.040955-37.jar!/com/facebook/presto/metadata/FunctionExtractor.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1349,7 +1353,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;if&quot;</text>
+        <text>concat\c</text>
       </register>
       <register name="0" type="4">
         <text>PrestoSignature(output, args2Arity, functionType, deterministic, isVariableArity)</text>
@@ -1386,9 +1390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;if&quot;</last-search>
+      <last-search>concat\c</last-search>
       <last-offset />
-      <last-pattern>&quot;if&quot;</last-pattern>
+      <last-pattern>concat\c</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>ignore</last-substitute>
       <last-dir>1</last-dir>
@@ -1396,7 +1400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getPresto</entry>
         <entry>Greatest</entry>
         <entry>Least</entry>
         <entry>Min</entry>
@@ -1416,6 +1419,7 @@
         <entry encoding="base64">XDxmaWVsZERhdGFUeXBlXD4=</entry>
         <entry encoding="base64">XDxmaWVsZE5hbWVcPg==</entry>
         <entry>&quot;if&quot;</entry>
+        <entry>concat\c</entry>
       </history-search>
       <history-cmd>
         <entry>2052</entry>
