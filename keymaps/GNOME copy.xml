@@ -1,0 +1,13 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="SelectNextOccurrence" />
+</keymap>
