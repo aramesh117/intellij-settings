@@ -1,7 +1,4 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="EditorSelectWord" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="f10" />
