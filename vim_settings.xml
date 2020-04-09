@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aXNpdE5hbWVkRXhwcmVzc2lvblw+</entry>
-        <entry>visitInterval</entry>
-        <entry>interval\c</entry>
-        <entry encoding="base64">XDxlbGVtZW50QXR0cnNcPg==</entry>
         <entry>pow(</entry>
         <entry>primitive</entry>
         <entry>add(</entry>
@@ -25,6 +21,10 @@
         <entry>30</entry>
         <entry>Retention\c</entry>
         <entry encoding="base64">XDxwcm9wZXJ0aWVzXD4=</entry>
+        <entry encoding="base64">XDx0YWJsZVByb3BlcnRpZXNcPg==</entry>
+        <entry encoding="base64">XDxzcWxDcmVhdGVUYWJsZVw+</entry>
+        <entry encoding="base64">XDx0cmFuc2Zvcm1Ub1BoeXNpY2FsUGxhblw+</entry>
+        <entry encoding="base64">XDxwbGFuc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ToDatetimeFormatVarcharOpcode/ToDateTimeFormatVarcharOpcode/g</entry>
@@ -98,47 +98,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/SortedSet.java" timestamp="1585432201759">
-        <mark key="'" line="107" column="38" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/PhysicalDataset.scala" timestamp="1586457139178">
+        <mark key="'" line="10" column="36" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" timestamp="1585434653111">
-        <mark key="'" line="123" column="17" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1586457081682">
+        <mark key="'" line="344" column="33" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" timestamp="1586463853260">
+        <mark key="'" line="45" column="58" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1586456537352">
         <mark key="'" line="330" column="27" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Math.java" timestamp="1582614427030">
-        <mark key="'" line="643" column="26" />
-      </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/planner/IRToPrestoForSpark.scala" timestamp="1586450760768">
         <mark key="'" line="761" column="42" />
       </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" timestamp="1581467715976">
-        <mark key="'" line="617" column="26" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" timestamp="1586463816212">
+        <mark key="'" line="89" column="49" />
       </file>
-      <file name="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/serde2/typeinfo/TypeInfoFactory.java" timestamp="1581388033752">
-        <mark key="'" line="51" column="50" />
-      </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" timestamp="1581620520868">
-        <mark key="'" line="41" column="36" />
-      </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" timestamp="1581620665350">
-        <mark key="'" line="1613" column="0" />
-        <mark key="[" line="1592" column="91" />
-        <mark key="]" line="1592" column="91" />
-        <mark key="." line="1592" column="91" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" timestamp="1586463909948">
+        <mark key="'" line="24" column="6" />
       </file>
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" timestamp="1586456702601">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1586456739968">
-        <mark key="'" line="131" column="74" />
-      </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/unresolved.scala" timestamp="1581620412955">
-        <mark key="'" line="322" column="10" />
-      </file>
-      <file name="$USER_HOME$/fb-spark/common/unsafe/src/main/java/org/apache/spark/unsafe/types/CalendarInterval.java" timestamp="1581544764798">
-        <mark key="'" line="60" column="22" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" timestamp="1586463920340">
+        <mark key="'" line="287" column="14" />
       </file>
       <file name="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" timestamp="1586137671239">
         <mark key="'" line="5" column="0" />
@@ -147,15 +132,26 @@
         <mark key="." line="21" column="80" />
         <mark key="^" line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1586463974204">
+        <mark key="'" line="277" column="30" />
+      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Set.java" timestamp="1585432204482">
         <mark key="'" line="84" column="17" />
       </file>
-      <file name="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" timestamp="1585429653375">
-        <mark key="'" line="53" column="2" />
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="27" />
-        <mark key="." line="68" column="27" />
-        <mark key="^" line="68" column="27" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" timestamp="1586463892564">
+        <mark key="'" line="72" column="26" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" timestamp="1585434653111">
+        <mark key="'" line="123" column="17" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" timestamp="1586457251634">
+        <mark key="'" line="356" column="22" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" timestamp="1586457176795">
+        <mark key="'" line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/Context.java" timestamp="1586456739968">
+        <mark key="'" line="131" column="74" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" timestamp="1585432352989">
         <mark key="'" line="156" column="68" />
@@ -163,54 +159,11 @@
       <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" timestamp="1586456863371">
         <mark key="'" line="126" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1585430506106">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/parser/AstBuilder.scala" timestamp="1581467830920">
-        <mark key="'" line="1466" column="27" />
-        <mark key="[" line="950" column="11" />
-        <mark key="]" line="950" column="11" />
-        <mark key="." line="950" column="11" />
-        <mark key="^" line="950" column="11" />
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" timestamp="1586463774174">
+        <mark key="'" line="73" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="27" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="78" column="1" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="74" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="75" column="13" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="46" column="26" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="45" column="76" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="53" column="21" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="36" column="22" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="152" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/SortedSet.java" />
-      <jump line="107" column="38" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/SortedSet.java" />
-      <jump line="84" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Set.java" />
-      <jump line="254" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
-      <jump line="97" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
-      <jump line="105" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
-      <jump line="106" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
-      <jump line="154" column="43" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
-      <jump line="123" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
-      <jump line="152" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" />
-      <jump line="156" column="68" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" />
-      <jump line="39" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="108" column="23" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="97" column="25" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="106" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="51" column="15" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="59" column="13" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="65" column="38" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="69" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="68" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="94" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="32" column="6" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="7" column="23" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
       <jump line="76" column="11" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
       <jump line="90" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
       <jump line="50" column="21" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
@@ -275,6 +228,42 @@
       <jump line="414" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" />
       <jump line="377" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" />
       <jump line="126" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" />
+      <jump line="344" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/engine/src/main/java/com/facebook/upm/engine/UpmHints.java" />
+      <jump line="40" column="56" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="21" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="10" column="36" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/operators/physical/PhysicalDataset.scala" />
+      <jump line="35" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/test/java/com/facebook/upm/api/AutoAnonymizationTest.java" />
+      <jump line="63" column="12" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="364" column="69" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="356" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/test/java/com/facebook/upm/api/DatasetTest.java" />
+      <jump line="36" column="43" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="61" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="71" column="9" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="72" column="35" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="73" column="34" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/engine/src/main/java/com/facebook/upm/engine/datasetinference/UpmDataset.java" />
+      <jump line="89" column="49" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/PrestoSqlMaterializer.scala" />
+      <jump line="69" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" />
+      <jump line="101" column="8" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" />
+      <jump line="103" column="20" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" />
+      <jump line="65" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" />
+      <jump line="45" column="58" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/SparkSqlMaterializer.scala" />
+      <jump line="321" column="59" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="116" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="98" column="29" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="46" column="7" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="95" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="74" column="28" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="7" column="23" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/PendingPlan.scala" />
+      <jump line="72" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/planner/UpmPhysicalPlanner.scala" />
+      <jump line="38" column="56" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" />
+      <jump line="24" column="6" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/scala/com/facebook/upm/engine/UpmPlanScheduler.scala" />
+      <jump line="287" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/spengine/src/main/java/com/facebook/upm/engine/api/SpContext.java" />
+      <jump line="282" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="273" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="290" column="31" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="274" column="21" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/api/src/main/java/com/facebook/upm/api/Context.java" />
+      <jump line="277" column="30" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm-batch/api/src/main/java/com/facebook/upm/api/Context.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +298,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9wZXJ0aWVzXD4=</text>
+        <text encoding="base64">XDxwbGFuc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdLZXkpOwo=</text>
@@ -391,12 +380,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcm9wZXJ0aWVzXD4=</last-search>
+      <last-search encoding="base64">XDxwbGFuc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9wZXJ0aWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwbGFuc1w+</last-pattern>
       <last-replace>Seq</last-replace>
       <last-substitute>ArrayBuffer</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
