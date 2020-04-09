@@ -1,6 +1,58 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>widerDecimalType</entry>
+        <entry>Calendar</entry>
+        <entry>Implicit</entry>
+        <entry>\cwider</entry>
+        <entry>\cnamedExpression</entry>
+        <entry encoding="base64">XDxNdWx0aUFsaWFzXD4=</entry>
+        <entry encoding="base64">XDx2aXNpdE5hbWVkRXhwcmVzc2lvblw+</entry>
+        <entry>visitInterval</entry>
+        <entry>interval\c</entry>
+        <entry encoding="base64">XDxlbGVtZW50QXR0cnNcPg==</entry>
+        <entry>pow(</entry>
+        <entry>primitive</entry>
+        <entry>add(</entry>
+        <entry encoding="base64">XDxtXD4=</entry>
+        <entry>put(</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry encoding="base64">XDxmaW5hbFw+</entry>
+        <entry encoding="base64">XDxjYXBhY2l0eVw+</entry>
+        <entry>save(</entry>
+        <entry encoding="base64">XDx1cGRhdGVUYWJsZVByb3BlcnRpZXNXaXRoRGVmYXVsdHNcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/ToDatetimeFormatVarcharOpcode/ToDateTimeFormatVarcharOpcode/g</entry>
+        <entry>%s/AKwSqlstateToken/AKwSqlStateToken/g</entry>
+        <entry>%s/ AKwSqlstateToken/ AKwSqlStateToken/g</entry>
+        <entry>%s/ASqlstateKeyword/ASqlStateKeyword/g</entry>
+        <entry>%s/ ASqlstateKeyword/ ASqlStateKeyword/g</entry>
+        <entry>%s/ AKwSqlstateToken/ ASqlStateToken/g</entry>
+        <entry>%s/(AKwSqlstateToken/(ASqlStateToken/g</entry>
+        <entry>87</entry>
+        <entry>%s/\(.*Opcode\)::new/new \1()/g</entry>
+        <entry>%s/, \(.*Opcode\)::new/, new \1()/g</entry>
+        <entry>52</entry>
+        <entry>163</entry>
+        <entry>314</entry>
+        <entry encoding="base64">JzwsJz5zLywgL1xuL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLywgL1xyL2c=</entry>
+        <entry>%s/SparkBuiltinUDF/SparkBuiltinUDFType</entry>
+        <entry>%s/SparkBuiltinUDAF/SparkBuiltinUDAFType</entry>
+        <entry>lnext</entry>
+        <entry encoding="base64">JzwsJz5zL0FycmF5QnVmZmVyL1NlcS9n</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
@@ -42,7 +94,311 @@
         <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/SortedSet.java" timestamp="1585432201759">
+        <mark key="'" line="107" column="38" />
+      </file>
+      <file name="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/java/com/aaditya/leetcode/problems/problem1/Solution.java" timestamp="1581356863970">
+        <mark key="'" line="6" column="19" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" timestamp="1585434653111">
+        <mark key="'" line="123" column="17" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" timestamp="1586450716893">
+        <mark key="'" line="330" column="27" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Math.java" timestamp="1582614427030">
+        <mark key="'" line="643" column="26" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/planner/IRToPrestoForSpark.scala" timestamp="1586450760768">
+        <mark key="'" line="761" column="42" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/antlr4/org/apache/spark/sql/catalyst/parser/SqlBase.g4" timestamp="1581467715976">
+        <mark key="'" line="617" column="26" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/fblearner-plasma/hiveclient/src/main/java/org/apache/hadoop/hive/serde2/typeinfo/TypeInfoFactory.java" timestamp="1581388033752">
+        <mark key="'" line="51" column="50" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/plans/logical/basicLogicalOperators.scala" timestamp="1581620520868">
+        <mark key="'" line="41" column="36" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/Analyzer.scala" timestamp="1581620665350">
+        <mark key="'" line="1613" column="0" />
+        <mark key="[" line="1592" column="91" />
+        <mark key="]" line="1592" column="91" />
+        <mark key="." line="1592" column="91" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/analysis/unresolved.scala" timestamp="1581620412955">
+        <mark key="'" line="322" column="10" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/common/unsafe/src/main/java/org/apache/spark/unsafe/types/CalendarInterval.java" timestamp="1581544764798">
+        <mark key="'" line="60" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" timestamp="1586137671239">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="21" column="80" />
+        <mark key="]" line="21" column="80" />
+        <mark key="." line="21" column="80" />
+        <mark key="^" line="16" column="13" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Set.java" timestamp="1585432204482">
+        <mark key="'" line="84" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" timestamp="1585429653375">
+        <mark key="'" line="53" column="2" />
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="27" />
+        <mark key="." line="68" column="27" />
+        <mark key="^" line="68" column="27" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" timestamp="1585432352989">
+        <mark key="'" line="156" column="68" />
+      </file>
+      <file name="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" timestamp="1586451690619">
+        <mark key="'" line="281" column="26" />
+      </file>
+      <file name="/fragment.java" timestamp="1585430506106">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/fb-spark/sql/catalyst/src/main/scala/org/apache/spark/sql/catalyst/parser/AstBuilder.scala" timestamp="1581467830920">
+        <mark key="'" line="1466" column="27" />
+        <mark key="[" line="950" column="11" />
+        <mark key="]" line="950" column="11" />
+        <mark key="." line="950" column="11" />
+        <mark key="^" line="950" column="11" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="164" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" />
+      <jump line="25" column="25" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="27" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="16" column="3" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="13" column="43" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="23" column="6" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="20" column="35" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="32" column="26" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="47" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="56" column="56" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="64" column="38" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="227" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/NavigableMap.java" />
+      <jump line="62" column="31" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="66" column="17" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="55" column="38" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="71" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="53" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/Solution.java" />
+      <jump line="35" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="10" column="27" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="78" column="1" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="74" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="75" column="13" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="46" column="26" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="45" column="76" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="53" column="21" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="36" column="22" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="152" column="0" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/SortedSet.java" />
+      <jump line="107" column="38" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/SortedSet.java" />
+      <jump line="84" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Set.java" />
+      <jump line="254" column="15" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
+      <jump line="97" column="45" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
+      <jump line="105" column="35" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
+      <jump line="106" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
+      <jump line="154" column="43" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
+      <jump line="123" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeSet.java" />
+      <jump line="152" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" />
+      <jump line="156" column="68" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/TreeMap.java" />
+      <jump line="39" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="108" column="23" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="97" column="25" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="51" column="15" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="59" column="13" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="65" column="38" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="69" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="68" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="32" column="6" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="7" column="23" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="76" column="11" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="50" column="21" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="57" column="22" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="56" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="64" column="56" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="466" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
+      <jump line="71" column="13" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="44" column="42" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="48" column="28" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="47" column="31" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="95" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="54" column="48" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="60" column="14" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="55" column="37" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="109" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="22" column="20" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="92" column="23" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="52" column="22" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="101" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="103" column="19" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="25" column="33" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="61" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="49" column="24" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="70" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="63" column="31" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="72" column="25" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="98" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="82" column="38" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="100" column="40" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="81" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="112" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="4" column="15" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="21" column="57" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="19" column="17" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/hackerrank/src/main/java/com/aaditya/hackerrank/algorithms/averybigsum/LRUCache.java" />
+      <jump line="23" column="22" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="330" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/api/src/main/java/com/facebook/upm/api/DataFrame.java" />
+      <jump line="743" column="14" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/planner/IRToPrestoForSpark.scala" />
+      <jump line="761" column="42" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/planner/IRToPrestoForSpark.scala" />
+      <jump line="281" column="26" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="67" mods="130" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>*</text>
+      </register>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBhIEAgQmluYXJ5QXJpdGhtZXRpYyhsZWZ0IEAgU3RyaW5nVHlwZSgpLCByaWdodCkgPT4KICAgICAgICBhLm1ha2VDb3B5KEFycmF5KENhc3QobGVmdCwgRG91YmxlVHlwZSksIHJpZ2h0KSkKICAgICAgY2FzZSBhIEAgQmluYXJ5QXJpdGhtZXRpYyhsZWZ0LCByaWdodCBAIFN0cmluZ1R5cGUoKSkgPT4KICAgICAgICBhLm1ha2VDb3B5KEFycmF5KGxlZnQsIENhc3QocmlnaHQsIERvdWJsZVR5cGUpKSkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>*</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx1cGRhdGVUYWJsZVByb3BlcnRpZXNXaXRoRGVmYXVsdHNcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdLZXkpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1lQXVSal9DY2wtYwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgTFJVQ2FjaGUgewogIHB1YmxpYyBzdGF0aWMgY2xhc3MgTm9kZSB7CiAgICBwdWJsaWMgaW50IGtleSA9IC0xOwogICAgcHVibGljIGludCB2YWx1ZSA9IC0xOwogICAgcHVibGljIE5vZGUgcHJldiA9IG51bGw7CiAgICBwdWJsaWMgTm9kZSBuZXh0ID0gbnVsbDsKCiAgICBwdWJsaWMgTm9kZShpbnQga2V5LCBpbnQgdmFsKSB7CiAgICAgIHRoaXMua2V5ID0ga2V5OwogICAgICB2YWx1ZSA9IHZhbDsKICAgIH0KCiAgICBwdWJsaWMgTm9kZSgpIHt9CiAgfQoKICBwcml2YXRlIGZpbmFsIE5vZGUgaGVhZDsKICBwcml2YXRlIGZpbmFsIE5vZGUgdGFpbDsKICBwcml2YXRlIGZpbmFsIGludCBjYXBhY2l0eTsKICBwcml2YXRlIGZpbmFsIEhhc2hNYXA8SW50ZWdlciwgTm9kZT4gY2FjaGU7CgogIHByaXZhdGUgdm9pZCBtb3ZlVG9IZWFkKE5vZGUgbikgewogICAgLy8gRHJvcCB0aGUgY3VycmVudCBub2RlIGZyb20gdGhlIGNoYWluCiAgICBuLnByZXYubmV4dCA9IG4ubmV4dDsKICAgIG4ubmV4dC5wcmV2ID0gbi5wcmV2OwoKICAgIC8vIEFkZCByaWdodCBhZnRlciBoZWFkCiAgICBOb2RlIGFmdGVyID0gaGVhZC5uZXh0OwogICAgYWZ0ZXIucHJldiA9IG47CiAgICBoZWFkLm5leHQgPSBuOwogICAgbi5wcmV2ID0gaGVhZDsKICAgIG4ubmV4dCA9IGFmdGVyOwogIH0KCiAgcHJpdmF0ZSBOb2RlIGFkZE5ld05vZGUoaW50IGtleSwgaW50IHZhbCkgewogICAgTm9kZSBuZXdOb2RlID0gbmV3IE5vZGUoa2V5LCB2YWwpOwogICAgTm9kZSBhZnRlciA9IGhlYWQubmV4dDsKICAgIGhlYWQubmV4dCA9IG5ld05vZGU7CiAgICBuZXdOb2RlLnByZXYgPSBoZWFkOwogICAgbmV3Tm9kZS5uZXh0ID0gYWZ0ZXI7CiAgICBhZnRlci5wcmV2ID0gbmV3Tm9kZTsKCiAgICByZXR1cm4gbmV3Tm9kZTsKICB9CgogIHByaXZhdGUgTm9kZSBwb3BUYWlsKCkgewogICAgLy8gSWYgdGhlcmUgYXJlIG5vdCBub2RlcyBpbiBiZXR3ZWVuLCB0aHJvdyBleGNlcHRpb24KICAgIGlmIChjYWNoZS5zaXplKCkgPT0gMCkgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiRW1wdHkgY2FjaGUhIik7CiAgICB9CiAgICBOb2RlIHJlbW92ZWQgPSB0YWlsLnByZXY7CiAgICBOb2RlIGJlZm9yZSA9IHJlbW92ZWQucHJldjsKICAgIGJlZm9yZS5uZXh0ID0gdGFpbDsKICAgIHRhaWwucHJldiA9IGJlZm9yZTsKICAgIHJlbW92ZWQubmV4dCA9IG51bGw7CiAgICByZW1vdmVkLnByZXYgPSBudWxsOwogICAgcmV0dXJuIHJlbW92ZWQ7CiAgfQoKICBwdWJsaWMgTFJVQ2FjaGUoaW50IGNhcGFjaXR5KSB7CiAgICBoZWFkID0gbmV3IE5vZGUoKTsKICAgIHRhaWwgPSBuZXcgTm9kZSgpOwogICAgaGVhZC5uZXh0ID0gdGFpbDsKICAgIHRhaWwucHJldiA9IGhlYWQ7CiAgICB0aGlzLmNhcGFjaXR5ID0gY2FwYWNpdHk7CiAgICBjYWNoZSA9IG5ldyBIYXNoTWFwPD4oKTsKICB9CgogIHB1YmxpYyBpbnQgZ2V0KGludCBrZXkpIHsKICAgIGlmIChjYWNoZS5jb250YWluc0tleShrZXkpKSB7CiAgICAgIE5vZGUgY3VyciA9IGNhY2hlLmdldChrZXkpOwogICAgICBtb3ZlVG9IZWFkKGN1cnIpOwogICAgICByZXR1cm4gY3Vyci52YWx1ZTsKICAgIH0gZWxzZSB7CiAgICAgIHJldHVybiAtMTsKICAgIH0KICB9CgogIHB1YmxpYyB2b2lkIHB1dChpbnQga2V5LCBpbnQgdmFsdWUpIHsKICAgIGlmIChjYWNoZS5jb250YWluc0tleShrZXkpKSB7CiAgICAgIE5vZGUgY3VyciA9IGNhY2hlLmdldChrZXkpOwogICAgICBjdXJyLnZhbHVlID0gdmFsdWU7CiAgICAgIG1vdmVUb0hlYWQoY3Vycik7CiAgICB9IGVsc2UgewogICAgICBpZiAoY2FjaGUuc2l6ZSgpIDwgY2FwYWNpdHkpIHsKICAgICAgICBOb2RlIG5ld05vZGUgPSBhZGROZXdOb2RlKGtleSwgdmFsdWUpOwogICAgICAgIGNhY2hlLnB1dChrZXksIG5ld05vZGUpOwogICAgICB9IGVsc2UgaWYgKGNhY2hlLnNpemUoKSA9PSBjYXBhY2l0eSkgewogICAgICAgIE5vZGUgZXZpY3RlZCA9IHBvcFRhaWwoKTsKICAgICAgICBjYWNoZS5yZW1vdmUoZXZpY3RlZC5rZXkpOwogICAgICAgIE5vZGUgbmV3Tm9kZSA9IGFkZE5ld05vZGUoa2V5LCB2YWx1ZSk7CiAgICAgICAgY2FjaGUucHV0KGtleSwgbmV3Tm9kZSk7CiAgICAgIH0KICAgIH0KICB9CgogIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgIExSVUNhY2hlIGNhY2hlID0gbmV3IExSVUNhY2hlKDIgLyogY2FwYWNpdHkgKi8pOwoKICAgIGNhY2hlLnB1dCgxLCAxKTsKICAgIGNhY2hlLnB1dCgyLCAyKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihjYWNoZS5nZXQoMSkpOyAvLyByZXR1cm5zIDEKICAgIGNhY2hlLnB1dCgzLCAzKTsgLy8gZXZpY3RzIGtleSAyCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FjaGUuZ2V0KDIpKTsgLy8gcmV0dXJucyAtMSAobm90IGZvdW5kKQogICAgY2FjaGUucHV0KDQsIDQpOyAvLyBldmljdHMga2V5IDEKICAgIFN5c3RlbS5vdXQucHJpbnRsbihjYWNoZS5nZXQoMSkpOyAvLyByZXR1cm5zIC0xIChub3QgZm91bmQpCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FjaGUuZ2V0KDMpKTsgLy8gcmV0dXJucyAzCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FjaGUuZ2V0KDQpKTsgLy8gcmV0dXJucyA0CiAgfQp9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ci8qKgogKiBZb3VyIExSVUNhY2hlIG9iamVjdCB3aWxsIGJlIGluc3RhbnRpYXRlZCBhbmQgY2FsbGVkIGFzIHN1Y2g6CiAqIExSVUNhY2hlIG9iaiA9IG5ldyBMUlVDYWNoZShjYXBhY2l0eSk7CiAqIGludCBwYXJhbV8xID0gb2JqLmdldChrZXkpOwogKiBvYmoucHV0KGtleSx2YWx1ZSk7CiAqLwoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIExSVUNhY2hlIHsKICBwcml2YXRlIGZpbmFsIGludCBjYXBhY2l0eTsKCiAgcHJpdmF0ZSBzdGF0aWMgY2xhc3MgS2V5IHsKICAgIHB1YmxpYyBmaW5hbCBpbnQga2V5OwogICAgcHVibGljIGZpbmFsIGxvbmcgdGltZXN0YW1wTXM7CgogICAgcHVibGljIEtleShpbnQga2V5LCBsb25nIHRpbWVzdGFtcE1zKSB7CiAgICAgIHRoaXMua2V5ID0ga2V5OwogICAgICB0aGlzLnRpbWVzdGFtcE1zID0gdGltZXN0YW1wTXM7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG8pIHsKICAgICAgaWYgKHRoaXMgPT0gbykgewogICAgICAgIHJldHVybiB0cnVlOwogICAgICB9CiAgICAgIGlmIChvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KICAgICAgS2V5IGtleTEgPSAoS2V5KSBvOwogICAgICByZXR1cm4ga2V5ID09IGtleTEua2V5OwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgcmV0dXJuIE9iamVjdHMuaGFzaChrZXkpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgcmV0dXJuICJLZXl7IiArICJrZXk9IiArIGtleSArICIsIHRpbWVzdGFtcE1zPSIgKyB0aW1lc3RhbXBNcyArICd9JzsKICAgIH0KICB9CgogIHByaXZhdGUgZmluYWwgU29ydGVkU2V0PEtleT4gb3JkZXJlZEtleXM7CiAgcHJpdmF0ZSBmaW5hbCBNYXA8SW50ZWdlciwgSW50ZWdlcj4gY2FjaGU7CgogIHB1YmxpYyBMUlVDYWNoZShpbnQgY2FwYWNpdHkpIHsKICAgIHRoaXMuY2FwYWNpdHkgPSBjYXBhY2l0eTsKICAgIHRoaXMuY2FjaGUgPSBuZXcgSGFzaE1hcDw+KGNhcGFjaXR5KTsKICAgIHRoaXMub3JkZXJlZEtleXMgPQogICAgICAgIG5ldyBUcmVlU2V0PD4oCiAgICAgICAgICAgIG5ldyBDb21wYXJhdG9yPEtleT4oKSB7CiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIGludCBjb21wYXJlKEtleSBrMSwgS2V5IGsyKSB7CiAgICAgICAgICAgICAgICBpZiAoazEua2V5ID09IGsyLmtleSkgewogICAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBMb25nLmNvbXBhcmUoazEudGltZXN0YW1wTXMsIGsyLnRpbWVzdGFtcE1zKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogIH0KCiAgcHVibGljIGludCBnZXQoaW50IGtleSkgewogICAgS2V5IG5ld0tleSA9IG5ldyBLZXkoa2V5LCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSk7CiAgICBpZiAob3JkZXJlZEtleXMuY29udGFpbnMobmV3S2V5KSkgewogICAgICB0aGlzLm9yZGVyZWRLZXlzLnJlbW92ZShuZXdLZXkpOwogICAgICB0aGlzLm9yZGVyZWRLZXlzLmFkZChuZXdLZXkpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIldURiIpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FjaGUpOwogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci52YWx1ZU9mKGtleSkpOwogICAgICByZXR1cm4gY2FjaGUuZ2V0KEludGVnZXIudmFsdWVPZihrZXkpKTsKICAgIH0gZWxzZSB7CiAgICAgIHJldHVybiAtMTsKICAgIH0KICB9CgogIHB1YmxpYyB2b2lkIHB1dChpbnQga2V5LCBpbnQgdmFsdWUpIHsKICAgIEtleSBuZXdLZXkgPSBuZXcgS2V5KGtleSwgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwogICAgaWYgKHRoaXMub3JkZXJlZEtleXMuY29udGFpbnMobmV3S2V5KSkgewogICAgICB0aGlzLm9yZGVyZWRLZXlzLnJlbW92ZShuZXdLZXkpOwogICAgICB0aGlzLm9yZGVyZWRLZXlzLmFkZChuZXdLZXkpOwogICAgICB0aGlzLmNhY2hlLnJlcGxhY2Uoa2V5LCB2YWx1ZSk7CiAgICB9IGVsc2UgewogICAgICBpZiAoY2FjaGUuc2l6ZSgpIDwgY2FwYWNpdHkpIHsKICAgICAgICBvcmRlcmVkS2V5cy5hZGQobmV3S2V5KTsKICAgICAgICBjYWNoZS5wdXQoa2V5LCB2YWx1ZSk7CiAgICAgIH0gZWxzZSBpZiAoY2FjaGUuc2l6ZSgpID09IGNhcGFjaXR5KSB7CiAgICAgICAgS2V5IGxlYXN0ID0gb3JkZXJlZEtleXMuZmlyc3QoKTsKICAgICAgICBvcmRlcmVkS2V5cy5yZW1vdmUobGVhc3QpOwogICAgICAgIGNhY2hlLnJlbW92ZShsZWFzdC5rZXkpOwogICAgICAgIG9yZGVyZWRLZXlzLmFkZChuZXdLZXkpOwogICAgICAgIGNhY2hlLnB1dChrZXksIHZhbHVlKTsKICAgICAgfSBlbHNlIHsKICAgICAgICAvLyBTaG91bGQgbm90IGhhcHBlbgogICAgICB9CiAgICB9CiAgfQoKICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICBMUlVDYWNoZSBscnVDYWNoZSA9IG5ldyBMUlVDYWNoZSgyIC8qIGNhcGFjaXR5ICovKTsKCiAgICBscnVDYWNoZS5wdXQoMSwgMSk7CiAgICBscnVDYWNoZS5wdXQoMiwgMik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4obHJ1Q2FjaGUuZ2V0KDEpKTsgLy8gcmV0dXJucyAxCiAgICBscnVDYWNoZS5wdXQoMywgMyk7IC8vIGV2aWN0cyBrZXkgMgogICAgU3lzdGVtLm91dC5wcmludGxuKGxydUNhY2hlLmdldCgyKSk7IC8vIHJldHVybnMgLTEgKG5vdCBmb3VuZCkKICAgIGxydUNhY2hlLnB1dCg0LCA0KTsgLy8gZXZpY3RzIGtleSAxCiAgICBTeXN0ZW0ub3V0LnByaW50bG4obHJ1Q2FjaGUuZ2V0KDEpKTsgLy8gcmV0dXJucyAtMSAobm90IGZvdW5kKQogICAgU3lzdGVtLm91dC5wcmludGxuKGxydUNhY2hlLmdldCgzKSk7IC8vIHJldHVybnMgMwogICAgU3lzdGVtLm91dC5wcmludGxuKGxydUNhY2hlLmdldCg0KSk7IC8vIHJldHVybnMgNAogIH0KfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhY2hlKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJXVEYiKTsK</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdLZXkpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKG9yZGVyZWRLZXlzKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDx1cGRhdGVUYWJsZVByb3BlcnRpZXNXaXRoRGVmYXVsdHNcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx1cGRhdGVUYWJsZVByb3BlcnRpZXNXaXRoRGVmYXVsdHNcPg==</last-pattern>
+      <last-replace>Seq</last-replace>
+      <last-substitute>ArrayBuffer</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
