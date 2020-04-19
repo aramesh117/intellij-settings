@@ -114,11 +114,12 @@
         <mark key="]" line="1496" column="17" />
         <mark key="." line="1460" column="12" />
       </file>
-      <file name="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" timestamp="1587253436419">
-        <mark key="'" line="20" column="10" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" timestamp="1587254529889">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/fb-spark/sql/core/src/main/scala/org/apache/spark/sql/execution/SparkSqlParser.scala" timestamp="1586908015105">
         <mark key="'" line="778" column="16" />
@@ -172,8 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="424" column="32" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" />
-      <jump line="418" column="27" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" />
       <jump line="371" column="78" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" />
       <jump line="423" column="93" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" />
       <jump line="421" column="33" filename="$USER_HOME$/fbsource/fbcode/fbjava/upm/unifiedeng/src/main/scala/com/facebook/upm/engine/sql/formatters/SparkSqlFormatter.scala" />
@@ -247,14 +246,12 @@
       <jump line="2203" column="23" filename="$USER_HOME$/fb-spark/pom.xml" />
       <jump line="45" column="34" filename="$USER_HOME$/git/aramesh117/algorithms/pom.xml" />
       <jump line="21" column="19" filename="$USER_HOME$/git/aramesh117/algorithms/pom.xml" />
-      <jump line="4" column="16" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="10" column="51" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="12" column="29" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="13" column="5" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="7" column="35" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="14" column="5" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="6" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="9" column="30" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/Array.scala" />
       <jump line="555" column="0" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/Array.scala" />
@@ -272,6 +269,10 @@
       <jump line="832" column="23" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/Iterable.scala" />
       <jump line="20" column="10" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="723" column="68" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/Iterable.scala" />
+      <jump line="3" column="6" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="6" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="4" column="50" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="5" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,14 +297,14 @@
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>val</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgY2FzZSBhIEAgQmluYXJ5QXJpdGhtZXRpYyhsZWZ0IEAgU3RyaW5nVHlwZSgpLCByaWdodCkgPT4KICAgICAgICBhLm1ha2VDb3B5KEFycmF5KENhc3QobGVmdCwgRG91YmxlVHlwZSksIHJpZ2h0KSkKICAgICAgY2FzZSBhIEAgQmluYXJ5QXJpdGhtZXRpYyhsZWZ0LCByaWdodCBAIFN0cmluZ1R5cGUoKSkgPT4KICAgICAgICBhLm1ha2VDb3B5KEFycmF5KGxlZnQsIENhc3QocmlnaHQsIERvdWJsZVR5cGUpKSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
         <text>append</text>
@@ -312,25 +313,25 @@
         <text encoding="base64">ICAgICAgICA8cGx1Z2luPgogICAgICAgICAgPGdyb3VwSWQ+bmV0LmFsY2hpbTMxLm1hdmVuPC9ncm91cElkPgogICAgICAgICAgPGFydGlmYWN0SWQ+c2NhbGEtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgPHZlcnNpb24+My40LjQ8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG0gID0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNlcSgpICsrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBpbnRsbgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4obG9uZ2VzdENvbnNlY3V0aXZlKEFycmF5W0ludF0oMTAwLCA0LCAyMDAsIDEsIDMsIDIpKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlcwo=</text>
+        <text encoding="base64">ICBkZWYgbG9uZ2VzdENvbnNlY3V0aXZlKG51bXM6IEFycmF5W0ludF0pOiBJbnQgPSB7CiAgICB2YWwgbnVtU2V0ID0gbnVtcy50b1NldAogICAgdmFyIGxvbmdlc3RTdHJlYWsgPSAwCiAgICBudW1TZXQuZm9yZWFjaChuID0+IHsKICAgICAgaWYgKCFudW1TZXQuY29udGFpbnMobiAtIDEpKSB7CiAgICAgICAgdmFyIG0gPSAxCiAgICAgICAgd2hpbGUgKG51bVNldC5jb250YWlucyhuICsgbSkpIHsKICAgICAgICAgIG0gPSBtICsgMQogICAgICAgIH0KICAgICAgICBsb25nZXN0U3RyZWFrID0gTWF0aC5tYXgobG9uZ2VzdFN0cmVhaywgbSkKICAgICAgfQogICAgfSkKICAgIGxvbmdlc3RTdHJlYWsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvbmdlc3RTdHJlYWsgPSBNYXRoLm1heChsb25nZXN0U3RyZWFrLCBtKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nZXN0U3RyZWFrID0gTWF0aC5tYXgobG9uZ2VzdFN0cmVhaywgKQo=</text>
+        <text encoding="base64">ICAgIFNlcSgpICsrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b2JqZWN0IFNvbHV0aW9uIHsKICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIHZhbCBudW1TZXQgPQogIH0KfQo=</text>
+        <text encoding="base64">ICAgIHBpbnRsbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -376,10 +377,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkhlbGxvIikK</text>
+        <text encoding="base64">ICAgIHJlc291cmNlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNvdXQgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvbmdlc3RTdHJlYWsgPSBNYXRoLm1heChsb25nZXN0U3RyZWFrLCBtKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
