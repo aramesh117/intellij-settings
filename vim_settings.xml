@@ -23,12 +23,10 @@
         <entry encoding="base64">XDxpXD4=</entry>
         <entry encoding="base64">XDxkXD4=</entry>
         <entry>[/Array(/g</entry>
-        <entry>\[</entry>
         <entry>\]</entry>
+        <entry>\[</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ASqlstateKeyword/ASqlStateKeyword/g</entry>
-        <entry>%s/ ASqlstateKeyword/ ASqlStateKeyword/g</entry>
         <entry>%s/ AKwSqlstateToken/ ASqlStateToken/g</entry>
         <entry>%s/(AKwSqlstateToken/(ASqlStateToken/g</entry>
         <entry>87</entry>
@@ -46,7 +44,9 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL1svQXJyYXkoL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xbL0FycmF5KC9n</entry>
+        <entry encoding="base64">JzwsJz5cXS9cKS9n</entry>
         <entry encoding="base64">JzwsJz5zL1xdLykvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1xbL0xpc3QoL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -126,12 +126,12 @@
         <mark key="]" line="1496" column="17" />
         <mark key="." line="1460" column="12" />
       </file>
-      <file name="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" timestamp="1588269823171">
-        <mark key="'" line="18" column="11" />
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="40" />
+      <file name="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" timestamp="1588652554197">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="73" />
+        <mark key="." line="24" column="72" />
+        <mark key="^" line="24" column="73" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/immutable/Seq.scala" timestamp="1587253018131">
         <mark key="'" line="18" column="22" />
@@ -176,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="34" filename="$USER_HOME$/git/aramesh117/algorithms/pom.xml" />
       <jump line="21" column="19" filename="$USER_HOME$/git/aramesh117/algorithms/pom.xml" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/Array.scala" />
       <jump line="555" column="0" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/Array.scala" />
@@ -204,16 +203,13 @@
       <jump line="116" column="0" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/ArrayOps.scala" />
       <jump line="46" column="26" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="17" column="12" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="11" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="43" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="3" column="36" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="148" column="23" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/Predef.scala" />
       <jump line="1186" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/StringOps.scala" />
-      <jump line="8" column="12" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="42" column="15" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/immutable/WrappedString.scala" />
       <jump line="15" column="17" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="19" column="8" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="28" column="6" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="37" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="45" column="14" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="25" column="21" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/Boolean.scala" />
@@ -238,23 +234,18 @@
       <jump line="64" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="73" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="41" column="20" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="7" column="12" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="20" column="40" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="640" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/StringOps.scala" />
       <jump line="12" column="32" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="14" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="13" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="16" column="2" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="22" column="7" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="23" column="19" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="46" column="15" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/StrictOptimizedSeqOps.scala" />
       <jump line="30" column="6" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="4" column="10" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="34" column="28" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="35" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="33" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="24" column="21" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="25" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="26" column="77" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="31" column="6" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
@@ -266,16 +257,25 @@
       <jump line="29" column="13" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="48" column="25" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="38" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="5" column="24" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="53" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="21" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="44" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="9" column="12" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="6" column="32" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
-      <jump line="10" column="21" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
       <jump line="55" column="7" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/Array.scala" />
-      <jump line="18" column="11" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="7" column="21" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="119" column="6" filename="$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar!/scala/collection/mutable/Map.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="9" column="39" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="21" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="18" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="5" column="52" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="8" column="41" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="10" column="6" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="13" column="7" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="11" column="33" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="28" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
+      <jump line="24" column="4" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/scala/com.aaditya.leetcode/Solution.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,38 +300,38 @@
           <key char="65535" code="67" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYK</text>
+      <register name="&quot;" type="4">
+        <text>List(List(&quot;London&quot;,&quot;New York&quot;),List(&quot;New York&quot;,&quot;Lima&quot;),List(&quot;Lima&quot;,&quot;Sao Paulo&quot;))</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQoKb2JqZWN0IFNvbHV0aW9uIHsKICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIHZhbCBncmlkID0gQXJyYXkoQXJyYXkoMiwgMSwgMSksIEFycmF5KDEsIDEsIDApLCBBcnJheSgwLCAxLCAxKSkKCiAgICBwcmludGxuKG9yYW5nZXNSb3R0aW5nKGdyaWQpKQogIH0KCiAgZGVmIG9yYW5nZXNSb3R0aW5nKGdyaWQ6IEFycmF5W0FycmF5W0ludF1dKTogSW50ID0gewogICAgdmFsIHF1ZXVlID0gbmV3IG11dGFibGUuUXVldWVbKEludCwgSW50LCBJbnQpXSgpCiAgICB2YXIgbnVtUm90dGVuID0gMAogICAgdmFyIG51bUZyZXNoID0gMAogICAgdmFsIG0gPSBncmlkLmxlbmd0aAogICAgdmFsIG4gPSBncmlkKDApLmxlbmd0aAogICAgZm9yIChpIDwtIDAgdW50aWwgbSkgewogICAgICBmb3IgKGogPC0gMCB1bnRpbCBuKSB7CiAgICAgICAgaWYgKGdyaWQoaSkoaikgPT0gMikgewogICAgICAgICAgbnVtUm90dGVuICs9IDEKICAgICAgICAgIHF1ZXVlLmVucXVldWUoKGksIGosIDApKQogICAgICAgIH0gZWxzZSBpZiAoZ3JpZChpKShqKSA9PSAxKSB7CiAgICAgICAgICBudW1GcmVzaCArPSAxCiAgICAgICAgfQogICAgICB9CiAgICB9CgogICAgdmFsIGRpcnMgPSBTZXEoKDAsIDEpLCAoMCwgLTEpLCAoLTEsIDApLCAoMSwgMCkpCiAgICB2YXIgbWluTWlucyA9IDAKICAgIHdoaWxlIChxdWV1ZS5ub25FbXB0eSkgewogICAgICB2YWwgKGN1cnJ4LCBjdXJyeSwgbWlucykgPSBxdWV1ZS5kZXF1ZXVlKCkKICAgICAgaWYgKGdyaWQoY3VycngpKGN1cnJ5KSA9PSAxKSB7CiAgICAgICAgbnVtUm90dGVuICs9IDEKICAgICAgICBudW1GcmVzaCAtPSAxCiAgICAgIH0KICAgICAgZ3JpZChjdXJyeCkoY3VycnkpID0gMgogICAgICBtaW5NaW5zID0gTWF0aC5tYXgobWluTWlucywgbWlucykKCiAgICAgIGZvciAoZCA8LSBkaXJzKSB7CiAgICAgICAgdmFsIChuZXd4LCBuZXd5KSA9IChjdXJyeCArIGQuXzEsIGN1cnJ5ICsgZC5fMikKICAgICAgICBpZiAobmV3eCA+PSAwICYmIG5ld3ggPCBtICYmIG5ld3kgPj0gMCAmJiBuZXd5IDwgbiAmJiBncmlkKG5ld3gpKG5ld3kpID09IDEpIHsKICAgICAgICAgIHF1ZXVlLmVucXVldWUoKG5ld3gsIG5ld3ksIG1pbnMgKyAxKSkKICAgICAgICB9CiAgICAgIH0KICAgIH0KICAgIGlmIChudW1GcmVzaCA9PSAwKSB7CiAgICAgIG1pbk1pbnMKICAgIH0gZWxzZSB7CiAgICAgIC0xCiAgICB9CiAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>List(List(&quot;London&quot;,&quot;New York&quot;),List(&quot;New York&quot;,&quot;Lima&quot;),List(&quot;Lima&quot;,&quot;Sao Paulo&quot;))</text>
       </register>
       <register name="/" type="4">
-        <text>\]</text>
+        <text>\[</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZ3JhcGgoY29ubi5oZWFkKShjb25uKDEpKSA9IDEK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYK</text>
+        <text encoding="base64">ICAgIHByaW50KGNpdHlDb3VudHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZ3JhcGgoY29ubigwKSkgCg==</text>
+        <text encoding="base64">ICAgICAgY2l0eUNvdW50cy51cGRhdGVXaXRoKHAoMSkpKGEgPT4gewogICAgICAgIGlmIChhLmlzRW1wdHkpIE9wdGlvbigxKSBlbHNlIE9wdGlvbihhLmdldCArIDEpCiAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZ3JhcGgoY29ubi5oZWFkKShjb25uKDEpKSA9IDEKICAgICAgZ3JhcGgoY29ubigxKSkoY29ubi5oZWFkKSA9IDEK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmlzaXRlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGltZXMK</text>
+        <text encoding="base64">ICAgIHNvdXQgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -380,25 +380,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYWFkaXR5YS5sZWV0Y29kZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5MaXN0QnVmZmVyCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1xdLykvZw==</text>
+        <text encoding="base64">JzwsJz5zL1xbL0xpc3QoL2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\]</last-search>
+      <last-search>\[</last-search>
       <last-offset />
-      <last-pattern>\]</last-pattern>
-      <last-replace>)</last-replace>
-      <last-substitute>\]</last-substitute>
+      <last-pattern>\[</last-pattern>
+      <last-replace>List(</last-replace>
+      <last-substitute>\[</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
