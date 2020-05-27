@@ -1,6 +1,5 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="ChangesView.Diff" />
-  <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject" />
   <action id="ChooseRunConfiguration" />
   <action id="CommentByLineComment">
@@ -105,14 +104,12 @@
   </action>
   <action id="ScalaConsole.Execute" />
   <action id="SendEOF" />
-  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
-  <action id="TodoViewGroupByShowPackages" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
