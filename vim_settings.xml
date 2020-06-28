@@ -41,15 +41,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/Time.java" timestamp="1591033026245">
+      <file name="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/Time.java" timestamp="1593386195690">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="13" column="1" />
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" timestamp="1591036213696">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" timestamp="1593386186670">
+        <mark key="'" line="11" column="18" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="57" column="1" />
         <mark key="." line="55" column="53" />
@@ -62,6 +62,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm145/ImageDithering.java" timestamp="1593386809715">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -79,9 +85,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/Time.java" />
       <jump line="8" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
       <jump line="10" column="16" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
-      <jump line="13" column="42" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
       <jump line="5" column="50" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
-      <jump line="11" column="12" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
       <jump line="16" column="8" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
       <jump line="7" column="55" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
       <jump line="26" column="14" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
@@ -106,12 +110,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
       <jump line="54" column="43" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
       <jump line="2" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
+      <jump line="13" column="12" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
+      <jump line="11" column="18" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/BinaryCode.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7CgpwdWJsaWMgY2xhc3MgQmluYXJ5Q29kZSB7CiAgICBwdWJsaWMgc3RhdGljIFN0cmluZ1tdIGRlY29kZShTdHJpbmcgbWVzc2FnZSkgewogICAgICAgIFN0cmluZ0J1aWxkZXIgemVybyA9IG5ldyBTdHJpbmdCdWlsZGVyKCIwIik7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBtZXNzYWdlLmxlbmd0aCgpOyBpKyspIHsKICAgICAgICAgICAgaW50IGVuYyA9IG1lc3NhZ2UuY2hhckF0KGkpIC0gJzAnOwogICAgICAgICAgICBpbnQgY3VyciA9IHplcm8uY2hhckF0KGkpIC0gJzAnOwogICAgICAgICAgICBpbnQgcHJldiA9IDA7CiAgICAgICAgICAgIGlmIChpIC0gMSA+PSAwKSB7CiAgICAgICAgICAgICAgICBwcmV2ID0gemVyby5jaGFyQXQoaSAtIDEpIC0gJzAnOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGludCBuZXh0ID0gZW5jIC0gcHJldiAtIGN1cnI7CiAgICAgICAgICAgIGlmIChpIDwgbWVzc2FnZS5sZW5ndGgoKSAtIDEpIHsKICAgICAgICAgICAgICAgIGlmIChuZXh0ICE9IDAgJiYgbmV4dCAhPSAxKSB7CiAgICAgICAgICAgICAgICAgICAgemVybyA9IG5ldyBTdHJpbmdCdWlsZGVyKCJOT05FIik7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB6ZXJvLmFwcGVuZChuZXh0KTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmIChuZXh0ICE9IDApIHsKICAgICAgICAgICAgICAgICAgICB6ZXJvID0gbmV3IFN0cmluZ0J1aWxkZXIoIk5PTkUiKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBTdHJpbmdCdWlsZGVyIG9uZSA9IG5ldyBTdHJpbmdCdWlsZGVyKCIxIik7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBtZXNzYWdlLmxlbmd0aCgpOyBpKyspIHsKICAgICAgICAgICAgaW50IGVuYyA9IG1lc3NhZ2UuY2hhckF0KGkpIC0gJzAnOwogICAgICAgICAgICBpbnQgY3VyciA9IG9uZS5jaGFyQXQoaSkgLSAnMCc7CiAgICAgICAgICAgIGludCBwcmV2ID0gMDsKICAgICAgICAgICAgaWYgKGkgLSAxID49IDApIHsKICAgICAgICAgICAgICAgIHByZXYgPSBvbmUuY2hhckF0KGkgLSAxKSAtICcwJzsKICAgICAgICAgICAgfQogICAgICAgICAgICBpbnQgbmV4dCA9IGVuYyAtIHByZXYgLSBjdXJyOwogICAgICAgICAgICBpZiAoaSA8IG1lc3NhZ2UubGVuZ3RoKCkgLSAxKSB7CiAgICAgICAgICAgICAgICBpZiAobmV4dCAhPSAwICYmIG5leHQgIT0gMSkgewogICAgICAgICAgICAgICAgICAgIG9uZSA9IG5ldyBTdHJpbmdCdWlsZGVyKCJOT05FIik7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBvbmUuYXBwZW5kKG5leHQpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaWYgKG5leHQgIT0gMCkgewogICAgICAgICAgICAgICAgICAgIG9uZSA9IG5ldyBTdHJpbmdCdWlsZGVyKCJOT05FIik7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBuZXcgU3RyaW5nW117emVyby50b1N0cmluZygpLCBvbmUudG9TdHJpbmcoKX07CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoZGVjb2RlKCIxMjEiKSkpOwogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7CgpwdWJsaWMgY2xhc3MgQmluYXJ5Q29kZSB7CiAgICBwdWJsaWMgc3RhdGljIFN0cmluZ1tdIGRlY29kZShTdHJpbmcgbWVzc2FnZSkgewogICAgICAgIFN0cmluZ0J1aWxkZXIgemVybyA9IG5ldyBTdHJpbmdCdWlsZGVyKCIwIik7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBtZXNzYWdlLmxlbmd0aCgpOyBpKyspIHsKICAgICAgICAgICAgaW50IGVuYyA9IG1lc3NhZ2UuY2hhckF0KGkpIC0gJzAnOwogICAgICAgICAgICBpbnQgY3VyciA9IHplcm8uY2hhckF0KGkpIC0gJzAnOwogICAgICAgICAgICBpbnQgcHJldiA9IDA7CiAgICAgICAgICAgIGlmIChpIC0gMSA+PSAwKSB7CiAgICAgICAgICAgICAgICBwcmV2ID0gemVyby5jaGFyQXQoaSAtIDEpIC0gJzAnOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGludCBuZXh0ID0gZW5jIC0gcHJldiAtIGN1cnI7CiAgICAgICAgICAgIGlmIChpIDwgbWVzc2FnZS5sZW5ndGgoKSAtIDEpIHsKICAgICAgICAgICAgICAgIGlmIChuZXh0ICE9IDAgJiYgbmV4dCAhPSAxKSB7CiAgICAgICAgICAgICAgICAgICAgemVybyA9IG5ldyBTdHJpbmdCdWlsZGVyKCJOT05FIik7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB6ZXJvLmFwcGVuZChuZXh0KTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmIChuZXh0ICE9IDApIHsKICAgICAgICAgICAgICAgICAgICB6ZXJvID0gbmV3IFN0cmluZ0J1aWxkZXIoIk5PTkUiKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBTdHJpbmdCdWlsZGVyIG9uZSA9IG5ldyBTdHJpbmdCdWlsZGVyKCIxIik7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBtZXNzYWdlLmxlbmd0aCgpOyBpKyspIHsKICAgICAgICAgICAgaW50IGVuYyA9IG1lc3NhZ2UuY2hhckF0KGkpIC0gJzAnOwogICAgICAgICAgICBpbnQgY3VyciA9IG9uZS5jaGFyQXQoaSkgLSAnMCc7CiAgICAgICAgICAgIGludCBwcmV2ID0gMDsKICAgICAgICAgICAgaWYgKGkgLSAxID49IDApIHsKICAgICAgICAgICAgICAgIHByZXYgPSBvbmUuY2hhckF0KGkgLSAxKSAtICcwJzsKICAgICAgICAgICAgfQogICAgICAgICAgICBpbnQgbmV4dCA9IGVuYyAtIHByZXYgLSBjdXJyOwogICAgICAgICAgICBpZiAoaSA8IG1lc3NhZ2UubGVuZ3RoKCkgLSAxKSB7CiAgICAgICAgICAgICAgICBpZiAobmV4dCAhPSAwICYmIG5leHQgIT0gMSkgewogICAgICAgICAgICAgICAgICAgIG9uZSA9IG5ldyBTdHJpbmdCdWlsZGVyKCJOT05FIik7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBvbmUuYXBwZW5kKG5leHQpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgaWYgKG5leHQgIT0gMCkgewogICAgICAgICAgICAgICAgICAgIG9uZSA9IG5ldyBTdHJpbmdCdWlsZGVyKCJOT05FIik7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBuZXcgU3RyaW5nW117emVyby50b1N0cmluZygpLCBvbmUudG9TdHJpbmcoKX07CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMudG9TdHJpbmcoZGVjb2RlKCIxMjEiKSkpOwogICAgfQp9Cg==</text>
@@ -126,31 +134,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPCBtZXNzYWdlLmxlbmd0aCgpIC0gMSkgewogICAgICAgICAgICAgICAgaWYgKG5leHQgIT0gMCAmJiBuZXh0ICE9IDEpIHsKICAgICAgICAgICAgICAgICAgICBvbmUgPSBuZXcgU3RyaW5nQnVpbGRlcigiTk9ORSIpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgb25lLmFwcGVuZChuZXh0KTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmIChuZXh0ICE9IDApIHsKICAgICAgICAgICAgICAgICAgICBvbmUgPSBuZXcgU3RyaW5nQnVpbGRlcigiTk9ORSIpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgemVyby5hcHBlbmQobmV4dCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text>i == mess</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5leHQgIT0gMCAmJiBuZXh0ICE9IDEpIHsKICAgICAgICAgICAgICAgIHplcm8gPSBuZXcgU3RyaW5nQnVpbGRlcigiTk9ORSIpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPCBtZXNzYWdlLmxlbmd0aCgpIC0gMSkgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgemVyby5hcHBlbmQobmV4dCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text>i == mess</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5leHQgIT0gMCAmJiBuZXh0ICE9IDEpIHsKICAgICAgICAgICAgICAgIHplcm8gPSBuZXcgU3RyaW5nQnVpbGRlcigiTk9ORSIpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPCBtZXNzYWdlLmxlbmd0aCgpIC0gMSkgewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25lLmFwcGVuZChuZXh0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25lLmFwcGVuZChuZXh0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
