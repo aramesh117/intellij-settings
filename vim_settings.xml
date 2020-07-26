@@ -41,12 +41,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm145/ExerciseMachine.java" timestamp="1595724955252">
+      <file name="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm145/ExerciseMachine.java" timestamp="1595730479494">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="35" column="1" />
         <mark key="." line="33" column="49" />
         <mark key="^" line="33" column="50" />
+      </file>
+      <file name="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/java/com/aaditya/leetcode/contests/contest199/ShuffledString.java" timestamp="1595731109678">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="31" />
       </file>
       <file name="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm144/Time.java" timestamp="1593386195690">
         <mark key="'" line="2" column="0" />
@@ -65,7 +72,7 @@
       <file name="$USER_HOME$/git/aramesh117/algorithms/euler/src/main/java/com/aaditya/euler/Problem41.java" timestamp="1590990445386">
         <mark key="'" line="7" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1591036081204">
+      <file name="/fragment.java" timestamp="1595730960559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -135,18 +142,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm145/ExerciseMachine.java" />
       <jump line="35" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm145/ExerciseMachine.java" />
       <jump line="2" column="0" filename="$USER_HOME$/git/aramesh117/algorithms/srm/src/main/java/com/aaditya/topcoder/div2/srm145/ExerciseMachine.java" />
+      <jump line="12" column="10" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/java/com/aaditya/leetcode/contests/contest199/ShuffledString.java" />
+      <jump line="3" column="17" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/java/com/aaditya/leetcode/contests/contest199/ShuffledString.java" />
+      <jump line="8" column="19" filename="$USER_HOME$/git/aramesh117/algorithms/leetcode/src/main/java/com/aaditya/leetcode/contests/contest199/ShuffledString.java" />
+      <jump line="267" column="11" filename="/usr/lib/jvm/java-14-oracle/lib/src.zip!/java.base/java/lang/String.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEV4ZXJjaXNlTWFjaGluZSB7CiAgICBwdWJsaWMgc3RhdGljIGludCBnY2QoaW50IGEsIGludCBiKSB7CiAgICAgICAgaWYgKGIgPT0gMCkgewogICAgICAgICAgICByZXR1cm4gYTsKICAgICAgICB9CiAgICAgICAgaWYgKGEgPCBiKSB7CiAgICAgICAgICAgIHJldHVybiBnY2QoYiwgYSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBnY2QoYiwgYSAlIGIpOwogICAgfQogICAgcHVibGljIHN0YXRpYyBpbnQgZ2V0UGVyY2VudGFnZXMoU3RyaW5nIHRpbWUpIHsKICAgICAgICAvLyBzZWMvTiAqIDEwMCBpcyBhbiBpbnRlZ2VyID0+IDEwMHNlYy9OIGlzIGFuIGludGVnZXIKCiAgICAgICAgLy8gTiA9IDE4MDAgPT4gMTAwICogc2VjLzE4MDAgbWVhbnMgdGhhdCBzZWMvMTggaXMgYW4gaW50ZWdlcgogICAgICAgIC8vIExldCBnY2QoTiwgMTAwKSA9IDE6CiAgICAgICAgLy8gVGhlbiBpdCdzIDAuIDEwMCAqIHNlYy9OIHdpbGwgbmV2ZXIgYmUgZGl2aXNpYmxlIGJ5IE4gZm9yIHZhbHVlcyBvZiBzZWMgPiAxIGFuZCBsZXNzIHRoYW4gTi4KICAgICAgICAvLyBJZiBnY2QoTiwgMTAwKSA+IDEgPSBYOgogICAgICAgIC8vIEh5cG90aGVzaXM6IFRoZSByZXN1bHQgaXMgMTAwL2djZChOLCAxMDApIC0gMQogICAgICAgIFN0cmluZ1tdIHNwbGl0cyA9IHRpbWUuc3BsaXQoIjoiKTsKICAgICAgICBpbnQgaG91cnMgPSBJbnRlZ2VyLnBhcnNlSW50KHNwbGl0c1swXSk7CiAgICAgICAgaW50IG1pbiA9IEludGVnZXIucGFyc2VJbnQoc3BsaXRzWzFdKTsKICAgICAgICBpbnQgc2VjID0gSW50ZWdlci5wYXJzZUludChzcGxpdHNbMl0pOwogICAgICAgIGludCBOID0gaG91cnMgKiAzNjAwICsgbWluICogNjAgKyBzZWM7CiAgICAgICAgaW50IGdjZCA9IGdjZCgxMDAsIE4pOwogICAgICAgIGlmIChnY2QgPiAxKSB7CiAgICAgICAgICAgIHJldHVybiBnY2QgLSAxOwogICAgICAgIH0KICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGdldFBlcmNlbnRhZ2VzKCIwMDoyODowMCIpKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpbmRleCA6IGluZGljZXMpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEV4ZXJjaXNlTWFjaGluZSB7CiAgICBwdWJsaWMgc3RhdGljIGludCBnY2QoaW50IGEsIGludCBiKSB7CiAgICAgICAgaWYgKGIgPT0gMCkgewogICAgICAgICAgICByZXR1cm4gYTsKICAgICAgICB9CiAgICAgICAgaWYgKGEgPCBiKSB7CiAgICAgICAgICAgIHJldHVybiBnY2QoYiwgYSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBnY2QoYiwgYSAlIGIpOwogICAgfQogICAgcHVibGljIHN0YXRpYyBpbnQgZ2V0UGVyY2VudGFnZXMoU3RyaW5nIHRpbWUpIHsKICAgICAgICAvLyBzZWMvTiAqIDEwMCBpcyBhbiBpbnRlZ2VyID0+IDEwMHNlYy9OIGlzIGFuIGludGVnZXIKCiAgICAgICAgLy8gTiA9IDE4MDAgPT4gMTAwICogc2VjLzE4MDAgbWVhbnMgdGhhdCBzZWMvMTggaXMgYW4gaW50ZWdlcgogICAgICAgIC8vIExldCBnY2QoTiwgMTAwKSA9IDE6CiAgICAgICAgLy8gVGhlbiBpdCdzIDAuIDEwMCAqIHNlYy9OIHdpbGwgbmV2ZXIgYmUgZGl2aXNpYmxlIGJ5IE4gZm9yIHZhbHVlcyBvZiBzZWMgPiAxIGFuZCBsZXNzIHRoYW4gTi4KICAgICAgICAvLyBJZiBnY2QoTiwgMTAwKSA+IDEgPSBYOgogICAgICAgIC8vIEh5cG90aGVzaXM6IFRoZSByZXN1bHQgaXMgMTAwL2djZChOLCAxMDApIC0gMQogICAgICAgIFN0cmluZ1tdIHNwbGl0cyA9IHRpbWUuc3BsaXQoIjoiKTsKICAgICAgICBpbnQgaG91cnMgPSBJbnRlZ2VyLnBhcnNlSW50KHNwbGl0c1swXSk7CiAgICAgICAgaW50IG1pbiA9IEludGVnZXIucGFyc2VJbnQoc3BsaXRzWzFdKTsKICAgICAgICBpbnQgc2VjID0gSW50ZWdlci5wYXJzZUludChzcGxpdHNbMl0pOwogICAgICAgIGludCBOID0gaG91cnMgKiAzNjAwICsgbWluICogNjAgKyBzZWM7CiAgICAgICAgaW50IGdjZCA9IGdjZCgxMDAsIE4pOwogICAgICAgIGlmIChnY2QgPiAxKSB7CiAgICAgICAgICAgIHJldHVybiBnY2QgLSAxOwogICAgICAgIH0KICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGdldFBlcmNlbnRhZ2VzKCIwMDoyODowMCIpKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgcmVzdG9yZVN0cmluZyhTdHJpbmcgcywgaW50W10gaW5kaWNlcykgewogICAgICAgIFN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgZm9yIChpbnQgaW5kZXggOiBpbmRpY2VzKSB7CiAgICAgICAgICAgIGJ1aWxkZXIuYXBwZW5kKHMuY2hhckF0KGluZGV4KSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBidWlsZGVyLnRvU3RyaW5nKCk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>zero</text>
@@ -155,31 +166,31 @@
         <text encoding="base64">ICAgICAgICBpbnQgbWluID0gSW50ZWdlci5wYXJzZUludChzcGxpdHNbMV0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpbmRleCA6IGluZGljZXMpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRlci50b1N0cmluZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNvdXQgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpbmRleCA6IGluZGljZXMpIHsKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQocy5jaGFyQXQoaW5kZXgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgTiA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIGJ1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYSA+IGIpIHsKICAgICAgICAgICAgcmV0dXJuIGdjZCgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBidWlsZGVyLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFNodWZmbGVkU3RyaW5nIHsKCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
